@@ -6,6 +6,7 @@ titleSelector = "dt[class='title'] > a > tooltip"
 linkSelector = "dt[class='title'] a"
 imageSelector = "div[class='cds_type'] a img"
 contentSelector = "span[class='time']"
+waitUntil = "networkidle"
 
 [kakaotv]
 title = "우리 영화 볼래?"
