@@ -1,4 +1,13 @@
-[kakaotv_preview]
+[navertv]
+title = "네이버 영화 예고편 저장소"
+url = "https://tv.naver.com/navermovie/clips"
+entrySelector = "div div[class^='cds _MM_CARD']"
+titleSelector = "dt[class='title'] > a > tooltip"
+linkSelector = "dt[class='title'] a"
+imageSelector = "div[class='cds_type'] a img"
+contentSelector = "span[class='time']"
+
+[kakaotv]
 title = "우리 영화 볼래?"
 url = "https://tv.kakao.com/channel/462787/video"
 entrySelector = "ul[class='list_vertical'] li"
@@ -18,11 +27,12 @@ contentSelector = "span[class='mark_play']"
 imageSelector = "img[class='thumb_img']"
 waitUntil = "networkidle"
 
-[navertv_moviepreview]
-title = "네이버 영화 예고편 저장소"
-url = "https://tv.naver.com/navermovie/clips"
-entrySelector = "div div[class^='cds _MM_CARD']"
-titleSelector = "dt[class='title'] > a > tooltip"
-linkSelector = "dt[class='title'] a"
-imageSelector = "div[class='cds_type'] a img"
-contentSelector = "span[class='time']"
+[kakaotv_watcha]
+title = "카카오TV ─ 왓챠"
+url = "https://tv.kakao.com/channel/2657623/video"
+entrySelector = "ul[class='list_vertical'] li"
+titleSelector = "strong[class='tit_item']"
+linkSelector = "a[class='link_contents']"
+contentSelector = "span[class='mark_play']"
+imageSelector = "img[class='thumb_img']"
+waitUntil = "networkidle"
