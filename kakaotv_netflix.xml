@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Sep 2021 08:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Sep 2021 09:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 못하는 게 없는 위하준의 매력 | 키워드 인터뷰]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/422500552?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/422500552?act=clip</guid>
+            <pubDate>Wed, 22 Sep 2021 09:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F11292051%2Fthumb%2F20210921211318" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 알고보면 쏘 스윗한 박해수의 매력｜키워드 인터뷰]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/422469511?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/422191878?act=clip</guid>
             <pubDate>Sat, 18 Sep 2021 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1813436916%2Fthumb%2F20210909101124" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1813436916%2Fthumb%2F20210909101124" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] D.P. 보고 입대하는 꿈 꾼 사람..? 군생활 공감 주의! 군대 현실 반영 몇 %?? | 디피]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2071642026%2Fthumb%2F20210824114555" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 루시퍼 | 마지막 시즌 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/421761378?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/421761378?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F67167743%2Fthumb%2F20210824114705" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
