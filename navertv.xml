@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 02:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 03:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아버지의 길' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22573426</link>
+            <guid>https://tv.naver.com/v/22573426</guid>
+            <pubDate>Thu, 23 Sep 2021 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_248/AvQxG_1632365584254NSbtm_JPEG/ec133f9c-1c18-11ec-882d-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코다' 권동호 수어 통역사 추천영상]]></title>
+            <link>https://tv.naver.com/v/22573229</link>
+            <guid>https://tv.naver.com/v/22573229</guid>
+            <pubDate>Thu, 23 Sep 2021 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[27분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_221/wARDl_1632365011789TY8sz_JPEG/ddf48e36-1c17-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['코다' 이길보라 감독 추천영상]]></title>
+            <link>https://tv.naver.com/v/22573125</link>
+            <guid>https://tv.naver.com/v/22573125</guid>
+            <pubDate>Thu, 23 Sep 2021 03:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_193/esBwU_1632364659440QBnDO_JPEG/0bfcdfbd-1c17-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피어썸' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/22572593</link>
             <guid>https://tv.naver.com/v/22572593</guid>
             <pubDate>Thu, 23 Sep 2021 02:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_34/rihCw_16323633348722GvI2_JPEG/d4722783-1c13-11ec-b6bf-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/22572414</link>
             <guid>https://tv.naver.com/v/22572414</guid>
             <pubDate>Thu, 23 Sep 2021 02:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[26분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_225/EvfTE_1632362776743N27Xe_JPEG/87054042-1c12-11ec-8e61-a0369ff94f34_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/22572338</link>
             <guid>https://tv.naver.com/v/22572338</guid>
             <pubDate>Thu, 23 Sep 2021 02:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_285/TzHbu_1632362489886FxUVt_JPEG/fb834b65-1c11-11ec-bf57-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 18 Sep 2021 17:36:59 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210916_186/nJsGr_1631779905554k5PSK_JPEG/a8d1c273-16c5-11ec-8f8d-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['널 데리고 갈게' 예고편]]></title>
-            <link>https://tv.naver.com/v/22489806</link>
-            <guid>https://tv.naver.com/v/22489806</guid>
-            <pubDate>Sat, 18 Sep 2021 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_110/J0ekt_1631779270619xA9xf_JPEG/170a3adb-16c4-11ec-9d7e-a0369ff952f4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['판타지 왁싱샵' 예고편]]></title>
-            <link>https://tv.naver.com/v/22488527</link>
-            <guid>https://tv.naver.com/v/22488527</guid>
-            <pubDate>Sat, 18 Sep 2021 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_136/7G67D_1631776863966IWg3y_JPEG/8184961e-16be-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['박강아름 결혼하다' 릴레이 응원 영상]]></title>
-            <link>https://tv.naver.com/v/22486457</link>
-            <guid>https://tv.naver.com/v/22486457</guid>
-            <pubDate>Sat, 18 Sep 2021 17:36:59 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210916_52/Ipbja_1631771974114lVPbu_JPEG/1631771972311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
