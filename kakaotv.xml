@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Sep 2021 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Sep 2021 06:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<휴가> 런칭 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422537404?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422537404?act=clip</guid>
+            <pubDate>Thu, 23 Sep 2021 06:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8s9xic23cokv2hql0ryoeuo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189283014%26signature%3Dehz1WNi1EKMDKlzCxNOB2lcK5Is%253D%26ts%3D1632374214" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<노회찬6411> 사이다 멘트 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422535926?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422405486?act=clip</guid>
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzxdlk9nbcdqmuxd53swgdmr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188763917%26signature%3DvKlyyMTokEtn%252Bjlf1WsbeEJGK4M%253D%26ts%3D1631855117" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzxdlk9nbcdqmuxd53swgdmr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188763917%26signature%3DvKlyyMTokEtn%252Bjlf1WsbeEJGK4M%253D%26ts%3D1631855117" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<코끼리와 나비> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgm74vyn3jynudmwnyl0nzgz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188599719%26signature%3Dfnr4zCns0IEFYZV2RJmwJwUm8UM%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<십개월의 미래> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422356287?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422356287?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv36decoqp99asse1zvh5md8a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188599522%26signature%3D54F4oq8OUNc1gQ%252FmohZ7dOxdfEw%253D%26ts%3D1631690722" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
