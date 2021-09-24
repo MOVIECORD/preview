@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 07:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 08:13:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<서유기: 재세요왕> 세이브 추석 캠페인 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422567508?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422567508?act=clip</guid>
+            <pubDate>Fri, 24 Sep 2021 08:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv05gbj5boig7jy1s0spbsaj1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189377168%26signature%3DdZ7ijj7u8aykIX9LoNdnq3UMppU%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<공작조: 현애지상> 시크릿 에이전트 특별 동영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422566942?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422535583?act=clip</guid>
             <pubDate>Thu, 23 Sep 2021 04:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcihx8sjdv4lpi792zf9fqjx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189278204%26signature%3DepSUk7j9%252B%252BLOsPFZLfz3U4hWK%252Fc%253D%26ts%3D1632369404" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcihx8sjdv4lpi792zf9fqjx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189278204%26signature%3DepSUk7j9%252B%252BLOsPFZLfz3U4hWK%252Fc%253D%26ts%3D1632369404" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<수색자> 소름 유발 모먼트 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcx1se0m041rl3634m5347lg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188758385%26signature%3DHVea7gd6TEUw%252FhbuPreIBZU46hU%253D%26ts%3D1631849585" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<은밀한 비밀 계정> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422403435?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422403435?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzm8ecvrjnxrixdmyi0waatu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188758214%26signature%3Dx%252BSMzB7gYD%252F2WqmurA%252B79K102o4%253D%26ts%3D1631849414" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
