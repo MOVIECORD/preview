@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 08:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 09:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<007 노 타임 투 다이> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422568897?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422568897?act=clip</guid>
+            <pubDate>Fri, 24 Sep 2021 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5icsxahv1a1rppzhp654vrf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189380261%26signature%3DTvgVMAzUCqaC7vzDwVreAFNAyro%253D%26ts%3D1632471461" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<서유기: 재세요왕> 세이브 추석 캠페인 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422567508?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422535926?act=clip</guid>
             <pubDate>Thu, 23 Sep 2021 05:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1gnaze5c9jrc8groytm9mj7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189279349%26signature%3DEnn%252BaR9MvcQHuwK8WdvZTt32AkQ%253D%26ts%3D1632370549" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1gnaze5c9jrc8groytm9mj7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189279349%26signature%3DEnn%252BaR9MvcQHuwK8WdvZTt32AkQ%253D%26ts%3D1632370549" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<007 노 타임 투 다이> What Is Bond 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzxdlk9nbcdqmuxd53swgdmr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188763917%26signature%3DvKlyyMTokEtn%252Bjlf1WsbeEJGK4M%253D%26ts%3D1631855117" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<코끼리와 나비> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422403509?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422403509?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcx1se0m041rl3634m5347lg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188758385%26signature%3DHVea7gd6TEUw%252FhbuPreIBZU46hU%253D%26ts%3D1631849585" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
