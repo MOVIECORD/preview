@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 05:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 06:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<노회찬6411> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422565381?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422565381?act=clip</guid>
+            <pubDate>Fri, 24 Sep 2021 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm5rrqeowr6jpdma8itho8iu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189372516%26signature%3DbEf059FH5bdHcZlF2cQxkbG74G8%253D%26ts%3D1632463716" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<시그널 X: 영혼의 구역> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422561485?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422535314?act=clip</guid>
             <pubDate>Thu, 23 Sep 2021 04:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwy2ic3fthf8wzzxdv5rewwc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189277583%26signature%3DZXdZC3TbyJmYIjBnrEzfQmmATIM%253D%26ts%3D1632368783" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwy2ic3fthf8wzzxdv5rewwc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189277583%26signature%3DZXdZC3TbyJmYIjBnrEzfQmmATIM%253D%26ts%3D1632368783" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<부니베어: 애들이 줄었어요> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxddtqievduteil35ox4cj1r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188753383%26signature%3D6HGbqW7FQIWkWxnbUMG3hN1jgF8%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<경고> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422401614?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422401614?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1485244776%2Fthumb%2F20210917110622" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
