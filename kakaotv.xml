@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Sep 2021 03:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Sep 2021 04:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시그널 X: 영혼의 구역> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422561485?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422561485?act=clip</guid>
+            <pubDate>Fri, 24 Sep 2021 04:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh46ncw7bgx5mi1dfgmw87rx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189363020%26signature%3De%252Bmc9cibRoMqluHb7fWGlf8nzSw%253D%26ts%3D1632454220" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<종착역> 영상 에세이 4탄]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422560047?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422535182?act=clip</guid>
             <pubDate>Thu, 23 Sep 2021 04:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtz9o3idkuv433jfeqsh5fow%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189277024%26signature%3DrRjBP9bA%252F4C10Ub2k2vtW1Usuak%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtz9o3idkuv433jfeqsh5fow%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189277024%26signature%3DrRjBP9bA%252F4C10Ub2k2vtW1Usuak%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<코끼리와 나비> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1485244776%2Fthumb%2F20210917110622" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<기적> 미라클 강력 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422401114?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422401114?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu8h3xau03nw4c4xip7u7ak4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33188751679%26signature%3DiDDlJAYtq%252BTWNRwIXwi2dm6tioY%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
