@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Sep 2021 01:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Sep 2021 02:26:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['애프터: 관계의 함정' 런칭 예고편]]></title>
+            <link>https://tv.naver.com/v/22654153</link>
+            <guid>https://tv.naver.com/v/22654153</guid>
+            <pubDate>Tue, 28 Sep 2021 02:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210928_82/xy4Fd_1632795463855NwTOR_JPEG/0ba50401-2002-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['보이스' 리뷰 예고편]]></title>
             <link>https://tv.naver.com/v/22653217</link>
             <guid>https://tv.naver.com/v/22653217</guid>
             <pubDate>Tue, 28 Sep 2021 01:56:30 GMT</pubDate>
-            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_273/f3bEr_1632792720915uCpXL_JPEG/b9a2f729-1ffb-11ec-882d-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/22652792</link>
             <guid>https://tv.naver.com/v/22652792</guid>
             <pubDate>Tue, 28 Sep 2021 01:56:30 GMT</pubDate>
-            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_174/0BYq0_1632791274469rLEC0_JPEG/48b22e3d-1ff8-11ec-a77c-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/22642789</link>
             <guid>https://tv.naver.com/v/22642789</guid>
             <pubDate>Mon, 27 Sep 2021 09:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_113/a50v6_1632730548327GTOfj_JPEG/05ad5537-1f6b-11ec-80a9-a0369ff95678_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/22638303</link>
             <guid>https://tv.naver.com/v/22638303</guid>
             <pubDate>Mon, 27 Sep 2021 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_146/GDUdo_1632720285628QoFrX_JPEG/0db6c0fc-1f53-11ec-a77c-a0369ff94ec8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Sep 2021 10:11:57 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210923_92/kiNDH_1632388928832im6JP_JPEG/1632388926457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다함께 여름!' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22580042</link>
-            <guid>https://tv.naver.com/v/22580042</guid>
-            <pubDate>Thu, 23 Sep 2021 09:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210923_74/bbHwm_1632387380398OR1Ua_JPEG/b0e5fcb0-1c4b-11ec-89ce-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
