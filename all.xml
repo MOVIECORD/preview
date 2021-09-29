@@ -4,15 +4,47 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Sep 2021 00:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 01:50:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['브라더' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/22674735</link>
+            <guid>https://tv.naver.com/v/22674735</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_206/tBcuI_1632878901988e5PBG_JPEG/60b13dff-20c4-11ec-82ff-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킬링 오브 투 러버스' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/22674500</link>
+            <guid>https://tv.naver.com/v/22674500</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_110/S9vne_1632878256382u700W_JPEG/99ba24ba-20c2-11ec-93f2-a0369ff95ec0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['휴가' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/22674336</link>
+            <guid>https://tv.naver.com/v/22674336</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_32/tam9Z_1632877763834Lwb8W_JPEG/99cfc54d-20c1-11ec-80a9-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['첫눈이 사라졌다' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/22674106</link>
+            <guid>https://tv.naver.com/v/22674106</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20210929_85/EDLTH_1632877063603jBfNh_JPEG/199000a4-20c0-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[용과 주근깨 공주 '벨 하이라이트 메들리 영상' (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/22664202</link>
             <guid>https://tv.naver.com/v/22664202</guid>
             <pubDate>Tue, 28 Sep 2021 10:11:53 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_237/b75ZI_1632821002195XlQ4G_JPEG/9bd95c9c-203d-11ec-8f8d-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://tv.naver.com/v/22662456</link>
             <guid>https://tv.naver.com/v/22662456</guid>
             <pubDate>Tue, 28 Sep 2021 09:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_146/lTMfq_1632818217138ubi4d_JPEG/2dd90452-2037-11ec-9845-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://tv.naver.com/v/22661669</link>
             <guid>https://tv.naver.com/v/22661669</guid>
             <pubDate>Tue, 28 Sep 2021 09:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_43/BKU2r_1632816950994qpFbc_JPEG/27dd106b-2034-11ec-a72a-246e963a464c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://tv.naver.com/v/22661462</link>
             <guid>https://tv.naver.com/v/22661462</guid>
             <pubDate>Tue, 28 Sep 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_55/XdGsy_16328166258308uXfN_JPEG/6e4bb9b1-2033-11ec-86ec-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +76,7 @@
             <link>https://tv.naver.com/v/22661303</link>
             <guid>https://tv.naver.com/v/22661303</guid>
             <pubDate>Tue, 28 Sep 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_94/gJVmD_1632816377659D1shw_JPEG/bf8969ff-2032-11ec-b778-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +84,7 @@
             <link>https://tv.naver.com/v/22660425</link>
             <guid>https://tv.naver.com/v/22660425</guid>
             <pubDate>Tue, 28 Sep 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_110/St6M5_16328148653360WtDD_JPEG/01d1c928-202f-11ec-9d74-a0369ff9545c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +92,7 @@
             <link>https://tv.naver.com/v/22659792</link>
             <guid>https://tv.naver.com/v/22659792</guid>
             <pubDate>Tue, 28 Sep 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_256/Bk0Z9_1632813502366LEmun_JPEG/21bdcf13-202c-11ec-a509-a0369ff968b0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +100,7 @@
             <link>https://tv.naver.com/v/22659601</link>
             <guid>https://tv.naver.com/v/22659601</guid>
             <pubDate>Tue, 28 Sep 2021 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_73/f8s97_1632813134566w0OzG_JPEG/1632813105526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +108,7 @@
             <link>https://tv.naver.com/v/22658158</link>
             <guid>https://tv.naver.com/v/22658158</guid>
             <pubDate>Tue, 28 Sep 2021 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_260/zMl1i_1632809453639jCYRX_JPEG/bf635e47-2022-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +116,7 @@
             <link>https://tv.naver.com/v/22658102</link>
             <guid>https://tv.naver.com/v/22658102</guid>
             <pubDate>Tue, 28 Sep 2021 06:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_205/r17A0_1632809313163Bf75W_JPEG/66f87aaf-2022-11ec-8111-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +124,7 @@
             <link>https://tv.naver.com/v/22654801</link>
             <guid>https://tv.naver.com/v/22654801</guid>
             <pubDate>Tue, 28 Sep 2021 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_195/UVP5v_1632797417506fQL8j_JPEG/bd9c923d-2006-11ec-9b63-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +132,7 @@
             <link>https://tv.naver.com/v/22654666</link>
             <guid>https://tv.naver.com/v/22654666</guid>
             <pubDate>Tue, 28 Sep 2021 03:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_228/c0XV7_1632797025174pHkPl_JPEG/adcfba8c-2005-11ec-82ff-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +140,7 @@
             <link>https://tv.naver.com/v/22654153</link>
             <guid>https://tv.naver.com/v/22654153</guid>
             <pubDate>Tue, 28 Sep 2021 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_82/xy4Fd_1632795463855NwTOR_JPEG/0ba50401-2002-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +148,7 @@
             <link>https://tv.naver.com/v/22653217</link>
             <guid>https://tv.naver.com/v/22653217</guid>
             <pubDate>Tue, 28 Sep 2021 01:56:30 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_273/f3bEr_1632792720915uCpXL_JPEG/b9a2f729-1ffb-11ec-882d-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +156,7 @@
             <link>https://tv.naver.com/v/22652792</link>
             <guid>https://tv.naver.com/v/22652792</guid>
             <pubDate>Tue, 28 Sep 2021 01:56:30 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210928_174/0BYq0_1632791274469rLEC0_JPEG/48b22e3d-1ff8-11ec-a77c-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -216,36 +248,36 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20210927_245/3UCXD_1632725036002aGBXY_JPEG/0db475d5-1f5e-11ec-b6bf-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['라스트 듀얼: 최후의 결투' '운명의 서막' 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/22640135</link>
-            <guid>https://tv.naver.com/v/22640135</guid>
-            <pubDate>Mon, 27 Sep 2021 07:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_133/2oYP0_1632724655784K1K8s_JPEG/1f53391c-1f5d-11ec-a509-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<울림의 탄생> 티저 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422685935?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422685935?act=clip</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb6cq4l15epbhxsopbfhaeh7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189788703%26signature%3DhElvDOxOfnITeRcPqL7J2%252Fsrb10%253D%26ts%3D1632879903" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA['서유기: 재세요왕' 세이브 추석 캠페인 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/22638996</link>
-            <guid>https://tv.naver.com/v/22638996</guid>
-            <pubDate>Mon, 27 Sep 2021 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_97/SJEk6_16327219524482gdlY_JPEG/dc7de783-1f56-11ec-809b-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<당신얼굴 앞에서> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422685601?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422685601?act=clip</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj1q608tel8wbkl91p5pndog%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189787674%26signature%3DcEIDbLJjzL9n3z6c1uj0w0VrthE%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA['공작조: 현애지상' 시크릿 에이전트 특별 동영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/22638303</link>
-            <guid>https://tv.naver.com/v/22638303</guid>
-            <pubDate>Mon, 27 Sep 2021 06:13:10 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_146/GDUdo_1632720285628QoFrX_JPEG/0db6c0fc-1f53-11ec-a77c-a0369ff94ec8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<핑크 클라우드> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422685524?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422685524?act=clip</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5jarqd9ybma1206yjjz1htl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189787476%26signature%3DOCtJubvCk8LXihUTFgx7dJ6n87k%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA['고양이를 부탁해' 재개봉 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/22635773</link>
-            <guid>https://tv.naver.com/v/22635773</guid>
-            <pubDate>Mon, 27 Sep 2021 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210927_182/CGtwj_1632711117194Le7dn_JPEG/8b4d5596-1f3d-11ec-86ec-48df37ae3fca_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<빌어먹을 : 웰컴 투 헬> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422685418?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422685418?act=clip</guid>
+            <pubDate>Wed, 29 Sep 2021 01:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ukfel2lgjjfzt1df98sl2q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189787241%26signature%3DA497Q6BC%252F%252BC%252Fcq59V0Aeh%252FRedJk%253D%26ts%3D1632878441" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<브라더> 30초 예고편 (우리 영화 볼래?)]]></title>
@@ -328,7 +360,7 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrsfhwapw8ptnwdr9ypzlahy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189640702%26signature%3D1TNBVNxanwXIXQazt4YPhThpoow%253D%26ts%3D1632731902" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<보이스> 리뷰 스팟 (우리 영화 볼래?)]]></title>
+            <title><![CDATA[<보이스> 리뷰 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422642505?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/422642505?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 09:11:04 GMT</pubDate>
@@ -381,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422635502?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv974j6txjyy6zkv1cjhy764f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189623214%26signature%3Dn3ti8pkIYGu4usJPXEdDZN8EMkI%253D%26ts%3D1632714414" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv974j6txjyy6zkv1cjhy764f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189623214%26signature%3Dn3ti8pkIYGu4usJPXEdDZN8EMkI%253D%26ts%3D1632714414" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스틸워터> 30초 예고편 (우리 영화 볼래?)]]></title>
@@ -389,7 +421,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422635436?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvekackomp7h2ncy003314vy7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189623078%26signature%3DO5RcTAqrmAMLCX95OuK1IBioQYw%253D%26ts%3D1632714278" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvekackomp7h2ncy003314vy7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189623078%26signature%3DO5RcTAqrmAMLCX95OuK1IBioQYw%253D%26ts%3D1632714278" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스틸워터> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -397,7 +429,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422635366?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdczjq3cr06pjk6bmzv4sjgu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189622956%26signature%3D6ZoTZMbl3G8GI8rQ6txaS9NV2tw%253D%26ts%3D1632714156" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdczjq3cr06pjk6bmzv4sjgu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189622956%26signature%3D6ZoTZMbl3G8GI8rQ6txaS9NV2tw%253D%26ts%3D1632714156" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<캔디맨> 아트 프로덕션 영상 (우리 영화 볼래?)]]></title>
@@ -405,7 +437,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422635272?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 04:13:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9xwwjkul5n2yknq7l8bwa5i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189622686%26signature%3DQSwKqqCuCF0uFTn02qyxXJU6qRI%253D%26ts%3D1632713886" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9xwwjkul5n2yknq7l8bwa5i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189622686%26signature%3DQSwKqqCuCF0uFTn02qyxXJU6qRI%253D%26ts%3D1632713886" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스쿨 아웃 포에버> 메이킹 영상 (우리 영화 볼래?)]]></title>
@@ -534,38 +566,6 @@
             <pubDate>Fri, 24 Sep 2021 06:13:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm5rrqeowr6jpdma8itho8iu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189372516%26signature%3DbEf059FH5bdHcZlF2cQxkbG74G8%253D%26ts%3D1632463716" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<시그널 X: 영혼의 구역> 티저 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422561485?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422561485?act=clip</guid>
-            <pubDate>Fri, 24 Sep 2021 04:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh46ncw7bgx5mi1dfgmw87rx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189363020%26signature%3De%252Bmc9cibRoMqluHb7fWGlf8nzSw%253D%26ts%3D1632454220" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<종착역> 영상 에세이 4탄 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422560047?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422560047?act=clip</guid>
-            <pubDate>Fri, 24 Sep 2021 03:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3thscpaztzha8nj3fzm961r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189359027%26signature%3DQ%252FtJgoPzfPLCnKTNKX1UI%252BZRTLw%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미씽: 사라진 딸> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422559905?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422559905?act=clip</guid>
-            <pubDate>Fri, 24 Sep 2021 02:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1079116373%2Fthumb%2F20210924111736" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 포켓몬스터: 정글의 아이, 코코> 리뷰 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422559107?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422559107?act=clip</guid>
-            <pubDate>Fri, 24 Sep 2021 01:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7j0ebd86pr2t89nlten1fjw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189356846%26signature%3D5J3oL7FMGmTJFvtN7Sx%252Bt5nup6I%253D%26ts%3D1632448046" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 피버 드림 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
