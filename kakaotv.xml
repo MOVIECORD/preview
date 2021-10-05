@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 01:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 02:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파르티잔 워> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422840424?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422840424?act=clip</guid>
+            <pubDate>Tue, 05 Oct 2021 02:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdbor9revyvyff8gxlgsalev%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190308373%26signature%3D2dNvYf44cXTpBqC1U4vQxgNpF5M%253D%26ts%3D1633399573" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<고장난 론> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422840043?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422713417?act=clip</guid>
             <pubDate>Thu, 30 Sep 2021 02:02:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmadmgg3ojxo53d16d66wqip%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189873854%26signature%3DdmNwdJV3gfDsEiui2fqpG6eBSPk%253D%26ts%3D1632965054" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmadmgg3ojxo53d16d66wqip%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189873854%26signature%3DdmNwdJV3gfDsEiui2fqpG6eBSPk%253D%26ts%3D1632965054" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피치 오브 타임 극장판> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Sep 2021 09:11:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrsfhwapw8ptnwdr9ypzlahy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189640702%26signature%3D1TNBVNxanwXIXQazt4YPhThpoow%253D%26ts%3D1632731902" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보이스> 리뷰 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422642505?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422642505?act=clip</guid>
-            <pubDate>Mon, 27 Sep 2021 09:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv96lq9ltwrzel9rbpa0km6nz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189640108%26signature%3D3vyyjiaNIsd%252BKgXQJ897OdK5Uvg%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
