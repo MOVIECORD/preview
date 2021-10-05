@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Oct 2021 04:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Oct 2021 05:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['색다른 그녀' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/22790719</link>
+            <guid>https://tv.naver.com/v/22790719</guid>
+            <pubDate>Tue, 05 Oct 2021 05:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211005_243/Xuhcu_1633409305535p4jow_JPEG/4fb601cd-2597-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스나이퍼: 앤드 오브 워' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/22786791</link>
             <guid>https://tv.naver.com/v/22786791</guid>
             <pubDate>Tue, 05 Oct 2021 01:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_45/51uqx_1633397843852aJQvc_JPEG/7b1c7ea6-257c-11ec-8e61-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/22786568</link>
             <guid>https://tv.naver.com/v/22786568</guid>
             <pubDate>Tue, 05 Oct 2021 01:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_154/0zsdw_1633396979494vO6vv_JPEG/7988a9e1-257a-11ec-8e61-a0369ff94f34_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/22786230</link>
             <guid>https://tv.naver.com/v/22786230</guid>
             <pubDate>Tue, 05 Oct 2021 01:55:08 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_41/vz0K3_16333952377043cF3V_JPEG/8495530b-2576-11ec-a509-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/22728023</link>
             <guid>https://tv.naver.com/v/22728023</guid>
             <pubDate>Fri, 01 Oct 2021 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_110/9q8kt_16330645821743GMAK_JPEG/862c8cad-2274-11ec-8678-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/22727800</link>
             <guid>https://tv.naver.com/v/22727800</guid>
             <pubDate>Fri, 01 Oct 2021 05:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_180/FpeMy_1633064080032MWxty_JPEG/a0781364-2273-11ec-93f2-a0369ff95ec0_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Sep 2021 09:10:36 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20210930_236/DhLf7_16329902846915yUvH_JPEG/1632990279762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['출사모델의 성욕' 예고편]]></title>
-            <link>https://tv.naver.com/v/22708857</link>
-            <guid>https://tv.naver.com/v/22708857</guid>
-            <pubDate>Thu, 30 Sep 2021 08:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20210930_167/w8Tho_1632987716900LVHai_JPEG/83cfef85-21c1-11ec-a72a-246e963a464c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
