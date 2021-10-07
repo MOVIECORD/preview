@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 03:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 04:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<십개월의 미래> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422895022?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422895022?act=clip</guid>
+            <pubDate>Thu, 07 Oct 2021 04:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjhimj1ak6zm6j3eohhv6npx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190486034%26signature%3D2c990iCPwTtT4CEsyfK9v0aEUDY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<화이트데이: 부서진 결계> 무삭제 클립 1: 사건의 시작]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422892652?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422848963?act=clip</guid>
             <pubDate>Tue, 05 Oct 2021 09:12:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtopt173qvcvxta7q97emw2n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190331386%26signature%3D0GC%252BheB8WXaCkJS93r1tFgcIOSY%253D%26ts%3D1633422586" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtopt173qvcvxta7q97emw2n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190331386%26signature%3D0GC%252BheB8WXaCkJS93r1tFgcIOSY%253D%26ts%3D1633422586" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<베놈 2: 렛 데어 비 카니지> 머쉬베놈 'Change Up' 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Oct 2021 04:13:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfp1xegkrrrh8p0j2xcmgfwq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189969965%26signature%3DxU2xzR3iF5%252FAh2YOFz477c3e2t8%253D%26ts%3D1633061165" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아버지의 길> 명대사 ASMR 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422743079?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422743079?act=clip</guid>
-            <pubDate>Fri, 01 Oct 2021 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve2ud02jd9td0vorcp7k521z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189969205%26signature%3Dm1BlYekF6kQNcwgvNqmaxoQTN64%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
