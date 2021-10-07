@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 05:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 06:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<듄> 레전드 리뷰 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422898386?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422898386?act=clip</guid>
+            <pubDate>Thu, 07 Oct 2021 06:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb8v8vcnx8g437vlwkrh5buj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190494905%26signature%3DAs7ANSgP75KoIec4JhIVlU6zeK8%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<듄> 전쟁의 서막 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422898340?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422898340?act=clip</guid>
+            <pubDate>Thu, 07 Oct 2021 06:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz9uxnbqub8ebt5wuj03zfqs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190494817%26signature%3D3B9Q0iNjucP8YWwq1BIFBVaOLn0%253D%26ts%3D1633586017" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<십개월의 미래> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422895022?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422866074?act=clip</guid>
             <pubDate>Wed, 06 Oct 2021 01:56:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F711854176%2Fthumb%2F20211006104151" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F711854176%2Fthumb%2F20211006104151" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<푸른 호수> 안토니오 스토리 영상]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422865976?act=clip</guid>
             <pubDate>Wed, 06 Oct 2021 01:56:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsz9iaovgfblnng6o3wk392i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190392989%26signature%3DxP5mjfjD7AXyqjxCul%252BQp5XZz5E%253D%26ts%3D1633484189" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsz9iaovgfblnng6o3wk392i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190392989%26signature%3DxP5mjfjD7AXyqjxCul%252BQp5XZz5E%253D%26ts%3D1633484189" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<종착역> 30초 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 01 Oct 2021 05:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F601326969%2Fthumb%2F20211001131341" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<졸트> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422743433?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422743433?act=clip</guid>
-            <pubDate>Fri, 01 Oct 2021 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F564948811%2Fthumb%2F20211001130931" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<소림사2 : 항마대전> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422743199?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422743199?act=clip</guid>
-            <pubDate>Fri, 01 Oct 2021 04:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfp1xegkrrrh8p0j2xcmgfwq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33189969965%26signature%3DxU2xzR3iF5%252FAh2YOFz477c3e2t8%253D%26ts%3D1633061165" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
