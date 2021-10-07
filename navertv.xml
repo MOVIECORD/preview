@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Oct 2021 07:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Oct 2021 08:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['졸트' 케이트 베킨세일 쾌감 폭발 액션 클립!]]></title>
+            <link>https://tv.naver.com/v/22840054</link>
+            <guid>https://tv.naver.com/v/22840054</guid>
+            <pubDate>Thu, 07 Oct 2021 08:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_61/otyk0_1633594188566UuHTN_JPEG/df1dee5e-2745-11ec-8637-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['시그널 X: 영혼의 구역' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/22840041</link>
+            <guid>https://tv.naver.com/v/22840041</guid>
+            <pubDate>Thu, 07 Oct 2021 08:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211007_91/NLkuN_1633594150835jU1t7_JPEG/c6ff4ebb-2745-11ec-8adb-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세버그' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/22819911</link>
             <guid>https://tv.naver.com/v/22819911</guid>
             <pubDate>Wed, 06 Oct 2021 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_141/wF866_1633511072108o1eq4_JPEG/1060f209-2684-11ec-82ff-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/22819428</link>
             <guid>https://tv.naver.com/v/22819428</guid>
             <pubDate>Wed, 06 Oct 2021 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_109/sSrPe_1633510134774IwoDD_JPEG/028fe024-2682-11ec-9d7e-a0369ff952f4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/22817718</link>
             <guid>https://tv.naver.com/v/22817718</guid>
             <pubDate>Wed, 06 Oct 2021 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_168/dm47S_1633506407416KRLCT_JPEG/67302799-2679-11ec-a8ac-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/22817407</link>
             <guid>https://tv.naver.com/v/22817407</guid>
             <pubDate>Wed, 06 Oct 2021 08:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_300/ovPNC_1633505789317rXUFH_JPEG/f9fe515b-2677-11ec-89ce-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +164,7 @@
             <link>https://tv.naver.com/v/22796309</link>
             <guid>https://tv.naver.com/v/22796309</guid>
             <pubDate>Tue, 05 Oct 2021 08:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_145/ThQRM_1633420321199m9bDU_JPEG/f9835bed-25b0-11ec-8c9c-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 01 Oct 2021 09:10:53 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211001_136/N9B8H_1633078764576YrESb_JPEG/47430a05-2295-11ec-86ec-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['언프레임드' 하이라이트]]></title>
-            <link>https://tv.naver.com/v/22731704</link>
-            <guid>https://tv.naver.com/v/22731704</guid>
-            <pubDate>Fri, 01 Oct 2021 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_130/mcgWa_1633072051611i3cvT_JPEG/2d8b52aa-2286-11ec-a72a-246e963a464c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매직 스쿨: 초보마법사 아우라의 대모험' 미리보는 마법수업]]></title>
-            <link>https://tv.naver.com/v/22730995</link>
-            <guid>https://tv.naver.com/v/22730995</guid>
-            <pubDate>Fri, 01 Oct 2021 07:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_274/YtCsW_1633070520386WyQ6z_JPEG/a04063b6-2282-11ec-b778-a0369ff963bc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
