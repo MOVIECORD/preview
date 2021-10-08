@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 05:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['화이트데이: 부서진 결계' 무삭제 클립 2: 우연한 만남]]></title>
+            <link>https://tv.naver.com/v/22856926</link>
+            <guid>https://tv.naver.com/v/22856926</guid>
+            <pubDate>Fri, 08 Oct 2021 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_282/1uJwA_1633669108486yis7h_JPEG/d80b0629-27f3-11ec-94fa-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['러브 어페어 : 우리가 말하는 것, 우리가 하는 것' 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/22856853</link>
+            <guid>https://tv.naver.com/v/22856853</guid>
+            <pubDate>Fri, 08 Oct 2021 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[15분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211008_57/Z1lso_1633668868385s406C_JPEG/a55f11b9-27f3-11ec-94fa-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['파 프롬 홈' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/22842135</link>
             <guid>https://tv.naver.com/v/22842135</guid>
             <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_74/vHQkt_1633598217314pXfDz_JPEG/24405bf4-274f-11ec-88b9-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/22840041</link>
             <guid>https://tv.naver.com/v/22840041</guid>
             <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211007_91/NLkuN_1633594150835jU1t7_JPEG/c6ff4ebb-2745-11ec-8adb-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +212,7 @@
             <link>https://tv.naver.com/v/22790719</link>
             <guid>https://tv.naver.com/v/22790719</guid>
             <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_243/Xuhcu_1633409305535p4jow_JPEG/4fb601cd-2597-11ec-882d-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211005_41/vz0K3_16333952377043cF3V_JPEG/8495530b-2576-11ec-a509-a0369ff968b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['동방영웅전' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22735077</link>
-            <guid>https://tv.naver.com/v/22735077</guid>
-            <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_102/OQFeI_1633079306764hFfeo_JPEG/e5a69166-2296-11ec-b778-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강호불패' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/22734965</link>
-            <guid>https://tv.naver.com/v/22734965</guid>
-            <pubDate>Thu, 07 Oct 2021 10:11:43 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211001_251/qBHOg_1633078990451bAdhe_JPEG/4a61e14a-2296-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
