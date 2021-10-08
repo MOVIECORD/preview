@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 05:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 06:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<뱅드림! 필름 라이브 세컨드 스테이지> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/422924333?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/422924333?act=clip</guid>
+            <pubDate>Fri, 08 Oct 2021 06:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwe5acso0su3h4t56dmlpzse%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190580728%26signature%3D%252BUTRJSd%252B5NA2NNoSxozT8aYvpKc%253D%26ts%3D1633671928" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<당신은 믿지 않겠지만> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/422921375?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422869533?act=clip</guid>
             <pubDate>Wed, 06 Oct 2021 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0nu430zq868fxlcbd4i1ijr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190403638%26signature%3DLmf%252B7sxxgLXRdyvPPirTYCHVQh0%253D%26ts%3D1633494838" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0nu430zq868fxlcbd4i1ijr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190403638%26signature%3DLmf%252B7sxxgLXRdyvPPirTYCHVQh0%253D%26ts%3D1633494838" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<개목걸이 0> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Oct 2021 04:13:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwpwzcmafw0haw1a9aic2bvj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190314542%26signature%3DHgAWq2%252BLuGnL3diBfcbj3Enpgjg%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킬링 카인드> ‘안나’의 3 NO 무삭제 클립 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422842375?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422842375?act=clip</guid>
-            <pubDate>Tue, 05 Oct 2021 04:13:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk04ne1wx6xe717yzsj18unq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190314200%26signature%3DYWZl3GABAiLrwWQ1rhN10iHLtog%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
