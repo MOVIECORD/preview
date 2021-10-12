@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 03:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 04:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/22909981</link>
             <guid>https://tv.naver.com/v/22909981</guid>
             <pubDate>Tue, 12 Oct 2021 03:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_65/pC8ZE_1634008219273MH7pS_JPEG/1b373b95-2b08-11ec-af52-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/22907859</link>
             <guid>https://tv.naver.com/v/22907859</guid>
             <pubDate>Tue, 12 Oct 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_212/EXitX_1634001238336px5oA_PNG/1634001228982.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/22907809</link>
             <guid>https://tv.naver.com/v/22907809</guid>
             <pubDate>Tue, 12 Oct 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_258/0TUOC_1634000946619EbJMg_JPEG/f15db966-2af8-11ec-a0d8-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/22907766</link>
             <guid>https://tv.naver.com/v/22907766</guid>
             <pubDate>Tue, 12 Oct 2021 01:59:23 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211012_173/XGEYE_1634000769816B7kEd_JPEG/08a3eef0-2af8-11ec-92de-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20211006_201/vurRl_1633487191522QsElC_JPEG/60937886-264c-11ec-8678-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<푸른 호수> 완벽한 가족 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423020253?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423020253?act=clip</guid>
+            <pubDate>Tue, 12 Oct 2021 04:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjysr8lhvzaerrg13vprauak%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190920431%26signature%3DkekfO8Nhnnks8EGE9aWW1Dt6d28%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<촉산3> 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423019764?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423019764?act=clip</guid>
+            <pubDate>Tue, 12 Oct 2021 04:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzh9lgpov30trxjqt24g1hn5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190919073%26signature%3DGd8NBxFvSKxlVCM7J07GnnEt4Yc%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<가치캅시다> 메인 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423018063?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/423018063?act=clip</guid>
@@ -397,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422918868?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 02:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt8w6t5hjljax22r35mta0ep%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565261%26signature%3DTP7xjQ0SsMZHbWSeoICbpO2bjIA%253D%26ts%3D1633656461" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt8w6t5hjljax22r35mta0ep%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565261%26signature%3DTP7xjQ0SsMZHbWSeoICbpO2bjIA%253D%26ts%3D1633656461" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쁘띠 마망> 티저 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +421,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422918838?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 02:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqz5v9dxvhwkfl8bzn3ina8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565135%26signature%3DJI64umfDHPr%252FN9LM3yUyVNVbeMc%253D%26ts%3D1633656335" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqz5v9dxvhwkfl8bzn3ina8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565135%26signature%3DJI64umfDHPr%252FN9LM3yUyVNVbeMc%253D%26ts%3D1633656335" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<백사대전 2> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -550,22 +566,6 @@
             <pubDate>Wed, 06 Oct 2021 04:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5s2r2dn1s1ye6uoimspbf75%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190399936%26signature%3DCzgZVjtFRITS5okCqr0ouw9f7RA%253D%26ts%3D1633491136" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<매직 스쿨: 초보마법사 아우라의 대모험> 미리보는 마법 수업 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422868291?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422868291?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 04:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F265216599%2Fthumb%2F20211006122907" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<1984 최동원> 런칭 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422866738?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422866738?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 02:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx722p7m76mpw6juh31jxs26%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190395329%26signature%3Dduu0ssNY9NYK9HmWqa0g4U1HqXQ%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나르코스: 멕시코 | 시즌 3 예고편 (카카오TV ─ 넷플릭스)]]></title>
