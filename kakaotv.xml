@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 05:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 06:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<로스트: 희생부활자> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423022032?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423022032?act=clip</guid>
+            <pubDate>Tue, 12 Oct 2021 06:12:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvklwrr055p21uiwirbj13cxe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190925451%26signature%3DZJGG%252B1be4bZX8loeztIGodrKV%252BY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<푸른 호수> 완벽한 가족 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423020253?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/422918969?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 02:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2gqbkrwhvgzt0v68ervdhvo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565473%26signature%3D1Vub%252FaR8Wnp5ZnUMTuQryT2Wz%252Fg%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2gqbkrwhvgzt0v68ervdhvo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190565473%26signature%3D1Vub%252FaR8Wnp5ZnUMTuQryT2Wz%252Fg%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쁘띠 마망> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Oct 2021 04:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbfwfctgh0fonyleuc4xnhyi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190401527%26signature%3Df5mLEjK0Bfb98gVaFHJ1hs3IWvA%253D%26ts%3D1633492727" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<이번 썸은 망했어> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422868329?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422868329?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 04:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5s2r2dn1s1ye6uoimspbf75%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190399936%26signature%3DCzgZVjtFRITS5okCqr0ouw9f7RA%253D%26ts%3D1633491136" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
