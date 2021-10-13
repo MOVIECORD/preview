@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 05:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 06:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<F20> 배우 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423048879?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423048879?act=clip</guid>
+            <pubDate>Wed, 13 Oct 2021 06:13:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm15mh9vm2q4250jow73u7o2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191013444%26signature%3D5Cj5f1%252Fhzn%252FUVvQCWhK3c8rjnsY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<이터널스> 길가메시 스페셜 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423046210?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423016768?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 01:59:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2088803838%2Fthumb%2F20211012103139" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2088803838%2Fthumb%2F20211012103139" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<바이크 솔저> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Oct 2021 02:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1168735864%2Fthumb%2F20211007105447" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<고장난 론> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422892457?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422892457?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 02:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxgk1a34e6vmrbfdfv3p3rmz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190480119%26signature%3D2ZFAGrrhIVw4Nesn8bzCAMVLVU0%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
