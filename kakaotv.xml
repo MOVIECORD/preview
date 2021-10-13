@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 08:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 09:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<1984  최동원> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423052528?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423052528?act=clip</guid>
+            <pubDate>Wed, 13 Oct 2021 09:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsiexbo3wp38x1nfkuk5sqty%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191022286%26signature%3DR%252FWa3AkDOdmeyXJnabnox2bx49Y%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<미트 페어런츠-비기닝> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423051836?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423017977?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 02:31:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvat45l0axtjwno2yurls951u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190914092%26signature%3DyGvvND2o8nMbn3OY8TFJlm1hB%252F4%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvat45l0axtjwno2yurls951u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190914092%26signature%3DyGvvND2o8nMbn3OY8TFJlm1hB%252F4%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<시그널 X: 영혼의 구역> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Oct 2021 02:00:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2017119110%2Fthumb%2F20211008101559" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<시그널 X: 영혼의 구역> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/422918529?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/422918529?act=clip</guid>
-            <pubDate>Fri, 08 Oct 2021 02:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvytje9ec2kfgsr8no9hacglg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190564289%26signature%3DAhZmoKQ%252BiDNEVUQLcbpQ6YwKywQ%253D%26ts%3D1633655489" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
