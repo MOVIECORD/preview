@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 08:13:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 09:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<타다: 대한민국 스타트업의 초상> 관객 리뷰 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423080447?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423080447?act=clip</guid>
+            <pubDate>Thu, 14 Oct 2021 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1393217688%2Fthumb%2F20211014174259" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<타다: 대한민국 스타트업의 초상> OST 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423080354?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423080354?act=clip</guid>
+            <pubDate>Thu, 14 Oct 2021 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F813460705%2Fthumb%2F20211014173612" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 유비 : 파설참> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423079245?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423070316?act=clip</guid>
             <pubDate>Thu, 14 Oct 2021 01:57:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvihgz67w237ochuxta2r24kb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191084445%26signature%3DdRFFon%252B8ieMqEmwpqaK28ZpyrVk%253D%26ts%3D1634175645" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvihgz67w237ochuxta2r24kb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191084445%26signature%3DdRFFon%252B8ieMqEmwpqaK28ZpyrVk%253D%26ts%3D1634175645" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<고장난 론> 티저 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423070223?act=clip</guid>
             <pubDate>Thu, 14 Oct 2021 01:57:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlp0n8bjjgfge5iu2x30mvwk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191084204%26signature%3DkUgM8eI5xJH5RKl0JZ02zzv7PMs%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlp0n8bjjgfge5iu2x30mvwk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191084204%26signature%3DkUgM8eI5xJH5RKl0JZ02zzv7PMs%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<디어 에반 핸슨> 메인 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 12 Oct 2021 06:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvklwrr055p21uiwirbj13cxe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190925451%26signature%3DZJGG%252B1be4bZX8loeztIGodrKV%252BY%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<푸른 호수> 완벽한 가족 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423020253?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423020253?act=clip</guid>
-            <pubDate>Tue, 12 Oct 2021 04:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjysr8lhvzaerrg13vprauak%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190920431%26signature%3DkekfO8Nhnnks8EGE9aWW1Dt6d28%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<촉산3> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423019764?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423019764?act=clip</guid>
-            <pubDate>Tue, 12 Oct 2021 04:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzh9lgpov30trxjqt24g1hn5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190919073%26signature%3DGd8NBxFvSKxlVCM7J07GnnEt4Yc%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
