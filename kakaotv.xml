@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<동백> 배우 박근형 특별 동영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423075044?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423075044?act=clip</guid>
+            <pubDate>Thu, 14 Oct 2021 06:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3kpkmw583zm49p284qu04dd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191097946%26signature%3DbuAmiK37QAryW7AccpXRSICmBMk%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<고양이에게 밥을 주지 마세요> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423073531?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423048879?act=clip</guid>
             <pubDate>Wed, 13 Oct 2021 06:13:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm15mh9vm2q4250jow73u7o2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191013444%26signature%3D5Cj5f1%252Fhzn%252FUVvQCWhK3c8rjnsY%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm15mh9vm2q4250jow73u7o2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191013444%26signature%3D5Cj5f1%252Fhzn%252FUVvQCWhK3c8rjnsY%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<이터널스> 길가메시 스페셜 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Oct 2021 01:59:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2088803838%2Fthumb%2F20211012103139" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<바이크 솔저> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423016634?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423016634?act=clip</guid>
-            <pubDate>Tue, 12 Oct 2021 01:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv65blbqtgteuhl2bv1c3ipz3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33190910673%26signature%3DKVlC41Msh5WF1J9NV%252Fw4MitL5OQ%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
