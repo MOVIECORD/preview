@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 04:14:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 05:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<귀멸의 칼날: 남매의 연> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423102908?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423102908?act=clip</guid>
+            <pubDate>Fri, 15 Oct 2021 05:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv030ys2uvhvg3mbf381k0n37%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191181185%26signature%3DPs0hTGAiIMJlin6nqqOIfP1x%252BfY%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<바다 탐험대 옥토넛 : 육지수호 대작전> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423101966?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423077389?act=clip</guid>
             <pubDate>Thu, 14 Oct 2021 07:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzr9bhnocxygrpjyhth828yc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191103612%26signature%3Db6qoVyxZOq07SjqlKb9r2B5bvIY%253D%26ts%3D1634194812" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzr9bhnocxygrpjyhth828yc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191103612%26signature%3Db6qoVyxZOq07SjqlKb9r2B5bvIY%253D%26ts%3D1634194812" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<클리너:살인마의 집> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Oct 2021 07:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F737089662%2Fthumb%2F20211013151343" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<F20> 배우 인사 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423048879?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423048879?act=clip</guid>
-            <pubDate>Wed, 13 Oct 2021 06:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm15mh9vm2q4250jow73u7o2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191013444%26signature%3D5Cj5f1%252Fhzn%252FUVvQCWhK3c8rjnsY%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
