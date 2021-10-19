@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 08:13:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<가치 캅시다> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423207005?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423207005?act=clip</guid>
+            <pubDate>Tue, 19 Oct 2021 08:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx4q7kk7gtg2pi6l1ze06t3y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191536552%26signature%3DPBLmlPbT%252B29u3JvtGdXI5R%252FdsAs%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<노회찬6411> 이 시대의 노회찬들이 보내는 리뷰 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423201341?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423109457?act=clip</guid>
             <pubDate>Fri, 15 Oct 2021 09:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1728233253%2Fthumb%2F20211015174249" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1728233253%2Fthumb%2F20211015174249" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<바람아 안개를 걷어가다오> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Oct 2021 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1393217688%2Fthumb%2F20211014174259" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<타다: 대한민국 스타트업의 초상> OST 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423080354?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423080354?act=clip</guid>
-            <pubDate>Thu, 14 Oct 2021 09:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F813460705%2Fthumb%2F20211014173612" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
