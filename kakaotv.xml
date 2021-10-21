@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 04:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 05:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<퍼펙트 스틸> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423258934?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423258934?act=clip</guid>
+            <pubDate>Thu, 21 Oct 2021 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F834059442%2Fthumb%2F20211021133845" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<빌리 홀리데이> 킬링 보이스 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423255654?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423227249?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 01:59:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1295921861%2Fthumb%2F20211020104654" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1295921861%2Fthumb%2F20211020104654" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<고장난 론> '엉망진창 어드벤처' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Oct 2021 06:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7gncvrun7sl1kfpkallww93%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191446320%26signature%3D5PbZOnWM0ljShKAefZRR1HuzOVU%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나를 잡아줘> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423174712?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423174712?act=clip</guid>
-            <pubDate>Mon, 18 Oct 2021 04:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1707619481%2Fthumb%2F20211018123207" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
