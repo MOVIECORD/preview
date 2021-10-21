@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 07:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 08:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<장르만 로맨스> 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423263644?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423263644?act=clip</guid>
+            <pubDate>Thu, 21 Oct 2021 08:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlrt7mc3ylhjeuok56s1k06n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191712305%26signature%3DcOcG%252FNcwo%252F%252FVfhdtS3yPSJ%252FQJ8E%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<퍼펙트 스틸> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423258934?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423227446?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 01:59:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F336858932%2Fthumb%2F20211020105354" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F336858932%2Fthumb%2F20211020105354" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<졸트> 극강 카타르시스! 대리만족 액션 클립]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Oct 2021 09:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpd1d0ywk81gx5ysodp97t47%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191454898%26signature%3D8MnBEekXQGbjeRVeVS5suv%252Fn7Xs%253D%26ts%3D1634546098" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그림자꽃> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423178159?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423178159?act=clip</guid>
-            <pubDate>Mon, 18 Oct 2021 06:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7gncvrun7sl1kfpkallww93%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191446320%26signature%3D5PbZOnWM0ljShKAefZRR1HuzOVU%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
