@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Oct 2021 08:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Oct 2021 09:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1410819122%2Fthumb%2F20211001110805" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 더 하더 데이 폴 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422693103?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422693103?act=clip</guid>
-            <pubDate>Wed, 29 Sep 2021 07:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F987438480%2Fthumb%2F20210929153237" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 마이 네임 | 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/422688328?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/422688328?act=clip</guid>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/422633130?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1208453323%2Fthumb%2F20210927111014" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1208453323%2Fthumb%2F20210927111014" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 2 | 공개 발표 티저 예고편]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 06 Oct 2021 22:10:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:50]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F931455818%2Fthumb%2F20210916171605" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 오징어 게임 | 오늘 공개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/422381885?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/422381885?act=clip</guid>
+            <pubDate>Thu, 21 Oct 2021 09:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1108239061%2Fthumb%2F20210916161917" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
