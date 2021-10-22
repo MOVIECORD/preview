@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 04:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 05:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['퍼펙트 스틸' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/23111650</link>
+            <guid>https://tv.naver.com/v/23111650</guid>
+            <pubDate>Fri, 22 Oct 2021 05:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211022_200/f5Ke5_1634878393066Yj1ya_JPEG/ba3faf18-32f3-11ec-a713-a0369ff95ec0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세버그' 뮤직 비디오]]></title>
             <link>https://tv.naver.com/v/23108352</link>
             <guid>https://tv.naver.com/v/23108352</guid>
             <pubDate>Fri, 22 Oct 2021 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_1/Me6xO_1634867982495dtnG9_JPEG/93a78a3d-32db-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/23107311</link>
             <guid>https://tv.naver.com/v/23107311</guid>
             <pubDate>Fri, 22 Oct 2021 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_24/bitHD_16348647325928dNnU_JPEG/ad688869-32d3-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/23090825</link>
             <guid>https://tv.naver.com/v/23090825</guid>
             <pubDate>Thu, 21 Oct 2021 06:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_182/9E4EB_1634795302202JwX1S_JPEG/ff6e2e96-3231-11ec-9e9c-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/23090523</link>
             <guid>https://tv.naver.com/v/23090523</guid>
             <pubDate>Thu, 21 Oct 2021 06:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_35/IZrQ8_1634794580614iI2IU_JPEG/bee80bf0-3230-11ec-92ae-a0369ff952f4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/23090427</link>
             <guid>https://tv.naver.com/v/23090427</guid>
             <pubDate>Thu, 21 Oct 2021 06:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_150/Z2iIz_1634794325920x0uKq_PNG/1634794318801.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/23090262</link>
             <guid>https://tv.naver.com/v/23090262</guid>
             <pubDate>Thu, 21 Oct 2021 06:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_62/FJwl4_1634793950071KNrGg_JPEG/4aaa01e4-322f-11ec-a331-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Oct 2021 02:32:40 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211020_105/RhxG5_1634696629643NzEUy_JPEG/aed8c571-314c-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['00K9: 노 타임 투 다이' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23060572</link>
-            <guid>https://tv.naver.com/v/23060572</guid>
-            <pubDate>Wed, 20 Oct 2021 02:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211020_62/rQ2N8_1634696405597DobPr_JPEG/f9781fdc-314b-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
