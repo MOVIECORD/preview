@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 00:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사상 '추천 영상']]></title>
+            <link>https://tv.naver.com/v/23150824</link>
+            <guid>https://tv.naver.com/v/23150824</guid>
+            <pubDate>Mon, 25 Oct 2021 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_14/QE0A0_1635124647645SzGYq_JPEG/25354369-3531-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['연애 빠진 로맨스' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/23150357</link>
+            <guid>https://tv.naver.com/v/23150357</guid>
+            <pubDate>Mon, 25 Oct 2021 01:56:49 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_165/98EtE_1635122729668419Me_JPEG/8f2fcbd0-352c-11ec-9970-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마더 앤 머더' 예고편]]></title>
             <link>https://tv.naver.com/v/23119070</link>
@@ -172,7 +188,7 @@
             <link>https://tv.naver.com/v/23107311</link>
             <guid>https://tv.naver.com/v/23107311</guid>
             <pubDate>Fri, 22 Oct 2021 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_24/bitHD_16348647325928dNnU_JPEG/ad688869-32d3-11ec-9dda-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 21 Oct 2021 03:11:28 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_23/iVgmo_1634784807825dzmOr_JPEG/cdda9c4d-3219-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디어 에반 핸슨' 극찬 리뷰 영상]]></title>
-            <link>https://tv.naver.com/v/23086561</link>
-            <guid>https://tv.naver.com/v/23086561</guid>
-            <pubDate>Thu, 21 Oct 2021 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_11/PJCLf_1634783904530QRoTe_JPEG/b0a96240-3217-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['침묵의 숲' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/23086232</link>
-            <guid>https://tv.naver.com/v/23086232</guid>
-            <pubDate>Thu, 21 Oct 2021 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_193/OhlXW_1634783084583OI0Ba_JPEG/a82b13ea-3215-11ec-8140-a0369ff963bc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
