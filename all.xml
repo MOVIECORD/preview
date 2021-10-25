@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 02:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 03:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['울림의 탄생' 반려동물 힐링 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/23151973</link>
+            <guid>https://tv.naver.com/v/23151973</guid>
+            <pubDate>Mon, 25 Oct 2021 03:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211025_104/tO8NW_16351303282753DHpa_JPEG/55da313e-353e-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사상 '추천 영상' (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/23150824</link>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/23150357</link>
             <guid>https://tv.naver.com/v/23150357</guid>
             <pubDate>Mon, 25 Oct 2021 01:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_165/98EtE_1635122729668419Me_JPEG/8f2fcbd0-352c-11ec-9970-a0369ff94ec8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,16 +244,8 @@
             <link>https://tv.naver.com/v/23087226</link>
             <guid>https://tv.naver.com/v/23087226</guid>
             <pubDate>Thu, 21 Oct 2021 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211021_144/VgMa1_1634785584813jfYup_JPEG/bac65a75-321b-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빌리 홀리데이' 킬링 보이스 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/23086941</link>
-            <guid>https://tv.naver.com/v/23086941</guid>
-            <pubDate>Thu, 21 Oct 2021 03:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211021_23/iVgmo_1634784807825dzmOr_JPEG/cdda9c4d-3219-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<쥬라기 헌트> 메인 예고편 (우리 영화 볼래?)]]></title>
