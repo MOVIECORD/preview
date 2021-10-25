@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 01:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 02:28:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/23150824</link>
             <guid>https://tv.naver.com/v/23150824</guid>
             <pubDate>Mon, 25 Oct 2021 01:56:49 GMT</pubDate>
-            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211025_14/QE0A0_1635124647645SzGYq_JPEG/25354369-3531-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +180,7 @@
             <link>https://tv.naver.com/v/23108352</link>
             <guid>https://tv.naver.com/v/23108352</guid>
             <pubDate>Fri, 22 Oct 2021 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211022_1/Me6xO_1634867982495dtnG9_JPEG/93a78a3d-32db-11ec-9ac7-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
