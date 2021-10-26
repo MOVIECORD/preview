@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 04:14:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 05:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크림> 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423390730?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423390730?act=clip</guid>
+            <pubDate>Tue, 26 Oct 2021 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:15]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1391150272%2Fthumb%2F20211026133845" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<행복의 속도> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423389144?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423359284?act=clip</guid>
             <pubDate>Mon, 25 Oct 2021 01:56:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkmnbsp01ecf96n0lhrhjnj3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035350%26signature%3DNaLtUdbsTWlFCj75b6Y86mlrHYA%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkmnbsp01ecf96n0lhrhjnj3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035350%26signature%3DNaLtUdbsTWlFCj75b6Y86mlrHYA%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사상> 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Oct 2021 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvchrgzp3gzt9mkxiuynoyx7z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191714049%26signature%3DQiAvkjC8fJjY4bawIi84ZdMmAnE%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<숏버스 섬뜩행> 섬뜩행 올라타봐 응원 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423264132?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423264132?act=clip</guid>
-            <pubDate>Thu, 21 Oct 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvx5ny7133kwat14rs63kcct%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191713310%26signature%3DlRCB6k23QHwtFJrygUjGH0i0zVQ%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
