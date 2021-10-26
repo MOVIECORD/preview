@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 07:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 08:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<무간도5 : 생사잠행> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423395970?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423395970?act=clip</guid>
+            <pubDate>Tue, 26 Oct 2021 08:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv003wk9gp7dys6rt0x4vkmwt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192144658%26signature%3Dh4%252FmrDjEaphI3PyK6cEWwjXxI8A%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<보는 것을 사랑한다> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423393613?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423359462?act=clip</guid>
             <pubDate>Mon, 25 Oct 2021 02:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzvnxdtb5x1hbrvw6m5qc4ec%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035886%26signature%3D%252F%252FxWrlDk2TZYRQ4ujruoTZLKzGc%253D%26ts%3D1635127086" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzvnxdtb5x1hbrvw6m5qc4ec%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035886%26signature%3D%252F%252FxWrlDk2TZYRQ4ujruoTZLKzGc%253D%26ts%3D1635127086" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<한창나이 선녀님> 하림 ‘우리 다시 만나는 날에’ MV]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Oct 2021 02:06:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgc3q9obrdbrtz2zlwz7sood%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191773504%26signature%3DSjklXpIX%252BVlZzz%252FP7a5MdZ3sTQQ%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<세버그> 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423264833?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423264833?act=clip</guid>
-            <pubDate>Thu, 21 Oct 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcpcg12ux5qsr1pu3ty0gb0h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191714727%26signature%3D4bmFGCisCsjpnpm58e9IQDbBEPw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
