@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Oct 2021 03:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Oct 2021 04:14:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<행복의 속도> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423389144?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423389144?act=clip</guid>
+            <pubDate>Tue, 26 Oct 2021 04:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc9iujw0zxqwifu6kp09u1g7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192128123%26signature%3DGpBMS%252F2kS%252FLLBkzSfS6bseJ%252B9u4%253D%26ts%3D1635219323" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<태양은 움직이지 않는다> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423387608?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423359184?act=clip</guid>
             <pubDate>Mon, 25 Oct 2021 01:56:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnv31osvhzaezi2i31k1felc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035040%26signature%3DZt2Q4oCrwf3OOpsJxk2aY1drlUM%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnv31osvhzaezi2i31k1felc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192035040%26signature%3DZt2Q4oCrwf3OOpsJxk2aY1drlUM%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<틱, 틱... 붐!> 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Oct 2021 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvx5ny7133kwat14rs63kcct%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191713310%26signature%3DlRCB6k23QHwtFJrygUjGH0i0zVQ%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<구원받은 도둑> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423263936?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423263936?act=clip</guid>
-            <pubDate>Thu, 21 Oct 2021 09:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7dudbkggltw2j4sqo5l069t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33191712949%26signature%3Dfjij0c6OqtLKGpPqWjkm6XmZle0%253D%26ts%3D1634804149" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
