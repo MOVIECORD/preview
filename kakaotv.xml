@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 01:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 02:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나를 잡아줘> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423442207?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423442207?act=clip</guid>
+            <pubDate>Thu, 28 Oct 2021 02:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1552428169%2Fthumb%2F20211028105827" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<어 굿 맨> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423442152?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423442152?act=clip</guid>
+            <pubDate>Thu, 28 Oct 2021 02:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs1i5zmtjefedebq4jb4et6j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192294944%26signature%3Dd%252FqBUMmDWjv42L62A%252FMPDOebnyI%253D%26ts%3D1635386144" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<유체이탈자> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423424753?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423414655?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 01:52:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5prj813zj8rczu45ut4cfx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192206906%26signature%3Do4e6SesXIdfRtf%252B4DeX2yGOT1eU%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5prj813zj8rczu45ut4cfx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192206906%26signature%3Do4e6SesXIdfRtf%252B4DeX2yGOT1eU%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<베네데타> 1차 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423414553?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 01:52:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7n0qz8zf4a5fyoh4wb7l2v1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192206662%26signature%3DDfNPYorHd8dkJhNbAQbcwKhNpWo%253D%26ts%3D1635297862" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7n0qz8zf4a5fyoh4wb7l2v1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192206662%26signature%3DDfNPYorHd8dkJhNbAQbcwKhNpWo%253D%26ts%3D1635297862" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<레드 노티스> 메인 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 25 Oct 2021 04:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsqzn682rahqw0wfvw2cjf6o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192042819%26signature%3D5b0Yaej0T4M4fFAmUbtM%252FFPO4cI%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<고양이에게 밥을 주지 마세요> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423361368?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423361368?act=clip</guid>
-            <pubDate>Mon, 25 Oct 2021 04:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjbzeywye39sb2ka31e9lirh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192042564%26signature%3DZNML%252BJp%252BIHxViXKWI72KTJ0%252BIM4%253D%26ts%3D1635133764" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<쥬라기 헌트> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423359769?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423359769?act=clip</guid>
-            <pubDate>Mon, 25 Oct 2021 02:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv73y5e52o5m05p31m7ip4iox%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192036610%26signature%3DWqMPvSWvGS13lBUMq3%252BulXZhxVQ%253D%26ts%3D1635127810" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
