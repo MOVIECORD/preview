@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 05:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 06:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<바람아 안개를 걷어가다오> 특별 인터뷰 영상 ‘김혜정 배우’ 편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423475962?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423475962?act=clip</guid>
+            <pubDate>Fri, 29 Oct 2021 06:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:45]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6829iam6clamianyl4kh8li%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192394664%26signature%3DtSc8G%252BGZnqlRgUoF5DP7EErgYaI%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<귀토: 토끼의 팔란> 스팟 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423473377?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423421200?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 07:11:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjzh2bpllhxoifdomkwa9mng%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192225371%26signature%3DMyp2IE%252FrADYeG5gNcrb2dJ7vPDk%253D%26ts%3D1635316571" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjzh2bpllhxoifdomkwa9mng%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192225371%26signature%3DMyp2IE%252FrADYeG5gNcrb2dJ7vPDk%253D%26ts%3D1635316571" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<완전한 사육: 욕망의 시작> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Oct 2021 04:13:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc9iujw0zxqwifu6kp09u1g7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192128123%26signature%3DGpBMS%252F2kS%252FLLBkzSfS6bseJ%252B9u4%253D%26ts%3D1635219323" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<태양은 움직이지 않는다> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423387608?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423387608?act=clip</guid>
-            <pubDate>Tue, 26 Oct 2021 02:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9clppsdcc8l4ypbi940znqi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192123262%26signature%3DuyG3PAJt24JdfcHFETJWY%252Btwn%252Fs%253D%26ts%3D1635214462" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
