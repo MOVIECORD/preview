@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 03:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 04:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<태양은 움직이지 않는다> 비하인드 인터뷰 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423553501?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423553501?act=clip</guid>
+            <pubDate>Mon, 01 Nov 2021 04:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo26kzkx03q23l1zdk9rq31k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192646093%26signature%3D16P802q8NE1DedO2hzn%252FCIrwVdc%253D%26ts%3D1635737293" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<고스트버스터즈 라이즈> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423551984?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423451903?act=clip</guid>
             <pubDate>Thu, 28 Oct 2021 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9xsd21d0dsearr1qnap4xh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192319483%26signature%3D9M8V8VPjPtjP0f%252F2m0azLnu8jc8%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9xsd21d0dsearr1qnap4xh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192319483%26signature%3D9M8V8VPjPtjP0f%252F2m0azLnu8jc8%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<당신은 믿지 않겠지만> 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Oct 2021 02:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvflj3jnhsdw6bye8p7kox9zq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192208597%26signature%3D3UeMZicYZWX4oqGctYXh6nN87qk%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<1984 최동원> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423415135?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423415135?act=clip</guid>
-            <pubDate>Wed, 27 Oct 2021 01:52:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5fguorp58rkmjo84m501285%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192208268%26signature%3D%252BNP3Mb3r7CU0xSwmVHeGyBUVEDk%253D%26ts%3D1635299468" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
