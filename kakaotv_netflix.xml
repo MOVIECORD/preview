@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 01:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 02:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위쳐 시즌 2_공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/423550490?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/423550490?act=clip</guid>
+            <pubDate>Mon, 01 Nov 2021 02:28:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1721868392%2Fthumb%2F20211101102413" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이 네임 코멘터리, 작감배가 직접 밝히는 뒷 이야기 | 마이 네임 MY NAME]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/423420897?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/422895229?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 04:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1844739657%2Fthumb%2F20211007124525" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1844739657%2Fthumb%2F20211007124525" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마야와 3인의 용사 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Sep 2021 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1080594520%2Fthumb%2F20210927102108" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422632156?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422632156?act=clip</guid>
-            <pubDate>Mon, 27 Sep 2021 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F914610707%2Fthumb%2F20210927102117" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
