@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 04:14:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 05:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아담스 패밀리 2> 호러블리 어드벤처 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423554856?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423554856?act=clip</guid>
+            <pubDate>Mon, 01 Nov 2021 05:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvscidhf0h6ra2xl3hiun5o9x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192650117%26signature%3D%252Bu5v%252BthD68YddyEKG1YY8bL3li0%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<태양은 움직이지 않는다> 비하인드 인터뷰 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423553501?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423469789?act=clip</guid>
             <pubDate>Fri, 29 Oct 2021 01:52:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxuienkghhtwbssgt2z4c7e7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192379900%26signature%3DPwa3FdCPBeZ%252F9oUBKkzOeQA3uCo%253D%26ts%3D1635471100" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxuienkghhtwbssgt2z4c7e7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192379900%26signature%3DPwa3FdCPBeZ%252F9oUBKkzOeQA3uCo%253D%26ts%3D1635471100" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<디어 에반 핸슨> 뮤지컬 스타 강력 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Oct 2021 02:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1956161881%2Fthumb%2F20211027110326" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<디어 에반 핸슨> 꼬리에 꼬리를 무는 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423415220?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423415220?act=clip</guid>
-            <pubDate>Wed, 27 Oct 2021 02:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvflj3jnhsdw6bye8p7kox9zq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192208597%26signature%3D3UeMZicYZWX4oqGctYXh6nN87qk%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
