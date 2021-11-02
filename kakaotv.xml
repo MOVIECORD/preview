@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 00:37:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 01:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<태일이> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423579163?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423579163?act=clip</guid>
+            <pubDate>Tue, 02 Nov 2021 01:57:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvux5vkzjkyhpfuqzm59j99oj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192723172%26signature%3DnG9r9CvpOZaYisIZ3hM4ikrYRgs%253D%26ts%3D1635814372" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아네트> 오프닝 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423555846?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423470110?act=clip</guid>
             <pubDate>Fri, 29 Oct 2021 01:52:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4hngl0bogm1v08xv73somo8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192380729%26signature%3D8Hr8d70t2FF%252B59pvg%252FV8ScF7zGE%253D%26ts%3D1635471929" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4hngl0bogm1v08xv73somo8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192380729%26signature%3D8Hr8d70t2FF%252B59pvg%252FV8ScF7zGE%253D%26ts%3D1635471929" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<태양은 움직이지 않는다> AN통신 소개 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Oct 2021 02:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8vmsphpo0phx0qgaeeslsxg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192209369%26signature%3Di%252FKvTJ3VooyUWiP%252Fp9XgD4yUrH4%253D%26ts%3D1635300569" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<캅샵: 미친놈들의 전쟁> 이 극찬 머선 129! 만장일치 호평 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423415455?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423415455?act=clip</guid>
-            <pubDate>Wed, 27 Oct 2021 02:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F111865494%2Fthumb%2F20211027110605" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
