@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 04:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 05:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아네트> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423612222?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423612222?act=clip</guid>
+            <pubDate>Wed, 03 Nov 2021 05:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0tdgyau0e74ryxcmmongdrc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192822956%26signature%3DgKIk%252FOMi5859KyftS7PQ315sQmg%253D%26ts%3D1635914156" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<후겟츠 웨슬리> 스페셜 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423609516?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423551984?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 02:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxleh9ak5r0qr8mteqdafs6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192642224%26signature%3DLdgPPH%252BvvHKSSjMbmjzjHO4eFf8%253D%26ts%3D1635733424" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxleh9ak5r0qr8mteqdafs6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192642224%26signature%3DLdgPPH%252BvvHKSSjMbmjzjHO4eFf8%253D%26ts%3D1635733424" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<고양이에게 밥을 주지 마세요> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Nov 2021 03:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4id275ive3b5htq3vo9ztq0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192317747%26signature%3DpNohjZtGzdY5Vr8m3Vv7Kw3SH2U%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 끝, 당신의 시작> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423448934?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423448934?act=clip</guid>
-            <pubDate>Wed, 03 Nov 2021 03:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7a7nfvcdp7ukzy34p1dclim%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192312935%26signature%3DOPFnxb5LcCszLLpz%252BJDArQf310k%253D%26ts%3D1635404135" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
