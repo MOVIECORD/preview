@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 02:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 03:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3hzcvcekutedm5zigx91bt2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192733000%26signature%3DrblVjOu%252Fn%252BoSCcYjzdSWGCWPEHo%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<후겟츠 웨슬리> 스페셜 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423582792?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423582792?act=clip</guid>
-            <pubDate>Tue, 02 Nov 2021 04:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8a5llgo700a0qpmm2h450w7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192732817%26signature%3DEKwMu41DeCVYGGDtpUYr2ablzow%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[<세버그> 감독 개봉 그리팅 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423582680?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/423582680?act=clip</guid>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423551984?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 02:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxleh9ak5r0qr8mteqdafs6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192642224%26signature%3DLdgPPH%252BvvHKSSjMbmjzjHO4eFf8%253D%26ts%3D1635733424" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxleh9ak5r0qr8mteqdafs6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192642224%26signature%3DLdgPPH%252BvvHKSSjMbmjzjHO4eFf8%253D%26ts%3D1635733424" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<고양이에게 밥을 주지 마세요> 30초 예고편]]></title>
@@ -272,14 +264,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuos1ssjcmkiq1r4cfytffwv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192388816%26signature%3DP%252Bq2F3cR%252B4R2sOqk8z52fut5s5E%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<후겟츠 웨슬리> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423473102?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423473102?act=clip</guid>
-            <pubDate>Fri, 29 Oct 2021 04:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6mit9fjj4xp5u51xr37h2ln%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192388081%26signature%3DAeSptPYleBUgNNJcn1ws%252B385%252F6c%253D%26ts%3D1635479281" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[<연애 빠진 로맨스> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423472985?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/423472985?act=clip</guid>
@@ -326,6 +310,22 @@
             <pubDate>Thu, 28 Oct 2021 09:11:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9xsd21d0dsearr1qnap4xh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192319483%26signature%3D9M8V8VPjPtjP0f%252F2m0azLnu8jc8%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<당신은 믿지 않겠지만> 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423450991?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423450991?act=clip</guid>
+            <pubDate>Wed, 03 Nov 2021 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4id275ive3b5htq3vo9ztq0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192317747%26signature%3DpNohjZtGzdY5Vr8m3Vv7Kw3SH2U%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나의 끝, 당신의 시작> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423448934?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423448934?act=clip</guid>
+            <pubDate>Wed, 03 Nov 2021 03:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7a7nfvcdp7ukzy34p1dclim%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192312935%26signature%3DOPFnxb5LcCszLLpz%252BJDArQf310k%253D%26ts%3D1635404135" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
