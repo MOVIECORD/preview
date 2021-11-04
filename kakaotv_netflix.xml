@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 04:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 05:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 04 Nov 2021 01:56:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2020693364%2Fthumb%2F20211104105507" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 파트 5 - 2부 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/423636830?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/423636830?act=clip</guid>
+            <pubDate>Thu, 04 Nov 2021 05:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F76718139%2Fthumb%2F20211104104747" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신세계로부터 | 공식 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/423103652?act=clip</guid>
             <pubDate>Fri, 15 Oct 2021 07:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1005601204%2Fthumb%2F20211015141713" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1005601204%2Fthumb%2F20211015141713" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 콜린: 흑과 백의 인생 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Sep 2021 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731209006%2Fthumb%2F20210927111459" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 | TUDUM: 시즌 2 퍼스트룩]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422633124?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422633124?act=clip</guid>
-            <pubDate>Mon, 27 Sep 2021 02:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2008130737%2Fthumb%2F20210927111333" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
