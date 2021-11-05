@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 00:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 01:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아머드 사우루스 30초 예고편 | 왓챠]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/423661678?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/423661678?act=clip</guid>
+            <pubDate>Fri, 05 Nov 2021 01:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1312118074%2Fthumb%2F20211105103603" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[내 코가 간질간질 해지는 영상 | 드라마 ⟨징크스⟩ | 왓챠]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/422869071?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/420789263?act=clip</guid>
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942545587%2Fthumb%2F20210716174434" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942545587%2Fthumb%2F20210716174434" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[단언컨대, 다음 주 날씨보다 핫한 예능이 찾아옵니다 | 〈템테이션 아일랜드〉 시즌 1]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F270550781%2Fthumb%2F20210204220504" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠 프리미어]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/416308519?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/416308519?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F718241417%2Fthumb%2F20210202105630" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
