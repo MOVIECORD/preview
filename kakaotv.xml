@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 04:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 05:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<앰뷸런스> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423666482?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423666482?act=clip</guid>
+            <pubDate>Fri, 05 Nov 2021 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1188262615%2Fthumb%2F20211105134647" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<엔칸토: 마법의 세계>  상상초월 마법 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423665852?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423665852?act=clip</guid>
+            <pubDate>Fri, 05 Nov 2021 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ygzqxx9q6fbqolo5ah9caz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192994715%26signature%3DVlsdXhFF2X4bpXx3umqF5i4nao8%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<당신은 학생인가> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423665232?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423637162?act=clip</guid>
             <pubDate>Thu, 04 Nov 2021 02:28:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1780583024%2Fthumb%2F20211104110218" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1780583024%2Fthumb%2F20211104110218" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<귀문: 천년왕릉의 비밀> 메인 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423637033?act=clip</guid>
             <pubDate>Thu, 04 Nov 2021 02:28:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvumzx7bqckfbude1uwzbahuz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192899600%26signature%3DeUWknm18sPKghceAjAvq06MA7Qw%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvumzx7bqckfbude1uwzbahuz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192899600%26signature%3DeUWknm18sPKghceAjAvq06MA7Qw%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<유체이탈자> 메인 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 02 Nov 2021 01:57:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvux5vkzjkyhpfuqzm59j99oj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192723172%26signature%3DnG9r9CvpOZaYisIZ3hM4ikrYRgs%253D%26ts%3D1635814372" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아네트> 오프닝 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423555846?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423555846?act=clip</guid>
-            <pubDate>Mon, 01 Nov 2021 06:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2oi3jav1ofelm8owadrb35r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192652188%26signature%3D8IF3Fmj4u0QejgW%252FtJxhWf7jXQ8%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아담스 패밀리 2> 호러블리 어드벤처 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423554856?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423554856?act=clip</guid>
-            <pubDate>Mon, 01 Nov 2021 05:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvscidhf0h6ra2xl3hiun5o9x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192650117%26signature%3D%252Bu5v%252BthD68YddyEKG1YY8bL3li0%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
