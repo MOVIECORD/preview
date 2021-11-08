@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 09:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 10:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박정민X손석구X최희서X이제훈 네 아티스트가 담은 네 개의 이야기! ㅣ언프레임드ㅣ왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/423752853?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/423752853?act=clip</guid>
+            <pubDate>Mon, 08 Nov 2021 10:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1922091466%2Fthumb%2F20211108185218" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[아머드 사우루스 30초 예고편 | 왓챠]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/423661678?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/420798617?act=clip</guid>
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1056441053%2Fthumb%2F20210716234308" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1056441053%2Fthumb%2F20210716234308" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[과몰입한 당신이라면 참여해야할 파티!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1251106946%2Fthumb%2F20210205175840" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[이 드라마, 상반기 로코를 책임질 것만 같다, 〈아, 희환니〉 | 왓챠 익스클루시브]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/416386700?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/416386700?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F270550781%2Fthumb%2F20210204220504" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
