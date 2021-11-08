@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 07:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 08:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<프렌치 디스패치> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423750147?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423750147?act=clip</guid>
+            <pubDate>Mon, 08 Nov 2021 08:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkj5yq4xag65klproqhatkd8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193267624%26signature%3D3praSSy25l%252BOZA2JKhv7AZ9LVdU%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<언프레임드> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423746028?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423665852?act=clip</guid>
             <pubDate>Fri, 05 Nov 2021 05:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ygzqxx9q6fbqolo5ah9caz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192994715%26signature%3DVlsdXhFF2X4bpXx3umqF5i4nao8%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ygzqxx9q6fbqolo5ah9caz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192994715%26signature%3DVlsdXhFF2X4bpXx3umqF5i4nao8%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<당신은 학생인가> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Nov 2021 02:28:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1780583024%2Fthumb%2F20211104110218" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<귀문: 천년왕릉의 비밀> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423637033?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423637033?act=clip</guid>
-            <pubDate>Thu, 04 Nov 2021 02:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvumzx7bqckfbude1uwzbahuz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192899600%26signature%3DeUWknm18sPKghceAjAvq06MA7Qw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
