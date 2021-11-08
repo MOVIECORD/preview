@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 06:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 07:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라스트 나잇 인 소호' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/23407327</link>
+            <guid>https://tv.naver.com/v/23407327</guid>
+            <pubDate>Mon, 08 Nov 2021 07:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_65/Rm1L1_1636355301427cDalY_JPEG/900852dc-4062-11ec-a331-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['핫 블러드' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23406805</link>
+            <guid>https://tv.naver.com/v/23406805</guid>
+            <pubDate>Mon, 08 Nov 2021 07:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_68/biPJw_1636354232043XPbud_JPEG/187dac7e-4060-11ec-a74c-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라임크라임' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/23406097</link>
+            <guid>https://tv.naver.com/v/23406097</guid>
+            <pubDate>Mon, 08 Nov 2021 07:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211108_49/7uGOr_1636352572327F20EW_JPEG/37942f9f-405c-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['죽이러 간다' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/23405527</link>
             <guid>https://tv.naver.com/v/23405527</guid>
             <pubDate>Mon, 08 Nov 2021 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_22/tfW8B_1636351237891e4IRR_JPEG/263d9663-4059-11ec-9970-a0369ff94ec8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/23405385</link>
             <guid>https://tv.naver.com/v/23405385</guid>
             <pubDate>Mon, 08 Nov 2021 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_94/27Zlg_1636350954535AFOpQ_JPEG/7452688e-4058-11ec-9e9c-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/23404942</link>
             <guid>https://tv.naver.com/v/23404942</guid>
             <pubDate>Mon, 08 Nov 2021 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_1/jRy5I_16363496870340tsEN_JPEG/88bb8078-4055-11ec-8140-a0369ff963bc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/23404819</link>
             <guid>https://tv.naver.com/v/23404819</guid>
             <pubDate>Mon, 08 Nov 2021 06:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211108_13/l4u5R_16363494083851pMD9_JPEG/dccb3c9d-4054-11ec-a74c-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/23372999</link>
             <guid>https://tv.naver.com/v/23372999</guid>
             <pubDate>Mon, 08 Nov 2021 00:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_211/1tkLn_1636107927314dYuDu_PNG/1636107922179.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://tv.naver.com/v/23372974</link>
             <guid>https://tv.naver.com/v/23372974</guid>
             <pubDate>Mon, 08 Nov 2021 00:35:58 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_225/P3wT5_1636107837720psdr6_PNG/1636107831321.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -108,7 +132,7 @@
             <link>https://tv.naver.com/v/23367669</link>
             <guid>https://tv.naver.com/v/23367669</guid>
             <pubDate>Fri, 05 Nov 2021 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211105_293/OWCme_1636093161347CRolf_JPEG/15566c20-3e00-11ec-ba2c-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +180,7 @@
             <link>https://tv.naver.com/v/23341231</link>
             <guid>https://tv.naver.com/v/23341231</guid>
             <pubDate>Thu, 04 Nov 2021 07:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_153/RYIFn_1636008721842Tc0GV_JPEG/5b6f054a-3d3b-11ec-a979-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 04 Nov 2021 03:11:29 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211104_255/X4LcV_1635993672620F5NO5_JPEG/55695ab0-3d18-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뮤리엘의 웨딩' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23334525</link>
-            <guid>https://tv.naver.com/v/23334525</guid>
-            <pubDate>Thu, 04 Nov 2021 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_63/oLDyw_16359924978887qnMJ_JPEG/c01dab0a-3d15-11ec-8e54-505dac8c37f3_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유체이탈자' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/23334297</link>
-            <guid>https://tv.naver.com/v/23334297</guid>
-            <pubDate>Thu, 04 Nov 2021 02:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211104_166/GNsvb_16359918442171L5XC_JPEG/124514aa-3d14-11ec-92ae-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아네트' 파이널 예고편]]></title>
-            <link>https://tv.naver.com/v/23320680</link>
-            <guid>https://tv.naver.com/v/23320680</guid>
-            <pubDate>Wed, 03 Nov 2021 09:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_129/BNYN2_1635929077780jfrbE_JPEG/de25f53b-3c81-11ec-8636-505dac8c3639_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
