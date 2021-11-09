@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 04:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 05:10:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나를 잡아줘> 자취러 공감 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423771695?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423771695?act=clip</guid>
+            <pubDate>Tue, 09 Nov 2021 05:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1384508551%2Fthumb%2F20211109132512" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<대막한도행> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423771261?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423743207?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 04:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvop7g115oy4d46yvasljtjj2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193251641%26signature%3D%252Fhe%252B4Z%252FpVX6A2a5in5vZBPO7%252FBo%253D%26ts%3D1636342841" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvop7g115oy4d46yvasljtjj2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193251641%26signature%3D%252Fhe%252B4Z%252FpVX6A2a5in5vZBPO7%252FBo%253D%26ts%3D1636342841" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<장르만 로맨스> MBTI 캐릭터 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 05 Nov 2021 01:54:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq4tuqnrn57ft5lwhh1k02j8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192982683%26signature%3DMULWRS8QOHclB9xLI%252BoRNDByg90%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<1984 최동원> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423660932?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423660932?act=clip</guid>
-            <pubDate>Fri, 05 Nov 2021 01:54:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvitub8kwkxyaj2el2iygq0qj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33192981383%26signature%3DWZTuSIzJcCpzOAsdxC2MxITB0pM%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
