@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 23:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 00:36:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 먹보와 털보 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/423752269?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/423752269?act=clip</guid>
+            <pubDate>Tue, 09 Nov 2021 00:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1198720599%2Fthumb%2F20211108182625" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 | 파이널 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/423671784?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/423231462?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 06:14:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F703893402%2Fthumb%2F20211020142052" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F703893402%2Fthumb%2F20211020142052" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우리 함께 아웃백으로! | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Sep 2021 02:24:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1510741738%2Fthumb%2F20210927110925" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시즌 2 퍼스트룩 영상: 니벨렌 | 위쳐]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422633126?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422633126?act=clip</guid>
-            <pubDate>Mon, 27 Sep 2021 02:24:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F109413589%2Fthumb%2F20210927111223" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
