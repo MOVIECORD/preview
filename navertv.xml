@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 01:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 02:26:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장르만 로맨스' 판소리텔링 영상]]></title>
+            <link>https://tv.naver.com/v/23528504</link>
+            <guid>https://tv.naver.com/v/23528504</guid>
+            <pubDate>Mon, 15 Nov 2021 02:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211115_89/kJ2kR_1636943039062nkgiT_JPEG/b4fee55c-45ba-11ec-8636-505dac8c3639_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유체이탈자' 3격 액션 영상]]></title>
             <link>https://tv.naver.com/v/23527825</link>
             <guid>https://tv.naver.com/v/23527825</guid>
             <pubDate>Mon, 15 Nov 2021 01:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211115_225/xPJ2H_1636941040190PQWW5_JPEG/c5d4578f-45b4-11ec-bc73-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +108,7 @@
             <link>https://tv.naver.com/v/23484589</link>
             <guid>https://tv.naver.com/v/23484589</guid>
             <pubDate>Fri, 12 Nov 2021 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211112_54/peqvX_1636683892611rBhF5_JPEG/67f7a6bb-435f-11ec-9e9c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +228,7 @@
             <link>https://tv.naver.com/v/23463405</link>
             <guid>https://tv.naver.com/v/23463405</guid>
             <pubDate>Fri, 12 Nov 2021 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211111_173/RiyxS_16365975066110zqAG_JPEG/3052251e-4296-11ec-a3dc-246e963a464c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Nov 2021 10:12:13 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211110_265/oNPoH_1636532765876OT9Pb_JPEG/e1c9a60e-41fe-11ec-b39d-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스파르타쿠스' 예고편]]></title>
-            <link>https://tv.naver.com/v/23448355</link>
-            <guid>https://tv.naver.com/v/23448355</guid>
-            <pubDate>Fri, 12 Nov 2021 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211110_183/0QzYJ_1636531851301ElcWr_JPEG/8609e80f-41fd-11ec-9b44-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
