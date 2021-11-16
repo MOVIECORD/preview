@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 08:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 09:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스파이 캣> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423963164?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423963164?act=clip</guid>
+            <pubDate>Tue, 16 Nov 2021 09:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F475019482%2Fthumb%2F20211116174743" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아워 미드나잇> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423960768?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423925088?act=clip</guid>
             <pubDate>Mon, 15 Nov 2021 02:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4fwnltz4xmpogp2vrbillf4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193851720%26signature%3DFkPP7VtsB5FPMyJJCdFTeNJJhP0%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4fwnltz4xmpogp2vrbillf4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193851720%26signature%3DFkPP7VtsB5FPMyJJCdFTeNJJhP0%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<디어 에반 핸슨> #힐링 #위로 극찬리뷰 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Nov 2021 01:54:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvylxsh4o2wrn2m45zlhclcdw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193529386%26signature%3DrhVYRjkW5jLcu8qYuxNh2EawASQ%253D%26ts%3D1636620586" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<싸반> 감독 인사 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423830682?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423830682?act=clip</guid>
-            <pubDate>Thu, 11 Nov 2021 09:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2l75i74abphyole25cx95hr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193527218%26signature%3DXtNRpUu5uB5aEbtMub6it4VprV0%253D%26ts%3D1636618418" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
