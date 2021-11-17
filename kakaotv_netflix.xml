@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 00:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 01:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 돈 룩 업 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/423979879?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/423979879?act=clip</guid>
+            <pubDate>Wed, 17 Nov 2021 01:54:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1647594319%2Fthumb%2F20211117105044" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 로스트 인 스페이스 | 공식 예고편 | 마지막 시즌]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/423933422?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/423420758?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 07:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F391477604%2Fthumb%2F20211027151745" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F391477604%2Fthumb%2F20211027151745" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 카우보이 비밥 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Oct 2021 04:14:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1540901496%2Fthumb%2F20211007124245" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마이 네임 | 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/422841102?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/422841102?act=clip</guid>
-            <pubDate>Tue, 05 Oct 2021 03:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F190155852%2Fthumb%2F20211005113305" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
