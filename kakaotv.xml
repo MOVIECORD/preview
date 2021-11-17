@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 04:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 05:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/423982669?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/423982669?act=clip</guid>
+            <pubDate>Wed, 17 Nov 2021 05:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuglntc5xn8juxfczhrbl1b7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33194031278%26signature%3DjPtz47WGamkHjdOxjdSLZ6A5PHg%253D%26ts%3D1637122478" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/423982624?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/423960768?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:14:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwbvegkt10pv7pyawe6igzyo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193956738%26signature%3DGsNzP6Esxf0ogZH%252FatGfcocOTTk%253D%26ts%3D1637047938" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwbvegkt10pv7pyawe6igzyo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193956738%26signature%3DGsNzP6Esxf0ogZH%252FatGfcocOTTk%253D%26ts%3D1637047938" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킬링 카인드: 킬러의 수제자> 할로윈 스페셜 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Nov 2021 02:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9q61dvjb4kuisocfgpm2ict%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193851554%26signature%3DwmXT5xr6Y4A%252FcEAMJYWh4jjgHag%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<디어 에반 핸슨> 뮤지컬 배우 박강현 '디어 에반 핸슨'을 만나다 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/423924945?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/423924945?act=clip</guid>
-            <pubDate>Mon, 15 Nov 2021 02:25:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq7jtdzvbpm7vd1xyixqqgbs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33193851304%26signature%3D6zaDJeIdJhsAwwRyJD9kl04fDbc%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
