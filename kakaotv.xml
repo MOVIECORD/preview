@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 03:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 04:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<레지던트 이블: 라쿤시티> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425142641?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425142641?act=clip</guid>
+            <pubDate>Wed, 29 Dec 2021 04:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvymndqcpuxl8mqfoszkiw6hx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197657449%26signature%3D5VEYLvSHCm97xTxJJ18pBQvz9b8%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<걸 위드 더 카메라> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425140477?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425086069?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgs3i6o4q027do2xffr70elq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197478416%26signature%3DzQ7feKU3nHNAMLSWxi4B1PKT9MA%253D%26ts%3D1640569616" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgs3i6o4q027do2xffr70elq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197478416%26signature%3DzQ7feKU3nHNAMLSWxi4B1PKT9MA%253D%26ts%3D1640569616" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<프라이빗 레슨> 19금 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvzb0n1qfdh9mzo1fgop6n5d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197132112%26signature%3DywW1oS%252Fow41T1lhpm3aVhNITBx0%253D%26ts%3D1640223312" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<하우스 오브 구찌> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/424963947?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/424963947?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvilh77ytkrmr1s2ueqqx51os%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197131706%26signature%3Db%252FdjFgSq%252FA%252F1LEha%252FBLDH4Wu0XE%253D%26ts%3D1640222906" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
