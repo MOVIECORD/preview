@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 12:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 13:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 29 Dec 2021 07:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F413232568%2Fthumb%2F20211229161529" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 대원들에게 일어난 비상상황, 수찬의 운명은? | 고요의바다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425146199?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425146199?act=clip</guid>
+            <pubDate>Wed, 29 Dec 2021 13:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2032316033%2Fthumb%2F20211229153349" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미드나잇 아시아: 먹다 · 춤추다 · 꿈꾸다 | 공식 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424384539?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1057016260%2Fthumb%2F20211202093914" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1057016260%2Fthumb%2F20211202093914" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Nov 2021 01:56:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F28025810%2Fthumb%2F20211104105411" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아사쿠사 키드 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/423636925?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/423636925?act=clip</guid>
-            <pubDate>Thu, 04 Nov 2021 01:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2020693364%2Fthumb%2F20211104105507" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
