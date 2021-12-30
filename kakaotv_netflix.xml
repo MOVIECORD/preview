@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 03:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 04:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425170832?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425170832?act=clip</guid>
+            <pubDate>Thu, 30 Dec 2021 04:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1261676468%2Fthumb%2F20211230131200" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 배두나, 공유, 이준, 김선영을 가장 힘들게 한 그것은? | 고요의바다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425147156?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424394698?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1681677672%2Fthumb%2F20211202164103" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1681677672%2Fthumb%2F20211202164103" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 먹보와 털보 | 비 정지훈 'On The Way' 뮤직 비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Nov 2021 00:36:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F221572787%2Fthumb%2F20211108104511" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크리스마스로 불리는 소년 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/423636926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/423636926?act=clip</guid>
-            <pubDate>Thu, 04 Nov 2021 01:56:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F28025810%2Fthumb%2F20211104105411" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
