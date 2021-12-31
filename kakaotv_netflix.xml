@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 23:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 01:14:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는｜공개일 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425175411?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425175411?act=clip</guid>
+            <pubDate>Fri, 31 Dec 2021 01:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F638764086%2Fthumb%2F20211230162505" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425170832?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424505750?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499943465%2Fthumb%2F20211206201111" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499943465%2Fthumb%2F20211206201111" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집 | 시리즈 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 Nov 2021 00:35:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1198720599%2Fthumb%2F20211108182625" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 파이널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/423671784?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/423671784?act=clip</guid>
-            <pubDate>Mon, 08 Nov 2021 00:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F221572787%2Fthumb%2F20211108104511" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
