@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 01:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 02:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['필로포비아' 레드밴드 트레일러]]></title>
+            <link>https://tv.naver.com/v/24368789</link>
+            <guid>https://tv.naver.com/v/24368789</guid>
+            <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[57분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_22/BNoJW_1640915081671c6dww_JPEG/15a06439-69db-11ec-908e-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미싱타는 여자들' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24368565</link>
+            <guid>https://tv.naver.com/v/24368565</guid>
+            <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_86/SMEDb_1640914217772nu5VY_JPEG/0e099036-69d9-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['피드백' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24368514</link>
+            <guid>https://tv.naver.com/v/24368514</guid>
+            <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_182/VRKuP_1640913864393oid8e_JPEG/40399314-69d8-11ec-9576-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['램' 누미 라파스 한국 개봉축하 영상]]></title>
             <link>https://tv.naver.com/v/24368379</link>
             <guid>https://tv.naver.com/v/24368379</guid>
             <pubDate>Fri, 31 Dec 2021 01:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/24368176</link>
             <guid>https://tv.naver.com/v/24368176</guid>
             <pubDate>Fri, 31 Dec 2021 01:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[19분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_57/D6aDk_1640912066368YrLoq_JPEG/f1ac2755-69d3-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +236,7 @@
             <link>https://tv.naver.com/v/24308003</link>
             <guid>https://tv.naver.com/v/24308003</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_42/PNVGd_1640656983016oSP5a_JPEG/bfca2207-6781-11ec-b8bc-246e963a4708_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_98/jrlio_1640654032413oAj6k_JPEG/d1de40be-6779-11ec-a831-48df379cca40_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['특송' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24307011</link>
-            <guid>https://tv.naver.com/v/24307011</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_222/1CwNG_1640653894478u3MfM_JPEG/ab87fe58-677a-11ec-a42f-505dac8c3721_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['타이거마스크' 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/24296427</link>
-            <guid>https://tv.naver.com/v/24296427</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_203/JTABZ_1640595239806JXTiv_JPEG/4909f21b-66f2-11ec-8a84-a0369ff963bc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹덤스쿨 - 어둠 속의 그림자' 예고편]]></title>
-            <link>https://tv.naver.com/v/24296112</link>
-            <guid>https://tv.naver.com/v/24296112</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211227_163/yi7Dn_1640594572723KoBOo_JPEG/d72e6996-66f0-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
