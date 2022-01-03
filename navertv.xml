@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 01:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 02:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['도쿄 리벤저스' 배우 Q&A 영상]]></title>
+            <link>https://tv.naver.com/v/24403056</link>
+            <guid>https://tv.naver.com/v/24403056</guid>
+            <pubDate>Mon, 03 Jan 2022 02:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_43/2RR7X_16411734436725YkM7_JPEG/98925a43-6c34-11ec-9576-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미스터 앤 미세스 아델만' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/24402964</link>
+            <guid>https://tv.naver.com/v/24402964</guid>
+            <pubDate>Mon, 03 Jan 2022 02:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220103_243/C7k92_1641173060681JbzRy_JPEG/b30f518f-6c33-11ec-908e-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['시도니아의 기사 : 사랑을 잣는 별' 전투 예고편]]></title>
             <link>https://tv.naver.com/v/24376888</link>
@@ -108,7 +124,7 @@
             <link>https://tv.naver.com/v/24368789</link>
             <guid>https://tv.naver.com/v/24368789</guid>
             <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_22/BNoJW_1640915081671c6dww_JPEG/15a06439-69db-11ec-908e-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +132,7 @@
             <link>https://tv.naver.com/v/24368565</link>
             <guid>https://tv.naver.com/v/24368565</guid>
             <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_86/SMEDb_1640914217772nu5VY_JPEG/0e099036-69d9-11ec-be2f-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +140,7 @@
             <link>https://tv.naver.com/v/24368514</link>
             <guid>https://tv.naver.com/v/24368514</guid>
             <pubDate>Fri, 31 Dec 2021 02:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_182/VRKuP_1640913864393oid8e_JPEG/40399314-69d8-11ec-9576-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211228_118/mCNxC_1640680353036Dc9U1_JPEG/546214b0-67b8-11ec-810a-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사모님 골프 개인교습' 예고편]]></title>
-            <link>https://tv.naver.com/v/24317066</link>
-            <guid>https://tv.naver.com/v/24317066</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_209/sAWP9_1640679991945w4sTt_JPEG/a9594a53-67b7-11ec-bf52-a0369ff9545c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아바타의 후예2: 인간 성노예' 예고편]]></title>
-            <link>https://tv.naver.com/v/24316977</link>
-            <guid>https://tv.naver.com/v/24316977</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211228_24/Zee5J_1640679747676NAj5F_JPEG/ed44f18e-67b6-11ec-b776-246e963a49a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
