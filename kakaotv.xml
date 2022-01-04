@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 05:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 06:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<프랑스> 레아 세두 클로즈업 스페셜]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425306444?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425306444?act=clip</guid>
+            <pubDate>Tue, 04 Jan 2022 06:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkz642js40uxcgijub2q8ffw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198182488%26signature%3DHlEmHqlIKYPuCGfT%252Ffn52JkvDSM%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아메리칸 시카리오: 데이 오브 블러드> 메인예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425304373?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425170625?act=clip</guid>
             <pubDate>Thu, 30 Dec 2021 04:26:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz4oi2b2or7s2dzy9u1o5iuv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197745576%26signature%3DTgTYxs46lIaq1v4eYiI89tp%252BUHM%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz4oi2b2or7s2dzy9u1o5iuv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197745576%26signature%3DTgTYxs46lIaq1v4eYiI89tp%252BUHM%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<미싱타는 여자들> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7euted5cr404buuidul1c5n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197565498%26signature%3DsIqvP%252BA7rcEw9OgPXqUFK6GKF4Q%253D%26ts%3D1640656698" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<웨스트 사이드 스토리> 리타 모레노 캐스팅 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425112904?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425112904?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5lha4f3ag4t1ge6bp85ngqp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197563886%26signature%3Dc90FTl7V7um%252BpAsPEk%252FTBUxdtqQ%253D%26ts%3D1640655086" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
