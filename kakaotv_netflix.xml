@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 04:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 05:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 역대급 제작비 세트장 공개 (feat.이준) | 고요의바다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425306102?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425306102?act=clip</guid>
+            <pubDate>Tue, 04 Jan 2022 05:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:34]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F477580785%2Fthumb%2F20220104140735" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 레오나르도 디카프리오의 스페셜 코멘터리 | 돈 룩 업 Don't Look Up]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425277844?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424551056?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1394236445%2Fthumb%2F20211208115808" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1394236445%2Fthumb%2F20211208115808" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] <위쳐>시즌 2 | 입문 가이드: 김재우가 들려주는 <위쳐> 초보들을 위한 간단 요약.zip]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Nov 2021 09:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1752585099%2Fthumb%2F20211115170530" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미래일기 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/423932753?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/423932753?act=clip</guid>
-            <pubDate>Mon, 15 Nov 2021 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F831202926%2Fthumb%2F20211115170208" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
