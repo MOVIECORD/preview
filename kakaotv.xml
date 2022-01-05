@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 05:22:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 06:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<킹메이커> 킹메이커의 조건 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425333323?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425333323?act=clip</guid>
+            <pubDate>Wed, 05 Jan 2022 06:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:55]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve14ln3efefmv4qmp4u006ik%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198270756%26signature%3DMKG1VUzHLwrclFFyS4Ge96Fa%252BQc%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<수호무적> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425331104?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425193632?act=clip</guid>
             <pubDate>Fri, 31 Dec 2021 01:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8jm6p1j8eofx276vl762aw4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197816770%26signature%3DYYaRVBdbmnq2pqBTat9VOHaS%252FFs%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8jm6p1j8eofx276vl762aw4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197816770%26signature%3DYYaRVBdbmnq2pqBTat9VOHaS%252FFs%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 리뷰 30초 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 04:29:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvymndqcpuxl8mqfoszkiw6hx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197657449%26signature%3D5VEYLvSHCm97xTxJJ18pBQvz9b8%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<걸 위드 더 카메라> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425140477?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425140477?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkd0ujw13s6ntqbn1nhtfurc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197651349%26signature%3Drnc3c%252B5RSlGwOKo9pYcbhMCyh6k%253D%26ts%3D1640742549" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
