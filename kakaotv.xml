@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 01:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 02:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 소드 아트 온라인 -프로그레시브- 별 없는 밤의 아리아> 4DX 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425328330?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425328330?act=clip</guid>
+            <pubDate>Wed, 05 Jan 2022 02:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwxoz4bainhdshlmxhx761kw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198256465%26signature%3DYS%252FrMohtJvZUNrruGLsBiO9oekg%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<웨스트 사이드 스토리> 발코니 클립]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425326941?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425177815?act=clip</guid>
             <pubDate>Thu, 30 Dec 2021 09:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcd1ihuyer5erlzgntci0xrv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197762888%26signature%3DIEPfu6O8gZViXCNzLM7TLqlaQJY%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcd1ihuyer5erlzgntci0xrv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197762888%26signature%3DIEPfu6O8gZViXCNzLM7TLqlaQJY%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 캐릭터 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvod1a9c4ays4xdz0br5k8j6f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197650396%26signature%3D4qqi3WOXUejUo9VFhEvrVFufvcE%253D%26ts%3D1640741596" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<필로포비아> [청불] 레드밴드 트레일러]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425117616?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425117616?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf3d29y2z06fi5esldp8c5dw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197577008%26signature%3DUUy4R93Fg2wPW0JsL7gweiAI4X8%253D%26ts%3D1640668208" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
