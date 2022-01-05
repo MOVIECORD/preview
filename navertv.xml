@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 01:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뎁트' 예고편]]></title>
+            <link>https://tv.naver.com/v/24437975</link>
+            <guid>https://tv.naver.com/v/24437975</guid>
+            <pubDate>Wed, 05 Jan 2022 01:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_9/Umk7C_1641344931064ESw76_JPEG/ce48cb8c-6dc3-11ec-8e73-505dac8c37f3_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['T.K.G 저스티스' 예고편]]></title>
+            <link>https://tv.naver.com/v/24437910</link>
+            <guid>https://tv.naver.com/v/24437910</guid>
+            <pubDate>Wed, 05 Jan 2022 01:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_77/Nu0Ld_1641344617367l1Ckc_JPEG/d90b92cd-6dc2-11ec-b908-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['경관의 피' 리뷰 스팟]]></title>
+            <link>https://tv.naver.com/v/24437788</link>
+            <guid>https://tv.naver.com/v/24437788</guid>
+            <pubDate>Wed, 05 Jan 2022 01:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_283/XZMaK_1641344114145Jtn84_JPEG/cc5c4f3d-6dc1-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프랑스' 레아 세두 클로즈업 스페셜]]></title>
             <link>https://tv.naver.com/v/24426728</link>
             <guid>https://tv.naver.com/v/24426728</guid>
             <pubDate>Tue, 04 Jan 2022 07:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_118/ZsPTs_1641280310071ObAy1_JPEG/327f927e-6d2d-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/24421027</link>
             <guid>https://tv.naver.com/v/24421027</guid>
             <pubDate>Tue, 04 Jan 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_199/PQgst_1641262808182VpWm4_JPEG/a9aa9c62-6d04-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/24420828</link>
             <guid>https://tv.naver.com/v/24420828</guid>
             <pubDate>Tue, 04 Jan 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_110/5QhLC_1641262133392o6Ebg_JPEG/06695b1f-6d03-11ec-895c-a0369ff94ed0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +220,7 @@
             <link>https://tv.naver.com/v/24368379</link>
             <guid>https://tv.naver.com/v/24368379</guid>
             <pubDate>Fri, 31 Dec 2021 01:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_142/1YdbR_1640913097196Ei6QL_JPEG/80e4aaaa-69d6-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +228,7 @@
             <link>https://tv.naver.com/v/24368176</link>
             <guid>https://tv.naver.com/v/24368176</guid>
             <pubDate>Fri, 31 Dec 2021 01:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_57/D6aDk_1640912066368YrLoq_JPEG/f1ac2755-69d3-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Dec 2021 08:27:12 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211229_149/u8fBp_1640765399258U3Uf4_JPEG/2a191e79-687e-11ec-a789-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 배트맨' 2차 예고편]]></title>
-            <link>https://tv.naver.com/v/24334680</link>
-            <guid>https://tv.naver.com/v/24334680</guid>
-            <pubDate>Wed, 29 Dec 2021 07:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_212/CmzO7_1640760412840EzrbO_JPEG/995b9870-6872-11ec-bf61-505dac8c381b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 배트맨' 1차 예고편]]></title>
-            <link>https://tv.naver.com/v/24334475</link>
-            <guid>https://tv.naver.com/v/24334475</guid>
-            <pubDate>Wed, 29 Dec 2021 07:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_63/WNe9d_16407600087875VXWs_JPEG/c0292dbf-6871-11ec-9576-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아이 스틸 빌리브' 뮤직 예고편]]></title>
-            <link>https://tv.naver.com/v/24333440</link>
-            <guid>https://tv.naver.com/v/24333440</guid>
-            <pubDate>Wed, 29 Dec 2021 06:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211229_250/Uz7Gr_1640757539588BUN21_JPEG/59dc77c0-686c-11ec-bf52-a0369ff9545c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
