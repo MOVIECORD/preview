@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 07:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 08:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[〈더블 트러블〉 3화 예고편 | 대답하세요, YES or NO]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/425336325?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/425336325?act=clip</guid>
+            <pubDate>Wed, 05 Jan 2022 08:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1297813302%2Fthumb%2F20220105170630" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[〈더블 트러블  2화 예고편]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/425146448?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/421613296?act=clip</guid>
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F111639572%2Fthumb%2F20210818200113" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F111639572%2Fthumb%2F20210818200113" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[리버풀의 EPL 우승기, ⟨리버풀 FC : 엔드 오브 스톰⟩ 메인 예고편  |  왓챠 익스클루시브]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:22]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F502203403%2Fthumb%2F20210701165014" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[왓챠 X 접속 무비월드] 범죄를 감추고 아기를 지켜야 하는 여자의 이야기 〈키핑로지〉]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/420391292?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/420391292?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F248986268%2Fthumb%2F20210701164712" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
