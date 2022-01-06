@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 06:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 07:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나일 강의 죽음' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24466768</link>
+            <guid>https://tv.naver.com/v/24466768</guid>
+            <pubDate>Thu, 06 Jan 2022 07:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220106_109/kLqs1_1641453138570iiPF6_JPEG/9f46aa9e-6ebf-11ec-908e-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['레지던트 이블: 라쿤시티' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/24465366</link>
             <guid>https://tv.naver.com/v/24465366</guid>
             <pubDate>Thu, 06 Jan 2022 06:27:33 GMT</pubDate>
-            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_258/AKd78_1641449702878cS3ON_PNG/1641449685939.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/24460528</link>
             <guid>https://tv.naver.com/v/24460528</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_78/4sAir_1641434556474nBbnQ_JPEG/59395f67-6e94-11ec-b908-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/24460088</link>
             <guid>https://tv.naver.com/v/24460088</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_195/rBWb6_1641433194209bh9FK_JPEG/4c20be0a-6e91-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/24448987</link>
             <guid>https://tv.naver.com/v/24448987</guid>
             <pubDate>Wed, 05 Jan 2022 09:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_248/XQx04_1641372146728NeSpR_JPEG/fd08e060-6e02-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/24448208</link>
             <guid>https://tv.naver.com/v/24448208</guid>
             <pubDate>Wed, 05 Jan 2022 08:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_4/6Nx1k_1641370135692n45XP_JPEG/7fee58be-6dfe-11ec-9a83-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/24426728</link>
             <guid>https://tv.naver.com/v/24426728</guid>
             <pubDate>Tue, 04 Jan 2022 07:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220104_118/ZsPTs_1641280310071ObAy1_JPEG/327f927e-6d2d-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 08:27:13 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211231_95/hbsB8_1640938372388WoGiX_JPEG/56f5a47f-6a11-11ec-b8bc-246e963a4708_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' 리뷰 30초 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24375279</link>
-            <guid>https://tv.naver.com/v/24375279</guid>
-            <pubDate>Fri, 31 Dec 2021 08:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211231_186/006LJ_1640936702958KXesg_JPEG/48138347-6a0d-11ec-b776-246e963a49a8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<극장판 천재 추리 탐정 셜록홈즈> [알.쓸.과학] 영상 (우리 영화 볼래?)]]></title>
