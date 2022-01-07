@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 23:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 01:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425360327?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425360327?act=clip</guid>
+            <pubDate>Fri, 07 Jan 2022 01:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F627904948%2Fthumb%2F20220106145404" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 과몰입 방지를 위한 영상 | 고요의바다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425355016?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424719118?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1897434329%2Fthumb%2F20211214142940" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1897434329%2Fthumb%2F20211214142940" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이 시즌 4 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 17 Nov 2021 01:54:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1647594319%2Fthumb%2F20211117105044" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로스트 인 스페이스 | 공식 예고편 | 마지막 시즌]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/423933422?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/423933422?act=clip</guid>
-            <pubDate>Mon, 15 Nov 2021 09:12:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1912108928%2Fthumb%2F20211115171144" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
