@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 07:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 08:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,20 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjdpfld6bvfhwpksq5n11wch%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198440024%26signature%3DZSVoDLg8CCkdi3P4Ef%252F9qdISfxM%253D" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[<닥터 스트레인저> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425384469?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425384469?act=clip</guid>
+            <pubDate>Fri, 07 Jan 2022 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1hyi0cnoxzhwgbxo15kjbv3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198439799%26signature%3D9wGhARA886FHM%252FI8YVao%252FXr%252FFvo%253D" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<우주 전쟁: 몬스터 헌터> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425384338?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/425384338?act=clip</guid>
             <pubDate>Fri, 07 Jan 2022 06:27:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfrvlz424l2g8a2jt81l74n0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198439421%26signature%3D%252F28gXJQ%252FkSIlqMraw6zw8qbqhXo%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfrvlz424l2g8a2jt81l74n0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198449622%26signature%3DVmxeoF5T3gxZFNH8WMpV%252BjK5r9s%253D%26ts%3D1641540822" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나일 강의 죽음> 메인예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425326941?act=clip</guid>
             <pubDate>Wed, 05 Jan 2022 01:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva9owjyokquxlu8lz93ym415%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198252797%26signature%3DHgdLWL%252BuctX34GGKLyVSA7YreQA%253D%26ts%3D1641343997" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva9owjyokquxlu8lz93ym415%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198252797%26signature%3DHgdLWL%252BuctX34GGKLyVSA7YreQA%253D%26ts%3D1641343997" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<프랑스> 레아 세두 클로즈업 스페셜]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Dec 2021 09:22:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcd1ihuyer5erlzgntci0xrv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197762888%26signature%3DIEPfu6O8gZViXCNzLM7TLqlaQJY%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹메이커> 캐릭터 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425171444?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425171444?act=clip</guid>
-            <pubDate>Thu, 30 Dec 2021 05:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8rinp9o8dc3tiq50krlmhz3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197747840%26signature%3DuU%252BrqJWPqUxarWa37I3n2rfnbQ8%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
