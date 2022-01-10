@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오버런 : 100만 달러의 사나이> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425461297?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425461297?act=clip</guid>
+            <pubDate>Mon, 10 Jan 2022 08:28:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu04k6nwdf5h2erziarzrbb4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198709115%26signature%3D8Mcnl3lbjyMMM%252BIdayBcxr9zOxo%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<레이징 파이어> 넥스트 레벨 액션 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425456609?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425355273?act=clip</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ywj4mdxl007wqtsf3pxy2s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198343180%26signature%3DpzJVSy0TJ%252FmQi6JOYi5kXDJz5nw%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ywj4mdxl007wqtsf3pxy2s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198343180%26signature%3DpzJVSy0TJ%252FmQi6JOYi5kXDJz5nw%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<임신한 나무와 도깨비> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jan 2022 02:40:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9kgrnu16u0u2vovr5g3y5tp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198084207%26signature%3DQ6mcv2ffxxAylOFNCXNE3reY7nE%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<수퍼모델>  예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425276616?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425276616?act=clip</guid>
-            <pubDate>Mon, 03 Jan 2022 08:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv280h8rb9ty26fq82s0cw1qp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198082943%26signature%3DquRD9iY6ewhBmyznh%252FpFMxQS9SI%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
