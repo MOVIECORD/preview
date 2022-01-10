@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 01:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['355' 런칭 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24518751</link>
+            <guid>https://tv.naver.com/v/24518751</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_110/53kfc_1641778305561OtsMv_JPEG/1641778302050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['프랑스' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24518668</link>
+            <guid>https://tv.naver.com/v/24518668</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_223/wg4gr_1641778004130R4Wpp_JPEG/f39c3c94-71b3-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['해적: 도깨비 깃발' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24518561</link>
+            <guid>https://tv.naver.com/v/24518561</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220110_70/Scykn_1641777590377lvXIC_JPEG/cacd926f-71b2-11ec-8a84-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['우주 전쟁: 몬스터 헌터' 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/24490702</link>
@@ -68,7 +92,7 @@
             <link>https://tv.naver.com/v/24481340</link>
             <guid>https://tv.naver.com/v/24481340</guid>
             <pubDate>Fri, 07 Jan 2022 02:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_35/3JnA5_1641518863922bGqEQ_JPEG/9b9a5244-6f58-11ec-895c-a0369ff94ed0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +100,7 @@
             <link>https://tv.naver.com/v/24481150</link>
             <guid>https://tv.naver.com/v/24481150</guid>
             <pubDate>Fri, 07 Jan 2022 01:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220107_218/4nDf7_164151825889259wB4_JPEG/2724e59c-6f57-11ec-9d44-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +156,7 @@
             <link>https://tv.naver.com/v/24460528</link>
             <guid>https://tv.naver.com/v/24460528</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_78/4sAir_1641434556474nBbnQ_JPEG/59395f67-6e94-11ec-b908-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://tv.naver.com/v/24460088</link>
             <guid>https://tv.naver.com/v/24460088</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_195/rBWb6_1641433194209bh9FK_JPEG/4c20be0a-6e91-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://tv.naver.com/v/24459865</link>
             <guid>https://tv.naver.com/v/24459865</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220106_17/5xy6V_1641432356743pnn52_JPEG/6a23270e-6e8f-11ec-9190-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +236,7 @@
             <link>https://tv.naver.com/v/24438858</link>
             <guid>https://tv.naver.com/v/24438858</guid>
             <pubDate>Wed, 05 Jan 2022 02:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_300/SbXCg_1641348269351Jjx48_JPEG/7b697490-6dcb-11ec-9576-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -224,28 +248,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_9/Umk7C_1641344931064ESw76_JPEG/ce48cb8c-6dc3-11ec-8e73-505dac8c37f3_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['T.K.G 저스티스' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24437910</link>
-            <guid>https://tv.naver.com/v/24437910</guid>
-            <pubDate>Wed, 05 Jan 2022 01:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_77/Nu0Ld_1641344617367l1Ckc_JPEG/d90b92cd-6dc2-11ec-b908-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<늦봄 2020> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425452602?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425452602?act=clip</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd8i061tjj3nxfamzp5df43x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198688289%26signature%3D557SvLVRKbWoWRFqEoVjVKI5jMs%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA['경관의 피' 리뷰 스팟 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24437788</link>
-            <guid>https://tv.naver.com/v/24437788</guid>
-            <pubDate>Wed, 05 Jan 2022 01:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_283/XZMaK_1641344114145Jtn84_JPEG/cc5c4f3d-6dc1-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['프랑스' 레아 세두 클로즈업 스페셜 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24426728</link>
-            <guid>https://tv.naver.com/v/24426728</guid>
-            <pubDate>Tue, 04 Jan 2022 07:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220104_118/ZsPTs_1641280310071ObAy1_JPEG/327f927e-6d2d-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<355> 런칭 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425452312?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425452312?act=clip</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1286857241%2Fthumb%2F20220110104007" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<해적: 도깨비 깃발> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -397,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425337455?act=clip</guid>
             <pubDate>Wed, 05 Jan 2022 09:23:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1ejp6ffdt3ti0ywdiam8ogj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198280914%26signature%3DJW5tM%252FuGf%252F5tLyykgFl9t%252BKnmsU%253D%26ts%3D1641372114" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1ejp6ffdt3ti0ywdiam8ogj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198280914%26signature%3DJW5tM%252FuGf%252F5tLyykgFl9t%252BKnmsU%253D%26ts%3D1641372114" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킹메이커> 킹메이커의 조건 영상 (우리 영화 볼래?)]]></title>
@@ -405,7 +421,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425333323?act=clip</guid>
             <pubDate>Wed, 05 Jan 2022 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve14ln3efefmv4qmp4u006ik%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198270756%26signature%3DMKG1VUzHLwrclFFyS4Ge96Fa%252BQc%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve14ln3efefmv4qmp4u006ik%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198270756%26signature%3DMKG1VUzHLwrclFFyS4Ge96Fa%252BQc%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<수호무적> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -552,20 +568,20 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmtltel21jcf79x0zfvt8t10%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197817143%26signature%3DNr08nsr9QFt3tOvJfZl50WlNZwA%253D" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<웨스트 사이드 스토리> America 뮤직 프로필 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425193692?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425193692?act=clip</guid>
-            <pubDate>Fri, 31 Dec 2021 01:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv18gtq69rab0hpd0rr0a4dpi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197816891%26signature%3DHmv4Gfu9jybQ60z5CtLrF8bbOTc%253D" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] 역대급 스케일의 CG | 고요의바다 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425452747?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425452747?act=clip</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F307725592%2Fthumb%2F20220110105739" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<웨스트 사이드 스토리> Tonight 뮤직 프로필 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425193632?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425193632?act=clip</guid>
-            <pubDate>Fri, 31 Dec 2021 01:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8jm6p1j8eofx276vl762aw4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33197816770%26signature%3DYYaRVBdbmnq2pqBTat9VOHaS%252FFs%253D" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] 배우들이 추천하는 넷플릭스 최애 작품 | 고요의바다 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425452726?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425452726?act=clip</guid>
+            <pubDate>Mon, 10 Jan 2022 02:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:05]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F497673676%2Fthumb%2F20220110105649" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 울트라맨 시즌 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -717,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425086867?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F30284900%2Fthumb%2F20211227112326" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F30284900%2Fthumb%2F20211227112326" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
@@ -725,7 +741,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/424995692?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F273497057%2Fthumb%2F20211224120022" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F273497057%2Fthumb%2F20211224120022" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고요의 바다 | 제작기 영상 (카카오TV ─ 넷플릭스)]]></title>
@@ -870,22 +886,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F277803692%2Fthumb%2F20211123161944" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424034797?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424034797?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F300244443%2Fthumb%2F20211119113909" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 엘리트들, 못다 한 이야기 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424034796?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424034796?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F507481946%2Fthumb%2F20211119114119" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[좋좋소 시즌4 티저 예고편 | 왓챠 오리지널 (카카오TV ─ 왓챠)]]></title>
