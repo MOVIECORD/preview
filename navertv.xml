@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 03:24:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 04:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/24518751</link>
             <guid>https://tv.naver.com/v/24518751</guid>
             <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_110/53kfc_1641778305561OtsMv_JPEG/1641778302050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/24518668</link>
             <guid>https://tv.naver.com/v/24518668</guid>
             <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_223/wg4gr_1641778004130R4Wpp_JPEG/f39c3c94-71b3-11ec-810a-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/24518561</link>
             <guid>https://tv.naver.com/v/24518561</guid>
             <pubDate>Mon, 10 Jan 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220110_70/Scykn_1641777590377lvXIC_JPEG/cacd926f-71b2-11ec-8a84-a0369ff963bc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
