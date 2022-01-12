@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 02:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<콜로니: 지구 귀환 프로젝트> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425507808?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425507808?act=clip</guid>
+            <pubDate>Wed, 12 Jan 2022 02:42:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu89tsh6pc7c27ie67zaplec%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198860246%26signature%3DQqIgkZyvloG87ea9KePddHm704E%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아이 스틸 빌리브> 비하인드 인터뷰 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425507312?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425454801?act=clip</guid>
             <pubDate>Mon, 10 Jan 2022 04:30:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4foqax15gygbypaa2q0yvr9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198694447%26signature%3DFdblurMCepEJbGVZHA2Mbf4u53s%253D%26ts%3D1641785647" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4foqax15gygbypaa2q0yvr9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198694447%26signature%3DFdblurMCepEJbGVZHA2Mbf4u53s%253D%26ts%3D1641785647" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<레지던트 이블: 라쿤시티> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 06 Jan 2022 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv685t179dfy73on4w9h7v1pl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198341202%26signature%3D5T8TKjjR6Y0ZvtON25RHBzNOqlM%253D%26ts%3D1641432402" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<특송> 30초 리뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425354470?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425354470?act=clip</guid>
-            <pubDate>Thu, 06 Jan 2022 02:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9s0sf6nau99hisl5sn7mllz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198340901%26signature%3D1Ncq7bDqtrR5x%252BOLazt244ezghE%253D%26ts%3D1641432101" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
