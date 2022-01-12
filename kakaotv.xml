@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 04:30:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 05:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<트로트는 인생이다> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425511548?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425511548?act=clip</guid>
+            <pubDate>Wed, 12 Jan 2022 05:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjacl2rotikfo8bd2ppwodvr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198871553%26signature%3DrEZYWgEIehLstkj9t4V876YLwT8%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<레지던트 이블: 라쿤시티> 영화vs게임 #2 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425510354?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425479501?act=clip</guid>
             <pubDate>Tue, 11 Jan 2022 01:16:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4ay4f274t7ikck8pkidmeq8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198772330%26signature%3D2f3b8j%252FXg2ViGSt9YEoLK46%252F4F0%253D%26ts%3D1641863530" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4ay4f274t7ikck8pkidmeq8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198772330%26signature%3D2f3b8j%252FXg2ViGSt9YEoLK46%252F4F0%253D%26ts%3D1641863530" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<온 세상이 하얗다> '한 남자의 편지' 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 06 Jan 2022 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5ywj4mdxl007wqtsf3pxy2s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198343180%26signature%3DpzJVSy0TJ%252FmQi6JOYi5kXDJz5nw%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<임신한 나무와 도깨비> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425354706?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425354706?act=clip</guid>
-            <pubDate>Thu, 06 Jan 2022 02:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz4yhe5t9suklrdyzbnuturz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198341711%26signature%3DADtvAyBXwYXEr1tF7B0Nb%252BlqGJ8%253D%26ts%3D1641432911" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
