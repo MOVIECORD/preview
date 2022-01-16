@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 07:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 08:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/24545758</link>
             <guid>https://tv.naver.com/v/24545758</guid>
             <pubDate>Tue, 11 Jan 2022 08:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220111_177/2Ayp7_1641887761942OuNe0_JPEG/7b55b727-72b3-11ec-b11b-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
