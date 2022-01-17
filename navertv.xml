@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['모럴센스' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24643948</link>
+            <guid>https://tv.naver.com/v/24643948</guid>
+            <pubDate>Mon, 17 Jan 2022 07:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[52분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_287/aLtbF_1642400940386qqKEK_JPEG/9d61672f-775e-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['삼국지 관운장: 청룡언월도' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/24643832</link>
             <guid>https://tv.naver.com/v/24643832</guid>
             <pubDate>Mon, 17 Jan 2022 06:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <content:encoded><![CDATA[58분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_196/nY1kI_1642400602605eI6sC_JPEG/afab0fac-775d-11ec-9c62-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/24643580</link>
             <guid>https://tv.naver.com/v/24643580</guid>
             <pubDate>Mon, 17 Jan 2022 06:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_47/neo2p_1642399868768gMWQQ_JPEG/18f3cc61-775c-11ec-8e85-48df379ccacc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/24643468</link>
             <guid>https://tv.naver.com/v/24643468</guid>
             <pubDate>Mon, 17 Jan 2022 06:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_168/McnmP_1642399592741CjDtr_JPEG/73f50780-775b-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/24639553</link>
             <guid>https://tv.naver.com/v/24639553</guid>
             <pubDate>Mon, 17 Jan 2022 03:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_98/QZun9_1642387454448UBWsl_JPEG/1da2b467-773f-11ec-9c62-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/24582734</link>
             <guid>https://tv.naver.com/v/24582734</guid>
             <pubDate>Thu, 13 Jan 2022 07:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_75/sKMrK_1642056201044yPIta_JPEG/ac60ccb8-743b-11ec-bf63-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +212,7 @@
             <link>https://tv.naver.com/v/24562647</link>
             <guid>https://tv.naver.com/v/24562647</guid>
             <pubDate>Wed, 12 Jan 2022 07:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_109/cbUrN_1641969258707qaNfL_JPEG/526cbf49-7371-11ec-b3d2-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jan 2022 05:22:19 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_140/Ce3Gc_1641963633777NHx8i_JPEG/31db927b-7364-11ec-9f69-505dac8c3639_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['킹메이커' Behind The Scene 영상]]></title>
-            <link>https://tv.naver.com/v/24557541</link>
-            <guid>https://tv.naver.com/v/24557541</guid>
-            <pubDate>Wed, 12 Jan 2022 02:42:11 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_84/E6oyz_1641954144347FkW7q_JPEG/39ecb431-734e-11ec-99fd-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
