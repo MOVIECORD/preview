@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애나 만들기   공식 예고편   넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425635262?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425635262?act=clip</guid>
+            <pubDate>Mon, 17 Jan 2022 03:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqpyvkr4xqudx1045sguun0x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199296438%26signature%3DwW5oT7beJ%252FxnuhsJwwpYhP%252F%252B7cs%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 모럴센스 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425573184?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425147115?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 08:27:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1607269157%2Fthumb%2F20211229161943" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1607269157%2Fthumb%2F20211229161943" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [Ep1] 공유 '고요의 바다' 홍보하랬더니 예능 찍고 갔다... | 고요의바다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1057016260%2Fthumb%2F20211202093914" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 먹보와 털보 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424306995?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424306995?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1874517971%2Fthumb%2F20211129160157" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 02:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 03:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['355' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/24639553</link>
+            <guid>https://tv.naver.com/v/24639553</guid>
+            <pubDate>Mon, 17 Jan 2022 03:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220117_98/QZun9_1642387454448UBWsl_JPEG/1da2b467-773f-11ec-9c62-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['싱어송' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/24639277</link>
             <guid>https://tv.naver.com/v/24639277</guid>
             <pubDate>Mon, 17 Jan 2022 02:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[57분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220117_23/xshNV_1642386422150jGGAD_JPEG/cd653e5f-773c-11ec-8e85-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/24577826</link>
             <guid>https://tv.naver.com/v/24577826</guid>
             <pubDate>Thu, 13 Jan 2022 03:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_248/UEU6L_1642042785185ABtQe_JPEG/51355af3-741c-11ec-b3d2-48df37ae3fca_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/24577534</link>
             <guid>https://tv.naver.com/v/24577534</guid>
             <pubDate>Thu, 13 Jan 2022 03:24:17 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_238/D36b3_1642041927716KWc0A_JPEG/79e7841f-741a-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jan 2022 02:42:11 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220112_259/cyHna_16419524023788krWr_JPEG/09b89a86-734a-11ec-bd70-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미싱타는 여자들' 2차 캐릭터 예고편]]></title>
-            <link>https://tv.naver.com/v/24547812</link>
-            <guid>https://tv.naver.com/v/24547812</guid>
-            <pubDate>Tue, 11 Jan 2022 09:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220111_139/fTIK4_1641892523385MwICF_JPEG/ccb2dfdc-72be-11ec-8fb9-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
