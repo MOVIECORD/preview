@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<유체이탈자> 카체이싱 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425644006?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425644006?act=clip</guid>
+            <pubDate>Mon, 17 Jan 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvz5x1726cwjp5qqcf8yt2hg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199317577%26signature%3Dr%252FsSYa4PrWMXp9c2ZJ9JtEiuDvg%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 안녕 자두야: 제주도의 비밀> 스페셜 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425640146?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425561149?act=clip</guid>
             <pubDate>Fri, 14 Jan 2022 02:42:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqlivt9givktmu6vwf50d6nw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199033282%26signature%3Dya4vJauSx1zTnNGQvlICaVk%252FJcI%253D%26ts%3D1642124482" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqlivt9givktmu6vwf50d6nw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199033282%26signature%3Dya4vJauSx1zTnNGQvlICaVk%252FJcI%253D%26ts%3D1642124482" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<미싱타는 여자들>  봉준호 감독 응원 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 11 Jan 2022 04:29:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6hutz4x15v2netfwakps67t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198780569%26signature%3DVJsQhkXDfH%252B4zbIAfmEXnrMpwy0%253D%26ts%3D1641871769" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<클리포드 더 빅 레드 독> 해외 극찬 리뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425480999?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425480999?act=clip</guid>
-            <pubDate>Tue, 11 Jan 2022 02:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvat1uc99t9j7ecnwy9w9akwo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198775941%26signature%3DjITq9jGWlCE94pDRjy0DACeQtLU%253D%26ts%3D1641867141" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
