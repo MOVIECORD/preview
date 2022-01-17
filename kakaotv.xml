@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 05:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 06:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 안녕 자두야: 제주도의 비밀> 스페셜 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425640146?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425640146?act=clip</guid>
+            <pubDate>Mon, 17 Jan 2022 06:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7rdvskpcl4maf2wiyspxz89%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199309318%26signature%3D90suF%252BfxiuSK2n3wiz9e%252FoYIS8s%253D%26ts%3D1642400518" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나의 촛불> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425636380?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425536869?act=clip</guid>
             <pubDate>Thu, 13 Jan 2022 04:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7ux8808wg2f615g0xxgoc0e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198953719%26signature%3Dlv7d6CT79q3Eav%252B2Xw2greilB60%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7ux8808wg2f615g0xxgoc0e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198953719%26signature%3Dlv7d6CT79q3Eav%252B2Xw2greilB60%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신들의 분노> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 11 Jan 2022 02:42:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvat1uc99t9j7ecnwy9w9akwo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198775941%26signature%3DjITq9jGWlCE94pDRjy0DACeQtLU%253D%26ts%3D1641867141" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<애니멀 체인지> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425480872?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425480872?act=clip</guid>
-            <pubDate>Tue, 11 Jan 2022 02:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5pzdlx5z0u7g8h47qo2um1d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198775618%26signature%3Df2CM5JA3g8TdSeMLYB0DE2QVP7A%253D%26ts%3D1641866818" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
