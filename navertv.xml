@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 22:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:07:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴 뮤턴트: 인피니티 프로젝트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/24680261</link>
+            <guid>https://tv.naver.com/v/24680261</guid>
+            <pubDate>Wed, 19 Jan 2022 01:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_98/VpPTg_1642553545743rJ3gb_JPEG/b3f0da8d-78c1-11ec-8e85-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['클리포드 더 빅 레드 독' 언론 호평 리뷰 영상]]></title>
             <link>https://tv.naver.com/v/24668443</link>
             <guid>https://tv.naver.com/v/24668443</guid>
             <pubDate>Tue, 18 Jan 2022 08:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_283/H8lJP_1642491692784bUrFi_JPEG/f5c0da8c-7831-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/24668120</link>
             <guid>https://tv.naver.com/v/24668120</guid>
             <pubDate>Tue, 18 Jan 2022 08:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_3/TCNPx_1642491153101l3g95_JPEG/6a21b589-7830-11ec-bf63-505dac8c3721_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/24666410</link>
             <guid>https://tv.naver.com/v/24666410</guid>
             <pubDate>Tue, 18 Jan 2022 07:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_230/40DA5_1642487798348i8oeM_JPEG/cc345791-7828-11ec-b3f1-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/24664896</link>
             <guid>https://tv.naver.com/v/24664896</guid>
             <pubDate>Tue, 18 Jan 2022 06:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_15/kysep_1642484541275RvjFU_JPEG/2d1f917c-7821-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/24663881</link>
             <guid>https://tv.naver.com/v/24663881</guid>
             <pubDate>Tue, 18 Jan 2022 05:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220118_77/tdC7C_1642482127941PO9vl_JPEG/a03c500c-781b-11ec-8fb9-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jan 2022 03:24:17 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220113_238/D36b3_1642041927716KWc0A_JPEG/79e7841f-741a-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['탈명검: 풍운재기' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/24576645</link>
-            <guid>https://tv.naver.com/v/24576645</guid>
-            <pubDate>Thu, 13 Jan 2022 02:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220113_161/ZMczT_16420394869970c9qx_JPEG/dd854838-7414-11ec-8e85-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
