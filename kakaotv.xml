@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 03:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<세라비: 다섯 번의 기적> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425690741?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425690741?act=clip</guid>
+            <pubDate>Wed, 19 Jan 2022 04:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3rr9q23h9sl2pcoe10ov5yn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199472871%26signature%3DbJE27r48FbdE%252FL5uzuLL2EjYDUE%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<만년이 지나도 변하지 않는 게 있어> 유통기한 만년 로맨스 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425688484?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425634006?act=clip</guid>
             <pubDate>Mon, 17 Jan 2022 02:43:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzdyp8r9e28wnk5wcdcsiftl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199293164%26signature%3Dd3zw%252FwUn%252Fz0nxabfHwoqwcxw9Cc%253D%26ts%3D1642384364" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzdyp8r9e28wnk5wcdcsiftl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199293164%26signature%3Dd3zw%252FwUn%252Fz0nxabfHwoqwcxw9Cc%253D%26ts%3D1642384364" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<인어가 잠든 집> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 12 Jan 2022 04:30:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveqqq61t1vy66n6jok9tsh03%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198867765%26signature%3DO0aoUepPpruEHGno3lGn4Ex%252BS6w%253D%26ts%3D1641958965" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<레지던트 이블: 라쿤시티> 영화vs게임 #1 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425510299?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425510299?act=clip</guid>
-            <pubDate>Wed, 12 Jan 2022 04:30:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv14uwvi1mcj7mzvgn75a9f0n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33198867659%26signature%3D30bSA8xhTG21mulrT%252FFYQrBS2TA%253D%26ts%3D1641958859" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
