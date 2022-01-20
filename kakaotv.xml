@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 07:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 08:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<특송> 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425722843?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425722843?act=clip</guid>
+            <pubDate>Thu, 20 Jan 2022 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv15dpkc4mol9onbpgbwoa9wx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199572169%26signature%3Di9kr7msN97igG08gHsoyl2V8IRY%253D%26ts%3D1642663369" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425722750?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425722750?act=clip</guid>
+            <pubDate>Thu, 20 Jan 2022 08:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xhisq0ywnof41op96ltfrd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199571928%26signature%3DqSIhaoquCCgcgOwk3dQEPE%252FOLTE%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<피그> 베스트 오브 케이지 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425721879?act=clip</link>
@@ -78,14 +94,6 @@
             <pubDate>Thu, 20 Jan 2022 02:41:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmeu595yywvvswxb3tq4y6u2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199554352%26signature%3DT1MYwm8CDU3%252F2J7f7qdMsoBhP%252Bs%253D%26ts%3D1642645552" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 바다 탐험대 옥토넛 : 해저동굴 대탈출> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425715056?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425715056?act=clip</guid>
-            <pubDate>Thu, 20 Jan 2022 02:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv27eryvwknqcwt436atm1ypc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199550911%26signature%3DpuZvsntbRXc2uhN5%252BFCmdrS2LBo%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<인어가 잠든 집> 사카구치 켄타로 심쿵 모먼트 영상]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425688334?act=clip</guid>
             <pubDate>Wed, 19 Jan 2022 03:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvexnonlzlo73x0hpi59id2kr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199466050%26signature%3Da93a3sSyFa1Z4%252FJe%252F6l2W8qFBP0%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvexnonlzlo73x0hpi59id2kr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199466050%26signature%3Da93a3sSyFa1Z4%252FJe%252F6l2W8qFBP0%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<씽2게더> 조니 애드립 폭발 클립]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Jan 2022 09:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8tccbot4c2dun0xu6qzkao2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199059390%26signature%3D53kUuwAChDpY9IrNj1JEpEYCY7o%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹메이커> 스페셜 리뷰 37초 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425566896?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425566896?act=clip</guid>
-            <pubDate>Fri, 14 Jan 2022 06:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr7195uqpyt3hpo8bx8lnm87%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199049771%26signature%3DGNLiUAuE7yxv8oilPgvqNMQERKE%253D%26ts%3D1642140971" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
