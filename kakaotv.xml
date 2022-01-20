@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 06:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 07:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<피그> 베스트 오브 케이지 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425721879?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425721879?act=clip</guid>
+            <pubDate>Thu, 20 Jan 2022 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvummw7kb0zqf1voiv0nd6fch%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199570161%26signature%3Dpj9973YcQKHYzJ%252FC0edVn%252Bwiq%252FI%253D%26ts%3D1642661361" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<프리! 더 파이널 스트로크 전편> ‘꿈을 향한 도전’ 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425720441?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425688187?act=clip</guid>
             <pubDate>Wed, 19 Jan 2022 03:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr4i5dnb75knxigy23fs5dqm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199465764%26signature%3Dq%252FytrE9Vr%252BSrndPNewdCWGHu%252FZo%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr4i5dnb75knxigy23fs5dqm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199465764%26signature%3Dq%252FytrE9Vr%252BSrndPNewdCWGHu%252FZo%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<씽2게더> 본투비 아이돌 포르샤 클립]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Jan 2022 06:28:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr7195uqpyt3hpo8bx8lnm87%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199049771%26signature%3DGNLiUAuE7yxv8oilPgvqNMQERKE%253D%26ts%3D1642140971" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<사막을 건너 호수를 지나> OST 뮤직비디오 2탄]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425563541?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425563541?act=clip</guid>
-            <pubDate>Fri, 14 Jan 2022 04:30:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaj5jwjnbmqb30pu17vsgi0l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199040517%26signature%3D7KvpUggv94%252FIPBO5gL%252BDytYCFyo%253D%26ts%3D1642131717" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
