@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 23:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 01:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['트로트는 인생이다' 추천 영상 2탄 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24760762</link>
+            <guid>https://tv.naver.com/v/24760762</guid>
+            <pubDate>Mon, 24 Jan 2022 01:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_236/CG3OP_1642986269201qvySK_JPEG/64cf104d-7cb1-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['트로트는 인생이다' 추천 영상 1탄 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/24760701</link>
+            <guid>https://tv.naver.com/v/24760701</guid>
+            <pubDate>Mon, 24 Jan 2022 01:10:40 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220124_165/zWRYr_1642986039254AuOSB_JPEG/c96cc69b-7cb0-11ec-b3d2-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 주술회전 0' 1차 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/24731026</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 19 Jan 2022 03:20:39 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_210/VGsPq_16425600310844mpc1_JPEG/e8ff791b-78d0-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['항마전 2: 흑룡의 부활' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24681964</link>
-            <guid>https://tv.naver.com/v/24681964</guid>
-            <pubDate>Wed, 19 Jan 2022 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_31/ztQSP_1642559283186tYKqR_JPEG/05821ff3-78cf-11ec-bf5d-a0369ff952f4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해적: 도깨비 깃발' 무비토크 FULL 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/24681660</link>
-            <guid>https://tv.naver.com/v/24681660</guid>
-            <pubDate>Wed, 19 Jan 2022 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_255/BDewL_1642558226246oJmLJ_JPEG/ac898395-78cb-11ec-9cfd-505dacfba98a_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<시크릿 카운터> 티저 예고편 (우리 영화 볼래?)]]></title>
