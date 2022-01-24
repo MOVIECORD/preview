@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 01:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 02:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시맨틱 에러ㅣ티저 예고편ㅣ왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/425818100?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/425818100?act=clip</guid>
+            <pubDate>Mon, 24 Jan 2022 02:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47088995%2Fthumb%2F20220124105856" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[좋좋소 시즌4 메인 예고편 | 왓챠 오리지널]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/425518032?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/422566665?act=clip</guid>
             <pubDate>Mon, 27 Sep 2021 01:55:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F90690699%2Fthumb%2F20210924155700" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F90690699%2Fthumb%2F20210924155700" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[장례식장에서 스폰남과 마주쳤다 | 〈시바 베이비〉 메인 예고편 | 왓챠 익스클루시브]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:23]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1153170597%2Fthumb%2F20210701170211" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[왓챠 X 접속 무비월드] ⟨리틀 액시던트⟩ 어느 작은 광산 마을에 숨겨진 비극적인 진실]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/420391500?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/420391500?act=clip</guid>
-            <pubDate>Wed, 06 Oct 2021 22:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F877786488%2Fthumb%2F20210701165656" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
