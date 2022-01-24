@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 안녕 자두야: 제주도의 비밀> 자두VS전복 스페셜 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425821977?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425821977?act=clip</guid>
+            <pubDate>Mon, 24 Jan 2022 05:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvctr2jaznrluoxh3zyehr6yf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199909406%26signature%3D9zEzgGsqw1ClPrTzQ75uxWzOoOQ%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나의 촛불> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425820287?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425742144?act=clip</guid>
             <pubDate>Fri, 21 Jan 2022 02:34:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhjqs7p3i6c7lpnxxnkawg1n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199637869%26signature%3DX2mFDzGlkScnen8E1bioK376iEw%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhjqs7p3i6c7lpnxxnkawg1n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199637869%26signature%3DX2mFDzGlkScnen8E1bioK376iEw%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 배트맨> 3차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 19 Jan 2022 07:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8fpb6hil8lizsa5lkw4l4ym%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199482738%26signature%3D2xmGL%252FTw%252F2GBA7QUiMn0sFmX1bw%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<상어: 슬픈 포식자> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425694547?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425694547?act=clip</guid>
-            <pubDate>Wed, 19 Jan 2022 06:24:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr84g1986qe92itu7zlrk0om%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199481604%26signature%3D4gnbTBl0tFJEdvM2Qd5cxC0kbDw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
