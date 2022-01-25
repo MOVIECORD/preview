@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<킹메이커> 글로벌 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425843205?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425843205?act=clip</guid>
+            <pubDate>Tue, 25 Jan 2022 01:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2nhdqo51mnnlxvqkh7wwwak%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199981328%26signature%3DrXO9UEkoA3l1Ehqnztt0zvc6WEY%253D%26ts%3D1643072528" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<블러드써스티> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425823115?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425742758?act=clip</guid>
             <pubDate>Fri, 21 Jan 2022 02:34:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvww16rvyiqaav5z5ixeahm4d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199639676%26signature%3Dsu98B26S%252BjPc9Bt77eQNqFMwkQI%253D%26ts%3D1642730876" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvww16rvyiqaav5z5ixeahm4d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199639676%26signature%3Dsu98B26S%252BjPc9Bt77eQNqFMwkQI%253D%26ts%3D1642730876" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<클리포드 더 빅 레드 독> 알쓸"클"잡 스페셜 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 19 Jan 2022 07:15:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr6k39g4uwjxvq17t250roty%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199483187%26signature%3DOzg611m7sJNwLWHEd0EN8MO%252Ft18%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미싱타는 여자들> 정치계 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425695219?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425695219?act=clip</guid>
-            <pubDate>Wed, 19 Jan 2022 07:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgwq08c942aux3quysigxc60%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199482995%26signature%3DcEgvh1krXRgESGNXBHIWTVg%252BG%252Fw%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

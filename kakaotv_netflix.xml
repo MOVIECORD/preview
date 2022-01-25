@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 소년심판 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425819252?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425819252?act=clip</guid>
+            <pubDate>Tue, 25 Jan 2022 01:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1629836207%2Fthumb%2F20220124193818" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 투 핫! 시즌 3 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425721021?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425306102?act=clip</guid>
             <pubDate>Tue, 04 Jan 2022 05:21:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F477580785%2Fthumb%2F20220104140735" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F477580785%2Fthumb%2F20220104140735" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레오나르도 디카프리오의 스페셜 코멘터리 | 돈 룩 업 Don't Look Up]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1187930927%2Fthumb%2F20211209143349" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424551056?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424551056?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1394236445%2Fthumb%2F20211208115808" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
