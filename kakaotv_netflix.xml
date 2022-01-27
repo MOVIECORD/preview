@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 23:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 모럴센스 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/425879016?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/425879016?act=clip</guid>
+            <pubDate>Thu, 27 Jan 2022 01:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1696722797%2Fthumb%2F20220126163724" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는｜메이킹 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425852482?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425355016?act=clip</guid>
             <pubDate>Thu, 06 Jan 2022 02:46:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1502370676%2Fthumb%2F20220106112727" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1502370676%2Fthumb%2F20220106112727" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 촬영 비하인드 | 고요의바다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1897434329%2Fthumb%2F20211214142940" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 코브라 카이 시즌 4 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424688468?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424688468?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2041631238%2Fthumb%2F20211213132925" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
