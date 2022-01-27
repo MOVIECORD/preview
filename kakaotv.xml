@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[언차티드] 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/425907055?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/425907055?act=clip</guid>
+            <pubDate>Thu, 27 Jan 2022 09:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9s3bmunvn4xlh1yfr5myour%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200180564%26signature%3D27cyTpgOZt14cZnTGI%252FXpSF3gR0%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<레스큐 더 파일럿> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/425901402?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425870039?act=clip</guid>
             <pubDate>Wed, 26 Jan 2022 01:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxn4ifgmlb9ue98rs9i4hsx2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200068024%26signature%3DWgy8lH%252FRbJdKdmRUhncxnalMzK8%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxn4ifgmlb9ue98rs9i4hsx2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200068024%26signature%3DWgy8lH%252FRbJdKdmRUhncxnalMzK8%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<존경하고 사랑하는 국민 여러분> 스페셜 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 21 Jan 2022 08:25:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgu5p4qiwk483xghudrnvhhi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199658923%26signature%3DjJBq21Q8v3K7OWrP6wMwvbWCiak%253D%26ts%3D1642750123" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<효자> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425749544?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425749544?act=clip</guid>
-            <pubDate>Fri, 21 Jan 2022 07:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvai964vyz8anr41lk7ds4xhu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33199656442%26signature%3Dm5pUGnniVm7XvV%252BnBo5uIWb%252Fcy4%253D%26ts%3D1642747642" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
