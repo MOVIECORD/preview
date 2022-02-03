@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 텍사스 전기톱 학살 2022 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/426064094?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/426064094?act=clip</guid>
+            <pubDate>Thu, 03 Feb 2022 05:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F746867392%2Fthumb%2F20220203134710" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는｜절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/425910477?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425381134?act=clip</guid>
             <pubDate>Fri, 07 Jan 2022 07:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F634620616%2Fthumb%2F20220107110323" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F634620616%2Fthumb%2F20220107110323" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:56]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F689545310%2Fthumb%2F20211222130042" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 블러드 오리진 | 쿠키 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/424906738?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/424906738?act=clip</guid>
-            <pubDate>Wed, 29 Dec 2021 03:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1368410993%2Fthumb%2F20211221113152" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

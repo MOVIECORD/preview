@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<안테벨룸> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426064771?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426064771?act=clip</guid>
+            <pubDate>Thu, 03 Feb 2022 05:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdzkrddilqeq7zhz67xmx9ks%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200773935%26signature%3DaE6%252BlYGrrWGCGVMQz11ht7GK%252BLk%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<세라비: 다섯 번의 기적> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426062714?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/425924613?act=clip</guid>
             <pubDate>Fri, 28 Jan 2022 02:36:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvibeb0svpzwsvgdeebuq5id9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200243488%26signature%3DZTH884jGLqN125VWnLU74NWCJMM%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvibeb0svpzwsvgdeebuq5id9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200243488%26signature%3DZTH884jGLqN125VWnLU74NWCJMM%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<원 세컨드> 장예모 감독 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 26 Jan 2022 02:38:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvos9bora35ioyuuyg6oj2ow4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200069664%26signature%3DgWj5sa4BdTOh45wg1UsRdraOiPk%253D%26ts%3D1643160864" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹메이커> 글로벌 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425870560?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425870560?act=clip</guid>
-            <pubDate>Wed, 26 Jan 2022 02:38:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0pe3u4hsa0zv93inbb0r3o2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200069357%26signature%3DkYLVR72aGFVWNkUY%252BGfF1l9cCvs%253D%26ts%3D1643160557" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
