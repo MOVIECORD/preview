@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 06:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 07:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<비틀즈 겟 백: 루프탑 콘서트> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426162048?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426162048?act=clip</guid>
+            <pubDate>Mon, 07 Feb 2022 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5dfn7pc9t6ifm6ol18fyn1k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201124890%26signature%3D%252BcgHf4S9PHymavFdlZyTRaHoVPQ%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나이트메어 앨리> 기예르모 감독피셜 필람 포인트]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426159976?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426062625?act=clip</guid>
             <pubDate>Thu, 03 Feb 2022 04:26:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxw84atptwp1yrhoxn0upwld%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200768407%26signature%3DdR1mbv8GaPQZBBaBkH0lHXPjfiQ%253D%26ts%3D1643859607" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxw84atptwp1yrhoxn0upwld%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200768407%26signature%3DdR1mbv8GaPQZBBaBkH0lHXPjfiQ%253D%26ts%3D1643859607" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<온 세상이 하얗다> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 28 Jan 2022 02:36:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgdlqwy6av83afootm04kmnt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200243260%26signature%3DS6iIj333is6qRlFIu0tGrfY6JVk%253D%26ts%3D1643334460" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미싱타는 여자들> 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/425924391?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/425924391?act=clip</guid>
-            <pubDate>Fri, 28 Jan 2022 02:36:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb9uslfqd2z0ey16krd0efa0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200242958%26signature%3DLSnbBweEfKXNJZXrYsEjWc5tVYE%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
