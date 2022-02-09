@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 06:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 07:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스펜서> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426209746?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426209746?act=clip</guid>
+            <pubDate>Wed, 09 Feb 2022 07:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoytaz52kmyxv17f1goc4qqj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201297611%26signature%3DQ5J2%252BCBBgZbnhzjPmVjn%252FvxXxeg%253D%26ts%3D1644388811" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<에펠> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426206398?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426158267?act=clip</guid>
             <pubDate>Mon, 07 Feb 2022 04:26:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmq1yf7h1vnsdsqwfisipfq3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201114917%26signature%3DRI%252BUo%252FagvJZbPCZuWxuUCOIPggA%253D%26ts%3D1644206117" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmq1yf7h1vnsdsqwfisipfq3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201114917%26signature%3DRI%252BUo%252FagvJZbPCZuWxuUCOIPggA%253D%26ts%3D1644206117" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<빅 더 바이킹: 토르와 마법의 검> 슬기로운 빅의 아이디어 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 03 Feb 2022 04:26:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxcpx5m7buje92szcu9xfwn6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200763319%26signature%3DWMY6LiBkezVntG1ihpveLBne0iM%253D%26ts%3D1643854519" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보드랍게> 새해 영상 연하장]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426061004?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426061004?act=clip</guid>
-            <pubDate>Thu, 03 Feb 2022 04:26:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt0awd531zgtdjk3yp6sqx2h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33200762948%26signature%3DMqgwWSyfWD6NGnHhPj24QXKOicc%253D%26ts%3D1643854148" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
