@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 23:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 01:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한화이글스: 클럽하우스 | 런칭 예고편 | 왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/426251492?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/426251492?act=clip</guid>
+            <pubDate>Fri, 11 Feb 2022 01:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:20]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1289516437%2Fthumb%2F20220211093807" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[시맨틱 에러ㅣ30초 예고편ㅣ왓챠 오리지널]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/426039309?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/423661678?act=clip</guid>
             <pubDate>Fri, 05 Nov 2021 01:54:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1312118074%2Fthumb%2F20211105103603" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1312118074%2Fthumb%2F20211105103603" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[내 코가 간질간질 해지는 영상 | 드라마 ⟨징크스⟩ | 왓챠]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1056441053%2Fthumb%2F20210716234308" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[과몰입한 당신이라면 참여해야할 파티!]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/420789263?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/420789263?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942545587%2Fthumb%2F20210716174434" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
