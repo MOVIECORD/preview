@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 03:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 04:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<킹메이커> 차이나는 '킹메이커' 클라스 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426327943?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426327943?act=clip</guid>
+            <pubDate>Mon, 14 Feb 2022 04:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:20]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs53taxga45senxt173r7u0x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201718152%26signature%3D3wsPDxobO7sZ5ymC5RvcsdIzsUo%253D" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나일 강의 죽음> 범죄전문가 프로파일링 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426326023?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426251461?act=clip</guid>
             <pubDate>Fri, 11 Feb 2022 01:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv941vvjiyobpkhstny9pljsh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201448437%26signature%3D9TnkJlwYbvgqeSg5orjGQANtsHQ%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv941vvjiyobpkhstny9pljsh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201448437%26signature%3D9TnkJlwYbvgqeSg5orjGQANtsHQ%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리프레쉬>30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 08 Feb 2022 07:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2wo3tw8rc1qjd21epoh56vu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201212303%26signature%3DbybBwUuoxGmwsiZrO6RFeKvQp%252BU%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<전투왕> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426186094?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426186094?act=clip</guid>
-            <pubDate>Tue, 08 Feb 2022 06:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsxghhts4gcb9blpq4t46cra%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201210282%26signature%3DViFr8z%252BEfcU7wy5Xq%252FgyGEiks1Q%253D%26ts%3D1644301482" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
