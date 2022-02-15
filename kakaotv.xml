@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<타짜 전설의 땁> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426360763?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426360763?act=clip</guid>
+            <pubDate>Tue, 15 Feb 2022 09:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvix8f9je30sr6w899emkh1pt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201822710%26signature%3DYYvQ1%252FdYBc5gJL4sxNywSeXKwn0%253D%26ts%3D1644913910" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인민을 위해 복무하라> [청불] 무삭제 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426355076?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426325518?act=clip</guid>
             <pubDate>Mon, 14 Feb 2022 02:30:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3uon7wrepln1ghf9x17qf6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201711422%26signature%3Dj0%252FS1N6LWz5Pdd6dhV03YHeXp0Y%253D%26ts%3D1644802622" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3uon7wrepln1ghf9x17qf6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201711422%26signature%3Dj0%252FS1N6LWz5Pdd6dhV03YHeXp0Y%253D%26ts%3D1644802622" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<인민을 위해 복무하라> 1차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Feb 2022 01:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbz1wx4e553ppqb7zh15coig%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201447466%26signature%3DjtQG03sVtVxeGoexCa51pQ93uWE%253D%26ts%3D1644538666" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<우리가 사랑이라고 믿는 것> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426251134?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426251134?act=clip</guid>
-            <pubDate>Fri, 11 Feb 2022 01:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgt5i46pqxl4fgxne2jayflw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201447143%26signature%3DTz5JkZPTqYALcKNkIRYnnYYYgfA%253D%26ts%3D1644538343" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
