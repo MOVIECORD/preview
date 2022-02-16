@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/426381572?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/426381572?act=clip</guid>
+            <pubDate>Wed, 16 Feb 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F309273752%2Fthumb%2F20220216135034" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/426381571?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/426381571?act=clip</guid>
+            <pubDate>Wed, 16 Feb 2022 05:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F127961630%2Fthumb%2F20220216134859" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/426356800?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425697205?act=clip</guid>
             <pubDate>Wed, 19 Jan 2022 10:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053333057%2Fthumb%2F20220119165348" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053333057%2Fthumb%2F20220119165348" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 2022년 신작 라인업 공개]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/425697196?act=clip</guid>
             <pubDate>Wed, 19 Jan 2022 10:22:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1222928970%2Fthumb%2F20220119165231" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1222928970%2Fthumb%2F20220119165231" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 스페셜 티저]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 03 Jan 2022 02:40:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:03]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1705864092%2Fthumb%2F20220103104244" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지금 우리 학교는｜공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/425175411?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/425175411?act=clip</guid>
-            <pubDate>Fri, 31 Dec 2021 01:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F638764086%2Fthumb%2F20211230162505" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 고요의 바다 | 비하인드 컷]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/425170832?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/425170832?act=clip</guid>
-            <pubDate>Thu, 30 Dec 2021 04:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1261676468%2Fthumb%2F20211230131200" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
