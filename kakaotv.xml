@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 08:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 09:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<야연2> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426387919?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426387919?act=clip</guid>
+            <pubDate>Wed, 16 Feb 2022 09:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4d3vjl1lnciczscm2j5iyw7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201909912%26signature%3DqAo41siMrn8982vMBrtQWXKr3Ng%253D%26ts%3D1645001112" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<유어 러브 송> 뮤직 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426385667?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426332070?act=clip</guid>
             <pubDate>Mon, 14 Feb 2022 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8ykihfrgygz5y7qtc2zg5rn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201730383%26signature%3D36GFh1Cph%252FrSegvmyFG%252BjO6KL2I%253D%26ts%3D1644821583" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8ykihfrgygz5y7qtc2zg5rn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201730383%26signature%3D36GFh1Cph%252FrSegvmyFG%252BjO6KL2I%253D%26ts%3D1644821583" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나의 촛불> 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Feb 2022 04:26:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4f2cjy2hgve4c0nivc1y3zc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201461745%26signature%3Di64h40bSKtsaLPxkx40F1ucK%252Fb4%253D%26ts%3D1644552945" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나일 강의 죽음> 배우 이제훈이 읽어주는 영화 <나일 강의 죽음> 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426255243?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426255243?act=clip</guid>
-            <pubDate>Fri, 11 Feb 2022 04:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkl9vcvj7w6q62twgkii5ms4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201461155%26signature%3DoLWb1uTZoGmQ21sll6dbA6xMvi0%253D%26ts%3D1644552355" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
