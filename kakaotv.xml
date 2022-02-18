@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 23:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 01:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나이트메어 앨리> '매혹 당한 스타들' 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426429754?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426429754?act=clip</guid>
+            <pubDate>Fri, 18 Feb 2022 01:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvc3dmjkj7j9ia9ugitfhqwp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202055756%26signature%3DsDPkvufDGRNAwIK%252BVnklYlw6CsU%253D%26ts%3D1645146956" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인민을 위해 복무하라> 정월대보름 덕담 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426414331?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426377144?act=clip</guid>
             <pubDate>Wed, 16 Feb 2022 02:36:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzne3ijsnbk7ocmnniri0xk6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201884777%26signature%3DSDO07nl7wy7sF7eyCR3dE4WEEgA%253D%26ts%3D1644975977" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzne3ijsnbk7ocmnniri0xk6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201884777%26signature%3DSDO07nl7wy7sF7eyCR3dE4WEEgA%253D%26ts%3D1644975977" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<방관자들> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Feb 2022 04:26:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:20]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs53taxga45senxt173r7u0x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201718152%26signature%3D3wsPDxobO7sZ5ymC5RvcsdIzsUo%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나일 강의 죽음> 범죄전문가 프로파일링 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426326023?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426326023?act=clip</guid>
-            <pubDate>Mon, 14 Feb 2022 02:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkj6ju7iyyfpre3xi6b2f7t9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201712677%26signature%3DYvvn9Dqkqj2J0VxDCMp3KCydSKE%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
