@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 05:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 06:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<그 남자는 타이타닉을 보고 싶지 않았다> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426435711?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426435711?act=clip</guid>
+            <pubDate>Fri, 18 Feb 2022 06:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrupa4p34c5covsfn2rs42bu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202071295%26signature%3DLpnag%252BlUDXYos2FUBRkW3g1x4T4%253D%26ts%3D1645162495" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<뉴욕 42번가 기타샵> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426432659?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426387919?act=clip</guid>
             <pubDate>Wed, 16 Feb 2022 09:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4d3vjl1lnciczscm2j5iyw7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201909912%26signature%3DqAo41siMrn8982vMBrtQWXKr3Ng%253D%26ts%3D1645001112" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4d3vjl1lnciczscm2j5iyw7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201909912%26signature%3DqAo41siMrn8982vMBrtQWXKr3Ng%253D%26ts%3D1645001112" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<유어 러브 송> 뮤직 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Feb 2022 07:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfmvvz74ki5o2f0x2o0nh0a9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201730776%26signature%3DP58YBQvhLIBf511FZNXwchXZViw%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<첩혈강호> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426332070?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426332070?act=clip</guid>
-            <pubDate>Mon, 14 Feb 2022 07:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8ykihfrgygz5y7qtc2zg5rn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201730383%26signature%3D36GFh1Cph%252FrSegvmyFG%252BjO6KL2I%253D%26ts%3D1644821583" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
