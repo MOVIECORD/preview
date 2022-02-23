@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 08:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 09:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미인' 60초 예고편]]></title>
+            <link>https://tv.naver.com/v/25303880</link>
+            <guid>https://tv.naver.com/v/25303880</guid>
+            <pubDate>Wed, 23 Feb 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_272/Rz7WG_1645607149013qOzdo_JPEG/a289fa2f-9487-11ec-87d4-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미인' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/25303780</link>
+            <guid>https://tv.naver.com/v/25303780</guid>
+            <pubDate>Wed, 23 Feb 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_253/8xdcM_1645606914384KrTdD_JPEG/f00683bb-9486-11ec-bcec-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['만년이 지나도 변하지 않는 게 있어' 메이킹 필름]]></title>
+            <link>https://tv.naver.com/v/25303464</link>
+            <guid>https://tv.naver.com/v/25303464</guid>
+            <pubDate>Wed, 23 Feb 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_17/hg9Lf_1645606189005xDUcp_JPEG/1d3175e6-9483-11ec-a565-48df379ccacc_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['피노키오: 새로운 모험' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/25300729</link>
             <guid>https://tv.naver.com/v/25300729</guid>
             <pubDate>Wed, 23 Feb 2022 07:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_18/Br83E_1645599898095z1TqT_JPEG/cc987cea-9476-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/25300597</link>
             <guid>https://tv.naver.com/v/25300597</guid>
             <pubDate>Wed, 23 Feb 2022 07:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_280/ZIuoo_164559957617574739_JPEG/cf026da4-9475-11ec-a412-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/25300435</link>
             <guid>https://tv.naver.com/v/25300435</guid>
             <pubDate>Wed, 23 Feb 2022 07:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_296/ZiS0F_1645599246475lO5Jm_JPEG/2bf31c69-9475-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/25299482</link>
             <guid>https://tv.naver.com/v/25299482</guid>
             <pubDate>Wed, 23 Feb 2022 06:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_47/fZli9_1645596956797hDXCV_JPEG/da55cf5e-946f-11ec-92eb-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/25293769</link>
             <guid>https://tv.naver.com/v/25293769</guid>
             <pubDate>Wed, 23 Feb 2022 01:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_166/BXbKS_1645578978710xmYTo_JPEG/1645578969491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://tv.naver.com/v/25293631</link>
             <guid>https://tv.naver.com/v/25293631</guid>
             <pubDate>Wed, 23 Feb 2022 01:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_139/YuRh2_1645578432575UETEV_JPEG/98d2ee88-9444-11ec-87d4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +84,7 @@
             <link>https://tv.naver.com/v/25284312</link>
             <guid>https://tv.naver.com/v/25284312</guid>
             <pubDate>Tue, 22 Feb 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220222_234/cWLYw_1645521084447wKyjX_JPEG/2c407175-93bf-11ec-9fe3-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,32 +244,8 @@
             <link>https://tv.naver.com/v/25217892</link>
             <guid>https://tv.naver.com/v/25217892</guid>
             <pubDate>Fri, 18 Feb 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220218_164/lgtkX_1645174309955zimVw_JPEG/ad53bb58-9097-11ec-8cf9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그 남자는 타이타닉을 보고 싶지 않았다' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25217640</link>
-            <guid>https://tv.naver.com/v/25217640</guid>
-            <pubDate>Fri, 18 Feb 2022 09:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_8/z6bYA_1645173843462x8ETv_JPEG/6dcd2e97-9096-11ec-b145-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인투 더 보이드' 예고편]]></title>
-            <link>https://tv.naver.com/v/25215522</link>
-            <guid>https://tv.naver.com/v/25215522</guid>
-            <pubDate>Fri, 18 Feb 2022 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_76/Ow7V3_1645170034611ssgcX_JPEG/6537b914-908a-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비하인드 컷' 예고편]]></title>
-            <link>https://tv.naver.com/v/25214789</link>
-            <guid>https://tv.naver.com/v/25214789</guid>
-            <pubDate>Fri, 18 Feb 2022 07:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220218_44/kdzL5_1645168249170S5AAS_JPEG/2ef20e97-9088-11ec-a565-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
