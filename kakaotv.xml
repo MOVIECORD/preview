@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:37:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파일럿: 배틀 포 서바이벌> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426560983?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426560983?act=clip</guid>
+            <pubDate>Wed, 23 Feb 2022 03:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv04esi2phpzxr65b7jxo5k3n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202494879%26signature%3DcSKSOjzouKv8WTMWK1eEpFAK0Jk%253D%26ts%3D1645586079" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<역으로 가는 길을 알려줘> 안녕바다 추천영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426537532?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426503572?act=clip</guid>
             <pubDate>Mon, 21 Feb 2022 02:32:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv63ug05ifyzq4reotm89jdb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202317143%26signature%3DFe2x7Ud7TiYIYwJ87xkoJ23WFys%253D%26ts%3D1645408343" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv63ug05ifyzq4reotm89jdb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202317143%26signature%3DFe2x7Ud7TiYIYwJ87xkoJ23WFys%253D%26ts%3D1645408343" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<이상한 나라의 수학자> 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 17 Feb 2022 06:26:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgugpllnglb4pfex9qngdn3c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201980147%26signature%3DQRdUEo76%252Bfw%252Fj%252BjnIucj0eo6WQo%253D%26ts%3D1645071347" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<봉신방> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426407766?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426407766?act=clip</guid>
-            <pubDate>Thu, 17 Feb 2022 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveg524ik21gybr8rr30n5oao%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33201980080%26signature%3DH6jtnLrLIoHY7fypMTgU4%252F0pOWk%253D%26ts%3D1645071280" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
