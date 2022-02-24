@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파일럿: 배틀 포 서바이벌> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426597469?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426597469?act=clip</guid>
+            <pubDate>Thu, 24 Feb 2022 09:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv684nva7mz8w136hox8znr23%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202600581%26signature%3DE7Zya4f1oY7YdPxRsXkKyiQQuWA%253D%26ts%3D1645691781" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나의 히어로 아카데미아 더 무비: 월드 히어로즈 미션> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426587508?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426510724?act=clip</guid>
             <pubDate>Mon, 21 Feb 2022 07:19:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqjlikzibnr3o4en3ywn9gg1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202334708%26signature%3Dqz8zAgOj9FjDVEebmXZ8op%252F1ujw%253D%26ts%3D1645425908" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqjlikzibnr3o4en3ywn9gg1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202334708%26signature%3Dqz8zAgOj9FjDVEebmXZ8op%252F1ujw%253D%26ts%3D1645425908" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피그> 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Feb 2022 02:36:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5of0hvy6tokk5bgurtmrlqe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202056429%26signature%3Dzc1OyWnF5%252BzEKU0FPr56Cxkw4%252Fw%253D%26ts%3D1645147629" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나이트메어 앨리> '전 세계를 홀린 극찬 리뷰' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426429965?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426429965?act=clip</guid>
-            <pubDate>Fri, 18 Feb 2022 02:36:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtxgfgdu6xcatveu5i4qtyoi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202056243%26signature%3DhSHsaXypmMqkyalDSpUnbk5Yfxk%253D%26ts%3D1645147443" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
