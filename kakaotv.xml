@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 06:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시라노> 이동진 X 김윤아 GV 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426689312?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426689312?act=clip</guid>
+            <pubDate>Mon, 28 Feb 2022 06:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva688l89ohfdymk3qb7a53cb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202936479%26signature%3DRs%252Bj4w0LozI4njxc5X3TH1axcHA%253D%26ts%3D1646027679" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<사랑 후의 두 여자> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426687022?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426619234?act=clip</guid>
             <pubDate>Fri, 25 Feb 2022 06:26:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq44e7ch6x40t0klpt546xo0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202678609%26signature%3DJO6LkvnWh4lsaB3U4nv4eJcmj9k%253D%26ts%3D1645769809" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq44e7ch6x40t0klpt546xo0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202678609%26signature%3DJO6LkvnWh4lsaB3U4nv4eJcmj9k%253D%26ts%3D1645769809" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<축복의 집> 개봉 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 22 Feb 2022 02:32:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfdnrijgq9lvuysfvr5rv7id%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202405477%26signature%3DfVOSTrjeY7l2GG5yomgdHWylK3w%253D%26ts%3D1645496677" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<언차티드> 타티 가브리엘 그리팅 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426530644?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426530644?act=clip</guid>
-            <pubDate>Tue, 22 Feb 2022 02:32:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj4gtpoai4hakpyhzp7w88wn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33202404449%26signature%3D%252FJZmhB7IBxfN%252FI6O56Qa9pOy6V0%253D%26ts%3D1645495649" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
