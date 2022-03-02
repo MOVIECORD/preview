@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 01:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하늘의 푸르름을 아는 사람이여' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/25412074</link>
+            <guid>https://tv.naver.com/v/25412074</guid>
+            <pubDate>Wed, 02 Mar 2022 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_268/MTdnZ_1646183686797N0Y0f_JPEG/fbb67b99-99c5-11ec-bcfb-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라스트 드라이버' 예고편]]></title>
             <link>https://tv.naver.com/v/25387101</link>
@@ -236,16 +244,8 @@
             <link>https://tv.naver.com/v/25293769</link>
             <guid>https://tv.naver.com/v/25293769</guid>
             <pubDate>Wed, 23 Feb 2022 01:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_166/BXbKS_1645578978710xmYTo_JPEG/1645578969491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인어전설: 전사의 귀환' 예고편]]></title>
-            <link>https://tv.naver.com/v/25293631</link>
-            <guid>https://tv.naver.com/v/25293631</guid>
-            <pubDate>Wed, 23 Feb 2022 01:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220223_139/YuRh2_1645578432575UETEV_JPEG/98d2ee88-9444-11ec-87d4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
