@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[좋좋소 시즌5 메인 예고편 | 3월 8일 왓챠 공개]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/426788364?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/426788364?act=clip</guid>
+            <pubDate>Fri, 04 Mar 2022 09:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1866284055%2Fthumb%2F20220304181646" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[조인 마이 테이블 | 제주에서 마셔본 예멘 커피에 관한 이야기]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/426772958?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/424365130?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:23:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F942727449%2Fthumb%2F20211201155036" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F942727449%2Fthumb%2F20211201155036" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[〈더블 트러블〉 컬러 티저 영상 | 12월 24일(금) 오후 6시 왓챠 첫공개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1744003638%2Fthumb%2F20210728104744" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[난 좋아하는 사람한테만 잘해줘-_-^ㅣ왓챠 ⟨새빛남고 학생회⟩ㅣ8화 예고편]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/420979951?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/420979951?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F588333448%2Fthumb%2F20210723182724" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
