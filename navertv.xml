@@ -4,15 +4,79 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 07:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 08:26:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['블러디 빌리지' 예고편]]></title>
+            <link>https://tv.naver.com/v/25540547</link>
+            <guid>https://tv.naver.com/v/25540547</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_266/A3aIZ_1646727313953w52ro_JPEG/affba159-9eb7-11ec-b69c-a0369ff94ed0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['웨이크 업' 예고편]]></title>
+            <link>https://tv.naver.com/v/25540434</link>
+            <guid>https://tv.naver.com/v/25540434</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_115/DOqBP_1646727086983k7RCJ_JPEG/465daa92-9eb7-11ec-8ff6-505dac8c385b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['죽음의 숲' 예고편]]></title>
+            <link>https://tv.naver.com/v/25540255</link>
+            <guid>https://tv.naver.com/v/25540255</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_11/eUOQZ_1646726731018XGc4M_JPEG/72ee7801-9eb6-11ec-ab19-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['살인의 공간' 예고편]]></title>
+            <link>https://tv.naver.com/v/25540198</link>
+            <guid>https://tv.naver.com/v/25540198</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_160/VRELB_1646726541573WfDd0_JPEG/f91f25ff-9eb5-11ec-9d42-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라스트 제너럴' 예고편]]></title>
+            <link>https://tv.naver.com/v/25540016</link>
+            <guid>https://tv.naver.com/v/25540016</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_75/TFrB8_1646726130445gKlir_JPEG/bfd3360c-9eb2-11ec-a565-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['죽음의 서약' 예고퍈]]></title>
+            <link>https://tv.naver.com/v/25539444</link>
+            <guid>https://tv.naver.com/v/25539444</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_269/sG0wO_1646724883997x72vh_JPEG/254ca59a-9eb2-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['글래머' 예고편]]></title>
+            <link>https://tv.naver.com/v/25539342</link>
+            <guid>https://tv.naver.com/v/25539342</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_44/FbdXA_1646724667712le4Yl_JPEG/7faebab3-9eb1-11ec-8052-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불 라이더' 예고편]]></title>
+            <link>https://tv.naver.com/v/25539243</link>
+            <guid>https://tv.naver.com/v/25539243</guid>
+            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_258/A5W48_1646724409092wwSim_JPEG/ffea9920-9eb0-11ec-a412-a0369ff95678_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['죽음의 땅' 예고편]]></title>
             <link>https://tv.naver.com/v/25539029</link>
             <guid>https://tv.naver.com/v/25539029</guid>
             <pubDate>Tue, 08 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_44/RuXfW_1646723889601VMPir_JPEG/c8395aa3-9eaf-11ec-a412-a0369ff95678_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +84,7 @@
             <link>https://tv.naver.com/v/25538847</link>
             <guid>https://tv.naver.com/v/25538847</guid>
             <pubDate>Tue, 08 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_87/xViRW_1646723470649a9oGc_JPEG/b6918206-9eae-11ec-9e68-a0369ff9545c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +92,7 @@
             <link>https://tv.naver.com/v/25538692</link>
             <guid>https://tv.naver.com/v/25538692</guid>
             <pubDate>Tue, 08 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_290/uFgvP_1646723089620PX6pK_JPEG/e679695b-9ead-11ec-baa2-a0369ff952f4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +100,7 @@
             <link>https://tv.naver.com/v/25538235</link>
             <guid>https://tv.naver.com/v/25538235</guid>
             <pubDate>Tue, 08 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_196/vJaZC_1646721940039q8dqw_JPEG/1cae16b8-9eab-11ec-bbd8-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +108,7 @@
             <link>https://tv.naver.com/v/25538134</link>
             <guid>https://tv.naver.com/v/25538134</guid>
             <pubDate>Tue, 08 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_127/oBgKt_1646721618276rvcz2_JPEG/74334acc-9eaa-11ec-bcec-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +116,7 @@
             <link>https://tv.naver.com/v/25537786</link>
             <guid>https://tv.naver.com/v/25537786</guid>
             <pubDate>Tue, 08 Mar 2022 06:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[54분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_254/s2Zrm_1646720791830tHBQp_JPEG/96f474aa-9ea8-11ec-bbd8-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +124,7 @@
             <link>https://tv.naver.com/v/25537547</link>
             <guid>https://tv.naver.com/v/25537547</guid>
             <pubDate>Tue, 08 Mar 2022 06:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_251/ULfkG_1646720233687Jeqsx_JPEG/4843ea49-9ea7-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +132,7 @@
             <link>https://tv.naver.com/v/25537438</link>
             <guid>https://tv.naver.com/v/25537438</guid>
             <pubDate>Tue, 08 Mar 2022 06:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_62/VtKeP_16467199395541Odbi_JPEG/3b32623e-9ea6-11ec-9d42-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +140,7 @@
             <link>https://tv.naver.com/v/25532618</link>
             <guid>https://tv.naver.com/v/25532618</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_152/5dAbX_1646705638128Em25j_JPEG/2aa3cf2b-9e85-11ec-ba4e-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +148,7 @@
             <link>https://tv.naver.com/v/25531874</link>
             <guid>https://tv.naver.com/v/25531874</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_104/ZPTcY_1646703617632nQrFl_JPEG/1646703503009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +156,7 @@
             <link>https://tv.naver.com/v/25531573</link>
             <guid>https://tv.naver.com/v/25531573</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_37/arsM6_1646702751201ELx4P_JPEG/91fdf42b-9e7e-11ec-bcec-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +164,7 @@
             <link>https://tv.naver.com/v/25531503</link>
             <guid>https://tv.naver.com/v/25531503</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_280/aHjdL_1646702571750K9goH_JPEG/353f951f-9e7e-11ec-bcec-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +172,7 @@
             <link>https://tv.naver.com/v/25531472</link>
             <guid>https://tv.naver.com/v/25531472</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_242/LhptU_1646702517719pTrOg_JPEG/6e92d65b-9e7d-11ec-8a3e-505dac8c381b_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +180,7 @@
             <link>https://tv.naver.com/v/25519261</link>
             <guid>https://tv.naver.com/v/25519261</guid>
             <pubDate>Mon, 07 Mar 2022 09:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_240/xeEU5_1646643277903AKEyQ_JPEG/10f9a5f7-9df4-11ec-9d42-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +188,7 @@
             <link>https://tv.naver.com/v/25517316</link>
             <guid>https://tv.naver.com/v/25517316</guid>
             <pubDate>Mon, 07 Mar 2022 08:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_146/gsqoj_16466392766979fA26_JPEG/b0949bd2-9dea-11ec-b69c-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +196,7 @@
             <link>https://tv.naver.com/v/25517131</link>
             <guid>https://tv.naver.com/v/25517131</guid>
             <pubDate>Mon, 07 Mar 2022 08:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_4/UZbIx_1646638945751fLTWQ_JPEG/f3865a97-9de6-11ec-a7bf-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -182,70 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 02:42:23 GMT</pubDate>
             <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_168/hH4El_1646618667672WTnTa_JPEG/3d26bfa3-9dba-11ec-b69c-a0369ff94ed0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['저널 포 조던' 예고편]]></title>
-            <link>https://tv.naver.com/v/25507895</link>
-            <guid>https://tv.naver.com/v/25507895</guid>
-            <pubDate>Mon, 07 Mar 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_222/kB3lo_1646617649158V0KRP_JPEG/6eafa285-9db8-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['블랙라이트' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25507716</link>
-            <guid>https://tv.naver.com/v/25507716</guid>
-            <pubDate>Mon, 07 Mar 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_209/bNT8M_1646617043753OBMU2_JPEG/bc4bde5b-9db6-11ec-b19d-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['복지식당' 런칭 예고편]]></title>
-            <link>https://tv.naver.com/v/25469366</link>
-            <guid>https://tv.naver.com/v/25469366</guid>
-            <pubDate>Fri, 04 Mar 2022 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_274/AOV0E_1646378263833PsAP4_JPEG/cccad6f9-9b8a-11ec-bbd8-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['B컷' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25468739</link>
-            <guid>https://tv.naver.com/v/25468739</guid>
-            <pubDate>Fri, 04 Mar 2022 07:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_186/jFBNf_1646376966941UDlup_JPEG/d9fc8dc0-9b87-11ec-ba4e-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/25467985</link>
-            <guid>https://tv.naver.com/v/25467985</guid>
-            <pubDate>Fri, 04 Mar 2022 06:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_50/62LzT_16463749654877WX21_JPEG/57a8966d-9b83-11ec-bcec-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매미소리' 다시래기 무삭제 예고편]]></title>
-            <link>https://tv.naver.com/v/25466885</link>
-            <guid>https://tv.naver.com/v/25466885</guid>
-            <pubDate>Fri, 04 Mar 2022 06:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_210/IKIfR_1646371996423Idqyi_JPEG/1646371943967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['매미소리' 감독&셀럽 추천영상]]></title>
-            <link>https://tv.naver.com/v/25466753</link>
-            <guid>https://tv.naver.com/v/25466753</guid>
-            <pubDate>Fri, 04 Mar 2022 06:26:47 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_152/eHvSN_1646371724163Wfys2_JPEG/1646371688832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이상한 나라의 수학자' 멜로망스 X 이상한 나라의 수학자 - '하나의 답' MV]]></title>
-            <link>https://tv.naver.com/v/25464021</link>
-            <guid>https://tv.naver.com/v/25464021</guid>
-            <pubDate>Fri, 04 Mar 2022 03:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_175/mdX7i_1646362674892uh6wD_JPEG/fd48c77e-9b65-11ec-94fc-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
