@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 금빛 모자이크: 땡큐!!> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/426879883?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/426879883?act=clip</guid>
+            <pubDate>Tue, 08 Mar 2022 09:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm7jsm6z5a2brmjs9m5vcg9b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203637516%26signature%3DJoOFsFRmFE1%252Foz4d87WANCQQvDc%253D%26ts%3D1646728716" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<유나이티드 웨이 맨체스터의 심장> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/426877978?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426788054?act=clip</guid>
             <pubDate>Fri, 04 Mar 2022 09:20:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveruwerkv5bwn54ibgtcwg0n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203293173%26signature%3D4z4Gi6G4zV%252BdIA9mpPFNsVOXhKA%253D%26ts%3D1646384373" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveruwerkv5bwn54ibgtcwg0n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203293173%26signature%3D4z4Gi6G4zV%252BdIA9mpPFNsVOXhKA%253D%26ts%3D1646384373" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<모비우스> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 02 Mar 2022 08:26:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5yc5lres8342npohhbit548%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203116328%26signature%3DOUsRwUAsRnMj5M%252FPF83ARYLs2C4%253D%26ts%3D1646207528" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아이스 에이지: 벅의 대모험> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426737254?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426737254?act=clip</guid>
-            <pubDate>Wed, 02 Mar 2022 06:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr59ah4t2o4qpeb14lyu0rc1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203109751%26signature%3Db%252BnRAW%252BPnAuWQ83dQDhId9uzMHo%253D%26ts%3D1646200951" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
