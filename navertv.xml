@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 01:36:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:50:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유어 러브 송' 가가연 한국개봉 축하 영상]]></title>
+            <link>https://tv.naver.com/v/25564258</link>
+            <guid>https://tv.naver.com/v/25564258</guid>
+            <pubDate>Thu, 10 Mar 2022 02:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_136/y4weF_1646876244824EppmH_JPEG/6359608d-a012-11ec-bef7-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전설의 텍사스 일공주' 예고편]]></title>
             <link>https://tv.naver.com/v/25541240</link>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/25532618</link>
             <guid>https://tv.naver.com/v/25532618</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_152/5dAbX_1646705638128Em25j_JPEG/2aa3cf2b-9e85-11ec-ba4e-505dac8c3607_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/25531874</link>
             <guid>https://tv.naver.com/v/25531874</guid>
             <pubDate>Tue, 08 Mar 2022 02:38:36 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_104/ZPTcY_1646703617632nQrFl_JPEG/1646703503009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 03:22:24 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_140/LFkX4_1646621433454QAOCi_JPEG/1646621429772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/25508577</link>
-            <guid>https://tv.naver.com/v/25508577</guid>
-            <pubDate>Mon, 07 Mar 2022 02:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_204/3BsM5_1646619563769AHRph_JPEG/b94bd5d9-9dbc-11ec-ab19-d4f5ef5906a4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
