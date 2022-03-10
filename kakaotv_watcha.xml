@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조인 마이 테이블ㅣ메인 예고편ㅣ왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/426920009?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/426920009?act=clip</guid>
+            <pubDate>Thu, 10 Mar 2022 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2071225314%2Fthumb%2F20220310153914" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[좋좋소 시즌5 메인 예고편 | 3월 8일 왓챠 공개]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/426788364?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/424365407?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:23:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhe1vu6ghtgw4spc8h5nlsbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33195250763%26signature%3DggZS4tB%252BrjuGDj%252Byunpw%252B4bXua4%253D" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhe1vu6ghtgw4spc8h5nlsbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33195250763%26signature%3DggZS4tB%252BrjuGDj%252Byunpw%252B4bXua4%253D" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[귀멸의 칼날 2기 환락의 거리편 12월 7일 공개 | 왓챠]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F68587261%2Fthumb%2F20210728160620" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[짝사랑인데 심지어 걔는 나를 싫어한다ㅣ왓챠 ⟨새빛남고 학생회⟩10화 예고편]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/421090170?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/421090170?act=clip</guid>
-            <pubDate>Sat, 18 Sep 2021 17:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1744003638%2Fthumb%2F20210728104744" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
