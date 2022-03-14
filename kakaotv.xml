@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:35:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:39:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<벨파스트> 가족의 탄생 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427010646?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427010646?act=clip</guid>
+            <pubDate>Mon, 14 Mar 2022 05:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4hse5mp8n0aniecykt746hk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204143617%26signature%3D4Pd3ALgOTepvCGPlXVVewBTkQxM%253D%26ts%3D1647234817" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<늑대들> 뮤직비디오]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427008467?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/426915375?act=clip</guid>
             <pubDate>Thu, 10 Mar 2022 04:28:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7w1kxiiuhirtklmmgk9yp01%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203787712%26signature%3D%252FDB0UGV1YOQ6%252BOVKVX0fTtwu2YY%253D%26ts%3D1646878912" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7w1kxiiuhirtklmmgk9yp01%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203787712%26signature%3D%252FDB0UGV1YOQ6%252BOVKVX0fTtwu2YY%253D%26ts%3D1646878912" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스텔라> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Mar 2022 02:42:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpq9pp7t4ayeen4egxpwxu28%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203529050%26signature%3DAlDTT2jVViLA1V3Ifc9JxmX1gkc%253D%26ts%3D1646620250" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<이상한 나라의 수학자> 셀럽 강력추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/426847251?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/426847251?act=clip</guid>
-            <pubDate>Mon, 07 Mar 2022 02:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva33oxed8dlmfs5tq1l6obzb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33203528965%26signature%3Dauvv7j5gbNNdC3jGmy2N5k9OPB8%253D%26ts%3D1646620165" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
