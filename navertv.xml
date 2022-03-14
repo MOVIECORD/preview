@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 01:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 02:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['앰뷸런스' LA 도심 질주 영상]]></title>
+            <link>https://tv.naver.com/v/25629018</link>
+            <guid>https://tv.naver.com/v/25629018</guid>
+            <pubDate>Mon, 14 Mar 2022 02:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_269/g0tjs_1647221653559uwriS_JPEG/adac1537-a336-11ec-a12c-505dac8c3721_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['모비우스' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/25628916</link>
+            <guid>https://tv.naver.com/v/25628916</guid>
+            <pubDate>Mon, 14 Mar 2022 02:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_112/QoHTs_1647221294205KK4g9_JPEG/dd3e8959-a335-11ec-87d4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모비우스' 안티 히어로 탄생 영상]]></title>
             <link>https://tv.naver.com/v/25593715</link>
@@ -84,7 +100,7 @@
             <link>https://tv.naver.com/v/25585945</link>
             <guid>https://tv.naver.com/v/25585945</guid>
             <pubDate>Fri, 11 Mar 2022 02:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_215/wZyyd_1646966485549bQQIP_JPEG/7a9ade30-a0e4-11ec-a12c-505dac8c3721_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://tv.naver.com/v/25584589</link>
             <guid>https://tv.naver.com/v/25584589</guid>
             <pubDate>Fri, 11 Mar 2022 01:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_293/txmcY_16469621663899GGKs_JPEG/85baf6e6-a0da-11ec-94fc-505dac8c3639_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +204,7 @@
             <link>https://tv.naver.com/v/25564258</link>
             <guid>https://tv.naver.com/v/25564258</guid>
             <pubDate>Thu, 10 Mar 2022 02:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_136/y4weF_1646876244824EppmH_JPEG/6359608d-a012-11ec-bef7-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_160/VRELB_1646726541573WfDd0_JPEG/f91f25ff-9eb5-11ec-9d42-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라스트 제너럴' 예고편]]></title>
-            <link>https://tv.naver.com/v/25540016</link>
-            <guid>https://tv.naver.com/v/25540016</guid>
-            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_75/TFrB8_1646726130445gKlir_JPEG/bfd3360c-9eb2-11ec-a565-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['죽음의 서약' 예고퍈]]></title>
-            <link>https://tv.naver.com/v/25539444</link>
-            <guid>https://tv.naver.com/v/25539444</guid>
-            <pubDate>Tue, 08 Mar 2022 08:26:18 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_269/sG0wO_1646724883997x72vh_JPEG/254ca59a-9eb2-11ec-aea6-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
