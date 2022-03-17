@@ -4,23 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에펠' 에펠타워 메이킹영상]]></title>
+            <link>https://tv.naver.com/v/25701982</link>
+            <guid>https://tv.naver.com/v/25701982</guid>
+            <pubDate>Thu, 17 Mar 2022 06:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_255/p2W4s_1647497948747qsJNm_JPEG/d939cfe1-a5b9-11ec-9fd0-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어거스트 버진' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/25700399</link>
             <guid>https://tv.naver.com/v/25700399</guid>
-            <pubDate>Thu, 17 Mar 2022 05:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <pubDate>Thu, 17 Mar 2022 06:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_166/uGbMQ_1647493823709qL90U_JPEG/6b42f4b2-a5b0-11ec-93d6-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['불도저에 탄 소녀' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/25699804</link>
             <guid>https://tv.naver.com/v/25699804</guid>
-            <pubDate>Thu, 17 Mar 2022 05:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <pubDate>Thu, 17 Mar 2022 06:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_285/G0C9h_1647492070064m7ipj_JPEG/2eda777a-a5ac-11ec-9e1a-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/25697581</link>
             <guid>https://tv.naver.com/v/25697581</guid>
             <pubDate>Thu, 17 Mar 2022 02:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_81/PzWpE_1647485007663ui2Xv_JPEG/a8dfb68a-a59b-11ec-a1ea-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/25696998</link>
             <guid>https://tv.naver.com/v/25696998</guid>
             <pubDate>Thu, 17 Mar 2022 02:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_249/G74ld_1647483561298IxEzP_JPEG/965f1075-a597-11ec-bc77-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Mar 2022 01:27:14 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_117/dldpj_16473066385604t1O3_PNG/1647306635710.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['섹스 스캔들' 예고편]]></title>
-            <link>https://tv.naver.com/v/25634301</link>
-            <guid>https://tv.naver.com/v/25634301</guid>
-            <pubDate>Mon, 14 Mar 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_99/at8n3_1647239061385nNciX_JPEG/3c53ad77-a35f-11ec-963f-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
