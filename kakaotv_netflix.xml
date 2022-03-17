@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 01:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 히야마 켄타로의 임신 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/427082777?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/427082777?act=clip</guid>
+            <pubDate>Thu, 17 Mar 2022 01:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F61860413%2Fthumb%2F20220317101005" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《엘리트들》 시즌 5 | 공개 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/427082776?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/427082776?act=clip</guid>
+            <pubDate>Thu, 17 Mar 2022 01:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1557364279%2Fthumb%2F20220317100854" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 타이거 앤 버니 2 | 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/427010922?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/426504018?act=clip</guid>
             <pubDate>Mon, 21 Feb 2022 02:32:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2065074101%2Fthumb%2F20220221110850" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2065074101%2Fthumb%2F20220221110850" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 신 테르마이 로마이 | 공식 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/426381572?act=clip</guid>
             <pubDate>Wed, 16 Feb 2022 05:19:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F309273752%2Fthumb%2F20220216135034" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F309273752%2Fthumb%2F20220216135034" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 조각들 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 20 Jan 2022 08:25:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1718295761%2Fthumb%2F20220120151445" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 톨 걸 2 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/425721018?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/425721018?act=clip</guid>
-            <pubDate>Thu, 20 Jan 2022 08:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F930111134%2Fthumb%2F20220120151556" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/425697205?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/425697205?act=clip</guid>
-            <pubDate>Wed, 19 Jan 2022 10:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053333057%2Fthumb%2F20220119165348" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
