@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 03:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<내가 처음으로 사랑한 소녀> M/V]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427210828?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427210828?act=clip</guid>
+            <pubDate>Mon, 21 Mar 2022 04:28:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgd5htfr0h630mlrta2hqgt2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204743827%26signature%3DUYd8JosFsmTITZ6q9Y7d8C5%252FI40%253D%26ts%3D1647835027" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<세븐틴 파워 오브 러브 : 더 무비> 스크린X 예고편(박수)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427204878?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427083819?act=clip</guid>
             <pubDate>Thu, 17 Mar 2022 02:44:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdcv051qrf4ln0k3e74o7wmq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204390707%26signature%3D7uf8Ye34EHDFCqckmwrlrNsRdoo%253D%26ts%3D1647481907" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdcv051qrf4ln0k3e74o7wmq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204390707%26signature%3D7uf8Ye34EHDFCqckmwrlrNsRdoo%253D%26ts%3D1647481907" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리디밍 러브> 로맨스 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 15 Mar 2022 02:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1389992039%2Fthumb%2F20220315112008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<도어맨> 반전 일상 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427034566?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427034566?act=clip</guid>
-            <pubDate>Tue, 15 Mar 2022 02:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzlpw9lzkq1nd55u8y5bbru0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204219335%26signature%3D9eJdl2c3N0C6vE%252FOWg3eBH6ipHg%253D%26ts%3D1647310535" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
