@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<리디밍 러브>  마이클 캐릭터 비하인드 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427246557?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427246557?act=clip</guid>
+            <pubDate>Tue, 22 Mar 2022 02:55:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1501647153%2Fthumb%2F20220322112957" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<리디밍 러브> 뮤직 비디오]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427246553?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427107609?act=clip</guid>
             <pubDate>Fri, 18 Mar 2022 01:36:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvefkl3tqbyjrnytcdpohe76z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204472278%26signature%3D04rD57DUpnDmW87aBXCqMmVtQkg%253D%26ts%3D1647563478" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvefkl3tqbyjrnytcdpohe76z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204472278%26signature%3D04rD57DUpnDmW87aBXCqMmVtQkg%253D%26ts%3D1647563478" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뱅드림! 팝핀' 드림!> Poppin' Party 성장스토리]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Mar 2022 04:28:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviktnwxqucpwkpuewh803mip%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204310572%26signature%3D%252Bu1vXnaqOsfJxa4lsrwkgV0aFFI%253D%26ts%3D1647401772" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<코로나 이펙트> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427042047?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427042047?act=clip</guid>
-            <pubDate>Wed, 16 Mar 2022 01:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4bqw5addkcxzh1vq5znvj5k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204299218%26signature%3DklhulnbX69qWfyN4j8n8tShjF10%253D%26ts%3D1647390418" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
