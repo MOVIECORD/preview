@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:29:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<모비우스> 자레드 레토 “많.관.부” 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427488349?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427488349?act=clip</guid>
+            <pubDate>Mon, 28 Mar 2022 08:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzvhhwwx91cfurv6n3eiactk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205363424%26signature%3DAreQ%252BOKwCtYBF5WK50QMsIF6xs8%253D%26ts%3D1648454624" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<우크라이나 항전> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427483813?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427360773?act=clip</guid>
             <pubDate>Fri, 25 Mar 2022 01:37:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl6c3xv6liz1npnbhw9guunt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205076804%26signature%3DOhThimJIDH5F4vL%252Fh6go8m4HqPc%253D%26ts%3D1648168004" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl6c3xv6liz1npnbhw9guunt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205076804%26signature%3DOhThimJIDH5F4vL%252Fh6go8m4HqPc%253D%26ts%3D1648168004" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<봄날> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 22 Mar 2022 03:30:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2107839654%2Fthumb%2F20220322122626" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뜨거운 피> 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427250929?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427250929?act=clip</guid>
-            <pubDate>Tue, 22 Mar 2022 03:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1174832951%2Fthumb%2F20220322122446" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
