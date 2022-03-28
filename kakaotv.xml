@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 01:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<할머니 로드> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427473715?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427473715?act=clip</guid>
+            <pubDate>Mon, 28 Mar 2022 01:49:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs12jg24ui3mo1yil8mogmfl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205340576%26signature%3DC0A%252F%252BF5Vcp9irD52wStfu6a6J34%253D%26ts%3D1648431776" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<브레이브 솔져스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427377825?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427339810?act=clip</guid>
             <pubDate>Thu, 24 Mar 2022 04:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794043085%2Fthumb%2F20220324123931" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794043085%2Fthumb%2F20220324123931" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스펜서> 관객 강력 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 22 Mar 2022 01:40:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqm59ehyffdl65mipj7bolw0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204817654%26signature%3D51we5hCs1UjyHZgRiVen13wbOMU%253D%26ts%3D1647908854" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<몸 값> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427218066?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427218066?act=clip</guid>
-            <pubDate>Mon, 21 Mar 2022 09:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvov0h2bbed1wjm21ryx5wjsa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204762506%26signature%3DDn%252FKnd0ND004Du23JqA7WeDr5%252Bk%253D%26ts%3D1647853706" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
