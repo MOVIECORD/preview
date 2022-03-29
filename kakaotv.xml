@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<태어나길 잘했어> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427527036?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427527036?act=clip</guid>
+            <pubDate>Tue, 29 Mar 2022 08:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcewiquh7uk939zdctorgl7s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205448553%26signature%3Debp1BTgvze6aIyF%252FwW%252BO9lZ92js%253D%26ts%3D1648539753" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<신비한 동물들과 덤블도어의 비밀> [스페셜 영상] 덤블도어의 첫 번째 군대]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427522421?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427377225?act=clip</guid>
             <pubDate>Fri, 25 Mar 2022 08:26:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva00gdd21y35e2nhkqrzoix6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205104882%26signature%3DCbJ7TqQOgslob%252FNB6yNRyQ%252FaCgE%253D%26ts%3D1648196082" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva00gdd21y35e2nhkqrzoix6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205104882%26signature%3DCbJ7TqQOgslob%252FNB6yNRyQ%252FaCgE%253D%26ts%3D1648196082" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<수퍼 소닉2> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Mar 2022 01:37:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd11z7g3ut5kbob6aekt4a6m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204933264%26signature%3DF0B%252FpLSzvYcCwfTzil3KyZybBIk%253D%26ts%3D1648024464" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[< 토르 : 마법검의 전설> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427314018?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427314018?act=clip</guid>
-            <pubDate>Fri, 25 Mar 2022 01:37:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1pknobfhqxqetj9s54vj8lk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33204933250%26signature%3Dnl4eqHdpCGvKk0aMoXo20WIlx3M%253D%26ts%3D1648024450" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
