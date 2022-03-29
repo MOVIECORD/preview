@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['태어나길 잘했어' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/25920803</link>
+            <guid>https://tv.naver.com/v/25920803</guid>
+            <pubDate>Tue, 29 Mar 2022 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_199/3XoQN_1648544462484rIHJ3_JPEG/ab4a77fa-af3e-11ec-9b7b-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 흥미로운 메이킹 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/25917866</link>
             <guid>https://tv.naver.com/v/25917866</guid>
             <pubDate>Tue, 29 Mar 2022 07:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_119/e8I62_1648537876863fzrvC_JPEG/f9407450-af2e-11ec-bc38-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/25899990</link>
             <guid>https://tv.naver.com/v/25899990</guid>
             <pubDate>Mon, 28 Mar 2022 10:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_250/auf7L_1648459846980TBeDJ_JPEG/aba3b08e-ae79-11ec-931f-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/25899492</link>
             <guid>https://tv.naver.com/v/25899492</guid>
             <pubDate>Mon, 28 Mar 2022 09:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_225/bEZEr_1648458591963ENXgg_JPEG/87bdced5-ae76-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 08:26:21 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_15/ZojXs_1648107018419V6fHM_JPEG/090ee6df-ab44-11ec-9b7b-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['팔마' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/25829985</link>
-            <guid>https://tv.naver.com/v/25829985</guid>
-            <pubDate>Thu, 24 Mar 2022 07:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_241/XRYbR_1648105582188LhBrY_PNG/1648105559638.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<태어나길 잘했어> 메인 예고편 (우리 영화 볼래?)]]></title>
