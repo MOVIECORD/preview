@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아이다 레드> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427610223?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427610223?act=clip</guid>
+            <pubDate>Fri, 01 Apr 2022 08:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F179867413%2Fthumb%2F20220401163103" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아메리칸 저스티스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427607637?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427575442?act=clip</guid>
             <pubDate>Thu, 31 Mar 2022 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F263620564%2Fthumb%2F20220331113640" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F263620564%2Fthumb%2F20220331113640" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<팔마> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 29 Mar 2022 04:28:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4vd9a60g00qeiyynzpx3vqj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205436805%26signature%3DWBJt8bpCwqRgNqWQOgc9h5JiTWw%253D%26ts%3D1648528005" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<루이스 웨인: 사랑을 그린 고양이 화가> 흥미로운 메이킹 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427518030?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427518030?act=clip</guid>
-            <pubDate>Tue, 29 Mar 2022 01:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveagb9egvbapqxre2cu4cry0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205425034%26signature%3DoJBh8hPZdhSc%252FZQloyj9F%252FdLnNs%253D%26ts%3D1648516234" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
