@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 23:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 01:53:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우크라이나 항전' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/26019219</link>
+            <guid>https://tv.naver.com/v/26019219</guid>
+            <pubDate>Mon, 04 Apr 2022 01:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_228/SYQo8_1649035405747GPURk_JPEG/cbd287d7-b3b4-11ec-88d2-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['닥터 스트레인지: 대혼돈의 멀티버스' 60초 예고편]]></title>
+            <link>https://tv.naver.com/v/26019085</link>
+            <guid>https://tv.naver.com/v/26019085</guid>
+            <pubDate>Mon, 04 Apr 2022 01:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[39분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_79/oL8zp_1649034758946aloWc_JPEG/bd5138d7-b3b2-11ec-b1ad-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['청킹맨션' 예고편]]></title>
             <link>https://tv.naver.com/v/25984453</link>
@@ -108,7 +124,7 @@
             <link>https://tv.naver.com/v/25972439</link>
             <guid>https://tv.naver.com/v/25972439</guid>
             <pubDate>Fri, 01 Apr 2022 01:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_280/yHiqW_1648777558253zoDsI_JPEG/3535687b-b15d-11ec-a0dc-d4f5ef5a9532_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +196,7 @@
             <link>https://tv.naver.com/v/25949183</link>
             <guid>https://tv.naver.com/v/25949183</guid>
             <pubDate>Thu, 31 Mar 2022 01:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_136/ACVMW_1648688994667Dx9ke_JPEG/01f666a7-b08f-11ec-9e39-505dac8c385b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 09:21:42 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_65/3uVth_1648605592391IsGLP_JPEG/ab4a77fa-af3e-11ec-9b7b-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['루이스 웨인: 사랑을 그린 고양이 화가' 흥미로운 메이킹 영상]]></title>
-            <link>https://tv.naver.com/v/25917866</link>
-            <guid>https://tv.naver.com/v/25917866</guid>
-            <pubDate>Tue, 29 Mar 2022 07:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_119/e8I62_1648537876863fzrvC_JPEG/f9407450-af2e-11ec-bc38-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아들의 여친 아빠의 여친Ⅱ' 예고편]]></title>
-            <link>https://tv.naver.com/v/25911891</link>
-            <guid>https://tv.naver.com/v/25911891</guid>
-            <pubDate>Tue, 29 Mar 2022 03:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_253/2DuMF_164852067265071Ohv_JPEG/46bd851f-af07-11ec-be97-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
