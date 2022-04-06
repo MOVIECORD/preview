@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 05:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 06:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신비한 동물들과 덤블도어의 비밀> 글로벌 최초 리뷰]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427738645?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427738645?act=clip</guid>
+            <pubDate>Wed, 06 Apr 2022 06:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcl9u6lnauuulygtjpjhv1kb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206132623%26signature%3DOGOX2b4D%252FZ3TkshrAnvbxJhuB98%253D%26ts%3D1649223823" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<너도 평범하지 않아> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427737796?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427707897?act=clip</guid>
             <pubDate>Tue, 05 Apr 2022 02:59:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvi87ji8d4xrsunu4rlhxot8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206035064%26signature%3DQNuCW%252BVO4Qbzt7Cqj%252F5lrVuPPKw%253D%26ts%3D1649126264" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvi87ji8d4xrsunu4rlhxot8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206035064%26signature%3DQNuCW%252BVO4Qbzt7Cqj%252F5lrVuPPKw%253D%26ts%3D1649126264" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<크로싱 헤네시> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Apr 2022 08:28:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F179867413%2Fthumb%2F20220401163103" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아메리칸 저스티스> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427607637?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427607637?act=clip</guid>
-            <pubDate>Fri, 01 Apr 2022 06:28:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo8lpapz63qiw4uj0qrqwoz4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33205700425%26signature%3DL5Mo5n4L7Qg%252B6I2cx3FqOvawQHY%253D%26ts%3D1648791625" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
