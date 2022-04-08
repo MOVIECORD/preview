@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파리의 피아니스트: 후지코 헤밍의 시간들> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427799191?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427799191?act=clip</guid>
+            <pubDate>Fri, 08 Apr 2022 09:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoq1ygideu9g1hknkw3ynu5e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206317070%26signature%3Di3qz%252B72rfonNhmjsLxbt7qGbT7E%253D%26ts%3D1649408270" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<4월은 너의 거짓말> 사랑의 앙상블 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427796117?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427741015?act=clip</guid>
             <pubDate>Wed, 06 Apr 2022 08:27:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xliry17m3lvst5aimdmjoy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206138638%26signature%3D5qoXBkqJQ9yPK414qqHmg2Bxn84%253D%26ts%3D1649229838" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xliry17m3lvst5aimdmjoy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206138638%26signature%3D5qoXBkqJQ9yPK414qqHmg2Bxn84%253D%26ts%3D1649229838" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<니 부모 얼굴이 보고 싶다> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Apr 2022 02:59:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtsppn7fenif5cwwqndlkz2r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206035453%26signature%3DcPiqDbZOkGDbPADvywoz9d88fPQ%253D%26ts%3D1649126653" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<해양천국> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427707980?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427707980?act=clip</guid>
-            <pubDate>Tue, 05 Apr 2022 02:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv69f30czi4dn9s9zdn6tkg8f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206035277%26signature%3D6jg3z%252Bbtm74MaxsY4gblJ02TZqA%253D%26ts%3D1649126477" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
