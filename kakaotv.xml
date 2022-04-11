@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 03:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 04:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<피는 물보다 진하다> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427867705?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427867705?act=clip</guid>
+            <pubDate>Mon, 11 Apr 2022 04:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbu3vvdk9t8hspf84f6f60xf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206558150%26signature%3DTx5JDvsFR0q%252F5j6tCAVEgcr27Jk%253D%26ts%3D1649649350" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<로스트 시티> 히어로는 처음이지? 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427864518?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427760172?act=clip</guid>
             <pubDate>Thu, 07 Apr 2022 01:42:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F973476446%2Fthumb%2F20220407102541" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F973476446%2Fthumb%2F20220407102541" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<내가 처음으로 사랑한 소녀> 배우 인터뷰 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Apr 2022 07:21:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxipdgf6i5xnhjsj1ljhayof%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206049535%26signature%3DN%252BFj8gH3ANZn12Zgjx2zIC%252B9mk0%253D%26ts%3D1649140735" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<수퍼 소닉2> 미래소년 추천영상 (Full ver.)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427712874?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427712874?act=clip</guid>
-            <pubDate>Tue, 05 Apr 2022 07:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp5o1deorx1c6xncb7zr8qok%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206049162%26signature%3DrGFIdtJubY1zdw95yQk0A3PTXLw%253D%26ts%3D1649140362" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
