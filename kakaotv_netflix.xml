@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 08 Apr 2022 01:47:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2146724401%2Fthumb%2F20220407233409" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 안나라수마나라 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/427779485?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/427779485?act=clip</guid>
+            <pubDate>Mon, 11 Apr 2022 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1518285998%2Fthumb%2F20220407224811" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/426915724?act=clip</guid>
             <pubDate>Thu, 10 Mar 2022 02:50:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F604619956%2Fthumb%2F20220310114107" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F604619956%2Fthumb%2F20220310114107" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 셀럽은 회의 중 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 09 Feb 2022 06:25:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1883558742%2Fthumb%2F20220209143356" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 휴먼 리소스 | 공식 클립 영상]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/426208546?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/426208546?act=clip</guid>
-            <pubDate>Wed, 09 Feb 2022 06:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F722503862%2Fthumb%2F20220209143532" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
