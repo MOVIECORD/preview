@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:27:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 중국 길거리에서 설경구와 박해수의 주먹다짐]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/427876273?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/427876273?act=clip</guid>
+            <pubDate>Mon, 11 Apr 2022 10:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1918091083%2Fthumb%2F20220411182747" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 야차 | 배신자는 용서하지 않는 설경구의 자동차 액션 신]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/427799798?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/426915725?act=clip</guid>
             <pubDate>Thu, 10 Mar 2022 02:50:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F855385405%2Fthumb%2F20220310114213" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F855385405%2Fthumb%2F20220310114213" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이브가 노래하는 아담: 라이브 인 애니메이션 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Feb 2022 02:30:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F300459794%2Fthumb%2F20220214104935" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이킹스: 발할라 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/426208547?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/426208547?act=clip</guid>
-            <pubDate>Wed, 09 Feb 2022 06:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1883558742%2Fthumb%2F20220209143356" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
