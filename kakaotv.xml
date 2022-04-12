@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 04:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 05:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신 천녀유혼 2: 원령대전> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427897615?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427897615?act=clip</guid>
+            <pubDate>Tue, 12 Apr 2022 05:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv45e8hd63u6h8www718itgnj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206648931%26signature%3DRmw%252BAEnK3NhowizHbgkHIf2iBkM%253D%26ts%3D1649740131" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<고스팅 글로리아> 감독 개봉 축하 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427894522?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427788552?act=clip</guid>
             <pubDate>Fri, 08 Apr 2022 01:47:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn92q3blg91rllvbtcnfqms1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206290544%26signature%3DX4r2WGUFqWTBHVUeNi6H1tIZF%252Bo%253D%26ts%3D1649381744" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn92q3blg91rllvbtcnfqms1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206290544%26signature%3DX4r2WGUFqWTBHVUeNi6H1tIZF%252Bo%253D%26ts%3D1649381744" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<범죄도시2> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Apr 2022 04:28:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7b1iqwdfmtqjtzf4f7ua0yw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206126454%26signature%3D5dBc7lLoKqXR6SEl7q66%252BkBy1%252FQ%253D%26ts%3D1649217654" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<수퍼 소닉2> 뉴월드 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427732504?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427732504?act=clip</guid>
-            <pubDate>Wed, 06 Apr 2022 01:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuvijn44vwr2igupq7gqjupa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206116579%26signature%3Dibz6g4n0BQicw5QAzIKQTBvtcZk%253D%26ts%3D1649207779" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
