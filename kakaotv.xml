@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 01:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:04:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<고스팅 글로리아> 감독 개봉 축하 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/427894522?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/427894522?act=clip</guid>
+            <pubDate>Tue, 12 Apr 2022 03:04:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F55651640%2Fthumb%2F20220412114027" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<팔마> 천재 떠돌이견 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/427892879?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427787470?act=clip</guid>
             <pubDate>Fri, 08 Apr 2022 01:47:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjgvnu5gdfm0odyy19yf5zws%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206287641%26signature%3DChFmBVkyI4%252Fic%252BPaDLVYdz3aNBY%253D%26ts%3D1649378841" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjgvnu5gdfm0odyy19yf5zws%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206287641%26signature%3DChFmBVkyI4%252Fic%252BPaDLVYdz3aNBY%253D%26ts%3D1649378841" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뮤지컬 킹키부츠 라이브> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Apr 2022 01:45:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuvijn44vwr2igupq7gqjupa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206116579%26signature%3Dibz6g4n0BQicw5QAzIKQTBvtcZk%253D%26ts%3D1649207779" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<배드 가이즈> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427732329?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427732329?act=clip</guid>
-            <pubDate>Wed, 06 Apr 2022 01:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv92h1ix0c1i8jmixrwzlxosf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206116012%26signature%3DHs6R%252BAuEB7SDr%252BSovWVirQGVsWw%253D%26ts%3D1649207212" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
