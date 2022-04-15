@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:28:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['니 부모 얼굴이 보고 싶다' 제작기 영상]]></title>
+            <link>https://tv.naver.com/v/26245897</link>
+            <guid>https://tv.naver.com/v/26245897</guid>
+            <pubDate>Fri, 15 Apr 2022 06:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_256/dmfqQ_1650003241918UoRel_JPEG/e571bf47-bc82-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['늑대들' 최종 예고편]]></title>
+            <link>https://tv.naver.com/v/26245660</link>
+            <guid>https://tv.naver.com/v/26245660</guid>
+            <pubDate>Fri, 15 Apr 2022 06:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_108/UtYWT_1650002730346jQJhD_JPEG/af95dcd4-bc81-11ec-b086-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['써니 시스터즈' 예고편]]></title>
+            <link>https://tv.naver.com/v/26245356</link>
+            <guid>https://tv.naver.com/v/26245356</guid>
+            <pubDate>Fri, 15 Apr 2022 06:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_117/v65Y2_1650002053059YKgmk_JPEG/25df4ee9-bc80-11ec-a12d-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['로스트 시티' 찰떡케미 인터뷰 with 안현모 통역사]]></title>
             <link>https://tv.naver.com/v/26244301</link>
             <guid>https://tv.naver.com/v/26244301</guid>
             <pubDate>Fri, 15 Apr 2022 05:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_227/7J2Tc_164999955230246RiB_JPEG/475afd8c-bc7a-11ec-b086-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/26242973</link>
             <guid>https://tv.naver.com/v/26242973</guid>
             <pubDate>Fri, 15 Apr 2022 05:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_251/T21fl_1649995789183qnoQ5_PNG/1649995750253.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/26240817</link>
             <guid>https://tv.naver.com/v/26240817</guid>
             <pubDate>Fri, 15 Apr 2022 03:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_287/TxQGE_1649989308515oP4H7_PNG/1649989250961.PNG?type=f194_109_blend" length="0" type="image/PNG"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/26239886</link>
             <guid>https://tv.naver.com/v/26239886</guid>
             <pubDate>Fri, 15 Apr 2022 01:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_62/Ti71B_1649986601763F9YvR_JPEG/bf16a1c7-bc5b-11ec-a0e5-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +156,7 @@
             <link>https://tv.naver.com/v/26203696</link>
             <guid>https://tv.naver.com/v/26203696</guid>
             <pubDate>Wed, 13 Apr 2022 06:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_258/zMAdV_16498297879173sPjp_JPEG/2f0772de-baef-11ec-a9d0-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://tv.naver.com/v/26203497</link>
             <guid>https://tv.naver.com/v/26203497</guid>
             <pubDate>Wed, 13 Apr 2022 06:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_39/GqUR7_1649829341296IEWrJ_JPEG/2b5a6565-baee-11ec-b765-d4f5ef5a9532_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://tv.naver.com/v/26203370</link>
             <guid>https://tv.naver.com/v/26203370</guid>
             <pubDate>Wed, 13 Apr 2022 06:28:26 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_57/0DeZy_1649828974863jk012_JPEG/e81967dd-baec-11ec-bdfe-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +196,7 @@
             <link>https://tv.naver.com/v/26182157</link>
             <guid>https://tv.naver.com/v/26182157</guid>
             <pubDate>Tue, 12 Apr 2022 06:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_134/EIrCC_1649744553731j1uab_JPEG/9bacbddf-ba28-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +204,7 @@
             <link>https://tv.naver.com/v/26182030</link>
             <guid>https://tv.naver.com/v/26182030</guid>
             <pubDate>Tue, 12 Apr 2022 06:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_178/N7tPF_1649744209452TkPg8_JPEG/1649744115483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +212,7 @@
             <link>https://tv.naver.com/v/26181165</link>
             <guid>https://tv.naver.com/v/26181165</guid>
             <pubDate>Tue, 12 Apr 2022 06:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_50/nv2nO_1649742448013XS1QC_PNG/1649742443341.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 12 Apr 2022 03:04:21 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_53/kjYnv_1649732558863pOX0X_JPEG/4b749cba-ba0c-11ec-a87a-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파리, 13구' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/26175310</link>
-            <guid>https://tv.naver.com/v/26175310</guid>
-            <pubDate>Tue, 12 Apr 2022 03:04:21 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_132/gZXQr_1649728565121H6YTr_JPEG/3ba74a3d-ba03-11ec-912c-48df379cca40_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앰뷸런스' ‘THANK YOU FOR 마이클 베이’ 스페셜 영상]]></title>
-            <link>https://tv.naver.com/v/26162068</link>
-            <guid>https://tv.naver.com/v/26162068</guid>
-            <pubDate>Mon, 11 Apr 2022 08:27:28 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_134/v4fFn_1649661912898FKpDI_JPEG/7874bfe8-b967-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피는 물보다 진하다' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/26160812</link>
-            <guid>https://tv.naver.com/v/26160812</guid>
-            <pubDate>Mon, 11 Apr 2022 07:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_286/crSoD_1649658675024txSR9_JPEG/b51dc9d4-b960-11ec-b765-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
