@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 컨트랙터> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428055985?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428055985?act=clip</guid>
+            <pubDate>Mon, 18 Apr 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo41xzcjjkbrqnm1im314end%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207168085%26signature%3DEdcGbo90H%252FhWmtP%252Ff0%252BuIndV8qI%253D%26ts%3D1650259285" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<태어나길 잘했어> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428055442?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427956233?act=clip</guid>
             <pubDate>Thu, 14 Apr 2022 08:28:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpg0bm0wpctaae67rawdpiq3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206832599%26signature%3D7706xNnCUwuFffv5NtIIdX%252BUzho%253D%26ts%3D1649923799" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpg0bm0wpctaae67rawdpiq3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206832599%26signature%3D7706xNnCUwuFffv5NtIIdX%252BUzho%253D%26ts%3D1649923799" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<달빛 그림자> 감성 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Apr 2022 04:30:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf030xqxreh4wqz3gm1qymxi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206731145%26signature%3DorDvJ68v8n2RAP%252F1R4KbLG%252F1%252Fds%253D%26ts%3D1649822345" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 귀멸의 칼날: 무한열차편> [재개봉] 더빙 성우 인터뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427919138?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427919138?act=clip</guid>
-            <pubDate>Wed, 13 Apr 2022 01:55:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxby0rvwpiqlzd9ouksjzcpi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206719859%26signature%3Dq195fi3H1C9CSyhTUmh6G8E0uEM%253D%26ts%3D1649811059" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
