@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:29:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아마이아: 뱀파이어 소녀> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428059921?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428059921?act=clip</guid>
+            <pubDate>Mon, 18 Apr 2022 08:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnizimdx9l4hdl98fw3seh34%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207178175%26signature%3DVRnJLnQfaSaGZmp%252BPLr96EwZk1c%253D%26ts%3D1650269375" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 컨트랙터> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428055985?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/427973311?act=clip</guid>
             <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjxg5y0rb0rc1im70poxoifk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206892289%26signature%3DKZ4oulAPOwDLmEeerVEt%252F8MdhSw%253D%26ts%3D1649983489" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjxg5y0rb0rc1im70poxoifk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206892289%26signature%3DKZ4oulAPOwDLmEeerVEt%252F8MdhSw%253D%26ts%3D1649983489" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 컨트랙터> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Apr 2022 04:30:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjjbooz4jfj8nymmde8fy98u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206731470%26signature%3DuQHGu3PgI%252B0aFBmwAQWTmxjYuno%253D%26ts%3D1649822670" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발, 쉐이미> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427922913?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427922913?act=clip</guid>
-            <pubDate>Wed, 13 Apr 2022 04:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf030xqxreh4wqz3gm1qymxi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206731145%26signature%3DorDvJ68v8n2RAP%252F1R4KbLG%252F1%252Fds%253D%26ts%3D1649822345" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
