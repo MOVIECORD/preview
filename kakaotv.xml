@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 05:39:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크로스 더 라인> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428109423?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428109423?act=clip</guid>
+            <pubDate>Wed, 20 Apr 2022 05:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgyp6kg3q9py76wddkzior5v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207340567%26signature%3DCsbEgb%252F9TKz6bupW24Elb4kLPi8%253D%26ts%3D1650431767" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<공기살인> 살인무기의 진실 확인 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428107615?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428077517?act=clip</guid>
             <pubDate>Tue, 19 Apr 2022 02:00:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh5ujnarb6i4v23vmzwozaf8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207240394%26signature%3DHby8SWQHltlKJ8pLlJKicnr15Pc%253D%26ts%3D1650331594" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh5ujnarb6i4v23vmzwozaf8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207240394%26signature%3DHby8SWQHltlKJ8pLlJKicnr15Pc%253D%26ts%3D1650331594" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<로스트 시티> 꿀잼 보장 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8et3hdd10v7eliumlctwei6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206892912%26signature%3DBkv0A9CpPRlU063KT9ToaKVVLqw%253D%26ts%3D1649984112" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<러브 앤 위시> 90초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427973398?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427973398?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8b2o4ppsgomo55qwgpaghly%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206892535%26signature%3DvT%252FVS2fGX916DcU9xTRUmGi8dDw%253D%26ts%3D1649983735" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
