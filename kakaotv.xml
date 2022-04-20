@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:39:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:31:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<퍼스트 러브> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428109870?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428109870?act=clip</guid>
+            <pubDate>Wed, 20 Apr 2022 06:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztfx24m40oknnb3jg6fl2nd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207341990%26signature%3DlPEZqhCFi6MoEg01zrjjprQBhYE%253D%26ts%3D1650433190" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<크로스 더 라인> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428109423?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428077624?act=clip</guid>
             <pubDate>Tue, 19 Apr 2022 02:00:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyg5zal3mhepbhwig07nko5k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207240400%26signature%3DJjSjuAkUkqLcw7mORzCixJLdlXM%253D%26ts%3D1650331600" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyg5zal3mhepbhwig07nko5k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207240400%26signature%3DJjSjuAkUkqLcw7mORzCixJLdlXM%253D%26ts%3D1650331600" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<어부바> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv348r2gbmwg798dwdep4rw96%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206895202%26signature%3DzptqNhfc0rJBLWzJdUX8KwKL4aM%253D%26ts%3D1649986402" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<로스트 시티> 찰떡케미 인터뷰 with 안현모 통역사]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427973510?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427973510?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8et3hdd10v7eliumlctwei6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206892912%26signature%3DBkv0A9CpPRlU063KT9ToaKVVLqw%253D%26ts%3D1649984112" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
