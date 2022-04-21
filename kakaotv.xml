@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 01:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브로커> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428134022?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428134022?act=clip</guid>
+            <pubDate>Thu, 21 Apr 2022 03:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv28g87n3ns34lptyamwmfbe1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207418343%26signature%3Dotsr%252FYYjn6Woof%252B1xLiwapa7xiw%253D%26ts%3D1650509543" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<퍼스트 러브> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428109870?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428078811?act=clip</guid>
             <pubDate>Tue, 19 Apr 2022 03:36:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdpj0s4azcrqzc6jc3qc1r9r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207243073%26signature%3D6vFmTQxPQQaDnzC1b2KBOmMqalU%253D%26ts%3D1650334273" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdpj0s4azcrqzc6jc3qc1r9r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207243073%26signature%3D6vFmTQxPQQaDnzC1b2KBOmMqalU%253D%26ts%3D1650334273" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<닥터 스트레인지: 대혼돈의 멀티버스> 악몽의 멀티버스 60초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Apr 2022 04:42:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdz5nji94ky06vzpa1h2av9t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206903548%26signature%3DO1tvSPThbkzCtec8TBo%252Fc0mD6Og%253D%26ts%3D1649994748" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<니 부모 얼굴이 보고 싶다> 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/427974385?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/427974385?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 01:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv348r2gbmwg798dwdep4rw96%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33206895202%26signature%3DzptqNhfc0rJBLWzJdUX8KwKL4aM%253D%26ts%3D1649986402" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
