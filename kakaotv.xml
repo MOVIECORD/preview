@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 06:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 07:22:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<유투부: 파산자 클럽> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428165334?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428165334?act=clip</guid>
+            <pubDate>Fri, 22 Apr 2022 07:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5e1f0mdm2nq42h8dl8rjye0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207517966%26signature%3D7PupgAfoj7iWRxV5czTop98bY2o%253D%26ts%3D1650609166" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428165137?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428142771?act=clip</guid>
             <pubDate>Thu, 21 Apr 2022 09:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1854533002%2Fthumb%2F20220421175854" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1854533002%2Fthumb%2F20220421175854" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<로스트 시티> '나는 자연인이다' in '로스트 시티']]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 19 Apr 2022 03:36:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdon2t5ezht6ymd0cj7o5abb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207243391%26signature%3DxmrO49J0wwvKkvoiFvvVctZfZ8Q%253D%26ts%3D1650334591" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<몬스터아카데미> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428078952?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428078952?act=clip</guid>
-            <pubDate>Tue, 19 Apr 2022 03:36:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqg5atvvouxytzvxlqaz04m3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207243344%26signature%3DJ98l%252FDaR1Of%252BB0Hj5i2YIpaTXjY%253D%26ts%3D1650334544" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
