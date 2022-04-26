@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:29:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<딜리셔스: 프렌치 레스토랑의 시작> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428268578?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428268578?act=clip</guid>
+            <pubDate>Tue, 26 Apr 2022 08:29:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8g30dzgs7snd6lbdz55lurg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207869695%26signature%3DplIp682Lv4avkStRek1xW6O7zSA%253D%26ts%3D1650960895" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<데스 레이스: 로드 게임> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428263579?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428165137?act=clip</guid>
             <pubDate>Fri, 22 Apr 2022 06:29:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwljt543frw40l9m3ktzs7wu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207517603%26signature%3D76ZQNshb8OezwKDcMjFDBnA2Tv4%253D%26ts%3D1650608803" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwljt543frw40l9m3ktzs7wu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207517603%26signature%3D76ZQNshb8OezwKDcMjFDBnA2Tv4%253D%26ts%3D1650608803" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<웜우드 : 좀비 아포칼립스> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Apr 2022 09:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1854533002%2Fthumb%2F20220421175854" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<로스트 시티> '나는 자연인이다' in '로스트 시티']]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428141629?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428141629?act=clip</guid>
-            <pubDate>Thu, 21 Apr 2022 08:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqadysbh64rzmmslqh9ydxhp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207438376%26signature%3D94Q9GR%252F8rrTlL16kdE4ylyfV2c0%253D%26ts%3D1650529576" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
