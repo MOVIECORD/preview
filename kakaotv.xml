@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 05:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 06:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<데스 레이스: 로드 게임> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428263579?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428263579?act=clip</guid>
+            <pubDate>Tue, 26 Apr 2022 06:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsl6hkd9fyu7p9nips128rt2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207857588%26signature%3Dlf8XmcQl3aa%252FtT%252FBmmQb1h5s4%252Fs%253D%26ts%3D1650948788" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<로스트 시티> 리얼 버라이어티 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428263505?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428164741?act=clip</guid>
             <pubDate>Fri, 22 Apr 2022 06:29:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xwbnvnklz65lbjk1zkxw7m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207516542%26signature%3Dz0G%252B4M0%252B8AhW3D5nQxixZObhMzg%253D%26ts%3D1650607742" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xwbnvnklz65lbjk1zkxw7m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207516542%26signature%3Dz0G%252B4M0%252B8AhW3D5nQxixZObhMzg%253D%26ts%3D1650607742" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<범죄도시2> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Apr 2022 08:30:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqadysbh64rzmmslqh9ydxhp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207438376%26signature%3D94Q9GR%252F8rrTlL16kdE4ylyfV2c0%253D%26ts%3D1650529576" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<몬스터아카데미> 과학실험 안전 수칙 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428141080?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428141080?act=clip</guid>
-            <pubDate>Thu, 21 Apr 2022 08:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnuv1hpq8ae302ec5mfjpsye%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207436659%26signature%3D3xmAE1EdaYe1polaVl7UUiVUCkw%253D%26ts%3D1650527859" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
