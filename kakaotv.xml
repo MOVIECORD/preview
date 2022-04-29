@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 02:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:54:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인연을 긋다> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428340151?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428340151?act=clip</guid>
+            <pubDate>Fri, 29 Apr 2022 03:53:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoufh6xvm22nefgnocsl3cji%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208106869%26signature%3DdHORXuAIs5U7DPhXuyMBHLAbyJA%253D%26ts%3D1651198069" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428339838?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428312605?act=clip</guid>
             <pubDate>Thu, 28 Apr 2022 02:41:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1dm64ycwhy9jtn9fdmlg83m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208016257%26signature%3DUAJyH4rHQRUtMnl8tho45v6hiCw%253D%26ts%3D1651107457" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1dm64ycwhy9jtn9fdmlg83m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208016257%26signature%3DUAJyH4rHQRUtMnl8tho45v6hiCw%253D%26ts%3D1651107457" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<배드 가이즈> 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Apr 2022 08:30:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1rd6j05kxjzdex4jtirntv3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33207780951%26signature%3D06WL73afF2du1EBMGmWJ3X6L8%252B4%253D%26ts%3D1650872151" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<스프링 블라썸> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428236400?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428236400?act=clip</guid>
-            <pubDate>Mon, 25 Apr 2022 04:32:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1286001945%2Fthumb%2F20220425130454" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
