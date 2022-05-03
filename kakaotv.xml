@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<자이언트 스파이더> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428451511?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428451511?act=clip</guid>
+            <pubDate>Tue, 03 May 2022 06:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv8esrvp3g2zgumz63g7selx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208467241%26signature%3DzUkcw76sRG0LMzmkgh9Dvdu1Fzw%253D%26ts%3D1651558441" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<엄마> 두 번째 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428448158?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428418643?act=clip</guid>
             <pubDate>Mon, 02 May 2022 04:12:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsadh59syfapcerd39z2olx8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208366406%26signature%3DIqiQ0L7qwzGgXAz01mTrFNXBF1c%253D%26ts%3D1651457606" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsadh59syfapcerd39z2olx8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208366406%26signature%3DIqiQ0L7qwzGgXAz01mTrFNXBF1c%253D%26ts%3D1651457606" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리터너 : 타임 킬러> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Apr 2022 02:06:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvat1hnsvgnrvl1y0vawhv1p3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208102606%26signature%3Dci9X1KooGBLesp31QDNe0v%252FHmXE%253D%26ts%3D1651193806" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<잭 인 더 박스> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428322594?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428322594?act=clip</guid>
-            <pubDate>Thu, 28 Apr 2022 09:25:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvwoa84ssslcgn76qdr852vy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208044045%26signature%3DiGlH%252FcQuJs0y2fWTqVq718jez0c%253D%26ts%3D1651135245" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
