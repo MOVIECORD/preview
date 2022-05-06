@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['액션동자' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/26632883</link>
+            <guid>https://tv.naver.com/v/26632883</guid>
+            <pubDate>Fri, 06 May 2022 07:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_134/ILm7E_1651819572684pfOj6_JPEG/2ae3d78c-cd08-11ec-b52c-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그대라는기억 연숙씨' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/26632713</link>
+            <guid>https://tv.naver.com/v/26632713</guid>
+            <pubDate>Fri, 06 May 2022 07:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_78/FWEIn_1651819096278EbXAc_JPEG/104f72b6-cd07-11ec-b5d5-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그대라는기억 연숙씨' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/26632581</link>
+            <guid>https://tv.naver.com/v/26632581</guid>
+            <pubDate>Fri, 06 May 2022 07:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[48분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_166/5RP7a_1651818753189Mzbnz_JPEG/3d3983a6-cd06-11ec-b086-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/26605691</link>
@@ -172,7 +196,7 @@
             <link>https://tv.naver.com/v/26581187</link>
             <guid>https://tv.naver.com/v/26581187</guid>
             <pubDate>Tue, 03 May 2022 07:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_47/WkkcB_1651562430980cjUlq_JPEG/68fd5e7d-cab1-11ec-a2ba-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +204,7 @@
             <link>https://tv.naver.com/v/26581111</link>
             <guid>https://tv.naver.com/v/26581111</guid>
             <pubDate>Tue, 03 May 2022 07:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_172/qFPWp_1651562272716yQl1v_JPEG/084fc444-cab1-11ec-8726-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +212,7 @@
             <link>https://tv.naver.com/v/26580922</link>
             <guid>https://tv.naver.com/v/26580922</guid>
             <pubDate>Tue, 03 May 2022 07:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_85/3ZIjf_1651561889100c5b3F_JPEG/fc4e9a57-caaf-11ec-bdfe-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 03 May 2022 03:54:10 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_212/mhjD9_165154512790300mAb_JPEG/156edd25-ca89-11ec-b086-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스프링 블라썸' 뮤직비디오 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26574695</link>
-            <guid>https://tv.naver.com/v/26574695</guid>
-            <pubDate>Tue, 03 May 2022 03:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_203/g1igS_1651544856878YhH6H_PNG/1651544830820.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['봄날' '대한민국 영화인 공감 추천' 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26574527</link>
-            <guid>https://tv.naver.com/v/26574527</guid>
-            <pubDate>Tue, 03 May 2022 03:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_300/E60Cr_165154443493297oyM_JPEG/6cf8e79b-ca87-11ec-861a-505dac8c385b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아메리칸 언더독' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26574029</link>
-            <guid>https://tv.naver.com/v/26574029</guid>
-            <pubDate>Tue, 03 May 2022 02:06:02 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_156/cy0ve_1651543095282UOW8j_JPEG/30cae61d-ca84-11ec-b086-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<플레이그라운드> 30초 예고편 (우리 영화 볼래?)]]></title>
