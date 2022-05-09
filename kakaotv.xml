@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아치의 노래, 정태춘> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428612949?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428612949?act=clip</guid>
+            <pubDate>Mon, 09 May 2022 08:30:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhq03nph0rl6kvykgfu6u1bo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208993320%26signature%3D0CpOGGmNcM9TL1YYU1%252FA2uYZl7c%253D%26ts%3D1652084520" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<허셀프> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428611262?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428524039?act=clip</guid>
             <pubDate>Fri, 06 May 2022 01:56:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0mh45xva08pb64lldf51gsm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208965015%26signature%3D2i1VPpVP8CAUS5yq9q3eLSQ%252BhlM%253D%26ts%3D1652056215" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0mh45xva08pb64lldf51gsm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208965015%26signature%3D2i1VPpVP8CAUS5yq9q3eLSQ%252BhlM%253D%26ts%3D1652056215" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<액션동자> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 May 2022 03:54:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5l14me834hjay74j05xznh5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208539939%26signature%3DQ7Oy16VafinJHlAb%252Ba0CGNytalg%253D%26ts%3D1651631139" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<크로스 더 라인> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428474118?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428474118?act=clip</guid>
-            <pubDate>Wed, 04 May 2022 03:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt4lglnxo16s07q2oj3yevhi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208539607%26signature%3DhzrKv1UhZ8Kns%252BG%252BrvJEhjnvjoI%253D%26ts%3D1651630807" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
