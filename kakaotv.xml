@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 02:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 03:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<애프터 양> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428603573?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428603573?act=clip</guid>
+            <pubDate>Mon, 09 May 2022 03:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1817213798%2Fthumb%2F20220509110957" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<참을 수 없는 무게의 미친능력> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428603478?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428479012?act=clip</guid>
             <pubDate>Wed, 04 May 2022 07:22:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgo5fb18b3refpqons5tn7vh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208552696%26signature%3DF3CS5VDYaQOPZVOWLDKfyaoErTw%253D%26ts%3D1651643896" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgo5fb18b3refpqons5tn7vh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208552696%26signature%3DF3CS5VDYaQOPZVOWLDKfyaoErTw%253D%26ts%3D1651643896" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 03 May 2022 06:28:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv8esrvp3g2zgumz63g7selx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208467241%26signature%3DzUkcw76sRG0LMzmkgh9Dvdu1Fzw%253D%26ts%3D1651558441" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엄마> 두 번째 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428448158?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428448158?act=clip</guid>
-            <pubDate>Tue, 03 May 2022 04:38:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9qirdlf883r8ko0t7zkyv3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208459249%26signature%3DdOHEckSqpreCbbp0Wxrq8Fx%252BfcA%253D%26ts%3D1651550449" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
