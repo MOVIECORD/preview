@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 02:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아치의 노래, 정태춘' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/26687027</link>
+            <guid>https://tv.naver.com/v/26687027</guid>
+            <pubDate>Tue, 10 May 2022 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_27/MuM3K_1652151795266vXF4G_JPEG/7add2bff-d00d-11ec-912c-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['매스' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/26686880</link>
+            <guid>https://tv.naver.com/v/26686880</guid>
+            <pubDate>Tue, 10 May 2022 03:32:29 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_286/hKHca_1652151441950JifeA_PNG/1652151397986.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['허셀프' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/26686730</link>
             <guid>https://tv.naver.com/v/26686730</guid>
             <pubDate>Tue, 10 May 2022 02:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220510_120/TcdpE_1652150995684wYLq4_JPEG/b5156ac9-d00b-11ec-98b3-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/26686053</link>
             <guid>https://tv.naver.com/v/26686053</guid>
             <pubDate>Tue, 10 May 2022 02:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220510_155/YFywu_1652149305261j7itD_JPEG/d542b60e-d007-11ec-861a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/26685950</link>
             <guid>https://tv.naver.com/v/26685950</guid>
             <pubDate>Tue, 10 May 2022 02:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[37분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220510_282/fJKXc_1652148997701sp76T_JPEG/11cb3040-d007-11ec-91f7-d4f5ef58ad5e_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 04 May 2022 06:30:09 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_226/q7sTy_1651642221179tpwpR_JPEG/f509e168-cb6a-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['봉명주공' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26596885</link>
-            <guid>https://tv.naver.com/v/26596885</guid>
-            <pubDate>Wed, 04 May 2022 03:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_277/tOaeZ_1651633725912v7sTX_JPEG/a66deac4-cb56-11ec-b8ef-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헤이팅 게임' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26596757</link>
-            <guid>https://tv.naver.com/v/26596757</guid>
-            <pubDate>Wed, 04 May 2022 03:54:08 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_58/Cs7MC_1651633157872fncGd_JPEG/15df14c3-cb56-11ec-8726-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<민스미트 작전> 스페셜 추천 영상 (우리 영화 볼래?)]]></title>
