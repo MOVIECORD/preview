@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 노비스> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428697018?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428697018?act=clip</guid>
+            <pubDate>Thu, 12 May 2022 09:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3djo3zqrnkrocyn4tjh6m1w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209254768%26signature%3DxkLPyS%252B%252B2C8JUa8c9zQBTwM5azo%253D%26ts%3D1652345968" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<엄마> 지하실의 비밀]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428695792?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428638694?act=clip</guid>
             <pubDate>Tue, 10 May 2022 07:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv50vve4oayll6ykjz05gdw9j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209075056%26signature%3DbtW9VOq29eeqzVO6hQ73jOHV4So%253D%26ts%3D1652166256" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv50vve4oayll6ykjz05gdw9j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209075056%26signature%3DbtW9VOq29eeqzVO6hQ73jOHV4So%253D%26ts%3D1652166256" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<블레이드 퍼피 워리어> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 May 2022 02:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F615570705%2Fthumb%2F20220509105146" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나를 만나는 길> VIP 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428602923?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428602923?act=clip</guid>
-            <pubDate>Mon, 09 May 2022 02:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3aaig00ufhg563sd58fnrdu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208969511%26signature%3DAxL4n0lNs1CG0Y6xrJBlEAniUUw%253D%26ts%3D1652060711" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
