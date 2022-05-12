@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<몬스터 싱어: 매직 인 파리> 뮤직 클립]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428691043?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428691043?act=clip</guid>
+            <pubDate>Thu, 12 May 2022 05:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv610p0066loai87pyszq7k6f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209241111%26signature%3D5BeltqkFSaS9PL%252Fm7R3%252BiZS3vbA%253D%26ts%3D1652332311" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나를 만나는 길> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428689492?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428634387?act=clip</guid>
             <pubDate>Tue, 10 May 2022 04:30:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1745373333%2Fthumb%2F20220510132135" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1745373333%2Fthumb%2F20220510132135" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<민스미트 작전> 스페셜 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 06 May 2022 08:29:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj9fnta9bgiwukomkn4kijd3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208733574%26signature%3Dj3K8fiSpv2OluhaIA4zdTSS3r3g%253D%26ts%3D1651824774" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<장화 신은 고양이> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428533265?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428533265?act=clip</guid>
-            <pubDate>Fri, 06 May 2022 08:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0szttthb1t4jw6vlajvfcta%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208731199%26signature%3D8czhuasTynJoZ2Jj%252BR8bNBzpXSc%253D%26ts%3D1651822399" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
