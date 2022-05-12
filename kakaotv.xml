@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:03:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<지구 최후의 날 2022> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/428685636?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/428685636?act=clip</guid>
+            <pubDate>Thu, 12 May 2022 02:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8juz1y3a009rb9a9fcgqwoa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209226250%26signature%3D%252FaCKiSVSy2Lsjjb9JQZA35fDDss%253D%26ts%3D1652317450" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<DC 리그 오브 슈퍼-펫> 에이스&배트맨 특별 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/428665828?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428631396?act=clip</guid>
             <pubDate>Tue, 10 May 2022 02:53:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvftru4lynyib5uq3we72ar9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209056237%26signature%3DrLt%252FhCaJO1QOEgoXsLjAHgw%252Bap0%253D%26ts%3D1652147437" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvftru4lynyib5uq3we72ar9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209056237%26signature%3DrLt%252FhCaJO1QOEgoXsLjAHgw%252Bap0%253D%26ts%3D1652147437" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피는 물보다 진하다> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 06 May 2022 04:31:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv258z0hpe8nkqujmeaxo8bry%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208715682%26signature%3DEN0L7%252FsoSxf%252Fdfex00KHOgKOq6c%253D%26ts%3D1651806882" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<살인자들의 나라> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428524810?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428524810?act=clip</guid>
-            <pubDate>Fri, 06 May 2022 01:56:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm4xc7b1lbdj3fuetq77jj1y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33208710377%26signature%3DdtGRu39fa4fuTmtBUcroiMkpTpM%253D%26ts%3D1651801577" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
