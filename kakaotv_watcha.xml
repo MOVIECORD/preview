@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[라인업부터 살벌하게 웃긴데ㅋㅋㅋㅋㅋ 웃음 참아야 되는 예능 (헙)ㅣ노키득존ㅣ티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/428695360?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/428695360?act=clip</guid>
+            <pubDate>Thu, 12 May 2022 08:31:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F439739433%2Fthumb%2F20220512165940" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[〈지혜를 빼앗는 도깨비〉 게스트 스포 티징 영상]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/428139777?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/425336325?act=clip</guid>
             <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1297813302%2Fthumb%2F20220105170630" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1297813302%2Fthumb%2F20220105170630" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[〈더블 트러블  2화 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1124493534%2Fthumb%2F20210823171411" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[⟨린다의 가장 완벽한 5개월⟩ 30초 예고편 최초 공개!  |  왓챠 익스클루시브]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/421613296?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/421613296?act=clip</guid>
-            <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F111639572%2Fthumb%2F20210818200113" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
