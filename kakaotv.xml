@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 05:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 06:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<메모리> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429012755?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429012755?act=clip</guid>
+            <pubDate>Tue, 24 May 2022 06:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdwwavi5v4a0fxdf779r9xj1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210280736%26signature%3DZr00XDidUy9aQQ%252FvEPMqFYX0qaY%253D%26ts%3D1653371936" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<선생님, 내 옆에 앉아줄래요?> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429007507?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428859426?act=clip</guid>
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaqul61xksknan6yzz5bhli0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209772928%26signature%3DialqG157nVwwm6AMXXbqj%252FkPD4c%253D%26ts%3D1652864128" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvaqul61xksknan6yzz5bhli0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209772928%26signature%3DialqG157nVwwm6AMXXbqj%252FkPD4c%253D%26ts%3D1652864128" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 헌트: 명예살인> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1610933790%2Fthumb%2F20220516125427" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<배드 럭 뱅잉> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428791971?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428791971?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F608399944%2Fthumb%2F20220516105814" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
