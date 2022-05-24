@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:31:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:25:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<수라의 세계> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429017719?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429017719?act=clip</guid>
+            <pubDate>Tue, 24 May 2022 09:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0dm4tt490c32fvoxqdn312w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210291666%26signature%3DguYgye9BNei5XnbU21F2RFkVfxc%253D%26ts%3D1653382866" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<감동주의보> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429016160?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428878159?act=clip</guid>
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm322ekz3nn0hfb95gahwogm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209835777%26signature%3DPSEcHTx6qjozu5vToDfVxnbT6pE%253D%26ts%3D1652926977" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm322ekz3nn0hfb95gahwogm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209835777%26signature%3DPSEcHTx6qjozu5vToDfVxnbT6pE%253D%26ts%3D1652926977" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<컴온 컴온> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj2c6i7adajn8nzp8gc5g9bw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209594913%26signature%3DRLQsqIDm1%252BlNd35n9CfhtLOaVlM%253D%26ts%3D1652686113" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428797443?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428797443?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvolcsl9ugo95rgjmh89vxo3i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209589692%26signature%3Dl1RU16T4lNavAVsfSedzjFcoFp0%253D%26ts%3D1652680892" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
