@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 07:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 08:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<맨 프롬 헬> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429042489?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429042489?act=clip</guid>
+            <pubDate>Wed, 25 May 2022 08:30:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo5grdkwzd5mcv77xg7fb2mf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210374347%26signature%3DlK33QhkTNgMAGmD%252B1%252BUNgPgZefQ%253D%26ts%3D1653465547" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<쥬라기 월드: 도미니언> 오웬과 블루의 영원한 우정 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429041115?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/428982713?act=clip</guid>
             <pubDate>Tue, 24 May 2022 02:39:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6e1ie1d65s4vsu073yl3vj9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210186830%26signature%3DAiLXHldqDrawArI0iCdvZjYeIzE%253D%26ts%3D1653278030" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6e1ie1d65s4vsu073yl3vj9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210186830%26signature%3DAiLXHldqDrawArI0iCdvZjYeIzE%253D%26ts%3D1653278030" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터DP: 기라티나와 하늘의 꽃다발 쉐이미>  ‘Dear My Friend’ MV]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuyhqfoy58273gbdofoe2pg9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209750155%26signature%3DmO2T4TwBv61hcZpOo2eyLFIlLfk%253D%26ts%3D1652841355" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<레일웨이 히어로즈> 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428848926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428848926?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyv6k53o5rixqb3gcdm0w8rv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209746903%26signature%3DRZulVSRSH%252FpuL4RRLqjgxozpMn4%253D%26ts%3D1652838103" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
