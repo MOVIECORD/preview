@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F626578246%2Fthumb%2F20220523165451" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 초반 8분 영상]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/428980783?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/428980783?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F668670774%2Fthumb%2F20220523113751" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 제니퍼 로페즈: 내 인생의 하프타임 | 공식 예고편]]></title>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428483205?act=clip</guid>
             <pubDate>Sun, 08 May 2022 09:23:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F949970586%2Fthumb%2F20220504172722" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F949970586%2Fthumb%2F20220504172722" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 제작기 영상]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Mon, 11 Apr 2022 01:52:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1518285998%2Fthumb%2F20220407224811" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 야차 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/427688325?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/427688325?act=clip</guid>
+            <pubDate>Thu, 26 May 2022 02:06:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1373555126%2Fthumb%2F20220404164519" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
