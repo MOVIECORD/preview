@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['괴물, 유령, 자유인' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27015313</link>
+            <guid>https://tv.naver.com/v/27015313</guid>
+            <pubDate>Fri, 27 May 2022 05:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_112/VoF7V_1653628753119qseEq_JPEG/77f4d5f2-dd7c-11ec-946a-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['괴물, 유령, 자유인' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27015239</link>
+            <guid>https://tv.naver.com/v/27015239</guid>
+            <pubDate>Fri, 27 May 2022 05:27:09 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_191/FJoej_1653628528935ReAi7_JPEG/28eb6747-dd79-11ec-89b9-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['런앤건' 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/26999491</link>
             <guid>https://tv.naver.com/v/26999491</guid>
             <pubDate>Thu, 26 May 2022 09:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_34/6dn6A_1653556398626iVOBu_JPEG/b3d76318-dcd3-11ec-b77c-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/26994559</link>
             <guid>https://tv.naver.com/v/26994559</guid>
             <pubDate>Thu, 26 May 2022 06:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_202/9MPAf_1653545507723n3vfK_JPEG/7f19d642-dcba-11ec-89b9-d4f5ef5906a4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -232,20 +248,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_145/1KzHs_1653355434333IVztA_PNG/1653355429518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['마녀 2' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26947241</link>
-            <guid>https://tv.naver.com/v/26947241</guid>
-            <pubDate>Tue, 24 May 2022 03:54:47 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_49/WlOK0_1653355154064fuaPG_PNG/1653355129418.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['윤시내가 사라졌다' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/26947165</link>
-            <guid>https://tv.naver.com/v/26947165</guid>
-            <pubDate>Tue, 24 May 2022 02:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_107/2I5KU_1653354869997x1U19_JPEG/acdbd84c-dafe-11ec-974c-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<경아의 딸> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429093595?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429093595?act=clip</guid>
+            <pubDate>Fri, 27 May 2022 05:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv50asma60g0h6gebeky80yzr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210537297%26signature%3DhmzKZJJplRYYrU8nOIsL6vxXCrU%253D%26ts%3D1653628497" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그대가 조국> 텀블벅인사 영상 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429033031?act=clip</guid>
             <pubDate>Wed, 25 May 2022 02:01:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveviet7rtsz58szq6cmsjhij%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210349139%26signature%3DNL%252Bh01WGtCI%252Fii5j82aIaNoiEmI%253D%26ts%3D1653440339" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveviet7rtsz58szq6cmsjhij%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210349139%26signature%3DNL%252Bh01WGtCI%252Fii5j82aIaNoiEmI%253D%26ts%3D1653440339" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<수라의 세계> 예고편 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgrrb7tdl170b4vpgnmlp83y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209916602%26signature%3DrOqE3J99bb3g3L3JTLbfK3AVnzE%253D%26ts%3D1653007802" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<봉명주공> 추천영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/428880073?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/428880073?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcxvr7nbu5ttlofp1fjvwcpd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33209841580%26signature%3Dg9vOlWi0vVZHFKCTu%252F%252FAlaE3ZTA%253D%26ts%3D1652932780" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 기묘한 이야기 정주행 대신 해드립니다 (카카오TV ─ 넷플릭스)]]></title>
