@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:33:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<한산: 용의 출현> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429211101?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429211101?act=clip</guid>
+            <pubDate>Tue, 31 May 2022 09:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt2xpnxmpmo8cpy7qcsdqzz0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210897435%26signature%3DmEAhf87B2nOcMS%252FtAaaNp6Kg6O4%253D%26ts%3D1653988635" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<윤시내가 사라졌다> '셀럽 추천 영상' 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429208693?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429170020?act=clip</guid>
             <pubDate>Mon, 30 May 2022 02:06:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv28qwetw5c6ace5p0lgecgz8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210785475%26signature%3DiPlh%252Febuf2kq3WTpEM63OF6eQL0%253D%26ts%3D1653876675" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv28qwetw5c6ace5p0lgecgz8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210785475%26signature%3DiPlh%252Febuf2kq3WTpEM63OF6eQL0%253D%26ts%3D1653876675" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리미트> 런칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 May 2022 07:23:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9tzp4gfg9ltjpr6x7cqgvqd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210371253%26signature%3Dp8%252FmD1LWq3ELYH4vTYOp9J7Pwao%253D%26ts%3D1653462453" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<애프터 양> Yang’s Memory 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429040632?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429040632?act=clip</guid>
-            <pubDate>Wed, 25 May 2022 07:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbt1b8oj6rb6yzwio1q2ebop%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210370007%26signature%3Dl3UFYqN%252BF4TaoutqUpFaYCwIxw4%253D%26ts%3D1653461207" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
