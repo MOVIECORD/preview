@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 02:05:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최종병기 앨리스｜티저 예고편｜왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/429254903?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/429254903?act=clip</guid>
+            <pubDate>Thu, 02 Jun 2022 04:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1001009054%2Fthumb%2F20220602115456" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[★웃음 참기★참으면 오천만원 보장. 의심말고 클릭!ㅣ노키득존ㅣ30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/428833412?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/425818100?act=clip</guid>
             <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47088995%2Fthumb%2F20220124105856" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47088995%2Fthumb%2F20220124105856" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[좋좋소 시즌4 메인 예고편 | 왓챠 오리지널]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1115603408%2Fthumb%2F20210930164858" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[#헐왓챠에 극장판 귀멸의 칼날 무한열차편 | 90초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/422566665?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/422566665?act=clip</guid>
-            <pubDate>Sat, 23 Apr 2022 06:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F90690699%2Fthumb%2F20210924155700" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
