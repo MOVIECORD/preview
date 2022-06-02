@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 23:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 02:05:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['무명광: 이름없는 무사' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/27106955</link>
+            <guid>https://tv.naver.com/v/27106955</guid>
+            <pubDate>Thu, 02 Jun 2022 02:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[27분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_84/eEX8P_1654133826763GRbsh_JPEG/42f26d67-e214-11ec-9d93-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한산: 용의 출현' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/27084391</link>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/27054821</link>
             <guid>https://tv.naver.com/v/27054821</guid>
             <pubDate>Mon, 30 May 2022 02:06:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_234/pwvMW_1653871847448bkdTC_JPEG/51efb836-dfb2-11ec-8863-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 May 2022 07:31:55 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_170/81bml_16536341567200nagY_JPEG/01058627-dd89-11ec-8e34-505dac8c3721_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['괴물, 유령, 자유인' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/27015313</link>
-            <guid>https://tv.naver.com/v/27015313</guid>
-            <pubDate>Fri, 27 May 2022 05:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_112/VoF7V_1653628753119qseEq_JPEG/77f4d5f2-dd7c-11ec-946a-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
