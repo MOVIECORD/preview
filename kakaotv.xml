@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 04:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 05:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<벰 : 비컴 휴먼> 탄생의 서막 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429283921?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429283921?act=clip</guid>
+            <pubDate>Fri, 03 Jun 2022 05:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvlsn444nqbtc176zro13me5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211140063%26signature%3DnMxz8y6NXCsSwNHwvSMKMbaELdo%253D%26ts%3D1654231263" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<탑건: 매버릭> 레디 액션 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429280363?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429200397?act=clip</guid>
             <pubDate>Tue, 31 May 2022 03:54:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjoi1681hnhfvz96mivnd842%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210872947%26signature%3DISVfO2W%252BSXJBhQMLpzRpXn3Q9BI%253D%26ts%3D1653964147" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjoi1681hnhfvz96mivnd842%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210872947%26signature%3DISVfO2W%252BSXJBhQMLpzRpXn3Q9BI%253D%26ts%3D1653964147" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<플레이그라운드> 배우 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 May 2022 09:24:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1mgn9sr38t5xl5zxbl4qsiz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210550649%26signature%3D93w935OZ%252Bq%252B94pDahc1ujtvnipM%253D%26ts%3D1653641849" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<토르: 러브 앤 썬더> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429098691?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429098691?act=clip</guid>
-            <pubDate>Fri, 27 May 2022 09:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzi3ofkq87zuw01qx0y1h2sg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33210548858%26signature%3DZW3O6UhHuX%252Fv2%252BdJmLKlOaDupdk%253D%26ts%3D1653640058" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
