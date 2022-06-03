@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 01:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429263068?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429263068?act=clip</guid>
+            <pubDate>Fri, 03 Jun 2022 01:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1106264792%2Fthumb%2F20220602174511" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 세븐틴 버논이 리뷰하는 <기묘한 이야기> 시즌 4 | N리뷰]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/429178908?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428659686?act=clip</guid>
             <pubDate>Wed, 11 May 2022 02:03:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1011744602%2Fthumb%2F20220511105900" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1011744602%2Fthumb%2F20220511105900" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 러브, 데스 + 로봇 3부 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 09 Apr 2022 15:23:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1603165456%2Fthumb%2F20220408182159" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 포뮬러 원의 위험천만한 순간들 | F1, 본능의 질주]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/427780638?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/427780638?act=clip</guid>
-            <pubDate>Fri, 08 Apr 2022 01:47:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F800602759%2Fthumb%2F20220407233701" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
