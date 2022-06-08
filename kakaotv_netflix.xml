@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 23:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 01:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,38 @@
             <pubDate>Tue, 07 Jun 2022 23:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F308839296%2Fthumb%2F20220607164354" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429384651?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429384651?act=clip</guid>
+            <pubDate>Wed, 08 Jun 2022 01:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F845222214%2Fthumb%2F20220607114317" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 1899 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429383199?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429383199?act=clip</guid>
+            <pubDate>Wed, 08 Jun 2022 01:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F798759690%2Fthumb%2F20220607103106" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <페이트: 윙스의 전설> 시즌 2 | 퍼스트룩]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429383008?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429383008?act=clip</guid>
+            <pubDate>Wed, 08 Jun 2022 01:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1209612190%2Fthumb%2F20220607102337" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 카케구루이 트윈 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429382770?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429382770?act=clip</guid>
+            <pubDate>Wed, 08 Jun 2022 01:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1924725391%2Fthumb%2F20220607101448" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 | 과거의 트라우마에서 온 진짜 공포]]></title>
@@ -141,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428725841?act=clip</guid>
             <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F484366885%2Fthumb%2F20220513182410" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F484366885%2Fthumb%2F20220513182410" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 바이오하자드: 더 시리즈 | 공식 티저 예고편]]></title>
@@ -149,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428725840?act=clip</guid>
             <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2127347104%2Fthumb%2F20220513182222" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2127347104%2Fthumb%2F20220513182222" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] SPYxFAMILY 스파이 패밀리 | 공식 예고편]]></title>
@@ -157,7 +189,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428685937?act=clip</guid>
             <pubDate>Thu, 12 May 2022 02:03:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2038342451%2Fthumb%2F20220512101804" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2038342451%2Fthumb%2F20220512101804" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 최성은을 향한 츤데레 황인엽의 짝사랑]]></title>
@@ -165,7 +197,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/428660712?act=clip</guid>
             <pubDate>Wed, 11 May 2022 03:54:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F712065494%2Fthumb%2F20220511113514" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F712065494%2Fthumb%2F20220511113514" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 샌들러 주연의 <허슬> | 공식 예고편]]></title>
@@ -294,38 +326,6 @@
             <pubDate>Fri, 15 Apr 2022 04:42:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1139628213%2Fthumb%2F20220415010909" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트스토퍼 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/427968021?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/427968021?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1182828103%2Fthumb%2F20220415010751" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥 시즌2 모집 공고]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/427968020?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/427968020?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F445456987%2Fthumb%2F20220415010700" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 러시아 인형처럼 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/427968019?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/427968019?act=clip</guid>
-            <pubDate>Fri, 15 Apr 2022 04:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F252661493%2Fthumb%2F20220415010521" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥 시즌2 제작 확정]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/427923328?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/427923328?act=clip</guid>
-            <pubDate>Wed, 13 Apr 2022 04:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F694886196%2Fthumb%2F20220413132454" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
