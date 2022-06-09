@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<큐어> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429448747?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429448747?act=clip</guid>
+            <pubDate>Thu, 09 Jun 2022 07:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk4v24z4pxoo3zc4picvjfu4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211666292%26signature%3DInuRNoyCsLrYq3J0V3kNRgJpMz8%253D%26ts%3D1654757492" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<애프터 양> 자이언티 MV]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429448339?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429412503?act=clip</guid>
             <pubDate>Wed, 08 Jun 2022 01:58:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9ghwbmx18mfaq7mju3u6hx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211561698%26signature%3DwN6iM2Q7vV073dxeV1xvk8Im3fU%253D%26ts%3D1654652898" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl9ghwbmx18mfaq7mju3u6hx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211561698%26signature%3DwN6iM2Q7vV073dxeV1xvk8Im3fU%253D%26ts%3D1654652898" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그대라는기억 연숙씨> 포스트잇 리뷰 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 07 Jun 2022 01:57:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbok3pmvm1pzsomcmhv9gada%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211475309%26signature%3DnzEMeiVibPyNW%252BssXFRWOvr3g3Q%253D%26ts%3D1654566509" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 킬러: 죽어도 되는 아이> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429383289?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429383289?act=clip</guid>
-            <pubDate>Tue, 07 Jun 2022 01:57:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjm1tt1axjugd22ujko6hqst%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211474389%26signature%3DvF9LM6kOxqMMQ%252F%252Fi90Ado%252B516%252Fo%253D%26ts%3D1654565589" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
