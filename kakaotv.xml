@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 23:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 01:59:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<놉> 레거시 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429441442?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429441442?act=clip</guid>
+            <pubDate>Thu, 09 Jun 2022 01:59:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz975c7adsmo5wi1r5l2mhzv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211648021%26signature%3DkmtXv3CaPon5%252F1ojMSn6iIajodM%253D%26ts%3D1654739221" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<피의 저격수> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429422493?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429394674?act=clip</guid>
             <pubDate>Tue, 07 Jun 2022 09:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7978yavfhx91m9hqwr7xsi8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211499626%26signature%3Dpn%252BsNg452Rn3A9OZyjLJ6bgH3vA%253D%26ts%3D1654590826" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7978yavfhx91m9hqwr7xsi8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211499626%26signature%3Dpn%252BsNg452Rn3A9OZyjLJ6bgH3vA%253D%26ts%3D1654590826" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<룸 쉐어링> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 03 Jun 2022 01:51:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrkimczja1lkdtu9066bd90n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211128186%26signature%3D70xYJna348yKR%252B71NWwaDtlSgD0%253D%26ts%3D1654219386" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뽀로로 극장판 드래곤캐슬 대모험> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429279688?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429279688?act=clip</guid>
-            <pubDate>Fri, 03 Jun 2022 01:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv836189dafoqan9wjagst72s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211127958%26signature%3DH2zxdIJK0bRbccV%252FKVe4kYahy8k%253D%26ts%3D1654219158" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
