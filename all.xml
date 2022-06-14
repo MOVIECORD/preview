@@ -4,15 +4,39 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:29:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['두 개의 눈' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27344475</link>
+            <guid>https://tv.naver.com/v/27344475</guid>
+            <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_122/XEBNZ_1655195037222lYD0r_JPEG/48c822f8-ebbb-11ec-9d93-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컴온 컴온' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27343305</link>
+            <guid>https://tv.naver.com/v/27343305</guid>
+            <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_239/rqheD_1655193039408han0w_JPEG/95e412c0-ebb6-11ec-aef4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컴온 컴온' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27343109</link>
+            <guid>https://tv.naver.com/v/27343109</guid>
+            <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_17/O0bYE_16551925848960gShz_JPEG/7e5f5f04-ebb5-11ec-8863-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비상선언' 공식 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/27335450</link>
             <guid>https://tv.naver.com/v/27335450</guid>
             <pubDate>Tue, 14 Jun 2022 04:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_219/ctjNm_1655173514754fh6f1_JPEG/fa1d33ab-eb88-11ec-8863-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 03:48:23 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_298/90gqW_1654826811380bEv4t_JPEG/ae6d1a1b-e861-11ec-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['실종' 연상호 감독 추천 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/27268587</link>
-            <guid>https://tv.naver.com/v/27268587</guid>
-            <pubDate>Fri, 10 Jun 2022 02:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_11/5tX45_165482638081687JKV_PNG/1654826377811.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['버즈 라이트이어' 레드벨벳 '웬디'의 스페셜 인터뷰 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/27268558</link>
-            <guid>https://tv.naver.com/v/27268558</guid>
-            <pubDate>Fri, 10 Jun 2022 17:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_105/ExtXu_1654826317722lQBSn_JPEG/7379f72a-e860-11ec-928a-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['리멤버 미' 용기 있는 고백 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/27267844</link>
-            <guid>https://tv.naver.com/v/27267844</guid>
-            <pubDate>Fri, 10 Jun 2022 02:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_21/EfD9G_1654824692713mAyD3_JPEG/dcbef57b-e85c-11ec-81b1-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<제니퍼 로페즈: 내 인생의 하프타임> 공식 예고편 (우리 영화 볼래?)]]></title>
