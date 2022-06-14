@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:34:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 06:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<두개의 눈> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429582873?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429582873?act=clip</guid>
+            <pubDate>Tue, 14 Jun 2022 06:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8vjvuyrrpl4yrmjsbsg9pgc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212094490%26signature%3Dg9GmnheEUdy50UHT0HSjKMBnrcw%253D%26ts%3D1655185690" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<비상선언> 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429580564?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429448339?act=clip</guid>
             <pubDate>Thu, 09 Jun 2022 06:50:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm2bvwl0ra052wau19d5lw2g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211665645%26signature%3DSdg6%252BSQIkw8e6LQAKr92HHkP3sk%253D%26ts%3D1654756845" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm2bvwl0ra052wau19d5lw2g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211665645%26signature%3DSdg6%252BSQIkw8e6LQAKr92HHkP3sk%253D%26ts%3D1654756845" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리멤버 미> 용기 있는 고백 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Jun 2022 01:58:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwubqhz3h571hm4xdzsinl3m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211561346%26signature%3DsFDbu9M2cgqKxa83%252Fr248ET56S4%253D%26ts%3D1654652546" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<버즈 라이트이어> '크리스 에반스 찐사랑 모먼트' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429412247?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429412247?act=clip</guid>
-            <pubDate>Wed, 08 Jun 2022 01:58:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc8wc21mkwotfs8qmkib8xl0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211561083%26signature%3DK1EIP4bEDGjb6ToWtfDg954nojM%253D%26ts%3D1654652283" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
