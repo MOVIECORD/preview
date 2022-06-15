@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/27357672</link>
             <guid>https://tv.naver.com/v/27357672</guid>
             <pubDate>Wed, 15 Jun 2022 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_201/dxvbF_1655258917589eX6j4_JPEG/c7a7ffa9-ec4f-11ec-90b2-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/27344475</link>
             <guid>https://tv.naver.com/v/27344475</guid>
             <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_122/XEBNZ_1655195037222lYD0r_JPEG/48c822f8-ebbb-11ec-9d93-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/27343109</link>
             <guid>https://tv.naver.com/v/27343109</guid>
             <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_17/O0bYE_16551925848960gShz_JPEG/7e5f5f04-ebb5-11ec-8863-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
