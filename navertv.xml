@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['탑건: 매버릭' 톰 크루즈 그리팅 영상]]></title>
+            <link>https://tv.naver.com/v/27361223</link>
+            <guid>https://tv.naver.com/v/27361223</guid>
+            <pubDate>Wed, 15 Jun 2022 05:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_120/ewLmT_1655270635626b1aem_JPEG/0bb21a40-ec6b-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['명탐정 코난: 할로윈의 신부' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/27357672</link>
             <guid>https://tv.naver.com/v/27357672</guid>
             <pubDate>Wed, 15 Jun 2022 02:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_201/dxvbF_1655258917589eX6j4_JPEG/c7a7ffa9-ec4f-11ec-90b2-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/27344475</link>
             <guid>https://tv.naver.com/v/27344475</guid>
             <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_122/XEBNZ_1655195037222lYD0r_JPEG/48c822f8-ebbb-11ec-9d93-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/27343305</link>
             <guid>https://tv.naver.com/v/27343305</guid>
             <pubDate>Tue, 14 Jun 2022 08:29:14 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_239/rqheD_1655193039408han0w_JPEG/95e412c0-ebb6-11ec-aef4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/27319176</link>
             <guid>https://tv.naver.com/v/27319176</guid>
             <pubDate>Mon, 13 Jun 2022 05:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_68/x2I2q_1655097771109tA4OW_JPEG/8c9345cb-ead8-11ec-8bba-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +212,7 @@
             <link>https://tv.naver.com/v/27272744</link>
             <guid>https://tv.naver.com/v/27272744</guid>
             <pubDate>Fri, 10 Jun 2022 05:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_126/lOBsu_1654837598086WurnF_JPEG/c476167c-e87a-11ec-8bba-505dac8c381b_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +220,7 @@
             <link>https://tv.naver.com/v/27272585</link>
             <guid>https://tv.naver.com/v/27272585</guid>
             <pubDate>Fri, 10 Jun 2022 05:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_141/t0BHG_16548372112443MFjA_JPEG/0e4ca1fc-e87a-11ec-8055-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 03:48:23 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_265/rfubm_1654829487088aWvlB_JPEG/e9718837-e867-11ec-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그대가 조국' 텀블벅 인사 영상]]></title>
-            <link>https://tv.naver.com/v/27268842</link>
-            <guid>https://tv.naver.com/v/27268842</guid>
-            <pubDate>Fri, 10 Jun 2022 03:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_88/jqsOm_1654826947555z0VO7_JPEG/3f352880-e862-11ec-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
