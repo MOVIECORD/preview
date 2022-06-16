@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 05:44:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<불릿 트레인> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429643359?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429643359?act=clip</guid>
+            <pubDate>Thu, 16 Jun 2022 07:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva5vznkmpvuxrnizrte0pcl9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212271441%26signature%3D16%252FVQrIB%252BAtZ1DAbXuvOIqfzRjk%253D%26ts%3D1655362641" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<실종> 감독&배우 그리팅 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429636056?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429551786?act=clip</guid>
             <pubDate>Mon, 13 Jun 2022 04:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb3yv1st7oq0b8k7mh8xgza8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212001237%26signature%3DT6dEESws3TZs2e9GboGD%252FPWkNmc%253D%26ts%3D1655092437" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb3yv1st7oq0b8k7mh8xgza8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212001237%26signature%3DT6dEESws3TZs2e9GboGD%252FPWkNmc%253D%26ts%3D1655092437" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<빅샤크4: 바다공룡 대모험> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 09 Jun 2022 03:35:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798949385%2Fthumb%2F20220609111950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그레이 맨> 고슬링 vs 에반스 독점 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429442193?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429442193?act=clip</guid>
-            <pubDate>Thu, 09 Jun 2022 03:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjfklqj67yglv2d85c3nrxhv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211649592%26signature%3DiQzlSHL1GWG9QRtSE9zUPigk5u8%253D%26ts%3D1654740792" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
