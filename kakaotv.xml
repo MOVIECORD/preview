@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:32:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<눈감은 여름> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429644954?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429644954?act=clip</guid>
+            <pubDate>Thu, 16 Jun 2022 08:32:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwg8isojt946jicvnv2tf0de%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212274244%26signature%3DtB%252BXhjWzl%252BvBALlv6QOLkCymuBs%253D%26ts%3D1655365444" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<불릿 트레인> 1차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429643359?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429551865?act=clip</guid>
             <pubDate>Mon, 13 Jun 2022 04:00:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvogaoxvj1oygrkgypwq0ogzs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212001481%26signature%3DRTGftmyzOhVwjCyrDsxHRwBNDBQ%253D%26ts%3D1655092681" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvogaoxvj1oygrkgypwq0ogzs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212001481%26signature%3DRTGftmyzOhVwjCyrDsxHRwBNDBQ%253D%26ts%3D1655092681" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 09 Jun 2022 03:35:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv21ncq0d5lbjq0vrwefhq33r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33211651562%26signature%3D0gxQCzM6pL4ZodtUCGJqf5lYuok%253D%26ts%3D1654742762" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<실종> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429442285?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429442285?act=clip</guid>
-            <pubDate>Thu, 09 Jun 2022 03:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798949385%2Fthumb%2F20220609111950" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
