@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 02:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스]  종이의 집: 공동경제구역 | 캐릭터 소개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429647772?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429647772?act=clip</guid>
+            <pubDate>Fri, 17 Jun 2022 02:04:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:58]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1184349651%2Fthumb%2F20220616181805" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/429612929?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429090620?act=clip</guid>
             <pubDate>Mon, 30 May 2022 10:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933823262%2Fthumb%2F20220527115456" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933823262%2Fthumb%2F20220527115456" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 기묘한 이야기 정주행 대신 해드립니다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 11 May 2022 02:03:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F298496196%2Fthumb%2F20220511110008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 위기의 최성은 앞에 나타난 마술사 지창욱]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/428483375?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/428483375?act=clip</guid>
-            <pubDate>Mon, 09 May 2022 10:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2125954997%2Fthumb%2F20220504172830" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
