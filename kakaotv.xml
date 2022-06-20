@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:27:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<디어헌터> [재개봉] 오피셜 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429758329?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429758329?act=clip</guid>
+            <pubDate>Mon, 20 Jun 2022 08:32:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj495s24r8bdl9yb1sikbble%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212620508%26signature%3Dvennl4wSvT0Z9lhYx2qdqVI9VXw%253D%26ts%3D1655711708" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<버즈 라이트이어> 30초 리뷰 스팟]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429752544?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429669093?act=clip</guid>
             <pubDate>Fri, 17 Jun 2022 04:38:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgym5ftz9rn93ziys2j9o66e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212347935%26signature%3DR%252FubSCcmVGyGlGfPNvw0lRNydgo%253D%26ts%3D1655439135" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgym5ftz9rn93ziys2j9o66e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212347935%26signature%3DR%252FubSCcmVGyGlGfPNvw0lRNydgo%253D%26ts%3D1655439135" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<로스트 도터> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 02:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg5vdk7lcu4sri5oybrmvt9n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212165541%26signature%3Da6x0e7iQBINqtrNAfNiia0yMNpE%253D%26ts%3D1655256741" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<놉> 2차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429605457?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429605457?act=clip</guid>
-            <pubDate>Mon, 20 Jun 2022 05:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcrom32s4wpxcaogph42hs5l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212165112%26signature%3DuRjEtwrriH5jvMq%252FDbhGFWAGyJM%253D%26ts%3D1655256312" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
