@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/27403563</link>
             <guid>https://tv.naver.com/v/27403563</guid>
             <pubDate>Mon, 20 Jun 2022 03:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_188/PhNZR_1655446135188U9SLh_JPEG/cfec86de-ee03-11ec-aef4-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://tv.naver.com/v/27381367</link>
             <guid>https://tv.naver.com/v/27381367</guid>
             <pubDate>Thu, 16 Jun 2022 05:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_209/TyxCV_16553567030879aWNx_JPEG/5833fe05-ed33-11ec-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -400,20 +400,12 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64836271%2Fthumb%2F20220617133225" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<마녀(魔女) Part2. The Other One> 제작기 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429669448?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429669448?act=clip</guid>
-            <pubDate>Fri, 17 Jun 2022 04:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv79jug4ctucvwm97twul9ijk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212348695%26signature%3Dsm5MB4mYL2l%252FV%252Bh6Xao5ZTEX3h8%253D%26ts%3D1655439895" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[<경아의 딸> ‘눈 오는 밤’ MV (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429669093?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/429669093?act=clip</guid>
             <pubDate>Fri, 17 Jun 2022 04:38:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgym5ftz9rn93ziys2j9o66e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212347935%26signature%3DR%252FubSCcmVGyGlGfPNvw0lRNydgo%253D%26ts%3D1655439135" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgym5ftz9rn93ziys2j9o66e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212347935%26signature%3DR%252FubSCcmVGyGlGfPNvw0lRNydgo%253D%26ts%3D1655439135" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<로스트 도터> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -566,6 +558,14 @@
             <pubDate>Wed, 15 Jun 2022 02:11:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg5vdk7lcu4sri5oybrmvt9n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212165541%26signature%3Da6x0e7iQBINqtrNAfNiia0yMNpE%253D%26ts%3D1655256741" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<놉> 2차 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429605457?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429605457?act=clip</guid>
+            <pubDate>Mon, 20 Jun 2022 05:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcrom32s4wpxcaogph42hs5l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212165112%26signature%3DuRjEtwrriH5jvMq%252FDbhGFWAGyJM%253D%26ts%3D1655256312" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편 (카카오TV ─ 넷플릭스)]]></title>
