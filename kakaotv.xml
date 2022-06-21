@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탑건: 매버릭> 압도적 찬사 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429781828?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429781828?act=clip</guid>
+            <pubDate>Tue, 21 Jun 2022 04:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxkn2ld8u3oxxmjnh4rgogtl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212693115%26signature%3DJZzFlCO6dj7c%252F%252BEi0sxtoxSFrd0%253D%26ts%3D1655784315" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<윈터 헝거> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429779351?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429677369?act=clip</guid>
             <pubDate>Fri, 17 Jun 2022 09:23:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5dhxnqaxupxo3yh874ni0zb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212365097%26signature%3DONqzYY%252BJuRDejez%252B%252FOgooRaz954%253D%26ts%3D1655456297" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5dhxnqaxupxo3yh874ni0zb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212365097%26signature%3DONqzYY%252BJuRDejez%252B%252FOgooRaz954%253D%26ts%3D1655456297" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<체리마호: 30살까지 동정이면 마법사가 될 수 있대> 런칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 06:27:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0wdnsxp99u3m3soo1smm73s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212180204%26signature%3DF%252BbrweggEwijvCemcMKVI1fkQuM%253D%26ts%3D1655271404" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<우스운게 딱! 좋아!> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429609180?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429609180?act=clip</guid>
-            <pubDate>Wed, 15 Jun 2022 04:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvik2g9p92j6j8r6iziv7hkre%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212175949%26signature%3DFVtENAH3IBhZwp23sZqSm9AIMWc%253D%26ts%3D1655267149" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
