@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:24:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 02:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Jun 2022 04:00:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1860454426%2Fthumb%2F20220621112219" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 | 2부 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429756643?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429756643?act=clip</guid>
+            <pubDate>Wed, 22 Jun 2022 02:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F866531842%2Fthumb%2F20220620162031" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | [선공개] 남한이 북한을, 북한이 남한을 감시한다]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429411890?act=clip</guid>
             <pubDate>Fri, 10 Jun 2022 03:48:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1745518629%2Fthumb%2F20220608102004" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1745518629%2Fthumb%2F20220608102004" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그레이 맨 | 고슬링 vs. 에반스 독점 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F484366885%2Fthumb%2F20220513182410" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 바이오하자드: 더 시리즈 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/428725840?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/428725840?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2127347104%2Fthumb%2F20220513182222" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
