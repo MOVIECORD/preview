@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<초신경호 : 수퍼 보디가드> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/429868438?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/429868438?act=clip</guid>
+            <pubDate>Fri, 24 Jun 2022 07:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnprxxzybua76easwj22ed3p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212962484%26signature%3D18uV01P4tv2d6bi9PeWCNaiME3w%253D%26ts%3D1656053684" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> ‘갓’벽한 팀 토르 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/429865783?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429806689?act=clip</guid>
             <pubDate>Wed, 22 Jun 2022 02:17:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8nscvjto2xr2lhbozxdoxuj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212771426%26signature%3DcxSEg4St0mtT7RPwy9Tt5vPkHbI%253D%26ts%3D1655862626" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8nscvjto2xr2lhbozxdoxuj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212771426%26signature%3DcxSEg4St0mtT7RPwy9Tt5vPkHbI%253D%26ts%3D1655862626" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그대가 조국> 제작진 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 03:48:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfmj1ean2a6zrzkk1h80s1aw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212600406%26signature%3DGfeMDeD%252B1zEuX8SterCHGrJ9834%253D%26ts%3D1655691606" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아부쟁이> 아부 특강 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429749467?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429749467?act=clip</guid>
-            <pubDate>Mon, 20 Jun 2022 03:48:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8xkuemp2hkv6kn2v6hxvivt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33212600202%26signature%3DL8%252FNiNwwetweRVFOGdNMqqGaB%252FQ%253D%26ts%3D1655691402" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 06:28:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 07:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/429833627?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/429833627?act=clip</guid>
+            <pubDate>Fri, 24 Jun 2022 07:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1613757184%2Fthumb%2F20220623104430" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/429812628?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429470176?act=clip</guid>
             <pubDate>Fri, 10 Jun 2022 03:48:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888869386%2Fthumb%2F20220610103308" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888869386%2Fthumb%2F20220610103308" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 애덤 샌들러, 르브론 제임스 참여! 실제 농구선수들과 연기한 스포츠 영화 | 허슬]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F104286660%2Fthumb%2F20220519184140" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퍼스트 킬 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/428725844?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/428725844?act=clip</guid>
-            <pubDate>Tue, 24 May 2022 02:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1169334752%2Fthumb%2F20220513182314" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
