@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 09:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 10:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/27524055</link>
             <guid>https://tv.naver.com/v/27524055</guid>
             <pubDate>Thu, 23 Jun 2022 10:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_294/s5zbK_1655979212124hindy_JPEG/f85cc9f9-f2dc-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/27523065</link>
             <guid>https://tv.naver.com/v/27523065</guid>
             <pubDate>Thu, 23 Jun 2022 10:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_57/AtWus_1655976228572RdcvD_JPEG/05598a50-f2d6-11ec-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/27474142</link>
             <guid>https://tv.naver.com/v/27474142</guid>
             <pubDate>Tue, 21 Jun 2022 09:36:43 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_270/CCUlj_1655803665008du6iw_JPEG/3e8c12de-f144-11ec-9d93-d4f5ef590144_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
