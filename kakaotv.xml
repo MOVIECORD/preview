@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 06:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 07:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<워헌트> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430029307?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430029307?act=clip</guid>
+            <pubDate>Thu, 30 Jun 2022 07:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4188or20i1cozl8z65xrkml%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213480351%26signature%3D8K4dgQmGYAfiVbtU0o6SWMRFcD4%253D%26ts%3D1656571551" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<불멸의 여신> 뮤직 트레일러]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430028186?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/429993248?act=clip</guid>
             <pubDate>Wed, 29 Jun 2022 02:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1932031005%2Fthumb%2F20220629102059" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1932031005%2Fthumb%2F20220629102059" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<체리마호: 30살까지 동정이면 마법사가 될 수 있대> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Jun 2022 08:30:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvvo1dl41tb8qnx8cyaqvip0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213226445%26signature%3DW4Ds0JIKZyCUKwG1rrbKdOsuHqk%253D%26ts%3D1656317645" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<토르: 러브 앤 썬더> 팀플레이 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429944164?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429944164?act=clip</guid>
-            <pubDate>Mon, 27 Jun 2022 06:32:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve9tr4gs09g5jize8ek5ycpw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213218606%26signature%3DPdqOdRhm9c8unFpw5m2n%252FwuIPMM%253D%26ts%3D1656309806" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
