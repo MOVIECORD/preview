@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 02:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 03:55:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>https://tv.naver.com/v/27694000</link>
             <guid>https://tv.naver.com/v/27694000</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_222/199lx_1656642156388M3zXC_JPEG/2150fbe8-f8e4-11ec-81b1-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://tv.naver.com/v/27627680</link>
             <guid>https://tv.naver.com/v/27627680</guid>
             <pubDate>Wed, 29 Jun 2022 04:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_137/o46jG_1656640509404DOsB4_JPEG/1656640505054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
