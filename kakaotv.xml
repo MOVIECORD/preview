@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<외계+인 1부> 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430134956?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430134956?act=clip</guid>
+            <pubDate>Mon, 04 Jul 2022 08:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:32]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvukm9ixuqwt0zrqztl7mgq0k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213829383%26signature%3DN%252BTXXN%252FH9WniXH3SnedkLiMVOsA%253D%26ts%3D1656920583" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<토르: 러브 앤 썬더> 레거시 오브 토르 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430129319?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430049540?act=clip</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveqbgf0j6n76cxieutf9rwte%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213543993%26signature%3Dqt9ILiRU0BICl7aQphwOv3taWeA%253D%26ts%3D1656635193" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveqbgf0j6n76cxieutf9rwte%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213543993%26signature%3Dqt9ILiRU0BICl7aQphwOv3taWeA%253D%26ts%3D1656635193" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<워헌트> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 02:15:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2125683212%2Fthumb%2F20220629102952" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미친 능력> 글로벌 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429993316?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429993316?act=clip</guid>
-            <pubDate>Wed, 29 Jun 2022 02:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu46nne732al49nwze5bbc99%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213374677%26signature%3DiMkaZ9Sdjw9cS4boIcuYgDWEeZM%253D%26ts%3D1656465877" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
