@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:29:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<멘> 무삭제 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430159732?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430159732?act=clip</guid>
+            <pubDate>Tue, 05 Jul 2022 07:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnlq9z6cin5e9wbxjywj7d2s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213911285%26signature%3D%252Fxl66JbqqqIzVdIaz0OCDnJJrXg%253D%26ts%3D1657002485" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<섹스 앤 퓨리> [청불] 특별 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430159308?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430056413?act=clip</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvryjzzonudn0t8nmimac0v5n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213564205%26signature%3DclQLjpgB4iqL7%252BuDPZTB4xcUGAg%253D%26ts%3D1656655405" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvryjzzonudn0t8nmimac0v5n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213564205%26signature%3DclQLjpgB4iqL7%252BuDPZTB4xcUGAg%253D%26ts%3D1656655405" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<마녀(魔女) Part2. The Other One> 흥행 기념 액션 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 08:31:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk5307hg4gr26nrt17d579wj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213398976%26signature%3D9uqHTNwigFG4ZqxURk8ujL%252BQD8s%253D%26ts%3D1656490176" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<컴온 컴온> 금쪽 같은 내 조카 특별 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430001303?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430001303?act=clip</guid>
-            <pubDate>Wed, 29 Jun 2022 07:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj179vsoijnuameioxml32o1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213395032%26signature%3D6vNkXmdvRLNW%252FA9qQz0Fcf0ZCLc%253D%26ts%3D1656486232" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
