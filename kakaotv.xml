@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<섹스 앤 퓨리> [청불] 특별 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430159308?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430159308?act=clip</guid>
+            <pubDate>Tue, 05 Jul 2022 06:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt7jeu30uhgw4eyed17ujdo7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213910691%26signature%3DtzrEpQzLwvr4NBn5QccHA7%252Fi3XY%253D%26ts%3D1657001891" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<탑건: 매버릭> 마일즈 텔러 100만 돌파 축하 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430157817?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430053667?act=clip</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2btqylkf4c4eqiitwsswlxt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213556772%26signature%3Dj%252BbZdTXfwhqGjrDKlPmhleD%252Fz2c%253D%26ts%3D1656647972" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2btqylkf4c4eqiitwsswlxt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213556772%26signature%3Dj%252BbZdTXfwhqGjrDKlPmhleD%252Fz2c%253D%26ts%3D1656647972" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<큐브> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 29 Jun 2022 07:22:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj179vsoijnuameioxml32o1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213395032%26signature%3D6vNkXmdvRLNW%252FA9qQz0Fcf0ZCLc%253D%26ts%3D1656486232" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<비상선언> 5 이니셜 제작기]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/429995722?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/429995722?act=clip</guid>
-            <pubDate>Wed, 29 Jun 2022 04:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6k5djfcuco8f11bby8zualu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213381509%26signature%3DwNCAUJbTe4SW9yvf6EB6nf9Mwzw%253D%26ts%3D1656472709" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
