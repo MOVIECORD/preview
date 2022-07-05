@@ -4,31 +4,55 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 23:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 02:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['보일링 포인트' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/27757972</link>
+            <guid>https://tv.naver.com/v/27757972</guid>
+            <pubDate>Tue, 05 Jul 2022 02:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[26분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_39/2eZtM_1656985779284qMUAX_JPEG/90118ab2-fc04-11ec-8055-505dac8c385b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보일링 포인트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/27757891</link>
+            <guid>https://tv.naver.com/v/27757891</guid>
+            <pubDate>Tue, 05 Jul 2022 02:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_92/93dbF_1656985518946UAoi7_JPEG/ba825e27-fc03-11ec-89b9-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['토르: 러브 앤 썬더' 토르 30초 복습타임 영상]]></title>
+            <link>https://tv.naver.com/v/27757111</link>
+            <guid>https://tv.naver.com/v/27757111</guid>
+            <pubDate>Tue, 05 Jul 2022 02:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_201/8dOv5_1656983079258W0Cc5_JPEG/1225baa2-fbfe-11ec-8055-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['워헌트' 예고편]]></title>
+            <link>https://tv.naver.com/v/27756878</link>
+            <guid>https://tv.naver.com/v/27756878</guid>
+            <pubDate>Tue, 05 Jul 2022 02:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_33/bPt26_1656982262078XJb9u_JPEG/052fed7a-fbfc-11ec-8bba-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외계+인 1부' 캐릭터 영상]]></title>
             <link>https://tv.naver.com/v/27745575</link>
             <guid>https://tv.naver.com/v/27745575</guid>
             <pubDate>Mon, 04 Jul 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_183/SpNjp_16569217180707MQ5s_JPEG/d19a095a-fb6e-11ec-aef4-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인어전설2: 용의 부활' 예고편]]></title>
-            <link>https://tv.naver.com/v/27745162</link>
-            <guid>https://tv.naver.com/v/27745162</guid>
-            <pubDate>Mon, 04 Jul 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_270/HVZXq_1656920813192zB9Nd_JPEG/301d34cb-fb6d-11ec-946a-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['뽀로로 극장판 드래곤캐슬 대모험' 자이언트 크롱 특동영상]]></title>
             <link>https://tv.naver.com/v/27744538</link>
             <guid>https://tv.naver.com/v/27744538</guid>
             <pubDate>Mon, 04 Jul 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_283/N2QXD_1656919594941vwBHJ_JPEG/841a3e1f-fb6a-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/27744382</link>
             <guid>https://tv.naver.com/v/27744382</guid>
             <pubDate>Mon, 04 Jul 2022 08:30:21 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_134/VgzmM_1656919290568uWxQb_JPEG/d2296aaa-fb69-11ec-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/27741750</link>
             <guid>https://tv.naver.com/v/27741750</guid>
             <pubDate>Mon, 04 Jul 2022 06:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_204/7aT0O_16569137156301FGRG_JPEG/d3568b80-fb5c-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +76,7 @@
             <link>https://tv.naver.com/v/27736776</link>
             <guid>https://tv.naver.com/v/27736776</guid>
             <pubDate>Mon, 04 Jul 2022 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_1/oTcqP_1656900208491MaiK6_JPEG/48e979d6-fb3d-11ec-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +84,7 @@
             <link>https://tv.naver.com/v/27736574</link>
             <guid>https://tv.naver.com/v/27736574</guid>
             <pubDate>Mon, 04 Jul 2022 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_107/a50JP_1656899553165e8wbI_JPEG/dfd73d6e-fb3b-11ec-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +92,7 @@
             <link>https://tv.naver.com/v/27736294</link>
             <guid>https://tv.naver.com/v/27736294</guid>
             <pubDate>Mon, 04 Jul 2022 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_255/SyxUU_1656898805676gLy4m_JPEG/d246418a-fb39-11ec-8e34-505dac8c3721_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +100,7 @@
             <link>https://tv.naver.com/v/27735907</link>
             <guid>https://tv.naver.com/v/27735907</guid>
             <pubDate>Mon, 04 Jul 2022 02:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_294/rI5Ld_16568978059814I9uW_JPEG/1656897802509.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -148,7 +172,7 @@
             <link>https://tv.naver.com/v/27698600</link>
             <guid>https://tv.naver.com/v/27698600</guid>
             <pubDate>Mon, 04 Jul 2022 04:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_92/Dh3FE_1656655992908s8ukP_JPEG/b689eb53-f904-11ec-aef4-48df37ae3fca_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +188,7 @@
             <link>https://tv.naver.com/v/27693812</link>
             <guid>https://tv.naver.com/v/27693812</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_134/1yecI_1656641632847TRKtX_JPEG/4a964770-f8e3-11ec-b6ab-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +196,7 @@
             <link>https://tv.naver.com/v/27693277</link>
             <guid>https://tv.naver.com/v/27693277</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_87/RjIW0_16566402873448bGEu_JPEG/2d9d5138-f8e0-11ec-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +204,7 @@
             <link>https://tv.naver.com/v/27693148</link>
             <guid>https://tv.naver.com/v/27693148</guid>
             <pubDate>Fri, 01 Jul 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_133/qMDDD_1656639897631XSFUW_JPEG/2fecb47b-f8df-11ec-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 08:31:28 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_188/N2rC0_1656488901945GjgFH_JPEG/b0818c8a-f77f-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미친 능력' 관객 추천 영상]]></title>
-            <link>https://tv.naver.com/v/27647959</link>
-            <guid>https://tv.naver.com/v/27647959</guid>
-            <pubDate>Wed, 29 Jun 2022 08:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_148/7urp1_1656488269923vqJDz_JPEG/3d4d0367-f77e-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미친 능력' SXSW 월드 프리미어 영상]]></title>
-            <link>https://tv.naver.com/v/27647825</link>
-            <guid>https://tv.naver.com/v/27647825</guid>
-            <pubDate>Wed, 29 Jun 2022 08:31:28 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_131/b4L2z_1656488021051Oe86n_JPEG/304c446f-f77d-11ec-8055-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인 1부' 제작 히스토리 영상]]></title>
-            <link>https://tv.naver.com/v/27647058</link>
-            <guid>https://tv.naver.com/v/27647058</guid>
-            <pubDate>Wed, 29 Jun 2022 07:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_206/0LlAU_1656486456049HI7Bf_JPEG/5112b834-f778-11ec-ba01-505dac8c3607_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
