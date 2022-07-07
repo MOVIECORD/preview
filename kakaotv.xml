@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<메모리> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430213081?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430213081?act=clip</guid>
+            <pubDate>Thu, 07 Jul 2022 06:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv96kspgx8uqr6pmq2eqpdfye%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214082126%26signature%3DfLa%252BcjOBEqiMV8UFHFz8nY%252FEvAs%253D%26ts%3D1657173326" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<썸머 필름을 타고!> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430210461?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430151906?act=clip</guid>
             <pubDate>Tue, 05 Jul 2022 02:15:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgbhyb84xlcf8kvp4gdvpg68%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213890284%26signature%3DxrWA3ALrA7%252F%252BoYxeVcz7V0OgdW0%253D%26ts%3D1656981484" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgbhyb84xlcf8kvp4gdvpg68%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213890284%26signature%3DxrWA3ALrA7%252F%252BoYxeVcz7V0OgdW0%253D%26ts%3D1656981484" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부> '캐릭터를 만나다' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Jul 2022 08:30:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwbbj84fbw3o2t1sfkc33968%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213546313%26signature%3Dy951I8hyxLiGxNqkcwr2ydVi4So%253D%26ts%3D1656637513" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<위대한 침묵> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430049678?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430049678?act=clip</guid>
-            <pubDate>Fri, 01 Jul 2022 08:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6xr2suh1y7c1f5yobt61twq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213544728%26signature%3D7jEtoGk8VzXf4iVp3cy5qvngO3k%253D%26ts%3D1656635928" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
