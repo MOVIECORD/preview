@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<체리마호: 30살까지 동정이면 마법사가 될 수 있대> 한국 개봉 기념 배우 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430315433?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430315433?act=clip</guid>
+            <pubDate>Mon, 11 Jul 2022 06:31:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr0u4tcln6frp0t1n57p7rel%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214428492%26signature%3DR%252FJ64WbZmr%252B8K0XIAvKnYJgeI%252Fo%253D%26ts%3D1657519692" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<베르히만 아일랜드> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430309903?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430207281?act=clip</guid>
             <pubDate>Thu, 07 Jul 2022 02:24:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve7nuzjoymwgqbe0zfeefqu8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214064847%26signature%3DR37%252FvEUdJKzko3xQFKxe4u4ovys%253D%26ts%3D1657156047" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve7nuzjoymwgqbe0zfeefqu8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214064847%26signature%3DR37%252FvEUdJKzko3xQFKxe4u4ovys%253D%26ts%3D1657156047" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<큐어> 구로사와 기요시 감독 개봉 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Jul 2022 02:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5vwavl4oxep1hkbzgicgd52%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213807086%26signature%3DwvIy56k3Of02XOw3pSGg6cxF6To%253D%26ts%3D1656898286" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<모어> 스페셜 리뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430125215?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430125215?act=clip</guid>
-            <pubDate>Mon, 04 Jul 2022 02:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F822485577%2Fthumb%2F20220704100612" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
