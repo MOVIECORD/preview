@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 02:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 03:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<베르히만 아일랜드> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430309903?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430309903?act=clip</guid>
+            <pubDate>Mon, 11 Jul 2022 03:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4qqbypcuawil2q11pp8iwaa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214414982%26signature%3DxwOL5HxLMtby1XVZh9BKy%252B3oC6Q%253D%26ts%3D1657506182" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<리볼버> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430309365?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430190078?act=clip</guid>
             <pubDate>Wed, 06 Jul 2022 08:29:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5xew6m9ufzvz0ilt85p1vvu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214003453%26signature%3DPaa6hYWyMUpa%252FcWw9e8UcGbrW9Y%253D%26ts%3D1657094653" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5xew6m9ufzvz0ilt85p1vvu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214003453%26signature%3DPaa6hYWyMUpa%252FcWw9e8UcGbrW9Y%253D%26ts%3D1657094653" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼 리그: 축구의 종말> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Jul 2022 02:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F822485577%2Fthumb%2F20220704100612" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<핸썸> 특별 영상 '매력만점 마성의 남자 노미남 영상']]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430125111?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430125111?act=clip</guid>
-            <pubDate>Mon, 04 Jul 2022 02:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviaiw3svjgomcqgi487nx0zs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213805357%26signature%3DaMxi8%252BROvmiEkA5ZfW86sq4aLbQ%253D%26ts%3D1656896557" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
