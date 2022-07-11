@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:24:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 10:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['불릿 트레인' 30초 논스톱 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/27875005</link>
+            <guid>https://tv.naver.com/v/27875005</guid>
+            <pubDate>Mon, 11 Jul 2022 10:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_291/1i4YI_1657532425949a5Dgh_JPEG/511f11f2-00fd-11ed-aef4-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['판타지 테라피' 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/27872623</link>
             <guid>https://tv.naver.com/v/27872623</guid>
             <pubDate>Mon, 11 Jul 2022 08:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_246/Q7i5t_1657527453159T1XBx_JPEG/cbfff1c7-00f1-11ed-a120-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/27869414</link>
             <guid>https://tv.naver.com/v/27869414</guid>
             <pubDate>Mon, 11 Jul 2022 07:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_210/8A4GE_1657521528787OfrXH_JPEG/e82e54b3-00e3-11ed-8bba-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/27863725</link>
             <guid>https://tv.naver.com/v/27863725</guid>
             <pubDate>Mon, 11 Jul 2022 03:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_233/cRhGw_1657508403056vQd8k_JPEG/4d8a9b16-00c5-11ed-b6ab-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/27862264</link>
             <guid>https://tv.naver.com/v/27862264</guid>
             <pubDate>Mon, 11 Jul 2022 02:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_217/U2APS_1657503987794JEnEG_JPEG/033bf9f3-00bb-11ed-bb44-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/27861710</link>
             <guid>https://tv.naver.com/v/27861710</guid>
             <pubDate>Mon, 11 Jul 2022 02:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_106/cTA9P_1657502121950QedjP_JPEG/ac503986-00b6-11ed-bb44-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/27829730</link>
             <guid>https://tv.naver.com/v/27829730</guid>
             <pubDate>Mon, 11 Jul 2022 03:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_259/Dgfa7_1657269946663GEH2P_JPEG/3517befe-fe9a-11ec-ba01-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 07:21:23 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_154/Qcscu_1657185593083UKH71_PNG/1657185591346.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['로스트 도터' 앙상블 비하인드 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/27761874</link>
-            <guid>https://tv.naver.com/v/27761874</guid>
-            <pubDate>Tue, 05 Jul 2022 05:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_168/XzOLx_1656997860368XkxND_PNG/1656997737605.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<불릿 트레인> 30초 논스톱 예고편 (우리 영화 볼래?)]]></title>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfw8y9z8zvkvzlxjsuxogw9l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33213808026%26signature%3DjkebhW8ChkxnIEGLsd3kEgHZKbY%253D%26ts%3D1656899226" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] <버진리버> 시즌 4 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430308775?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430308775?act=clip</guid>
+            <pubDate>Mon, 11 Jul 2022 10:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1966590761%2Fthumb%2F20220711103717" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 벌 한마리가 불러 온 대재앙 | 인간 vs 벌 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430236242?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430236242?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429645018?act=clip</guid>
             <pubDate>Mon, 20 Jun 2022 06:31:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F45183879%2Fthumb%2F20220616164702" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F45183879%2Fthumb%2F20220616164702" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Mon, 30 May 2022 10:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933823262%2Fthumb%2F20220527115456" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《기묘한 이야기》 시즌 4 | 기묘한 이야기 정주행 대신 해드립니다 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429073112?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429073112?act=clip</guid>
-            <pubDate>Thu, 26 May 2022 10:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1144951192%2Fthumb%2F20220526184255" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[최종병기 앨리스｜메인 예고편｜왓챠 오리지널 (카카오TV ─ 왓챠)]]></title>
