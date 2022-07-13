@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 23:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 데이 시프트 | 제이미 폭스, 데이브 프랭코, 스눕 독 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430345424?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430345424?act=clip</guid>
+            <pubDate>Wed, 13 Jul 2022 02:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F25193926%2Fthumb%2F20220712173852" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] <버진리버> 시즌 4 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430308775?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429645056?act=clip</guid>
             <pubDate>Mon, 20 Jun 2022 06:31:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1841437086%2Fthumb%2F20220616164826" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1841437086%2Fthumb%2F20220616164826" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 30 May 2022 10:27:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F446521750%2Fthumb%2F20220530164308" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스프리건 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429090620?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429090620?act=clip</guid>
-            <pubDate>Mon, 30 May 2022 10:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933823262%2Fthumb%2F20220527115456" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
