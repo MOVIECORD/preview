@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 05:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 06:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<VR 파이터> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430503788?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430503788?act=clip</guid>
+            <pubDate>Mon, 18 Jul 2022 06:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9sw8880vsg7q898kdw0ehtc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215033550%26signature%3Dq0XDGqg%252FJFGeaNABvi26YYMdxyI%253D%26ts%3D1658124750" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<사랑 (사이) 깍두기> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430501455?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430390362?act=clip</guid>
             <pubDate>Thu, 14 Jul 2022 02:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpe1po1psyufdqt4xaxf3zkj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214670366%26signature%3D6WQ%252FQwPoYjF%252BTA8Lac4wDqxSWtc%253D%26ts%3D1657761566" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpe1po1psyufdqt4xaxf3zkj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214670366%26signature%3D6WQ%252FQwPoYjF%252BTA8Lac4wDqxSWtc%253D%26ts%3D1657761566" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뽀로로 극장판 드래곤캐슬 대모험> 여기는 해머타운 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Jul 2022 08:31:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7fcka716hpdd2oa7grul0xx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214177671%26signature%3D2ex%252BH3SZx8uCwFW7qlYrXeqJ95s%253D%26ts%3D1657268871" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뒤틀린 집> 강력 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430242893?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430242893?act=clip</guid>
-            <pubDate>Fri, 08 Jul 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfavjt4okdiyfqsuwvxw0fgp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214175915%26signature%3DXaCXwy5Qxh%252B9smoZfrUUOhxissY%253D%26ts%3D1657267115" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
