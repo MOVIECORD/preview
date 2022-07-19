@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 06:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 07:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<풀타임> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430532978?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430532978?act=clip</guid>
+            <pubDate>Tue, 19 Jul 2022 07:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjoaju0rjk3x2c79bmth7a33%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215121326%26signature%3DmnWEZEWemDx%252BefY6vzxzouGhilk%253D%26ts%3D1658212526" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 남도형 성우와 함께 하는 OST 뮤직비디오]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430526170?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430397013?act=clip</guid>
             <pubDate>Thu, 14 Jul 2022 06:47:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvncovki819mp0lb0bxw93g6v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214688704%26signature%3DcfvCap13jJiBZ8JqlQyZCzobTXE%253D%26ts%3D1657779904" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvncovki819mp0lb0bxw93g6v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214688704%26signature%3DcfvCap13jJiBZ8JqlQyZCzobTXE%253D%26ts%3D1657779904" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<명탐정 코난: 할로윈의 신부> 경찰동기조 스페셜 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Jul 2022 08:31:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvldpffnya3wt6mcz3lhnxgzl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214522380%26signature%3DKPiBTVowjy0M54dORjH8Qw81COE%253D%26ts%3D1657613580" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<멘> 감독 인터뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430344498?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430344498?act=clip</guid>
-            <pubDate>Tue, 12 Jul 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdkqhmf53y1roeagfapzw7b8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214522100%26signature%3Dc61YGE0zeamwgHIzd%252BAEy5bjcOc%253D%26ts%3D1657613300" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
