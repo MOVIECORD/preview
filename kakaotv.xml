@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 06:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 07:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 20 Jul 2022 02:18:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8iuzxfbl9jf92ximgjif59f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215191870%26signature%3DUzPainZWsomv5MktIcpUyxp1HUk%253D%26ts%3D1658283070" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<욕망의 그늘> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430554642?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430554642?act=clip</guid>
+            <pubDate>Wed, 20 Jul 2022 07:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuzqai19ewrri6mu6lcsq30z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215191525%26signature%3DoeYviwU1Y%252BDBh%252F%252BJcKhWuI47Kzs%253D%26ts%3D1658282725" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<안나푸르나: 비욘드 써밋> 메인 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430497134?act=clip</guid>
             <pubDate>Mon, 18 Jul 2022 02:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxr11m2dw7o5awto2m0q8db1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215018517%26signature%3DkB7hP8bXlEKWxaP%252FOtWvS16KpPI%253D%26ts%3D1658109717" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxr11m2dw7o5awto2m0q8db1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215018517%26signature%3DkB7hP8bXlEKWxaP%252FOtWvS16KpPI%253D%26ts%3D1658109717" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<초록밤> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Jul 2022 08:29:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgsv1artgxioszya8uat9zhk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214606139%26signature%3D8QdXdK%252F1OGqLb3usBmqAGGRzt2o%253D%26ts%3D1657697339" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430370020?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430370020?act=clip</guid>
-            <pubDate>Wed, 13 Jul 2022 07:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F22415634%2Fthumb%2F20220713155448" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
