@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 05:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 06:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<체리마호: 30살까지 동정이면 마법사가 될 수 있대> 커플이 갈등에 대처하는 방법]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430588174?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430588174?act=clip</guid>
+            <pubDate>Thu, 21 Jul 2022 06:31:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5c8ovukald8f3ubj5dabqbw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215293247%26signature%3DNSNm7sZw3C0jTmpceG3r6KDX980%253D%26ts%3D1658384447" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<비상선언> 360도 리얼 재난 메이킹 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430581149?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430501455?act=clip</guid>
             <pubDate>Mon, 18 Jul 2022 05:35:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs7jum55esap6tv4d3btjghb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215028752%26signature%3Djw2qZ7hE4OPlXwR6Anz%252BX43QZY8%253D%26ts%3D1658119952" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs7jum55esap6tv4d3btjghb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215028752%26signature%3Djw2qZ7hE4OPlXwR6Anz%252BX43QZY8%253D%26ts%3D1658119952" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부> 제작 히스토리 영상 2편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Jul 2022 02:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpe1po1psyufdqt4xaxf3zkj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214670366%26signature%3D6WQ%252FQwPoYjF%252BTA8Lac4wDqxSWtc%253D%26ts%3D1657761566" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<뽀로로 극장판 드래곤캐슬 대모험> 여기는 해머타운 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430390239?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430390239?act=clip</guid>
-            <pubDate>Thu, 14 Jul 2022 02:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvng8tiafkwpplfdr2cy7hn2y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214670040%26signature%3Da1r9k5MKzx%252BaDUjcJ29MrWk2XEQ%253D%26ts%3D1657761240" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
