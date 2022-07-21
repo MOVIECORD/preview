@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 04:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 05:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430586934?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430586934?act=clip</guid>
+            <pubDate>Thu, 21 Jul 2022 05:33:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1906200012%2Fthumb%2F20220721142748" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430563911?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/429833627?act=clip</guid>
             <pubDate>Fri, 24 Jun 2022 07:21:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1613757184%2Fthumb%2F20220623104430" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1613757184%2Fthumb%2F20220623104430" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Jun 2022 02:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2132231403%2Fthumb%2F20220613101933" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] <기묘한 이야기> 시즌 4 2부 | 2부 미리보기]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429470176?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429470176?act=clip</guid>
-            <pubDate>Fri, 10 Jun 2022 03:48:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888869386%2Fthumb%2F20220610103308" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
