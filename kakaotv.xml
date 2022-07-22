@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 04:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 05:32:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<큐브> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430613397?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430613397?act=clip</guid>
+            <pubDate>Fri, 22 Jul 2022 05:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyhyq9y6062tsgrc2tu371g9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215374478%26signature%3DU7ZtTkQrXJqo12144Yw2JB3ea7A%253D%26ts%3D1658465678" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<놉> 조던 필 감독 유니버스 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430612177?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430524801?act=clip</guid>
             <pubDate>Tue, 19 Jul 2022 02:29:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1yfh03vb33gq523d5prb7ui%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215100627%26signature%3Dn33nmZjyi2dubjZQQdmBOIQuXGI%253D%26ts%3D1658191827" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1yfh03vb33gq523d5prb7ui%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215100627%26signature%3Dn33nmZjyi2dubjZQQdmBOIQuXGI%253D%26ts%3D1658191827" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<프레이> '사냥의 시작' 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Jul 2022 05:34:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ypmulcmzh6fimoah9c8nsm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214681776%26signature%3DPxNSwHNklxJylOKfRIUY8y0IGYg%253D%26ts%3D1657772976" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<명탐정 코난: 할로윈의 신부> 미스터리 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430394257?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430394257?act=clip</guid>
-            <pubDate>Thu, 14 Jul 2022 05:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu7o2fmqha2wq62mapcapv9v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33214681625%26signature%3DtCJK7j%252FoRqdN3VbQrQzKYWTkyH0%253D%26ts%3D1657772825" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
