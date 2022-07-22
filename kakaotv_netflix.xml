@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 07:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 08:32:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김희선이 홈쇼핑에 등장했다고? | 블랙의 신부 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430618015?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430618015?act=clip</guid>
+            <pubDate>Fri, 22 Jul 2022 08:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>28:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F737508195%2Fthumb%2F20220722164516" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430609363?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430023483?act=clip</guid>
             <pubDate>Thu, 30 Jun 2022 04:01:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F224967731%2Fthumb%2F20220630113850" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F224967731%2Fthumb%2F20220630113850" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jun 2022 07:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2083420716%2Fthumb%2F20220613123408" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 허슬 | 스페인의 길거리 농구 천재와 스카우터의 첫 만남]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429551223?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429551223?act=clip</guid>
-            <pubDate>Wed, 15 Jun 2022 07:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1878137849%2Fthumb%2F20220613122719" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
