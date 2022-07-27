@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 23:22:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 02:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 모범가족 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430728046?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430728046?act=clip</guid>
+            <pubDate>Wed, 27 Jul 2022 02:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1335766409%2Fthumb%2F20220727090136" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430697135?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430214850?act=clip</guid>
             <pubDate>Fri, 08 Jul 2022 02:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1949250035%2Fthumb%2F20220707162518" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1949250035%2Fthumb%2F20220707162518" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이세계 삼촌 | 공식 예고편 #2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Jun 2022 05:44:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1036665505%2Fthumb%2F20220615155732" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 | 시즌2 & 3 제작 확정]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429605320?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429605320?act=clip</guid>
-            <pubDate>Wed, 15 Jun 2022 02:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F405079537%2Fthumb%2F20220615101903" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
