@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 08:31:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 09:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 살아남기 시리즈: 인체에서 살아남기> 살아남기 NO.1 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430746565?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430746565?act=clip</guid>
+            <pubDate>Wed, 27 Jul 2022 09:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpv7f5v2l88zi70xuaf21nsf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215820134%26signature%3DRICI9XFD0LD%252BUkw74qCJCglO98Q%253D%26ts%3D1658911334" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<포스트 모템> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430744222?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430710743?act=clip</guid>
             <pubDate>Tue, 26 Jul 2022 02:28:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzmep6xziq18xzc3dyardae1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215706144%26signature%3DW8xlzhq297chZtREWXeNGX3Awsw%253D%26ts%3D1658797344" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzmep6xziq18xzc3dyardae1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215706144%26signature%3DW8xlzhq297chZtREWXeNGX3Awsw%253D%26ts%3D1658797344" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그레이 맨> 비행기 액션 하이라이트 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Jul 2022 09:22:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqztfzcupzp0arlaceg9jnmt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215301439%26signature%3DeUC6fw1C7u8gd7sA4SVRdkyklIw%253D%26ts%3D1658392639" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430591174?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430591174?act=clip</guid>
-            <pubDate>Thu, 21 Jul 2022 09:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9uxs42vho6y9xu5pyawc234%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215301139%26signature%3DL7sgbk5LdDoluoCd5%252Boa9YTmuII%253D%26ts%3D1658392339" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
