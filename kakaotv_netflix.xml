@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430797556?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430797556?act=clip</guid>
+            <pubDate>Fri, 29 Jul 2022 10:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1971846945%2Fthumb%2F20220729185747" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 블론드 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430797449?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430797449?act=clip</guid>
+            <pubDate>Fri, 29 Jul 2022 10:27:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1951649970%2Fthumb%2F20220729185433" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430779123?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430417825?act=clip</guid>
             <pubDate>Fri, 15 Jul 2022 02:30:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F245081946%2Fthumb%2F20220715103610" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F245081946%2Fthumb%2F20220715103610" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 카터 | 메인 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430402989?act=clip</guid>
             <pubDate>Mon, 18 Jul 2022 02:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1104451683%2Fthumb%2F20220714185752" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1104451683%2Fthumb%2F20220714185752" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 표류단지 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 17 Jun 2022 07:21:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753312713%2Fthumb%2F20220617154312" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429672999?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429672999?act=clip</guid>
-            <pubDate>Fri, 17 Jun 2022 07:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1994428527%2Fthumb%2F20220617153628" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 쿵푸팬더: 용의 기사 🐻‍❄️🐉 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429664955?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429664955?act=clip</guid>
-            <pubDate>Mon, 20 Jun 2022 06:31:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F111649532%2Fthumb%2F20220617100621" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
