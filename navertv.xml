@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['녹턴' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28240785</link>
+            <guid>https://tv.naver.com/v/28240785</guid>
+            <pubDate>Fri, 29 Jul 2022 05:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_76/SM8Qe_1659072731814TS1sq_JPEG/6a5715a0-0efd-11ed-9fa8-505dacfba98a_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['지구 멸망의 날' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/28210553</link>
             <guid>https://tv.naver.com/v/28210553</guid>
             <pubDate>Thu, 28 Jul 2022 05:30:25 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_16/JTt0e_1658981528874YPDnn_JPEG/267be634-0e2b-11ed-a120-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +236,7 @@
             <link>https://tv.naver.com/v/28169176</link>
             <guid>https://tv.naver.com/v/28169176</guid>
             <pubDate>Tue, 26 Jul 2022 05:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_118/8tCq5_1658811165414ILJtt_JPEG/33967d6b-0c9e-11ed-ba01-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,16 +244,8 @@
             <link>https://tv.naver.com/v/28168898</link>
             <guid>https://tv.naver.com/v/28168898</guid>
             <pubDate>Tue, 26 Jul 2022 05:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_213/h5n0t_1658810386711qhyim_JPEG/d497c143-0c9c-11ed-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔젤 하트' 스페셜 예고편]]></title>
-            <link>https://tv.naver.com/v/28166732</link>
-            <guid>https://tv.naver.com/v/28166732</guid>
-            <pubDate>Tue, 26 Jul 2022 04:34:18 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_201/2tEAo_1658802808716oyYeg_JPEG/01e167cd-0c8b-11ed-bb44-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_213/h5n0t_1658810386711qhyim_JPEG/d497c143-0c9c-11ed-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
