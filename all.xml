@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/28294271</link>
             <guid>https://tv.naver.com/v/28294271</guid>
             <pubDate>Mon, 01 Aug 2022 05:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_211/curvV_1659332162636lM9aK_JPEG/a516473e-115b-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/28291072</link>
             <guid>https://tv.naver.com/v/28291072</guid>
             <pubDate>Mon, 01 Aug 2022 04:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_55/xuh3B_1659321467370fCEc8_JPEG/d28b9535-1142-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/28290966</link>
             <guid>https://tv.naver.com/v/28290966</guid>
             <pubDate>Mon, 01 Aug 2022 04:37:19 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_204/BSIU1_1659321129365HSGMk_JPEG/bed77190-1141-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/28289786</link>
             <guid>https://tv.naver.com/v/28289786</guid>
             <pubDate>Mon, 01 Aug 2022 02:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_142/i4xvi_1659317165526ubsxu_JPEG/9dee8a3f-1138-11ed-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +204,7 @@
             <link>https://tv.naver.com/v/28193646</link>
             <guid>https://tv.naver.com/v/28193646</guid>
             <pubDate>Wed, 27 Jul 2022 07:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_298/CYLqg_1658903968553BjCwu_JPEG/33b2c8b8-0d76-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Tue, 26 Jul 2022 09:28:46 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_219/vBl0B_16588249100800SmmU_JPEG/68dfa528-0cbe-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<파로호> 30초 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430862649?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430862649?act=clip</guid>
+            <pubDate>Mon, 01 Aug 2022 06:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdhxx7oal085krxf00ovab4g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216244257%26signature%3DE%252FovOtG0S11n4Crryvnr9IIYFOw%253D%26ts%3D1659335457" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<배드 럭 뱅잉> 무편집 클립 영상 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430746565?act=clip</guid>
             <pubDate>Wed, 27 Jul 2022 09:22:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpv7f5v2l88zi70xuaf21nsf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215820134%26signature%3DRICI9XFD0LD%252BUkw74qCJCglO98Q%253D%26ts%3D1658911334" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpv7f5v2l88zi70xuaf21nsf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215820134%26signature%3DRICI9XFD0LD%252BUkw74qCJCglO98Q%253D%26ts%3D1658911334" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<포스트 모템> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Tue, 26 Jul 2022 02:28:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv219spgkqmhdhl1z9owhvbfq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215706402%26signature%3DxJ36bOmylSBp4wB98OMiHpJ6iNA%253D%26ts%3D1658797602" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엔젤 하트> [재개봉] 스페셜 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430710743?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430710743?act=clip</guid>
-            <pubDate>Tue, 26 Jul 2022 02:28:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzmep6xziq18xzc3dyardae1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215706144%26signature%3DW8xlzhq297chZtREWXeNGX3Awsw%253D%26ts%3D1658797344" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
