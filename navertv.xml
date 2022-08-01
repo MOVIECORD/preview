@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['울프 앤 라이언: 위대한 우정' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28289786</link>
+            <guid>https://tv.naver.com/v/28289786</guid>
+            <pubDate>Mon, 01 Aug 2022 02:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_142/i4xvi_1659317165526ubsxu_JPEG/9dee8a3f-1138-11ed-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사랑할 땐 누구나 최악이 된다' 1차 예고편]]></title>
             <link>https://tv.naver.com/v/28250858</link>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/28245000</link>
             <guid>https://tv.naver.com/v/28245000</guid>
             <pubDate>Sun, 31 Jul 2022 23:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_183/rZIGO_16590790029917QzuE_JPEG/4b00b6e2-0f0e-11ed-928a-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +148,7 @@
             <link>https://tv.naver.com/v/28208604</link>
             <guid>https://tv.naver.com/v/28208604</guid>
             <pubDate>Thu, 28 Jul 2022 04:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_288/UuITG_1658975057131Vn24P_JPEG/3d9a02d4-0e1c-11ed-946a-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/28188516</link>
             <guid>https://tv.naver.com/v/28188516</guid>
             <pubDate>Thu, 28 Jul 2022 02:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_252/dUCSO_1658890526207WBsMT_JPEG/1658890515101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/28187938</link>
             <guid>https://tv.naver.com/v/28187938</guid>
             <pubDate>Wed, 27 Jul 2022 02:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_155/yTj1R_1658888720608sIOll_JPEG/13f9adb4-0d53-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Jul 2022 07:21:42 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_149/U6kzv_1658819320077iVfFO_JPEG/a0c40940-0cb1-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['깐부(코로나 방학소동)' 예고편]]></title>
-            <link>https://tv.naver.com/v/28171698</link>
-            <guid>https://tv.naver.com/v/28171698</guid>
-            <pubDate>Tue, 26 Jul 2022 07:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_132/1LBOF_16588172265455hkxi_JPEG/b3f1cd6d-0cac-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

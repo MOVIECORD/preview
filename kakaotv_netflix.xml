@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 23:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 02:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430856084?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430856084?act=clip</guid>
+            <pubDate>Mon, 01 Aug 2022 02:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648443392%2Fthumb%2F20220801101641" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 로크 앤 키 3 | 마지막 시즌 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/430797556?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430419305?act=clip</guid>
             <pubDate>Mon, 18 Jul 2022 10:28:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1710305582%2Fthumb%2F20220715114222" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1710305582%2Fthumb%2F20220715114222" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 김희선, 그녀의 복수극이 시작된다 | 블랙의 신부]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Jun 2022 06:31:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F565538992%2Fthumb%2F20220620101407" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429673157?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429673157?act=clip</guid>
-            <pubDate>Fri, 17 Jun 2022 07:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753312713%2Fthumb%2F20220617154312" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
