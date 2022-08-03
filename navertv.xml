@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 23:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 02:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['비상선언' 30초 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/28334983</link>
+            <guid>https://tv.naver.com/v/28334983</guid>
+            <pubDate>Wed, 03 Aug 2022 02:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_177/EGrxD_1659490016923OsGJm_JPEG/2ad66c83-12cb-11ed-ba01-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['멋진 세계' 봉준호 감독 극찬 영상]]></title>
             <link>https://tv.naver.com/v/28321278</link>
             <guid>https://tv.naver.com/v/28321278</guid>
             <pubDate>Tue, 02 Aug 2022 08:30:48 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_133/Zje1X_1659426961274dTyhW_PNG/1659426911043.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/28317559</link>
             <guid>https://tv.naver.com/v/28317559</guid>
             <pubDate>Tue, 02 Aug 2022 05:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_69/W4g0n_1659417845071XgBmW_JPEG/01ced24c-1223-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/28317258</link>
             <guid>https://tv.naver.com/v/28317258</guid>
             <pubDate>Tue, 02 Aug 2022 05:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_200/0pC4z_1659417130611TB4dE_JPEG/2815049f-1221-11ed-8e34-505dac8c3721_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/28313590</link>
             <guid>https://tv.naver.com/v/28313590</guid>
             <pubDate>Tue, 02 Aug 2022 02:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_81/xQYft_1659406280437bNbpU_JPEG/2219607d-1208-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/28289786</link>
             <guid>https://tv.naver.com/v/28289786</guid>
             <pubDate>Mon, 01 Aug 2022 02:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_142/i4xvi_1659317165526ubsxu_JPEG/9dee8a3f-1138-11ed-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Jul 2022 04:04:06 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_128/XjjGi_1658976796698S2RKj_JPEG/1658976678101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스카이 인베이젼' 예고편]]></title>
-            <link>https://tv.naver.com/v/28208897</link>
-            <guid>https://tv.naver.com/v/28208897</guid>
-            <pubDate>Thu, 28 Jul 2022 04:04:06 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_243/elSkE_1658975949776WuewW_JPEG/48c4385e-0e1e-11ed-b769-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
