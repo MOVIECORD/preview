@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<늑대사냥> 런칭 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/430965106?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/430965106?act=clip</guid>
+            <pubDate>Fri, 05 Aug 2022 07:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv447akm8ohbr481xbfce1i9p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216591608%26signature%3DS37GPz2I%252FEjh%252BhQnhhs5NNou2mY%253D%26ts%3D1659682808" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<락다운 213주> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430962513?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430914068?act=clip</guid>
             <pubDate>Wed, 03 Aug 2022 06:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs9lakjb4kp9666aj5t6sqbl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216414730%26signature%3DPC92oXpFud%252FSZdji6fT5QNhz%252Fm4%253D%26ts%3D1659505930" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs9lakjb4kp9666aj5t6sqbl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216414730%26signature%3DPC92oXpFud%252FSZdji6fT5QNhz%252Fm4%253D%26ts%3D1659505930" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뱅크시> 2차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Jul 2022 04:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc5jmms3gn91axl0tukvcfy9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215975878%26signature%3DuVafkEjzvHpBrPo%252F4COKUa5hL7Q%253D%26ts%3D1659067078" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<울프 앤 라이언: 위대한 우정> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430787427?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430787427?act=clip</guid>
-            <pubDate>Fri, 29 Jul 2022 02:25:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvry0b8cxwyc19nxooidxkftf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215968647%26signature%3Dz7ggEgTwPe0l1Nh0q4t9f5xOQnQ%253D%26ts%3D1659059847" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
