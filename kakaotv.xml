@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 02:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<던전 앤 드래곤: 도적들의 명예> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431029255?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431029255?act=clip</guid>
+            <pubDate>Mon, 08 Aug 2022 02:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2yc894nwrjem54s9c57b3tx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216829668%26signature%3DW09bIBgEFBC%252Fh65RdPffH7t9Zr4%253D%26ts%3D1659920868" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인플루엔자> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/430965825?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/430918011?act=clip</guid>
             <pubDate>Wed, 03 Aug 2022 08:32:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtttwr7jseh50emshmk36wi4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216424060%26signature%3DcmI71VQRCf1N1jh8O0wSJvOMtAU%253D%26ts%3D1659515260" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtttwr7jseh50emshmk36wi4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216424060%26signature%3DcmI71VQRCf1N1jh8O0wSJvOMtAU%253D%26ts%3D1659515260" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리미트> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Jul 2022 08:28:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyyib9h4mxzp5tmeo15hoiz7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215989540%26signature%3DqzMb%252Bl5ahsWDTVlsSAuGIUTRMH0%253D%26ts%3D1659080740" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<코펜하겐 스캔들> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430794387?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430794387?act=clip</guid>
-            <pubDate>Fri, 29 Jul 2022 08:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfihihn3n8nnvc0lywcdx9rx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33215989274%26signature%3Do0PEeenyEQC5Zl9%252BR2NfitLPSV0%253D%26ts%3D1659080474" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

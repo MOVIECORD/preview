@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 23:23:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 02:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['던전 앤 드래곤: 도적들의 명예' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/28427101</link>
+            <guid>https://tv.naver.com/v/28427101</guid>
+            <pubDate>Mon, 08 Aug 2022 02:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_194/tNXTB_16599208278591wacy_JPEG/35bbc3a1-16b6-11ed-870a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인플루엔자' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/28394659</link>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/28384104</link>
             <guid>https://tv.naver.com/v/28384104</guid>
             <pubDate>Fri, 05 Aug 2022 02:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_83/UPWyU_1659664284443fPHEq_JPEG/e3f25a3d-1460-11ed-81b1-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/28382984</link>
             <guid>https://tv.naver.com/v/28382984</guid>
             <pubDate>Fri, 05 Aug 2022 02:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_66/WJJD0_16596611829723r6Nb_JPEG/bbaaefd0-1459-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://tv.naver.com/v/28334983</link>
             <guid>https://tv.naver.com/v/28334983</guid>
             <pubDate>Wed, 03 Aug 2022 02:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_177/EGrxD_1659490016923OsGJm_JPEG/2ad66c83-12cb-11ed-ba01-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_110/BuDBE_1659339199654DBNTU_JPEG/19e2d767-116c-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['육덕 여상사에 먹혀버린 물건' 예고편]]></title>
-            <link>https://tv.naver.com/v/28297117</link>
-            <guid>https://tv.naver.com/v/28297117</guid>
-            <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_116/o1MLD_1659339017939ch11s_JPEG/b0053f2d-116b-11ed-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
