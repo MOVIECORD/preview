@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리볼버' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/28434644</link>
+            <guid>https://tv.naver.com/v/28434644</guid>
+            <pubDate>Mon, 08 Aug 2022 06:31:57 GMT</pubDate>
+            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_73/7VbIC_1659940246358EW9I2_JPEG/85124df7-16e3-11ed-8dc0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['늑대사냥' 런칭 예고편]]></title>
             <link>https://tv.naver.com/v/28429469</link>
             <guid>https://tv.naver.com/v/28429469</guid>
             <pubDate>Mon, 08 Aug 2022 03:59:41 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_212/rhB2g_1659926889983yXqXR_JPEG/53ee71d2-16c4-11ed-addf-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/28427101</link>
             <guid>https://tv.naver.com/v/28427101</guid>
             <pubDate>Mon, 08 Aug 2022 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_194/tNXTB_16599208278591wacy_JPEG/35bbc3a1-16b6-11ed-870a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://tv.naver.com/v/28340805</link>
             <guid>https://tv.naver.com/v/28340805</guid>
             <pubDate>Wed, 03 Aug 2022 06:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_92/2eTl4_16595058276035b6rC_JPEG/f9f28eba-12ef-11ed-aef4-48df37ae3fca_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_17/Cc1Kf_1659341721101tppOq_JPEG/e19fb48a-1171-11ed-b769-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그녀들의 쇼타임' 예고편]]></title>
-            <link>https://tv.naver.com/v/28298352</link>
-            <guid>https://tv.naver.com/v/28298352</guid>
-            <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_187/TGuT7_1659341447118GePC3_JPEG/22ccd88a-1171-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
