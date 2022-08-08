@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 02:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 04:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['늑대사냥' 런칭 예고편]]></title>
+            <link>https://tv.naver.com/v/28429469</link>
+            <guid>https://tv.naver.com/v/28429469</guid>
+            <pubDate>Mon, 08 Aug 2022 03:59:41 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_212/rhB2g_1659926889983yXqXR_JPEG/53ee71d2-16c4-11ed-addf-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['던전 앤 드래곤: 도적들의 명예' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28427101</link>
             <guid>https://tv.naver.com/v/28427101</guid>
             <pubDate>Mon, 08 Aug 2022 02:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_194/tNXTB_16599208278591wacy_JPEG/35bbc3a1-16b6-11ed-870a-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/28385182</link>
             <guid>https://tv.naver.com/v/28385182</guid>
             <pubDate>Fri, 05 Aug 2022 04:05:38 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_204/VqXzO_1659667016283tO6kd_JPEG/48911cd7-1467-11ed-8e34-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://tv.naver.com/v/28362303</link>
             <guid>https://tv.naver.com/v/28362303</guid>
             <pubDate>Thu, 04 Aug 2022 03:58:49 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_134/snjW7_1659581730468VSujP_JPEG/1659581577072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://tv.naver.com/v/28336756</link>
             <guid>https://tv.naver.com/v/28336756</guid>
             <pubDate>Wed, 03 Aug 2022 04:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_2/fINEO_16594949018199p2pk_JPEG/a38fb9a9-12d6-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +220,7 @@
             <link>https://tv.naver.com/v/28313590</link>
             <guid>https://tv.naver.com/v/28313590</guid>
             <pubDate>Tue, 02 Aug 2022 02:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_81/xQYft_1659406280437bNbpU_JPEG/2219607d-1208-11ed-94ce-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_187/TGuT7_1659341447118GePC3_JPEG/22ccd88a-1171-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성적 올려주는 I컵 과외 선생님' 예고편]]></title>
-            <link>https://tv.naver.com/v/28297201</link>
-            <guid>https://tv.naver.com/v/28297201</guid>
-            <pubDate>Mon, 01 Aug 2022 08:30:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_110/BuDBE_1659339199654DBNTU_JPEG/19e2d767-116c-11ed-bb12-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
