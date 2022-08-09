@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 02:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431058465?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431058465?act=clip</guid>
+            <pubDate>Tue, 09 Aug 2022 02:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F879163417%2Fthumb%2F20220809102142" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431036937?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430586934?act=clip</guid>
             <pubDate>Thu, 21 Jul 2022 05:33:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1906200012%2Fthumb%2F20220721142748" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1906200012%2Fthumb%2F20220721142748" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Jul 2022 08:30:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1611831564%2Fthumb%2F20220630102458" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/429833627?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/429833627?act=clip</guid>
-            <pubDate>Fri, 24 Jun 2022 07:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1613757184%2Fthumb%2F20220623104430" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
