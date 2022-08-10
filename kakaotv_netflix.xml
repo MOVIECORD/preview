@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 01:57:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431076623?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431076623?act=clip</guid>
+            <pubDate>Wed, 10 Aug 2022 01:57:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888586590%2Fthumb%2F20220809221640" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431058465?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430609363?act=clip</guid>
             <pubDate>Fri, 22 Jul 2022 05:31:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F687206019%2Fthumb%2F20220722104243" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F687206019%2Fthumb%2F20220722104243" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Jun 2022 04:01:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F224967731%2Fthumb%2F20220630113850" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 블랙의 신부 | 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430021867?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430021867?act=clip</guid>
-            <pubDate>Fri, 01 Jul 2022 08:30:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1611831564%2Fthumb%2F20220630102458" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
