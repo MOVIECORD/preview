@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<다크 웹> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431118313?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431118313?act=clip</guid>
+            <pubDate>Thu, 11 Aug 2022 07:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4e2ky5z4fqvt0haabw421f4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217108618%26signature%3DSEKmczHwHygWcvXm7hBKLWzEhQQ%253D%26ts%3D1660199818" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<어웨이크> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431112514?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431066403?act=clip</guid>
             <pubDate>Tue, 09 Aug 2022 07:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs7rdiht4z7269oxwx5ui5r9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216936686%26signature%3DA%252BIwukbcBO9fSQgZsK%252FGryUiG%252FI%253D%26ts%3D1660027886" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs7rdiht4z7269oxwx5ui5r9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216936686%26signature%3DA%252BIwukbcBO9fSQgZsK%252FGryUiG%252FI%253D%26ts%3D1660027886" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<파나마> [청불] 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 05 Aug 2022 02:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqjlgbuvh07btitdihdou5ap%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216569570%26signature%3D%252FCY5uxGZVBfXXVkGSI%252Fag%252Brsa0I%253D%26ts%3D1659660770" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<놉> IMAX 인 더 스카이 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430957514?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430957514?act=clip</guid>
-            <pubDate>Fri, 05 Aug 2022 02:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv66tv5zuw250vbn8778vzij5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216569315%26signature%3D8kCDXo1iTLmy0ZYnKiO1%252F4%252B4V5Y%253D%26ts%3D1659660515" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
