@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<귀멸의 칼날: 장구저택 편> 15초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431142444?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431142444?act=clip</guid>
+            <pubDate>Fri, 12 Aug 2022 06:32:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr1utv3v871yifx1t40f62iy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217192213%26signature%3Dv4IkqudsBS0UXW%252BWsuq2zgjuIHo%253D%26ts%3D1660283413" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021> 메인 예고편 (더빙판)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431138991?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431086628?act=clip</guid>
             <pubDate>Wed, 10 Aug 2022 03:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvswp1kut2ehk7mzlv54tcnhe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217006369%26signature%3Du%252FOTkja63SEEJ6y2N%252BhnfohIr4E%253D%26ts%3D1660097569" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvswp1kut2ehk7mzlv54tcnhe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217006369%26signature%3Du%252FOTkja63SEEJ6y2N%252BhnfohIr4E%253D%26ts%3D1660097569" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 1부> CG Before & After 신세계 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Aug 2022 02:06:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2yc894nwrjem54s9c57b3tx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216829668%26signature%3DW09bIBgEFBC%252Fh65RdPffH7t9Zr4%253D%26ts%3D1659920868" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인플루엔자> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/430965825?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/430965825?act=clip</guid>
-            <pubDate>Fri, 05 Aug 2022 08:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwyx1ygms4yw465qlid1jv6d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216593353%26signature%3Dy%252FIj%252FaXy4jaZNoZkWvHrbNCCG2A%253D%26ts%3D1659684553" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
