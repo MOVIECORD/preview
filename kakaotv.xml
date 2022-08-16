@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 02:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:05:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파라다이스 하이웨이> 감독 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431235594?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431235594?act=clip</guid>
+            <pubDate>Tue, 16 Aug 2022 04:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvydbplbsrjztzybuik5bny6a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217531284%26signature%3Di9pls6VNeL0SJqPX1gXTu5FGUqs%253D%26ts%3D1660622484" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<블랙폰> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431231844?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431111320?act=clip</guid>
             <pubDate>Thu, 11 Aug 2022 03:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7z093f9lb0h81covyzphdn1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217090184%26signature%3Dd9JnFj72wCSvYlObEFw4ZNXp91s%253D%26ts%3D1660181384" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7z093f9lb0h81covyzphdn1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217090184%26signature%3Dd9JnFj72wCSvYlObEFw4ZNXp91s%253D%26ts%3D1660181384" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<찰스 다윈: 종의 기원> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 Aug 2022 02:20:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3q35tvxqigi90yiv4zqymjw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216917022%26signature%3DIfwrN6%252BNq1WR4fMHMZFUae3NtpU%253D%26ts%3D1660008222" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<9명의 번역가> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431057743?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431057743?act=clip</guid>
-            <pubDate>Tue, 09 Aug 2022 02:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv406c4m59aefbnlpyyikyvlc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33216914710%26signature%3Dt3eJLr%252Bx2kJMi1qsInJ6sddTHMw%253D%26ts%3D1660005910" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
