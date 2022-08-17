@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 23:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 02:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431259179?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431259179?act=clip</guid>
+            <pubDate>Wed, 17 Aug 2022 02:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1863531520%2Fthumb%2F20220817105533" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 수상한 돈을 세탁하러 온 정우 | 모범가족]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431232513?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/430728046?act=clip</guid>
             <pubDate>Wed, 27 Jul 2022 02:26:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1335766409%2Fthumb%2F20220727090136" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1335766409%2Fthumb%2F20220727090136" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 손 하나 묶인 채로 특수 부대 격파 가능? | 그레이 맨]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Jul 2022 10:27:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499072842%2Fthumb%2F20220708121557" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 카터 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430214850?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430214850?act=clip</guid>
-            <pubDate>Fri, 08 Jul 2022 02:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1949250035%2Fthumb%2F20220707162518" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
