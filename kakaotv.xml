@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 04:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 05:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<코코순이> 최태성 큰별쌤 강력 추천 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431289476?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431289476?act=clip</guid>
+            <pubDate>Thu, 18 Aug 2022 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb9wjg61kofcfd1ebxqwahsf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217708847%26signature%3D4UbgyGBphDlijzj2mHn6pxSilbo%253D%26ts%3D1660800047" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<히즈 아웃 데어> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431287632?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431136757?act=clip</guid>
             <pubDate>Fri, 12 Aug 2022 02:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmv9e6avjwqcopt8aehh3xql%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217175904%26signature%3DSZcd1jF433b%252FbbmvO5RY2l%252FNxls%253D%26ts%3D1660267104" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmv9e6avjwqcopt8aehh3xql%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217175904%26signature%3DSZcd1jF433b%252FbbmvO5RY2l%252FNxls%253D%26ts%3D1660267104" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<멋진 세계> 니시카와 미와 감독 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 10 Aug 2022 01:56:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjvt8d0zirm6ifjyc008v0lb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217004784%26signature%3Dsxj%252FRJ6cZl%252FaIV%252FAa8E1nesIxKo%253D%26ts%3D1660095984" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<육사오(6/45)> 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431085782?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431085782?act=clip</guid>
-            <pubDate>Wed, 10 Aug 2022 01:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1102827081%2Fthumb%2F20220810103631" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
