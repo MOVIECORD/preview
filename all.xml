@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['태안' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/28665402</link>
+            <guid>https://tv.naver.com/v/28665402</guid>
+            <pubDate>Fri, 19 Aug 2022 05:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_25/wGoq5_1660884894459opJtt_JPEG/c4c6fe76-1f7a-11ed-814e-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['파로호' 김대건 배우 미니 인터뷰 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/28662295</link>
             <guid>https://tv.naver.com/v/28662295</guid>
             <pubDate>Fri, 19 Aug 2022 04:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_220/oGZmA_1660876987954SWw0u_JPEG/91ab0fa0-1f68-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/28662230</link>
             <guid>https://tv.naver.com/v/28662230</guid>
             <pubDate>Fri, 19 Aug 2022 04:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_95/dHE5X_1660876822323rqdH4_JPEG/d8dedd36-1f67-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/28662115</link>
             <guid>https://tv.naver.com/v/28662115</guid>
             <pubDate>Fri, 19 Aug 2022 04:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_40/GjdiJ_1660876494552gr6Wq_JPEG/ed504774-1f66-11ed-8892-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/28661180</link>
             <guid>https://tv.naver.com/v/28661180</guid>
             <pubDate>Fri, 19 Aug 2022 02:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_159/4nYfu_1660874214938PaVvz_JPEG/dcb288b8-1f61-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/28660257</link>
             <guid>https://tv.naver.com/v/28660257</guid>
             <pubDate>Fri, 19 Aug 2022 02:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_43/wpK8v_1660871678849wM8Eb_JPEG/fd5f4ec3-1f5b-11ed-b6e8-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/28644603</link>
             <guid>https://tv.naver.com/v/28644603</guid>
             <pubDate>Thu, 18 Aug 2022 07:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_181/pCJrV_1660806778934xdcPr_JPEG/10bc2659-1ec5-11ed-a7c3-d4f5ef58ad5e_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 07:21:35 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_188/Tb2B3_1660288599945t9hjs_JPEG/43a7d4e8-1a0e-11ed-96aa-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021' 메인 예고편 (더빙판) (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/28533022</link>
-            <guid>https://tv.naver.com/v/28533022</guid>
-            <pubDate>Fri, 12 Aug 2022 07:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_23/EBGHM_1660286877634k6eQ1_JPEG/947a951f-1a0a-11ed-9d1c-505dac8c3607_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<한산: 용의 출현> 분장의 비밀 영상 (우리 영화 볼래?)]]></title>
