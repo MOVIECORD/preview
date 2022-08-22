@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:34:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<성적표의 김민영> 런칭 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431391992?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431391992?act=clip</guid>
+            <pubDate>Mon, 22 Aug 2022 07:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbqbs08vuhrn8tj6lv1ccdcy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218060947%26signature%3DB5CxvVM1CA%252BAubQRxT4QfPo1oE8%253D%26ts%3D1661152147" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<블랙 아담> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431390244?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431309219?act=clip</guid>
             <pubDate>Fri, 19 Aug 2022 02:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgj46ishr1kw8zmu8lv63gfu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217778715%26signature%3Dcd0OFDi8QpYujVHgAH6Xl7fJcmQ%253D%26ts%3D1660869915" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgj46ishr1kw8zmu8lv63gfu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217778715%26signature%3Dcd0OFDi8QpYujVHgAH6Xl7fJcmQ%253D%26ts%3D1660869915" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<파로호> 임상수 감독님 미니 인터뷰]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Aug 2022 06:32:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr1utv3v871yifx1t40f62iy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217192213%26signature%3Dv4IkqudsBS0UXW%252BWsuq2zgjuIHo%253D%26ts%3D1660283413" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 도라에몽: 진구의 우주소전쟁 리틀스타워즈 2021> 메인 예고편 (더빙판)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431138991?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431138991?act=clip</guid>
-            <pubDate>Fri, 12 Aug 2022 03:56:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu5zzk8eqeqjr0gg8yg1yl8a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217181884%26signature%3DgKAc93g4H8NJnKVdkrJuY0etMoQ%253D%26ts%3D1660273084" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
