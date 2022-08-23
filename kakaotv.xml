@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<외계+인 1부> IPTV 스페셜 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431421148?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431421148?act=clip</guid>
+            <pubDate>Tue, 23 Aug 2022 08:29:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxwe2869oppi76mvgm47cajm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218150194%26signature%3DaF258Rqd%252BWNOUVrkICcS%252B2fJF4s%253D%26ts%3D1661241394" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<코코순이> 심문 과정의 진실 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431417239?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431310712?act=clip</guid>
             <pubDate>Fri, 19 Aug 2022 02:25:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1332332493%2Fthumb%2F20220819104742" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1332332493%2Fthumb%2F20220819104742" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<육사오(6/45)> 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 16 Aug 2022 02:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv805mpyfmncsh6rk91zvh7yk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217520993%26signature%3DWxRsPHPXRlXMDIq60HD%252FevS8wtE%253D%26ts%3D1660612193" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿 럭 투 유, 리오 그랜드> 리오 그랜드의 해방 레슨 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431231110?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431231110?act=clip</guid>
-            <pubDate>Tue, 16 Aug 2022 02:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7si6z07omct1m6ggdc5bf0l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217519619%26signature%3DuSLfT7JJGt5SuBn0%252BTvC0Ian22c%253D%26ts%3D1660610819" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
