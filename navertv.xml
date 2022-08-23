@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 09:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['고고다이노 극장판: 얼음공룡의 비밀' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/28743616</link>
+            <guid>https://tv.naver.com/v/28743616</guid>
+            <pubDate>Tue, 23 Aug 2022 09:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_39/4RFvY_1661245348583mnilh_JPEG/f9177601-22c1-11ed-b41c-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정직한 후보2' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/28732010</link>
             <guid>https://tv.naver.com/v/28732010</guid>
             <pubDate>Tue, 23 Aug 2022 02:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_37/efdQj_16612175707908dtBF_PNG/1661217562927.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/28732004</link>
             <guid>https://tv.naver.com/v/28732004</guid>
             <pubDate>Tue, 23 Aug 2022 02:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_254/jlLgP_1661217559705loR9w_JPEG/610de7c0-2281-11ed-b6e8-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 02:31:54 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_285/NmDwi_166070649711941nSy_JPEG/9ab3c77e-1ddb-11ed-aa4b-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['녹턴' 추천 영상]]></title>
-            <link>https://tv.naver.com/v/28609930</link>
-            <guid>https://tv.naver.com/v/28609930</guid>
-            <pubDate>Wed, 17 Aug 2022 04:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_96/FkRx3_1660706374885qGP5Q_JPEG/4765cb00-1ddb-11ed-ac30-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
