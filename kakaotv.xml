@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 04:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 05:58:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<애프터: 에버 해피> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431470563?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431470563?act=clip</guid>
+            <pubDate>Thu, 25 Aug 2022 05:57:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5455d7yzefx33j3jfo35a60%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218313325%26signature%3D%252FQmDosO5AfxDsC0r5dEd%252FK4kq8M%253D%26ts%3D1661404525" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<다 잘된 거야> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431469672?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431421148?act=clip</guid>
             <pubDate>Tue, 23 Aug 2022 08:29:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxwe2869oppi76mvgm47cajm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218150194%26signature%3DaF258Rqd%252BWNOUVrkICcS%252B2fJF4s%253D%26ts%3D1661241394" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxwe2869oppi76mvgm47cajm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218150194%26signature%3DaF258Rqd%252BWNOUVrkICcS%252B2fJF4s%253D%26ts%3D1661241394" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<코코순이> 심문 과정의 진실 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 Aug 2022 07:22:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5hrqf7wztfyvsona9ps0uuy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33217785153%26signature%3DBZHtggoNA92fBgSYJeM1NmYHNTM%253D%26ts%3D1660876353" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<다 잘된 거야> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431310712?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431310712?act=clip</guid>
-            <pubDate>Fri, 19 Aug 2022 02:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1332332493%2Fthumb%2F20220819104742" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
