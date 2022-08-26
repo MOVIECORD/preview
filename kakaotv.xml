@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:02:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<홈리스> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431499858?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431499858?act=clip</guid>
+            <pubDate>Fri, 26 Aug 2022 07:27:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuzhckx97z7828smcubcy0wy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218404928%26signature%3D6NXY1Tl0tp6XbIpqy12dj7VvvTQ%253D%26ts%3D1661496128" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<썬더버드> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431497479?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431438786?act=clip</guid>
             <pubDate>Wed, 24 Aug 2022 02:27:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzsn8t865ljv8p8wvokulrym%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218212752%26signature%3DnY5hmwpEDGvE%252F8VftJannKTALT4%253D%26ts%3D1661303952" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzsn8t865ljv8p8wvokulrym%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218212752%26signature%3DnY5hmwpEDGvE%252F8VftJannKTALT4%253D%26ts%3D1661303952" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쥬라기캅스 극장판: 공룡시대 대모험> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 22 Aug 2022 04:26:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1802288312%2Fthumb%2F20220822112011" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<파라다이스 하이웨이> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431384367?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431384367?act=clip</guid>
-            <pubDate>Mon, 22 Aug 2022 02:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdct47a83q2mpls7n2z104l4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218043081%26signature%3DvfIkw48QuqGZMOZUzfqsdQoVfDs%253D%26ts%3D1661134281" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
