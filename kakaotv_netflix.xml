@@ -4,17 +4,9 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 02:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 04:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/431513570?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/431513570?act=clip</guid>
-            <pubDate>Sat, 27 Aug 2022 02:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F348514671%2Fthumb%2F20220827000956" length="0" type="image/q75/"/>
-        </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울대작전 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431500854?act=clip</link>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431036646?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F909398135%2Fthumb%2F20220808152825" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F909398135%2Fthumb%2F20220808152825" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 맨몸으로 배달 오토바이를 타고 도주하는 주원 | 카터]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F292588238%2Fthumb%2F20220720174223" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 짝남과 키스 후 다음날 죽다? | 유령인데 어쩌라고]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/430563786?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/430563786?act=clip</guid>
+            <pubDate>Sat, 27 Aug 2022 04:20:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1608433803%2Fthumb%2F20220720173657" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
