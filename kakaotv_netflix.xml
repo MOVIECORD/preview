@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 서울대작전 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431574756?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431574756?act=clip</guid>
+            <pubDate>Mon, 29 Aug 2022 07:29:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F914849353%2Fthumb%2F20220829152755" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431513570?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431036937?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F670688608%2Fthumb%2F20220808154008" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F670688608%2Fthumb%2F20220808154008" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 주원의 완벽한 와이어 액션 신 | 카터]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1906200012%2Fthumb%2F20220721142748" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리락쿠마의 테마파크 어드벤처 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430563911?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430563911?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F292588238%2Fthumb%2F20220720174223" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
