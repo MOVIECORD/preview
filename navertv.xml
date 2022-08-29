@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:30:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['아바타' 리마스터링 예고편]]></title>
+            <link>https://tv.naver.com/v/28875475</link>
+            <guid>https://tv.naver.com/v/28875475</guid>
+            <pubDate>Mon, 29 Aug 2022 08:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[37분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_146/OI6b5_1661759583106Tqiyd_JPEG/7d15b15c-276f-11ed-aee9-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아이의 노랫소리를 들려줘' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/28874548</link>
             <guid>https://tv.naver.com/v/28874548</guid>
             <pubDate>Mon, 29 Aug 2022 07:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_300/W3spk_16617576967228rxG5_JPEG/0d2f2270-276b-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/28874443</link>
             <guid>https://tv.naver.com/v/28874443</guid>
             <pubDate>Mon, 29 Aug 2022 07:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_203/0BLqd_1661757454943nCjAk_JPEG/a381c969-2767-11ed-b41c-48df379cc9e4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/28864930</link>
             <guid>https://tv.naver.com/v/28864930</guid>
             <pubDate>Mon, 29 Aug 2022 02:35:23 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_145/pWuCL_1661736375463AzCzA_JPEG/fe7e5f68-2738-11ed-bf94-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/28821879</link>
             <guid>https://tv.naver.com/v/28821879</guid>
             <pubDate>Fri, 26 Aug 2022 08:29:47 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_108/gBp2R_1661501820395XXNTd_JPEG/5596b94f-2517-11ed-9aa2-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/28767342</link>
             <guid>https://tv.naver.com/v/28767342</guid>
             <pubDate>Wed, 24 Aug 2022 08:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_299/P1hdD_1661326216974FVl3G_JPEG/710619a7-237e-11ed-aee9-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Aug 2022 04:36:37 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_88/sZw45_16613151594970MyGm_JPEG/aafde0c3-2364-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['귀멸의 칼날: 나타구모산 편' 재개봉 예고편]]></title>
-            <link>https://tv.naver.com/v/28760142</link>
-            <guid>https://tv.naver.com/v/28760142</guid>
-            <pubDate>Wed, 24 Aug 2022 04:36:37 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_58/Hh3pf_1661314971356YDuce_JPEG/299e110f-2364-11ed-a7c3-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
