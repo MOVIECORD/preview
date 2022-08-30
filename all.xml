@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/28899110</link>
             <guid>https://tv.naver.com/v/28899110</guid>
             <pubDate>Tue, 30 Aug 2022 07:29:40 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_205/NjaZW_1661844292385efSCe_JPEG/aaa7fdab-2834-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/28889620</link>
             <guid>https://tv.naver.com/v/28889620</guid>
             <pubDate>Tue, 30 Aug 2022 02:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_236/aZi43_16618245441466Mfo0_JPEG/ce74cfed-2806-11ed-814e-505dac8c381b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvihdabedw61yt9jq2r503xwr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218308380%26signature%3DCh3Yvccd4o%252FOkpHdyDZIU%252FvcluQ%253D%26ts%3D1661399580" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 유아인의 한강 역주행 레이싱 (feat. 소방차) | 서울대작전 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431607838?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431607838?act=clip</guid>
+            <pubDate>Tue, 30 Aug 2022 10:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2111260437%2Fthumb%2F20220830190354" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 1988년 도로 레이싱, 쫓아오는 적을 따돌려라 | 서울대작전 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431596994?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431596994?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431076623?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888586590%2Fthumb%2F20220809221640" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888586590%2Fthumb%2F20220809221640" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>28:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F737508195%2Fthumb%2F20220722164516" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 제작기 영상 | 그레이 맨 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430609363?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430609363?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F687206019%2Fthumb%2F20220722104243" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 김이나 작사가와 다섯 뮤지션의 만남 | 왓챠 오리지널 (카카오TV ─ 왓챠)]]></title>
