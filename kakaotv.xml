@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 02:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 04:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인생은 아름다워> 주크박스 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431597219?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431597219?act=clip</guid>
+            <pubDate>Tue, 30 Aug 2022 04:54:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvakmwqjco3h7topxle4x103d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218736604%26signature%3DRBwedbbQjqFO%252BtrMVrgf0gYe47w%253D%26ts%3D1661827804" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<블랙폰> 숨멎주의 리뷰 스팟]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431596624?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431567461?act=clip</guid>
             <pubDate>Mon, 29 Aug 2022 02:35:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhuhgv35tuhhc7vbkeny23ez%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218645826%26signature%3Du8QavrvHMll3dgBsyJJ%252BSAdYQ9o%253D%26ts%3D1661737026" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhuhgv35tuhhc7vbkeny23ez%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218645826%26signature%3Du8QavrvHMll3dgBsyJJ%252BSAdYQ9o%253D%26ts%3D1661737026" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아이의 노랫소리를 들려줘> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 24 Aug 2022 07:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw6nnmoxcnc9rj6062iv3g0w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218233230%26signature%3DIG9ddl3tjfHFOxe3eWzFubjx%252Bpw%253D%26ts%3D1661324430" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아라시 20주년 투어 콘서트 5✕20> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431445793?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431445793?act=clip</guid>
-            <pubDate>Wed, 24 Aug 2022 07:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsp1pxvlvn49lonfaek70r6g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218231332%26signature%3DIj6cbV5kL4zCzsdneoJAQOVZ3lA%253D%26ts%3D1661322532" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
