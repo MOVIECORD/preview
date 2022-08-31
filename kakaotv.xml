@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 02:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 05:05:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<프린세스 아야> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431625325?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431625325?act=clip</guid>
+            <pubDate>Wed, 31 Aug 2022 05:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv59wlz0bpfeia6ei5s1n2qwk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218827358%26signature%3DGaKAHiNBIvG7DBMREErcQtZvCMk%253D%26ts%3D1661918558" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아라시 20주년 투어 콘서트 5✕20> 사쿠라이 쇼 개봉 축하 인사 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431622629?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431570996?act=clip</guid>
             <pubDate>Mon, 29 Aug 2022 04:49:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1700758012%2Fthumb%2F20220829125623" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1700758012%2Fthumb%2F20220829125623" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<서울대작전> 빵꾸팸 vs 갈치팸 화끈한 드리프트 대결!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Aug 2022 02:38:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F493064405%2Fthumb%2F20220826100712" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<리미트> 48시간 사건일지 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431492288?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431492288?act=clip</guid>
-            <pubDate>Fri, 26 Aug 2022 02:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv80y8k19qmw2dp36ew44aj4m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218383549%26signature%3DOw0pvXI9IqenPjciNK6ai5IkKOM%253D%26ts%3D1661474749" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
