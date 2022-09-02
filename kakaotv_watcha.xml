@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 02:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 04:48:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[완벽한 도쿄의 맛 | 지금 도쿄에서 가장 주목받는 4명의 셰프를 만나다! | 왓챠 익스클루시브]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/431677008?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/431677008?act=clip</guid>
+            <pubDate>Fri, 02 Sep 2022 04:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1689461516%2Fthumb%2F20220902131320" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 김이나 작사가와 다섯 뮤지션의 만남 | 왓챠 오리지널]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/431241440?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/426573179?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1234920715%2Fthumb%2F20220225172413" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1234920715%2Fthumb%2F20220225172413" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[스테이션 일레븐ㅣ메인 예고편ㅣ왓챠 익스클루시브]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1200836281%2Fthumb%2F20211124150434" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[스티븐 킹 소설 원작,〈채플웨이트〉메인 예고편 l 왓챠 익스클루시브]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/423985572?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/423985572?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1431308437%2Fthumb%2F20211117151752" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
