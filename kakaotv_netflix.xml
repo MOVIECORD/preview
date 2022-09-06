@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 02:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431774915?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431774915?act=clip</guid>
+            <pubDate>Tue, 06 Sep 2022 02:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1761896297%2Fthumb%2F20220906103550" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 태국 동굴 구조작전: 리미티드 시리즈 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431621714?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431232512?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F672857005%2Fthumb%2F20220816104618" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F672857005%2Fthumb%2F20220816104618" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오로지 카리스마로 상대를 압살하는 박희순 | 모범가족]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1639051898%2Fthumb%2F20220725193203" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 샌드맨 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430684781?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430684781?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1936582421%2Fthumb%2F20220725102840" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
