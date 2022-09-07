@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 15:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 16:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이드 리릭스 | 3화 예고편 '선우정아의 이야기' | 왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/431789059?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/431789059?act=clip</guid>
+            <pubDate>Wed, 07 Sep 2022 16:41:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtj4bsdai4p4wyk3bsri0crr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219374751%26signature%3D052J6rpxIJGdWbPbmJr3dKQc87s%253D%26ts%3D1662465951" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 2화 예고편 '황소윤의 이야기' | 왓챠 오리지널]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/431698677?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/426788364?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1866284055%2Fthumb%2F20220304181646" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1866284055%2Fthumb%2F20220304181646" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[조인 마이 테이블 | 제주에서 마셔본 예멘 커피에 관한 이야기]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhe1vu6ghtgw4spc8h5nlsbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33195250763%26signature%3DggZS4tB%252BrjuGDj%252Byunpw%252B4bXua4%253D" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[귀멸의 칼날 2기 환락의 거리편 12월 7일 공개 | 왓챠]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/424365130?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/424365130?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F942727449%2Fthumb%2F20211201155036" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
