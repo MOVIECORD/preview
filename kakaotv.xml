@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<드래곤볼 슈퍼: 슈퍼 히어로> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431832481?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431832481?act=clip</guid>
+            <pubDate>Thu, 08 Sep 2022 07:36:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfd7jbwo4d507wf5jdvsszj7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219526537%26signature%3D%252Bj3kNDNTvxH6%252F%252FwqxW%252B453mkxH4%253D%26ts%3D1662617737" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<애프터 미투> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431831190?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431747803?act=clip</guid>
             <pubDate>Mon, 05 Sep 2022 04:51:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu5cdin6mp2na80xal6p4fsn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219254683%26signature%3DYrsKo%252F7AtA%252B3W3yhQbL%252BjSn7Xhk%253D%26ts%3D1662345883" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu5cdin6mp2na80xal6p4fsn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219254683%26signature%3DYrsKo%252F7AtA%252B3W3yhQbL%252BjSn7Xhk%253D%26ts%3D1662345883" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<늑대사냥> H.A.R.D 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 01 Sep 2022 08:32:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv73ce775e6tbcgbscz5668e7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218929638%26signature%3DammreVNIEuSR5vTJKlQ01sT3i1M%253D%26ts%3D1662020838" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 헬로카봇: 수상한 마술단의 비밀> 1차 OST '모두 바빠']]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431656998?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431656998?act=clip</guid>
-            <pubDate>Thu, 01 Sep 2022 08:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb567xmcpsbf0azq8fuuzujl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33218929175%26signature%3DewvlmtEt%252BRB1wgJXWh%252BUgbGqkzo%253D%26ts%3D1662020375" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
