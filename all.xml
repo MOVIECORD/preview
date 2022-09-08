@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 12:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 13:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/29101150</link>
             <guid>https://tv.naver.com/v/29101150</guid>
             <pubDate>Thu, 08 Sep 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_104/XkBhR_1662625481040rIfgL_JPEG/63be2174-2f4f-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/29098122</link>
             <guid>https://tv.naver.com/v/29098122</guid>
             <pubDate>Thu, 08 Sep 2022 07:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_238/j0ppU_1662619088195dmOBk_JPEG/ac34d7c4-2f40-11ed-814e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/29095241</link>
             <guid>https://tv.naver.com/v/29095241</guid>
             <pubDate>Thu, 08 Sep 2022 06:05:10 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_270/46ZiQ_1662612756988UN7d1_JPEG/964f36c6-2f31-11ed-bf94-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/29094492</link>
             <guid>https://tv.naver.com/v/29094492</guid>
             <pubDate>Thu, 08 Sep 2022 04:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_19/rrAAb_1662610847763NQ31G_JPEG/d2182f34-2f2c-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +108,7 @@
             <link>https://tv.naver.com/v/29070573</link>
             <guid>https://tv.naver.com/v/29070573</guid>
             <pubDate>Thu, 08 Sep 2022 02:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_199/ChsiK_1662528110176h57Eo_JPEG/daa6e6c9-2e6c-11ed-9aa2-505dac8c3721_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F553845377%2Fthumb%2F20220902103819" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431837486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431837486?act=clip</guid>
+            <pubDate>Thu, 08 Sep 2022 13:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1141367052%2Fthumb%2F20220908182908" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 그 남자, 좋은 간호사 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431833468?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431833468?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431265225?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2117139127%2Fthumb%2F20220817153417" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2117139127%2Fthumb%2F20220817153417" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《코브라 카이》 시즌 5 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F684795641%2Fthumb%2F20220727104440" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미 타임 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/430737668?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/430737668?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F758035887%2Fthumb%2F20220727104257" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 3화 예고편 '선우정아의 이야기' | 왓챠 오리지널 (카카오TV ─ 왓챠)]]></title>
