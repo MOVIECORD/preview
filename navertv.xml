@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 07:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 08:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극장판 헬로카봇: 수상한 마술단의 비밀' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29168497</link>
+            <guid>https://tv.naver.com/v/29168497</guid>
+            <pubDate>Tue, 13 Sep 2022 08:32:15 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_212/3j4H6_1663057095800bKBx9_JPEG/59ecd1fe-333c-11ed-83d6-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정직한 후보2' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/29101150</link>
             <guid>https://tv.naver.com/v/29101150</guid>
             <pubDate>Thu, 08 Sep 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_104/XkBhR_1662625481040rIfgL_JPEG/63be2174-2f4f-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/29100174</link>
             <guid>https://tv.naver.com/v/29100174</guid>
             <pubDate>Thu, 08 Sep 2022 08:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_160/jKt4z_1662623299714mEAm6_JPEG/4fcb6b46-2f4a-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/29076588</link>
             <guid>https://tv.naver.com/v/29076588</guid>
             <pubDate>Wed, 07 Sep 2022 08:32:40 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_196/KZVgt_1662539318054RNQSO_JPEG/be0ef555-2e86-11ed-8892-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/29049491</link>
             <guid>https://tv.naver.com/v/29049491</guid>
             <pubDate>Tue, 06 Sep 2022 08:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_232/HPT7q_1662450330651u0h34_JPEG/b87035d7-2db7-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Sep 2022 10:26:34 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_178/KwsVi_1662370354967wPUan_JPEG/4d67a7ce-2cfd-11ed-aee9-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['말아' 언니들의 응원영상]]></title>
-            <link>https://tv.naver.com/v/29027152</link>
-            <guid>https://tv.naver.com/v/29027152</guid>
-            <pubDate>Mon, 05 Sep 2022 09:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_124/ltKFE_1662368665590Jf1BQ_JPEG/9f2e1735-2cf9-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
