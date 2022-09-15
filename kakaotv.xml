@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 08:36:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 09:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 짱구는 못말려: 수수께끼! 꽃피는 천하떡잎학교> 스페셜 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/431994106?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/431994106?act=clip</guid>
+            <pubDate>Thu, 15 Sep 2022 09:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjy7ckz2vfmxps1jz34w7oz3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33220139782%26signature%3DGtu4%252Fqkeja1qPbnJFcElqww3yBU%253D%26ts%3D1663230982" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<기동전사 건담 쿠쿠루스 도안의 섬> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/431991548?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431943100?act=clip</guid>
             <pubDate>Tue, 13 Sep 2022 09:27:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrqm6wd7h2fun6xkagzmj3bu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219968630%26signature%3DVu2sw5v7vWHeEunb9WYEA87lTJM%253D%26ts%3D1663059830" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrqm6wd7h2fun6xkagzmj3bu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219968630%26signature%3DVu2sw5v7vWHeEunb9WYEA87lTJM%253D%26ts%3D1663059830" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<컴백홈> 케미 폭발 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 08 Sep 2022 06:05:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjdnrsn63tqlsfj3v07kjtla%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219523672%26signature%3DH9NDGDIMS%252FNLrzJLRq6pKzCbi30%253D%26ts%3D1662614872" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<선데이리그> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431827777?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431827777?act=clip</guid>
-            <pubDate>Thu, 08 Sep 2022 02:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvngoqm22l9ayymf4qoz1lanx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219513260%26signature%3DD1GeQUuig0HGAt8VF0aWQq644pQ%253D%26ts%3D1662604460" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
