@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 파산 위기에 처한 황정민, 도발하는 하정우 | 수리남]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/431992440?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/431992440?act=clip</guid>
+            <pubDate>Thu, 15 Sep 2022 07:35:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1863349315%2Fthumb%2F20220915163432" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] Tudum: 넷플릭스 글로벌 팬 이벤트 | 공식 예고편 | 9월 24일]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/431989263?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431574756?act=clip</guid>
             <pubDate>Mon, 29 Aug 2022 07:29:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F914849353%2Fthumb%2F20220829152755" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F914849353%2Fthumb%2F20220829152755" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 택시로 레이싱 바이브 제대로 내는 유아인 | 서울대작전]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F879163417%2Fthumb%2F20220809102142" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자동차 세 대를 오가며 벌어지는 주원의 액션 | 카터]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/431036937?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/431036937?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F670688608%2Fthumb%2F20220808154008" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
