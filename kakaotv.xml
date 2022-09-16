@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 02:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 04:56:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<블랙 아담> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/432014032?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/432014032?act=clip</guid>
+            <pubDate>Fri, 16 Sep 2022 04:56:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvti72po9y4dv5o0l30ubrlzt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33220210110%26signature%3D1AZJ6N3zgGmSoC7gYPFHS%252BSovKc%253D%26ts%3D1663301310" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스톰보이> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/432012059?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/431962828?act=clip</guid>
             <pubDate>Wed, 14 Sep 2022 04:50:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv53cpmxk4qrt9vcqy0jwxtyx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33220037417%26signature%3DYlbHyj6iKcA07Ohh4NPl3wlqkp8%253D%26ts%3D1663128617" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv53cpmxk4qrt9vcqy0jwxtyx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33220037417%26signature%3DYlbHyj6iKcA07Ohh4NPl3wlqkp8%253D%26ts%3D1663128617" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 엄마 까투리: 도시로 간 까투리 가족> 엄마 까투리 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 13 Sep 2022 04:55:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv42v39nq2v1y7xpgpg9elk36%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219946732%26signature%3Dd82Mf0zBTNCWeep8J7JiRUA4IyQ%253D%26ts%3D1663037932" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<거래완료> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/431933596?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/431933596?act=clip</guid>
-            <pubDate>Tue, 13 Sep 2022 02:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1071669482%2Fthumb%2F20220913111557" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
