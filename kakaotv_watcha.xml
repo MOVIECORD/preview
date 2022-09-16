@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 08:32:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 09:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사이드 리릭스 | 4화 예고편 ‘김종완의 이야기' | 왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/432021825?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/432021825?act=clip</guid>
+            <pubDate>Fri, 16 Sep 2022 09:28:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4t6z88356hwdurt418bvqlf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33220226702%26signature%3DNMUbo6xEUU8pc1btihZ8%252BG4DQbA%253D%26ts%3D1663317902" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 3화 예고편 '선우정아의 이야기' | 왓챠 오리지널]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/431789059?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/426920009?act=clip</guid>
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2071225314%2Fthumb%2F20220310153914" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2071225314%2Fthumb%2F20220310153914" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[좋좋소 시즌5 메인 예고편 | 3월 8일 왓챠 공개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1157403510%2Fthumb%2F20211217154727" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[왓챠의 동영상]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/424365407?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/424365407?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhe1vu6ghtgw4spc8h5nlsbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33195250763%26signature%3DggZS4tB%252BrjuGDj%252Byunpw%252B4bXua4%253D" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
