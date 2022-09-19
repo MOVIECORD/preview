@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 23:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 02:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] Squid Game: The Challenge | 최종 오디션 공고]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432087029?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432087029?act=clip</guid>
+            <pubDate>Mon, 19 Sep 2022 02:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F19456650%2Fthumb%2F20220919103303" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 수리남 | 제작기 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/432016382?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/431614522?act=clip</guid>
             <pubDate>Wed, 31 Aug 2022 02:47:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1884388810%2Fthumb%2F20220831094132" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1884388810%2Fthumb%2F20220831094132" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 유아인의 한강 역주행 레이싱 (feat. 소방차) | 서울대작전]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F939686669%2Fthumb%2F20220816104903" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/431094738?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/431094738?act=clip</guid>
-            <pubDate>Thu, 25 Aug 2022 12:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F342160613%2Fthumb%2F20220810182849" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
