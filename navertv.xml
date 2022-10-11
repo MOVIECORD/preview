@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/navermovie/clips</id>
-    <title>네이버 영화 예고편 저장소</title>
-    <updated>2022-10-11T07:46:42.723Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/navermovie/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>네이버 영화 예고편 저장소</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 08:38:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['알카라스의 여름' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29834314</link>
+            <guid>https://tv.naver.com/v/29834314</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_41/wTfhe_1665474628627wveHu_JPEG/4bf6c41a-4939-11ed-9f1e-d4f5ef5a9532_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['폴: 600미터' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/29833547</link>
+            <guid>https://tv.naver.com/v/29833547</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_267/VlB9y_1665473349815qxXxY_JPEG/57dd842d-4936-11ed-b41c-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['거래완료' ‘고마워’ 뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/29833274</link>
+            <guid>https://tv.naver.com/v/29833274</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_291/wOuZS_1665472912543RP5Hl_JPEG/c155dc74-4934-11ed-999c-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['동감' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/29832841</link>
+            <guid>https://tv.naver.com/v/29832841</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_160/2pjjq_1665472239016ET6db_JPEG/5ba4090d-4933-11ed-8892-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['귀못' 극한 공포 CCTV 영상]]></title>
+            <link>https://tv.naver.com/v/29831447</link>
+            <guid>https://tv.naver.com/v/29831447</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_253/qIg7B_1665469789785nNFsm_JPEG/023786a6-492e-11ed-83d6-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['귀못' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/29831233</link>
+            <guid>https://tv.naver.com/v/29831233</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_190/JXYoT_16654694446896sCYx_JPEG/405f5a5c-492d-11ed-b25c-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대무가' 30초 뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/29830774</link>
+            <guid>https://tv.naver.com/v/29830774</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_285/gZxgl_166546867507237b8q_JPEG/5752aa8f-492b-11ed-8613-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스타게이저: 아스트로스코프' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/29756366</link>
+            <guid>https://tv.naver.com/v/29756366</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_205/N7yAB_1665129137223sw5jd_JPEG/aa864632-4614-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아인보: 아마존의 전설' 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/29755898</link>
+            <guid>https://tv.naver.com/v/29755898</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_277/pd101_1665128213928SAD20_JPEG/c309d31a-4612-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['데시벨' 런칭 예고편]]></title>
+            <link>https://tv.naver.com/v/29754766</link>
+            <guid>https://tv.naver.com/v/29754766</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_2/u59RY_1665126169266GqKJP_JPEG/e5deb44e-460d-11ed-8bc9-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['낮과 달' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/29754425</link>
+            <guid>https://tv.naver.com/v/29754425</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_43/UELvJ_1665125590933gHR1P_JPEG/8ce47e49-460c-11ed-8613-505dacfba98a_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['인생은 아름다워' 관객 반응 영상]]></title>
+            <link>https://tv.naver.com/v/29754051</link>
+            <guid>https://tv.naver.com/v/29754051</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221007_174/ggivm_1665124882756u9LmN_JPEG/f07044f9-460a-11ed-8892-505dac8c35ff_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['거래완료' 셀럽 개봉 축하 영상 4탄]]></title>
+            <link>https://tv.naver.com/v/29727765</link>
+            <guid>https://tv.naver.com/v/29727765</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_208/6AGnu_1665048605190Gz3zj_PNG/1665048603886.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['거래완료' 셀럽 개봉 축하 영상 2탄]]></title>
+            <link>https://tv.naver.com/v/29727610</link>
+            <guid>https://tv.naver.com/v/29727610</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_64/NiVKZ_166504833092925ClF_PNG/1665048328853.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['거래완료' 셀럽 개봉 축하 영상 1탄]]></title>
+            <link>https://tv.naver.com/v/29727537</link>
+            <guid>https://tv.naver.com/v/29727537</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_272/JEgVk_1665048219563HnL0V_PNG/1665048078365.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['거래완료' 셀럽 개봉 축하 영상 3탄]]></title>
+            <link>https://tv.naver.com/v/29727456</link>
+            <guid>https://tv.naver.com/v/29727456</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_46/BbDo9_1665048131332QEXRg_PNG/1665048114960.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['구타유발자' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29723633</link>
+            <guid>https://tv.naver.com/v/29723633</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_221/kat9q_1665042824392siOMT_JPEG/d03ee610-454b-11ed-b41c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['심야카페: 미씽 허니' 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/29721023</link>
+            <guid>https://tv.naver.com/v/29721023</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_120/w2tEO_1665039619877Xgs1F_JPEG/1665039559063.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA['프로메어' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/29720472</link>
+            <guid>https://tv.naver.com/v/29720472</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_214/BZ4KC_16650387748020n5S5_JPEG/7b9a2112-4542-11ed-aa59-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['에브리씽 에브리웨어 올 앳 원스' 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/29719139</link>
+            <guid>https://tv.naver.com/v/29719139</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_140/A5mqj_1665036453745Y8wKe_JPEG/e1639f3f-453c-11ed-b41c-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아나이스 인 러브' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/29718960</link>
+            <guid>https://tv.naver.com/v/29718960</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_13/hV0VS_1665036107148S445z_JPEG/3f5ae8a5-453c-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['티켓 투 파라다이스' 줄리아 로버츠 & 조지 클루니 원픽 모먼트 영상]]></title>
+            <link>https://tv.naver.com/v/29718292</link>
+            <guid>https://tv.naver.com/v/29718292</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_73/jjRz1_16650350611138SRw9_JPEG/c899d36b-4539-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['힌터랜드' 예고편]]></title>
+            <link>https://tv.naver.com/v/29718108</link>
+            <guid>https://tv.naver.com/v/29718108</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_1/Xek1b_16650347673103Sz8O_JPEG/27618c2b-4539-11ed-999c-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['캐릭터' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29717831</link>
+            <guid>https://tv.naver.com/v/29717831</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_75/R7APN_1665034314512R52Sq_JPEG/1b04872f-4538-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['자백' 왓츠 인 자백 박스 영상]]></title>
+            <link>https://tv.naver.com/v/29717278</link>
+            <guid>https://tv.naver.com/v/29717278</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_101/3u9ow_1665033199605b475V_JPEG/66e0b95e-4535-11ed-8892-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['피가로~피가로~피가로' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29713750</link>
+            <guid>https://tv.naver.com/v/29713750</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_284/bOeap_1665025457817xrt7f_JPEG/649dd2bc-4523-11ed-a7c3-d4f5ef58ad5e_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['어제 뭐 먹었어? - 극장판' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/29713341</link>
+            <guid>https://tv.naver.com/v/29713341</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_247/R4eZy_1665024569748lsHSP_JPEG/5896d31d-4521-11ed-b25c-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미혹' <미혹> 응원 영상]]></title>
+            <link>https://tv.naver.com/v/29712142</link>
+            <guid>https://tv.naver.com/v/29712142</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_57/UQ2Hj_1665021964694bzmnV_JPEG/3b8fb2b3-451b-11ed-a57b-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['암스테르담' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/29710724</link>
+            <guid>https://tv.naver.com/v/29710724</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221006_180/KKEZj_1665018660652Tb9wx_JPEG/110bbb13-4513-11ed-b25c-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['티켓 투 파라다이스' 로코 장인 인증 영상]]></title>
+            <link>https://tv.naver.com/v/29695092</link>
+            <guid>https://tv.naver.com/v/29695092</guid>
+            <pubDate>Tue, 11 Oct 2022 08:38:11 GMT</pubDate>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_111/YIN6D_1664959726036d22Ux_JPEG/6b88db79-448a-11ed-8bc9-d4f5ef5906a4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
