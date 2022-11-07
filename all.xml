@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/preview/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-06T23:25:21.153Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Nov 2022 02:04:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['바르도, 약간의 진실을 섞은 거짓된 연대기' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30489373</link>
+            <guid>https://tv.naver.com/v/30489373</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_247/8YNH8_166754093802866z7B_JPEG/3e0e91df-5c04-11ed-a7c3-d4f5ef58ad5e_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['바르도, 약간의 진실을 섞은 거짓된 연대기' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30489252</link>
+            <guid>https://tv.naver.com/v/30489252</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_122/vcUJA_1667540690052VcHbW_JPEG/2f5e9c58-5c03-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우수' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30488922</link>
+            <guid>https://tv.naver.com/v/30488922</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_219/qugJw_1667540092010CzUFj_JPEG/31f36ce1-5c02-11ed-bbda-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['혜옥이' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30488484</link>
+            <guid>https://tv.naver.com/v/30488484</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_249/Hfvv8_1667539268947sPpxp_JPEG/c73e79fb-5bfc-11ed-8d11-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['셀레나 고메즈: 마이 마인드 앤드 미' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30485350</link>
+            <guid>https://tv.naver.com/v/30485350</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_269/sg6Bl_1667532902428xeEYV_JPEG/25310964-5bf1-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['육선문: 혈수기담' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30484110</link>
+            <guid>https://tv.naver.com/v/30484110</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_203/JLdJ4_1667530557503hxt9g_JPEG/45e8096b-5beb-11ed-aee9-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오늘 밤, 세계에서 이 사랑이 사라진다 해도' 런칭 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30482562</link>
+            <guid>https://tv.naver.com/v/30482562</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_40/Kr6Oz_1667527618595lngHR_JPEG/20b870cd-5be5-11ed-9aa2-505dac8c3721_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['죽어도 자이언츠' 사직 노래방 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30482182</link>
+            <guid>https://tv.naver.com/v/30482182</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_285/Nmppi_1667526877133g4nfh_JPEG/47df17d4-5be3-11ed-bbda-505dac8c37f3_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['유포자들' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30481990</link>
+            <guid>https://tv.naver.com/v/30481990</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_220/qA2d8_1667526518168PdLUI_JPEG/8fb19648-5be2-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['파이어버드' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30481679</link>
+            <guid>https://tv.naver.com/v/30481679</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_26/8Cp97_1667525864510FeMLQ_JPEG/c74011f4-5be0-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정직한 후보2' 전체 홍보 미션 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480827</link>
+            <guid>https://tv.naver.com/v/30480827</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_119/OSrSC_1667523201257j7IBW_JPEG/039d9e35-5bdb-11ed-a14d-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정직한 후보2' 윤경호 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480815</link>
+            <guid>https://tv.naver.com/v/30480815</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_19/8bcV7_1667523151450K0DxW_JPEG/ec52541a-5bda-11ed-b25c-505dacfbaa5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정직한 후보2' 박진주 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480804</link>
+            <guid>https://tv.naver.com/v/30480804</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_224/44HKn_1667523105827ScyhL_JPEG/d0809884-5bda-11ed-a14d-505dac8c3607_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정직한 후보2' 라미란 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480793</link>
+            <guid>https://tv.naver.com/v/30480793</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_32/6LJkS_16675230792455RUcC_JPEG/ad34cc72-5bda-11ed-bbda-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['정직한 후보2' 김무열 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480779</link>
+            <guid>https://tv.naver.com/v/30480779</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_300/oCkci_1667523022221eioQH_JPEG/89ccc57b-5bda-11ed-999c-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['자백' 개봉 전부터 이미 해외에서 난리 난 영화 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480748</link>
+            <guid>https://tv.naver.com/v/30480748</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_62/t6DV2_1667522896341NDNrl_JPEG/2352a405-5bda-11ed-aa59-d4f5ef58ac88_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['자백' 저희 영화 미스테리 스릴러 맞습니다 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480718</link>
+            <guid>https://tv.naver.com/v/30480718</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_223/ENnii_1667522771772cJKjb_JPEG/fa12f30b-5bd9-11ed-b41c-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['자백' 자백이 알고싶다 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30480691</link>
+            <guid>https://tv.naver.com/v/30480691</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_230/ykRe9_1667522710237iQe4X_JPEG/b3481598-5bd9-11ed-bf94-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컴 프롬 어웨이' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30464932</link>
+            <guid>https://tv.naver.com/v/30464932</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_179/oci71_16674645319900OXKs_JPEG/c6f5f689-5b51-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['브루스 스프링스틴의 레터 투 유' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30464930</link>
+            <guid>https://tv.naver.com/v/30464930</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_43/1Qc2i_1667464528700YJhPy_JPEG/c3928036-5b51-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아빠' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30464513</link>
+            <guid>https://tv.naver.com/v/30464513</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_269/vnMs3_1667463666509qNrKB_JPEG/0350c71c-5b50-11ed-9f1e-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['프라이빗 채팅' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30461564</link>
+            <guid>https://tv.naver.com/v/30461564</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_155/hBj2l_1667458295219WlPpH_JPEG/569e3a50-5b43-11ed-bf94-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수프와 이데올로기' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30461272</link>
+            <guid>https://tv.naver.com/v/30461272</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_216/gNqy4_1667457727588du5AC_JPEG/1667457703340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['그랑 쥬테: 은밀한 몸짓' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30461127</link>
+            <guid>https://tv.naver.com/v/30461127</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_266/lbk2L_16674574333672w2bA_JPEG/d671d753-5b41-11ed-aa59-d4f5ef58ac88_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 게임' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30458887</link>
+            <guid>https://tv.naver.com/v/30458887</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_132/khmVQ_1667453313503VUs1c_JPEG/b1c3c7db-5b37-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['몬스터 신부: 101번째 프로포즈' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30456625</link>
+            <guid>https://tv.naver.com/v/30456625</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_240/jUeMH_1667450261031d4lB3_JPEG/1bca4848-5b31-11ed-aee9-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보이즈 스테이트' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30453350</link>
+            <guid>https://tv.naver.com/v/30453350</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_46/h60DD_1667443465522ebELs_JPEG/dc710986-5b20-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['콩닥콩닥, 블러시' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30453007</link>
+            <guid>https://tv.naver.com/v/30453007</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_299/TprOP_1667442824200BT08M_JPEG/b6e2bce6-5b1f-11ed-b07a-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['비스티 보이즈 스토리' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30452640</link>
+            <guid>https://tv.naver.com/v/30452640</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_78/E3z1p_1667442164878pgrzc_JPEG/f5ef195f-5b1d-11ed-b25c-505dacfbaa5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['빌리 아일리시: 조금 흐릿한 세상' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/30452153</link>
+            <guid>https://tv.naver.com/v/30452153</guid>
+            <pubDate>Mon, 07 Nov 2022 02:04:07 GMT</pubDate>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_246/SBpwM_1667441195994Ys4Me_JPEG/a65d2510-5b1b-11ed-8613-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
