@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Nov 2022 23:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 02:00:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스트레인지 월드> '디즈니의 NEW 마스코트 핫-데뷔!' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433573746?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433573746?act=clip</guid>
+            <pubDate>Thu, 17 Nov 2022 01:59:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvibn693e4cdj05fk3om0vu2n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225558935%26signature%3DIBc0nJSBh9zXiT%252BRwfpGkTH3gWg%253D%26ts%3D1668650135" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<올빼미> 캐릭터 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433550866?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433502639?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrpd9v2hh95m2xajqy186q1s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225324728%26signature%3D%252F5Dnq7xRgLx56hr%252FdT%252BsplYf4EQ%253D%26ts%3D1668415928" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrpd9v2hh95m2xajqy186q1s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225324728%26signature%3D%252F5Dnq7xRgLx56hr%252FdT%252BsplYf4EQ%253D%26ts%3D1668415928" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<너와 사랑한 시간> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq1st37j6zgzxssy6x96r0ot%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225302256%26signature%3Db5LNVW1dlR%252Fno6jk6pEr228rGBc%253D%26ts%3D1668393456" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 겨울, 나는> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433431393?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433431393?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg6i7xv1lf0wq0ciohoxv9rd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225065690%26signature%3DAT07aaycQ4DyQqk9AyivKp93SCU%253D%26ts%3D1668156890" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
