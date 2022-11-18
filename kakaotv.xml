@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 뽀로로와 친구들: 바이러스를 없애줘!> 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433609381?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433609381?act=clip</guid>
+            <pubDate>Fri, 18 Nov 2022 08:28:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrs54g34k99s0qobx6m1auha%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225668212%26signature%3DDyX8jKynEdJJzvMQkL8IIBN7ND4%253D%26ts%3D1668759412" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<탄생> 해상 액션 무삭제 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433606399?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433546094?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuqloezhshecenf2f22wtl9f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225472168%26signature%3DHhoWBBLTIDEKUO87jUUm5W5gcnk%253D%26ts%3D1668563368" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuqloezhshecenf2f22wtl9f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225472168%26signature%3DHhoWBBLTIDEKUO87jUUm5W5gcnk%253D%26ts%3D1668563368" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<폴: 600미터> 관객 추천 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjqexcf9z474vawc60uagszi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225313796%26signature%3DhdrmqdmLqDbUeOyFSnC5b7UAzi8%253D%26ts%3D1668404996" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<한산 리덕스> 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433496503?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433496503?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqu56j07wudic5bzzxvbwx6g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225308499%26signature%3DoDv7GA2Xb1oklljdDJVZRt5XYpI%253D%26ts%3D1668399699" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
