@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 10:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 11:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/30882958</link>
             <guid>https://tv.naver.com/v/30882958</guid>
             <pubDate>Fri, 18 Nov 2022 08:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_48/lqvCF_1668757825286MIRu2_JPEG/1a388873-6715-11ed-bfc6-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/30881304</link>
             <guid>https://tv.naver.com/v/30881304</guid>
             <pubDate>Fri, 18 Nov 2022 07:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_240/8eTEk_1668754729635tXvJ0_JPEG/d56168f1-670d-11ed-be03-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/30872909</link>
             <guid>https://tv.naver.com/v/30872909</guid>
             <pubDate>Fri, 18 Nov 2022 03:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_51/RzyzA_1668738454299Y9p1c_JPEG/579c72c4-66e8-11ed-9f92-48df379cc9e4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/30870353</link>
             <guid>https://tv.naver.com/v/30870353</guid>
             <pubDate>Fri, 18 Nov 2022 02:03:34 GMT</pubDate>
-            <content:encoded><![CDATA[9시간 전]]></content:encoded>
+            <content:encoded><![CDATA[10시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_125/9AHnL_1668731951968r8TdT_JPEG/1367599e-66d9-11ed-a2f9-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjqexcf9z474vawc60uagszi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225313796%26signature%3DhdrmqdmLqDbUeOyFSnC5b7UAzi8%253D%26ts%3D1668404996" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/433614314?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/433614314?act=clip</guid>
+            <pubDate>Fri, 18 Nov 2022 11:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2056630756%2Fthumb%2F20221118200656" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433578450?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433578450?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433219913?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7384510%2Fthumb%2F20221103155650" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7384510%2Fthumb%2F20221103155650" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV 'AB6IX - Life is beautiful' | 더 패뷸러스 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F962807303%2Fthumb%2F20221018124256" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 악뮤의 초대형 스케일, Take 1에 끝낼 수 있을까? | 테이크 원 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/432731598?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/432731598?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2118048883%2Fthumb%2F20221017100805" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[아메리칸 러스트 | 메인 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>

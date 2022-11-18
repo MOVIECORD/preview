@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 10:26:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 11:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/433614314?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/433614314?act=clip</guid>
+            <pubDate>Fri, 18 Nov 2022 11:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2056630756%2Fthumb%2F20221118200656" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 리크루트 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433578450?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433219913?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7384510%2Fthumb%2F20221103155650" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7384510%2Fthumb%2F20221103155650" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV 'AB6IX - Life is beautiful' | 더 패뷸러스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F962807303%2Fthumb%2F20221018124256" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 악뮤의 초대형 스케일, Take 1에 끝낼 수 있을까? | 테이크 원]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/432731598?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/432731598?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2118048883%2Fthumb%2F20221017100805" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
