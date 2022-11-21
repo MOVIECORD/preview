@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 06:31:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 07:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433679460?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433679460?act=clip</guid>
+            <pubDate>Mon, 21 Nov 2022 07:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0thjcjk4vmpx52kxse5nkmx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225921107%26signature%3DZPEEE6TFe7ZQcR%252ByzklrY8kW4tM%253D%26ts%3D1669012307" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433678775?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433601701?act=clip</guid>
             <pubDate>Fri, 18 Nov 2022 03:44:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqkaxybzyq3hciioevff6v64%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225647902%26signature%3DSHXmygrVAAepFIKUlK3QEb6IA8U%253D%26ts%3D1668739102" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqkaxybzyq3hciioevff6v64%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225647902%26signature%3DSHXmygrVAAepFIKUlK3QEb6IA8U%253D%26ts%3D1668739102" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<바커스: 고양이를 조심해!> 캐릭터 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkb6f7ly4vkzdz3x3etfx8gg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225395344%26signature%3DmNn45lYvwbZjKOlpifp0NSSXRSg%253D%26ts%3D1668486544" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<핑크퐁 시네마 콘서트 2: 원더스타 콘서트 대작전> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433522132?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433522132?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj4a51ygu8u12jex5k2nonis%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225395099%26signature%3D9VX%252BI3X24Boc3HQEw8cTuEnGGJk%253D%26ts%3D1668486299" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
