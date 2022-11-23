@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 23:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 01:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/433711076?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/433711076?act=clip</guid>
+            <pubDate>Wed, 23 Nov 2022 01:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1167027878%2Fthumb%2F20221122202303" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433674689?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433322723?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1539530867%2Fthumb%2F20221107155724" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1539530867%2Fthumb%2F20221107155724" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《엘리트들》 시즌 6 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F528993630%2Fthumb%2F20221020103846" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 6년 만의 무대 감정이 흔들리는 임재범 | 테이크 원]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/432829480?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/432829480?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1852258458%2Fthumb%2F20221019174109" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
