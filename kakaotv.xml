@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 23:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 01:53:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<프레이 포 더 데블> 공식 모션 포스터]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433748812?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433748812?act=clip</guid>
+            <pubDate>Thu, 24 Nov 2022 01:52:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvofvi6dcbp9tb85mo21ujiji%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226160927%26signature%3DtdNNsHZ7KQu0pcYz085AQTrE4t4%253D%26ts%3D1669252127" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<유포자들> 디지털 성범죄 근절 캠페인]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433729775?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433699598?act=clip</guid>
             <pubDate>Tue, 22 Nov 2022 02:03:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu35ue7s9ztm4g5chtjokk9q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225990624%26signature%3DLeEVhdDu6PDDnnhkJ8qnoGY%252Fz3c%253D%26ts%3D1669081824" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu35ue7s9ztm4g5chtjokk9q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225990624%26signature%3DLeEVhdDu6PDDnnhkJ8qnoGY%252Fz3c%253D%26ts%3D1669081824" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<기예르모 델토로의 피노키오> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 04:28:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvgshyveg5zqmrvka4rndqtj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225654001%26signature%3DDo85XFMpzglEx9z4ymTT%252BUoDSbY%253D%26ts%3D1668745201" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<오늘 밤, 세계에서 이 사랑이 사라진다 해도> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433603776?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433603776?act=clip</guid>
-            <pubDate>Fri, 18 Nov 2022 04:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh8vxc4673xyj6fdieq9w35p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225653900%26signature%3DbjO91zWsUBk0Sx%252F%252FE%252B4g7%252FlKUY4%253D%26ts%3D1668745100" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
