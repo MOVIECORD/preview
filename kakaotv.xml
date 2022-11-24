@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크리스마스 캐럴> 환상의 앙상블 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433754705?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433754705?act=clip</guid>
+            <pubDate>Thu, 24 Nov 2022 06:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm2ddim1ef07cdfqpcjzthbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226178859%26signature%3D3UdgRq8BojdbhP8FO5UPRME6nIE%253D%26ts%3D1669270059" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<프레이 포 더 데블> 공식 모션 포스터]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433748812?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433699868?act=clip</guid>
             <pubDate>Tue, 22 Nov 2022 02:03:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2052014380%2Fthumb%2F20221122110133" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2052014380%2Fthumb%2F20221122110133" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<므이 : 저주,돌아오다> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 06:29:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxxrf1fv8caew0jsfbgwl8na%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225660514%26signature%3Deikf3bbwjmEZa0pDJTE%252BuKdbg9M%253D%26ts%3D1668751714" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<놈이 우리 안에 있다> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433603806?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433603806?act=clip</guid>
-            <pubDate>Fri, 18 Nov 2022 04:28:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvgshyveg5zqmrvka4rndqtj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225654001%26signature%3DDo85XFMpzglEx9z4ymTT%252BUoDSbY%253D%26ts%3D1668745201" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
