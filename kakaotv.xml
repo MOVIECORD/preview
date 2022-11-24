@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 06:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 07:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<올빼미> 캐릭터 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433755605?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433755605?act=clip</guid>
+            <pubDate>Thu, 24 Nov 2022 07:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz8114hilgqln9g21txc81ze%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226181294%26signature%3D0y0bnZyaZ0775dDxHUTAmpC%252B%252F%252FY%253D%26ts%3D1669272494" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<크리스마스 캐럴> 환상의 앙상블 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433754705?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433700128?act=clip</guid>
             <pubDate>Tue, 22 Nov 2022 03:42:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2lpyznazgl9p1e5wkvwvqda%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225992109%26signature%3Dnq3ms2xhmZ47WrijOPmw8w77ysU%253D%26ts%3D1669083309" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2lpyznazgl9p1e5wkvwvqda%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225992109%26signature%3Dnq3ms2xhmZ47WrijOPmw8w77ysU%253D%26ts%3D1669083309" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<첫번째 아이> 셀럽 리뷰 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 06:29:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F717782709%2Fthumb%2F20221122112204" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<프린스 챠밍> 런칭 SING 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433606209?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433606209?act=clip</guid>
-            <pubDate>Fri, 18 Nov 2022 06:29:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxxrf1fv8caew0jsfbgwl8na%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33225660514%26signature%3Deikf3bbwjmEZa0pDJTE%252BuKdbg9M%253D%26ts%3D1668751714" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
