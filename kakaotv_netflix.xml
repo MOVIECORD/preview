@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 07:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 코리아 넘버원 | 오늘 공개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/433780392?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/433780392?act=clip</guid>
+            <pubDate>Fri, 25 Nov 2022 08:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1077569970%2Fthumb%2F20221125153353" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433775629?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433355110?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1901694740%2Fthumb%2F20221108205159" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1901694740%2Fthumb%2F20221108205159" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F445602265%2Fthumb%2F20221021185338" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 썸바디 I 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/432881798?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/432881798?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1695234678%2Fthumb%2F20221021171655" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
