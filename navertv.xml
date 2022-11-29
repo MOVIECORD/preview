@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/31181384</link>
+            <guid>https://tv.naver.com/v/31181384</guid>
+            <pubDate>Tue, 29 Nov 2022 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_5/ntPdQ_1669710126349MlGsi_JPEG/b904013e-6fbe-11ed-9f92-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프린스 챠밍' 판타지 러브 SING 예고편]]></title>
             <link>https://tv.naver.com/v/31178386</link>
             <guid>https://tv.naver.com/v/31178386</guid>
             <pubDate>Tue, 29 Nov 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_262/bLWgs_1669705909810x0dqe_JPEG/a4a693c7-6fb4-11ed-9ff0-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/31166611</link>
             <guid>https://tv.naver.com/v/31166611</guid>
             <pubDate>Tue, 29 Nov 2022 02:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_168/EuHkV_1669686559257dPWmE_JPEG/a8fe7590-6f87-11ed-93f8-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +140,7 @@
             <link>https://tv.naver.com/v/31082837</link>
             <guid>https://tv.naver.com/v/31082837</guid>
             <pubDate>Fri, 25 Nov 2022 08:27:12 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_211/B9SMg_1669361049126QjRn4_JPEG/5029124f-6c91-11ed-9f92-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 03:06:44 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_218/npbSN_1669341205632PR68l_PNG/1669341091701.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 키비가 소개하는 평행세계 영상]]></title>
-            <link>https://tv.naver.com/v/31071936</link>
-            <guid>https://tv.naver.com/v/31071936</guid>
-            <pubDate>Fri, 25 Nov 2022 01:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_31/93La5_1669340750739J00qh_JPEG/5e633c42-6c62-11ed-9ff0-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
