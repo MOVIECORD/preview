@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 22:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 23:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈퍼 마리오 브라더스' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/31198483</link>
+            <guid>https://tv.naver.com/v/31198483</guid>
+            <pubDate>Tue, 29 Nov 2022 23:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_234/TXeZh_1669761444144I6N2p_JPEG/91237195-7035-11ed-a007-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['눈의 여왕5: 스노우 프린세스와 미러랜드의 비밀' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/31181384</link>
             <guid>https://tv.naver.com/v/31181384</guid>
             <pubDate>Tue, 29 Nov 2022 08:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_5/ntPdQ_1669710126349MlGsi_JPEG/b904013e-6fbe-11ed-9f92-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/31178386</link>
             <guid>https://tv.naver.com/v/31178386</guid>
             <pubDate>Tue, 29 Nov 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_262/bLWgs_1669705909810x0dqe_JPEG/a4a693c7-6fb4-11ed-9ff0-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31166611</link>
             <guid>https://tv.naver.com/v/31166611</guid>
             <pubDate>Tue, 29 Nov 2022 02:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_168/EuHkV_1669686559257dPWmE_JPEG/a8fe7590-6f87-11ed-93f8-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 03:06:44 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_145/e0dbj_1669342012727D9aS5_JPEG/1669341732220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['그 겨울, 나는' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31072168</link>
-            <guid>https://tv.naver.com/v/31072168</guid>
-            <pubDate>Fri, 25 Nov 2022 03:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_218/npbSN_1669341205632PR68l_PNG/1669341091701.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
