@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 03:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 04:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<양성인간> 감독 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433874041?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433874041?act=clip</guid>
+            <pubDate>Tue, 29 Nov 2022 04:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs1d557o50cxrwd1ko1ojc3l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226603542%26signature%3DoGlCPoBFmVEdvfaKB0wgwYGRa4Q%253D%26ts%3D1669694742" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<화이트 노이즈> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433850887?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433773843?act=clip</guid>
             <pubDate>Fri, 25 Nov 2022 03:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkq8tu65gc9ht7sgd5me5m6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226247838%26signature%3DRVyOOeeHfNS1vKRpz6gJyHx2Zbk%253D%26ts%3D1669339038" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkq8tu65gc9ht7sgd5me5m6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226247838%26signature%3DRVyOOeeHfNS1vKRpz6gJyHx2Zbk%253D%26ts%3D1669339038" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<창밖은 겨울> 개봉 맛집 티키타카 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 23 Nov 2022 04:27:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7j5mkish8elzcxhivr6ibn1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226086013%26signature%3DwtLwUZgL4vjMc8vanQURKplhXts%253D%26ts%3D1669177213" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433727544?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433727544?act=clip</guid>
-            <pubDate>Wed, 23 Nov 2022 04:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyqpbcjp4wr7yix7lidy4ms6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226085442%26signature%3DeNt5VM1nRaotUQOkOMTL6rtFJbY%253D%26ts%3D1669176642" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
