@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 7명의 민쩌미 변신 영상]]></title>
+            <link>https://tv.naver.com/v/31212064</link>
+            <guid>https://tv.naver.com/v/31212064</guid>
+            <pubDate>Wed, 30 Nov 2022 07:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_4/6PRgG_1669790001689fhSNR_JPEG/9f1d0949-7078-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['몬스터 신부: 101번째 프로포즈' 몬스터 백작의 극한 웨딩 어드벤처 예고편]]></title>
             <link>https://tv.naver.com/v/31210454</link>
             <guid>https://tv.naver.com/v/31210454</guid>
             <pubDate>Wed, 30 Nov 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_295/qgQjz_1669787857680L4tlv_JPEG/cf470044-7073-11ed-bf7a-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31200174</link>
             <guid>https://tv.naver.com/v/31200174</guid>
             <pubDate>Wed, 30 Nov 2022 01:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_179/4WGM4_1669770026893choUh_JPEG/1669769866935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/31198483</link>
             <guid>https://tv.naver.com/v/31198483</guid>
             <pubDate>Tue, 29 Nov 2022 23:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_234/TXeZh_1669761444144I6N2p_JPEG/91237195-7035-11ed-a007-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/31178386</link>
             <guid>https://tv.naver.com/v/31178386</guid>
             <pubDate>Tue, 29 Nov 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_262/bLWgs_1669705909810x0dqe_JPEG/a4a693c7-6fb4-11ed-9ff0-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/31081946</link>
             <guid>https://tv.naver.com/v/31081946</guid>
             <pubDate>Fri, 25 Nov 2022 07:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_8/8mcYK_1669359833182kcx4w_JPEG/231e3a80-6c8f-11ed-b417-505dac8c381b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 05:19:22 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_126/pWrgz_1669351246485njxcy_JPEG/f354bc65-6c7a-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['통영에서의 하루' 관람 추천 영상]]></title>
-            <link>https://tv.naver.com/v/31076615</link>
-            <guid>https://tv.naver.com/v/31076615</guid>
-            <pubDate>Fri, 25 Nov 2022 05:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_240/22wOa_1669350530994UmO9s_JPEG/cc0295ce-6c78-11ed-a94b-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
