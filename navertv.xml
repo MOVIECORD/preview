@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 02:54:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 03:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하이웨이에서 사랑을' 예고편]]></title>
+            <link>https://tv.naver.com/v/31204711</link>
+            <guid>https://tv.naver.com/v/31204711</guid>
+            <pubDate>Wed, 30 Nov 2022 03:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_127/7Dh8D_1669778787958aIO6z_JPEG/f75b0418-705d-11ed-8977-505dac8c3607_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['창밖은 겨울' 릴레이 응원 영상]]></title>
             <link>https://tv.naver.com/v/31200174</link>
             <guid>https://tv.naver.com/v/31200174</guid>
             <pubDate>Wed, 30 Nov 2022 01:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_179/4WGM4_1669770026893choUh_JPEG/1669769866935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31181384</link>
             <guid>https://tv.naver.com/v/31181384</guid>
             <pubDate>Tue, 29 Nov 2022 08:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_5/ntPdQ_1669710126349MlGsi_JPEG/b904013e-6fbe-11ed-9f92-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/31178386</link>
             <guid>https://tv.naver.com/v/31178386</guid>
             <pubDate>Tue, 29 Nov 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_262/bLWgs_1669705909810x0dqe_JPEG/a4a693c7-6fb4-11ed-9ff0-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 03:06:44 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_51/V85MU_1669343340950dUrXV_JPEG/6d084326-6c68-11ed-a6e4-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['창밖은 겨울' 개봉 맛집 티키타카 영상]]></title>
-            <link>https://tv.naver.com/v/31072825</link>
-            <guid>https://tv.naver.com/v/31072825</guid>
-            <pubDate>Fri, 25 Nov 2022 03:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_114/t1nQx_1669342486446jHM3J_JPEG/1669342462112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
