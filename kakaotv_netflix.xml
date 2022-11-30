@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 01:50:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:54:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,22 +272,6 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F356221241%2Fthumb%2F20221107155416" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 더 패뷸러스 | 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433219999?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433219999?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F891003006%2Fthumb%2F20221103155931" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 패뷸러스 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433219913?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433219913?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7384510%2Fthumb%2F20221103155650" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV 'AB6IX - Life is beautiful' | 더 패뷸러스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433060993?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433060993?act=clip</guid>
@@ -326,6 +310,22 @@
             <pubDate>Wed, 16 Nov 2022 17:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1771183417%2Fthumb%2F20221026115418" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 외모지상주의 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/433001845?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/433001845?act=clip</guid>
+            <pubDate>Wed, 30 Nov 2022 02:54:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F188609975%2Fthumb%2F20221026101736" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 1899 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/432976158?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/432976158?act=clip</guid>
+            <pubDate>Wed, 30 Nov 2022 02:54:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F734752691%2Fthumb%2F20221025102430" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
