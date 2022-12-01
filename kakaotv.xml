@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:14:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<튜브펫 주식회사> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433921948?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433921948?act=clip</guid>
+            <pubDate>Thu, 01 Dec 2022 04:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmniclgutkf4cg8eh0oxtxfw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226776135%26signature%3D6VqCNBulq70YrjuMIcW4Swd0Y0E%253D%26ts%3D1669867335" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<뮤직 by SIA> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433920800?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433849381?act=clip</guid>
             <pubDate>Mon, 28 Nov 2022 05:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1ty2r1v8dbqh8w6xdehonsv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226519656%26signature%3DO4Dn0v13dS7s5pefwFU8%252FgCwP08%253D%26ts%3D1669610856" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1ty2r1v8dbqh8w6xdehonsv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226519656%26signature%3DO4Dn0v13dS7s5pefwFU8%252FgCwP08%253D%26ts%3D1669610856" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<캅 시크릿> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 01:49:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv564fzxxu03uiqon6sngncmq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226245964%26signature%3DVAU6fAH8Uaw9A1sgGDcZ8ItaB8M%253D%26ts%3D1669337164" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슬럼버랜드> 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433773120?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433773120?act=clip</guid>
-            <pubDate>Fri, 25 Nov 2022 01:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxadwuwt1qhjw40dho67ceve%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226245646%26signature%3DW%252B7OTr%252FPjunXF5TiJRslbabE7kE%253D%26ts%3D1669336846" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
