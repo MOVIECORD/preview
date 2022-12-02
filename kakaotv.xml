@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 05:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 06:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 캐릭터 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433948908?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433948908?act=clip</guid>
+            <pubDate>Fri, 02 Dec 2022 06:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1nfk9z0axdpc5tk28udoy4q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226869659%26signature%3DRb7rKmHd899lJ33W2DNwgQmWuVE%253D%26ts%3D1669960859" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<페르시아어 수업> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433947583?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433898671?act=clip</guid>
             <pubDate>Wed, 30 Nov 2022 05:20:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0dl0qdl3ln11gq2nom7czyq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226693375%26signature%3DsCa7b2CqgVDZ4EWrsvGnTCpmmCs%253D%26ts%3D1669784575" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0dl0qdl3ln11gq2nom7czyq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226693375%26signature%3DsCa7b2CqgVDZ4EWrsvGnTCpmmCs%253D%26ts%3D1669784575" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 신부: 101번째 프로포즈> 몬스터 백작의 극한 웨딩 어드벤처 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 09:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcewfqkkx9vr49y0jv8jufnc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226273834%26signature%3DN7V3MQHRkLPqfL9K%252FaazQKA1hWQ%253D%26ts%3D1669365034" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<폴: 600미터> 고공 ‘썰’바이벌 GV 폭격쑈 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433782948?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433782948?act=clip</guid>
-            <pubDate>Fri, 25 Nov 2022 08:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhlt4cee42f7fxxvr1kfqxot%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226272619%26signature%3DMWkhjSwTb0DYnpEmE3HrRHDW4OU%253D%26ts%3D1669363819" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
