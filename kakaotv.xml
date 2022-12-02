@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 02:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 03:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<너만을 위하여> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/433944848?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/433944848?act=clip</guid>
+            <pubDate>Fri, 02 Dec 2022 03:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsqv8pofgkakrqgxtd6k4oht%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226858448%26signature%3DXkiTQMaHELCYwFD0rjt0AT%252F1qi0%253D%26ts%3D1669949648" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<그 겨울, 나는> 한국영화아카데미(KAFA) 동문 릴레이 응원 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/433944431?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433875909?act=clip</guid>
             <pubDate>Tue, 29 Nov 2022 06:27:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrgu4imucj57x7qf5ixgohj1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226609020%26signature%3DJF2pj3L39oO6CupgJnsp6B4uZDw%253D%26ts%3D1669700220" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrgu4imucj57x7qf5ixgohj1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226609020%26signature%3DJF2pj3L39oO6CupgJnsp6B4uZDw%253D%26ts%3D1669700220" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<양성인간> 감독 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 03:06:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9w5ryk7vybf9yu0wt0hl3s5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226252511%26signature%3DSe%252FQtQpbTJNollQswwC6Qf576XU%253D%26ts%3D1669343711" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<헤이지니&럭키강이 비밀의 문> 다 함께 코인 노래방 특별 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433773843?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433773843?act=clip</guid>
-            <pubDate>Fri, 25 Nov 2022 03:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkq8tu65gc9ht7sgd5me5m6x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226247838%26signature%3DRVyOOeeHfNS1vKRpz6gJyHx2Zbk%253D%26ts%3D1669339038" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
