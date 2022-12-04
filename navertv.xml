@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 07:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/31281421</link>
             <guid>https://tv.naver.com/v/31281421</guid>
             <pubDate>Fri, 02 Dec 2022 07:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_93/okPFE_1669965333768PuBnX_JPEG/0c4da960-7211-11ed-bdf3-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://tv.naver.com/v/31280343</link>
             <guid>https://tv.naver.com/v/31280343</guid>
             <pubDate>Fri, 02 Dec 2022 07:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_130/zgTpF_1669963470650QDe3W_JPEG/35d6fff4-720c-11ed-bdf3-d4f5ef5906a4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +228,7 @@
             <link>https://tv.naver.com/v/31212064</link>
             <guid>https://tv.naver.com/v/31212064</guid>
             <pubDate>Wed, 30 Nov 2022 07:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_4/6PRgG_1669790001689fhSNR_JPEG/9f1d0949-7078-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
