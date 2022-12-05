@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 02:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 차원이 다른 OST 뮤직비디오 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31337761</link>
+            <guid>https://tv.naver.com/v/31337761</guid>
+            <pubDate>Mon, 05 Dec 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_19/PMXJc_1670208706472MBfgz_JPEG/51d5a798-7447-11ed-a645-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그녀가 말했다' 임팩트 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/31337394</link>
             <guid>https://tv.naver.com/v/31337394</guid>
             <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_212/4hy1e_1670207999364wLWYa_JPEG/82efc392-7445-11ed-be03-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31334938</link>
             <guid>https://tv.naver.com/v/31334938</guid>
             <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_168/e86uH_16702028196531EY3S_JPEG/e923f908-7439-11ed-9d68-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -240,12 +248,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_31/ez5Sb_1669799838122SdFJV_JPEG/4b3df8b5-708f-11ed-87eb-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['코드네임 : 에이전트 블랙' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31216259</link>
-            <guid>https://tv.naver.com/v/31216259</guid>
-            <pubDate>Wed, 30 Nov 2022 08:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_46/PdTvB_1669796120922OqQxq_JPEG/cdbce327-7086-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<가가린> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434015992?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434015992?act=clip</guid>
+            <pubDate>Mon, 05 Dec 2022 03:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva8uaqfvnpnoej71gi6u4igm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227117542%26signature%3D%252BA3RSNejRw5kZg6Phdyrp6BAIC4%253D%26ts%3D1670208742" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 캐릭터 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/433903764?act=clip</guid>
             <pubDate>Wed, 30 Nov 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvan33nkm6adusgkj3hhawbd9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226706128%26signature%3D%252FGTRcBzac%252BVwvqYKQvgVKFscoG4%253D%26ts%3D1669797328" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvan33nkm6adusgkj3hhawbd9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226706128%26signature%3D%252FGTRcBzac%252BVwvqYKQvgVKFscoG4%253D%26ts%3D1669797328" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 7명의 민쩌미 변신 영상 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Fri, 25 Nov 2022 09:20:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3hr0i1htbwiryarb37xu2z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226274091%26signature%3DsPT0f2hE61K33nDLFUFstfAIusI%253D%26ts%3D1669365291" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<강남좀비> 티저 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433783511?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433783511?act=clip</guid>
-            <pubDate>Fri, 25 Nov 2022 09:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcewfqkkx9vr49y0jv8jufnc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226273834%26signature%3DN7V3MQHRkLPqfL9K%252FaazQKA1hWQ%253D%26ts%3D1669365034" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (카카오TV ─ 넷플릭스)]]></title>

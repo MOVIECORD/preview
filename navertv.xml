@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 02:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 03:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 차원이 다른 OST 뮤직비디오]]></title>
+            <link>https://tv.naver.com/v/31337761</link>
+            <guid>https://tv.naver.com/v/31337761</guid>
+            <pubDate>Mon, 05 Dec 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_19/PMXJc_1670208706472MBfgz_JPEG/51d5a798-7447-11ed-a645-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['그녀가 말했다' 임팩트 영상]]></title>
             <link>https://tv.naver.com/v/31337394</link>
             <guid>https://tv.naver.com/v/31337394</guid>
             <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_212/4hy1e_1670207999364wLWYa_JPEG/82efc392-7445-11ed-be03-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31334938</link>
             <guid>https://tv.naver.com/v/31334938</guid>
             <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_168/e86uH_16702028196531EY3S_JPEG/e923f908-7439-11ed-9d68-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 09:21:15 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_31/ez5Sb_1669799838122SdFJV_JPEG/4b3df8b5-708f-11ed-87eb-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['코드네임 : 에이전트 블랙' 예고편]]></title>
-            <link>https://tv.naver.com/v/31216259</link>
-            <guid>https://tv.naver.com/v/31216259</guid>
-            <pubDate>Wed, 30 Nov 2022 08:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_46/PdTvB_1669796120922OqQxq_JPEG/cdbce327-7086-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
