@@ -4,16 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그녀가 말했다' 임팩트 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31337394</link>
+            <guid>https://tv.naver.com/v/31337394</guid>
+            <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_212/4hy1e_1670207999364wLWYa_JPEG/82efc392-7445-11ed-be03-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['팬픽에서 연애까지' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/31335503</link>
             <guid>https://tv.naver.com/v/31335503</guid>
             <pubDate>Mon, 05 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_110/Tjzpw_1670203869918T45mi_JPEG/2e86f6a4-743c-11ed-9d68-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 넘버 캐릭터 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31334938</link>
+            <guid>https://tv.naver.com/v/31334938</guid>
+            <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_168/e86uH_16702028196531EY3S_JPEG/e923f908-7439-11ed-9d68-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가가린' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
@@ -100,7 +116,7 @@
             <link>https://tv.naver.com/v/31270754</link>
             <guid>https://tv.naver.com/v/31270754</guid>
             <pubDate>Fri, 02 Dec 2022 02:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_282/QG5yZ_1669945541729dWblp_JPEG/e31a42af-71e2-11ed-a2f9-d4f5ef5a9532_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 08:28:53 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_46/PdTvB_1669796120922OqQxq_JPEG/cdbce327-7086-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 7명의 민쩌미 변신 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31212064</link>
-            <guid>https://tv.naver.com/v/31212064</guid>
-            <pubDate>Wed, 30 Nov 2022 07:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_4/6PRgG_1669790001689fhSNR_JPEG/9f1d0949-7078-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['몬스터 신부: 101번째 프로포즈' 몬스터 백작의 극한 웨딩 어드벤처 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31210454</link>
-            <guid>https://tv.naver.com/v/31210454</guid>
-            <pubDate>Wed, 30 Nov 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_295/qgQjz_1669787857680L4tlv_JPEG/cf470044-7073-11ed-bf7a-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 캐릭터 예고편 (우리 영화 볼래?)]]></title>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcewfqkkx9vr49y0jv8jufnc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226273834%26signature%3DN7V3MQHRkLPqfL9K%252FaazQKA1hWQ%253D%26ts%3D1669365034" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 파트2 | 미공개 클립 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434014341?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434014341?act=clip</guid>
+            <pubDate>Mon, 05 Dec 2022 02:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2067305357%2Fthumb%2F20221205105213" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/433944530?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433944530?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433672989?act=clip</guid>
             <pubDate>Mon, 21 Nov 2022 02:01:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F773130784%2Fthumb%2F20221121103829" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F773130784%2Fthumb%2F20221121103829" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고등학생 천재 개발자가 만든 이상한 채팅 로봇 | 썸바디 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1879576126%2Fthumb%2F20221107155510" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433322653?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433322653?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F356221241%2Fthumb%2F20221107155416" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 메인 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개! (카카오TV ─ 왓챠)]]></title>

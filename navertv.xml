@@ -4,16 +4,32 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['그녀가 말했다' 임팩트 영상]]></title>
+            <link>https://tv.naver.com/v/31337394</link>
+            <guid>https://tv.naver.com/v/31337394</guid>
+            <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_212/4hy1e_1670207999364wLWYa_JPEG/82efc392-7445-11ed-be03-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['팬픽에서 연애까지' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/31335503</link>
             <guid>https://tv.naver.com/v/31335503</guid>
             <pubDate>Mon, 05 Dec 2022 01:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_110/Tjzpw_1670203869918T45mi_JPEG/2e86f6a4-743c-11ed-9d68-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['영웅' 넘버 캐릭터 예고편]]></title>
+            <link>https://tv.naver.com/v/31334938</link>
+            <guid>https://tv.naver.com/v/31334938</guid>
+            <pubDate>Mon, 05 Dec 2022 02:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_168/e86uH_16702028196531EY3S_JPEG/e923f908-7439-11ed-9d68-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['가가린' 메인 예고편]]></title>
@@ -100,7 +116,7 @@
             <link>https://tv.naver.com/v/31270754</link>
             <guid>https://tv.naver.com/v/31270754</guid>
             <pubDate>Fri, 02 Dec 2022 02:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_282/QG5yZ_1669945541729dWblp_JPEG/e31a42af-71e2-11ed-a2f9-d4f5ef5a9532_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 08:28:53 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_46/PdTvB_1669796120922OqQxq_JPEG/cdbce327-7086-11ed-9f92-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 7명의 민쩌미 변신 영상]]></title>
-            <link>https://tv.naver.com/v/31212064</link>
-            <guid>https://tv.naver.com/v/31212064</guid>
-            <pubDate>Wed, 30 Nov 2022 07:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_4/6PRgG_1669790001689fhSNR_JPEG/9f1d0949-7078-11ed-bf7a-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['몬스터 신부: 101번째 프로포즈' 몬스터 백작의 극한 웨딩 어드벤처 예고편]]></title>
-            <link>https://tv.naver.com/v/31210454</link>
-            <guid>https://tv.naver.com/v/31210454</guid>
-            <pubDate>Wed, 30 Nov 2022 06:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_295/qgQjz_1669787857680L4tlv_JPEG/cf470044-7073-11ed-bf7a-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
