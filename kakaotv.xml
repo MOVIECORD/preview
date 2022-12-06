@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 05:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 06:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아웃 오브 싱크> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434045932?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434045932?act=clip</guid>
+            <pubDate>Tue, 06 Dec 2022 06:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5how2bf18tnzz0za9zf2gi4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227214938%26signature%3Do5vmMHDBOESb9gaEJGabGMOUHx0%253D%26ts%3D1670306138" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<영웅> 캐릭터 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434044100?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434015992?act=clip</guid>
             <pubDate>Mon, 05 Dec 2022 03:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva8uaqfvnpnoej71gi6u4igm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227117542%26signature%3D%252BA3RSNejRw5kZg6Phdyrp6BAIC4%253D%26ts%3D1670208742" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva8uaqfvnpnoej71gi6u4igm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227117542%26signature%3D%252BA3RSNejRw5kZg6Phdyrp6BAIC4%253D%26ts%3D1670208742" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 캐릭터 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Nov 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvayfwxkuuqtbtq54qhvvi91h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226706742%26signature%3DuZ0FYalNO8nPIS4dryN9vnBWGok%253D%26ts%3D1669797942" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<노엘 다이어리> 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/433903764?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/433903764?act=clip</guid>
-            <pubDate>Wed, 30 Nov 2022 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvan33nkm6adusgkj3hhawbd9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33226706128%26signature%3D%252FGTRcBzac%252BVwvqYKQvgVKFscoG4%253D%26ts%3D1669797328" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
