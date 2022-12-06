@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 01:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 02:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434040463?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434040463?act=clip</guid>
+            <pubDate>Tue, 06 Dec 2022 02:46:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2115098744%2Fthumb%2F20221206104901" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434020395?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433711076?act=clip</guid>
             <pubDate>Wed, 23 Nov 2022 01:49:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1167027878%2Fthumb%2F20221122202303" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1167027878%2Fthumb%2F20221122202303" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 원망의 에든버러 파트 1 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1027438836%2Fthumb%2F20221107191443" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 기묘한 이야기: 퍼즐 테일즈 | 공식 게임 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433322723?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433322723?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1539530867%2Fthumb%2F20221107155724" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
