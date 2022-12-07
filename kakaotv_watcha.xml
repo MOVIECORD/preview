@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 07:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입사원 | 캐릭터 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/434075830?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/434075830?act=clip</guid>
+            <pubDate>Wed, 07 Dec 2022 08:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1093682051%2Fthumb%2F20221207162841" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 메인 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/433925837?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/428833412?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1093703205%2Fthumb%2F20220517192815" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1093703205%2Fthumb%2F20220517192815" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[라인업부터 살벌하게 웃긴데ㅋㅋㅋㅋㅋ 웃음 참아야 되는 예능 (헙)ㅣ노키득존ㅣ티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47088995%2Fthumb%2F20220124105856" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[좋좋소 시즌4 메인 예고편 | 왓챠 오리지널]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/425518032?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/425518032?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F57597080%2Fthumb%2F20220112175908" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
