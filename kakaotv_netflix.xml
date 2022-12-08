@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 01:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 도심을 박살내는 트롤을 피해 도망쳐라 | 트롤의 습격]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434093915?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434093915?act=clip</guid>
+            <pubDate>Thu, 08 Dec 2022 01:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1017228218%2Fthumb%2F20221208101114" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 I 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434075996?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434075996?act=clip</guid>
+            <pubDate>Thu, 08 Dec 2022 01:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1240564786%2Fthumb%2F20221208101607" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434047080?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433775629?act=clip</guid>
             <pubDate>Fri, 25 Nov 2022 03:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F136684563%2Fthumb%2F20221125114449" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F136684563%2Fthumb%2F20221125114449" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433753990?act=clip</guid>
             <pubDate>Thu, 24 Nov 2022 06:27:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1300398829%2Fthumb%2F20221124144104" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1300398829%2Fthumb%2F20221124144104" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1901694740%2Fthumb%2F20221108205159" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433351889?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433351889?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1927846299%2Fthumb%2F20221108183922" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언 | 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433328290?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433328290?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F584136676%2Fthumb%2F20221107194827" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
