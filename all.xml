@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/31466742</link>
             <guid>https://tv.naver.com/v/31466742</guid>
             <pubDate>Fri, 09 Dec 2022 02:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[58분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_261/3qZtg_1670550631040tHais_JPEG/295223ce-7763-11ed-a2f9-d4f5ef5a9532_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,7 +248,15 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_187/v29Dm_1670220142155wdMXB_JPEG/193b3150-7462-11ed-93f8-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프리 데드 오어 얼라이브_예고편 (우리 영화 볼래?)]]></title>
+            <title><![CDATA[<스위치> 제작기 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434122272?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434122272?act=clip</guid>
+            <pubDate>Fri, 09 Dec 2022 03:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4oq3iybm2nnjpklc1t7pmr6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227463250%26signature%3DManKQg6eOuBr%252BMGzb6R86TDiIn0%253D%26ts%3D1670554450" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<프리 데드 오어 얼라이브> 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434122135?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/434122135?act=clip</guid>
             <pubDate>Fri, 09 Dec 2022 02:49:17 GMT</pubDate>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434069542?act=clip</guid>
             <pubDate>Wed, 07 Dec 2022 04:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx98g12yozpprfkpv7ecb44k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227292093%26signature%3DsDiEalj1iZ%252FsRXFB8YQf6dYbE6c%253D%26ts%3D1670383293" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx98g12yozpprfkpv7ecb44k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227292093%26signature%3DsDiEalj1iZ%252FsRXFB8YQf6dYbE6c%253D%26ts%3D1670383293" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 파워레인저 캡틴포스: 지구를 위한 싸움> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -560,14 +568,6 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy7crv3kihhndeijko7jmiwv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227122849%26signature%3Drt1flhJDtUAuEDFT%252FQsDdNOT2UY%253D%26ts%3D1670214049" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<그녀가 말했다> 임팩트 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434017436?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434017436?act=clip</guid>
-            <pubDate>Mon, 05 Dec 2022 04:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvldxsvtwymgbwj7bzqr4cw9t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227121871%26signature%3DOfQ60sEFOkA4jLsuK7c2h9mj8%252Bo%253D%26ts%3D1670213071" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 도심을 박살내는 트롤을 피해 도망쳐라 | 트롤의 습격 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434093915?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434093915?act=clip</guid>
@@ -582,6 +582,14 @@
             <pubDate>Thu, 08 Dec 2022 01:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1240564786%2Fthumb%2F20221208101607" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434074253?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434074253?act=clip</guid>
+            <pubDate>Fri, 09 Dec 2022 03:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1512251059%2Fthumb%2F20221207153157" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433780392?act=clip</guid>
             <pubDate>Fri, 25 Nov 2022 08:27:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1077569970%2Fthumb%2F20221125153353" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1077569970%2Fthumb%2F20221125153353" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1071100659%2Fthumb%2F20221110134556" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 데블스 플랜 모집 공고 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433355110?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433355110?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1901694740%2Fthumb%2F20221108205159" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 캐릭터 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개! (카카오TV ─ 왓챠)]]></title>

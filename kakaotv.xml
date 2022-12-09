@@ -4,11 +4,19 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:49:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[프리 데드 오어 얼라이브_예고편]]></title>
+            <title><![CDATA[<스위치> 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434122272?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434122272?act=clip</guid>
+            <pubDate>Fri, 09 Dec 2022 03:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4oq3iybm2nnjpklc1t7pmr6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227463250%26signature%3DManKQg6eOuBr%252BMGzb6R86TDiIn0%253D%26ts%3D1670554450" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<프리 데드 오어 얼라이브> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434122135?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/434122135?act=clip</guid>
             <pubDate>Fri, 09 Dec 2022 02:49:17 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434069542?act=clip</guid>
             <pubDate>Wed, 07 Dec 2022 04:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx98g12yozpprfkpv7ecb44k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227292093%26signature%3DsDiEalj1iZ%252FsRXFB8YQf6dYbE6c%253D%26ts%3D1670383293" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx98g12yozpprfkpv7ecb44k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227292093%26signature%3DsDiEalj1iZ%252FsRXFB8YQf6dYbE6c%253D%26ts%3D1670383293" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 파워레인저 캡틴포스: 지구를 위한 싸움> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Dec 2022 04:25:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy7crv3kihhndeijko7jmiwv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227122849%26signature%3Drt1flhJDtUAuEDFT%252FQsDdNOT2UY%253D%26ts%3D1670214049" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그녀가 말했다> 임팩트 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434017436?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434017436?act=clip</guid>
-            <pubDate>Mon, 05 Dec 2022 04:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvldxsvtwymgbwj7bzqr4cw9t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227121871%26signature%3DOfQ60sEFOkA4jLsuK7c2h9mj8%252Bo%253D%26ts%3D1670213071" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
