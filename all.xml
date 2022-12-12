@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이스터 선데이' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31538960</link>
+            <guid>https://tv.naver.com/v/31538960</guid>
+            <pubDate>Mon, 12 Dec 2022 07:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_64/JbYFT_1670828423105JBBI4_JPEG/687b6a1b-79ea-11ed-a2f9-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이스터 선데이' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31538738</link>
+            <guid>https://tv.naver.com/v/31538738</guid>
+            <pubDate>Mon, 12 Dec 2022 07:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_115/i9eHG_1670828079851Tjujf_JPEG/b2b2654d-79e9-11ed-a94b-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['나나' 라우라 바수키 배우 인사 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/31536186</link>
             <guid>https://tv.naver.com/v/31536186</guid>
             <pubDate>Mon, 12 Dec 2022 06:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_280/lk0Lc_1670824300564f3sr6_JPEG/b9eaee82-79e0-11ed-9ff0-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/31531232</link>
             <guid>https://tv.naver.com/v/31531232</guid>
             <pubDate>Mon, 12 Dec 2022 03:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_193/228lY_1670814373637Xpf3L_JPEG/7e99f63c-79c9-11ed-a6e4-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/31477947</link>
             <guid>https://tv.naver.com/v/31477947</guid>
             <pubDate>Fri, 09 Dec 2022 07:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_266/BLmqU_1670570020006UMnI8_JPEG/a9a60870-7790-11ed-bfc6-505dac8c3639_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +156,7 @@
             <link>https://tv.naver.com/v/31414859</link>
             <guid>https://tv.naver.com/v/31414859</guid>
             <pubDate>Wed, 07 Dec 2022 08:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_24/IPAKk_1670397579062ymIef_JPEG/2b8e0078-75ff-11ed-a6e4-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 06 Dec 2022 02:46:14 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_187/CHSx8_1670294276272hKvGx_JPEG/ffbdb254-750d-11ed-9d68-48df379ccacc_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['메모리아' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31370446</link>
-            <guid>https://tv.naver.com/v/31370446</guid>
-            <pubDate>Tue, 06 Dec 2022 02:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_62/2dwc1_1670292082985Bu0i4_JPEG/61265247-7509-11ed-b417-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘리멘탈' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31369919</link>
-            <guid>https://tv.naver.com/v/31369919</guid>
-            <pubDate>Tue, 06 Dec 2022 02:46:14 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_268/M8yeq_16702911210425iiB4_JPEG/38bc51b4-7507-11ed-acf8-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<해시태그 시그네> 2차 예고편 (우리 영화 볼래?)]]></title>
