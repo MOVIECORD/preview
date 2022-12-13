@@ -4,11 +4,19 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 08:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 09:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[<아바타: 물의 길> [아바타: 물의 길]에 대한 진실 혹은 거짓 영상]]></title>
+            <title><![CDATA[<아바타: 물의 길> 환상적인 판도라의 세계 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434229910?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434229910?act=clip</guid>
+            <pubDate>Tue, 13 Dec 2022 09:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx6zuukgx8hqrzlq7xzdlcr8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227828768%26signature%3DFJgITS0Iw%252FZZvgJM8nS9tsq%252FspY%253D%26ts%3D1670919968" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<아바타: 물의 길>에 대한 진실 혹은 거짓 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434229844?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/434229844?act=clip</guid>
             <pubDate>Tue, 13 Dec 2022 08:29:43 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434104230?act=clip</guid>
             <pubDate>Thu, 08 Dec 2022 08:26:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqswf6sc3dyzspkkp9f6d522%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227396503%26signature%3DM4o6W6Uc0LAXoASsNWIt0%252B1j%252FpM%253D%26ts%3D1670487703" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqswf6sc3dyzspkkp9f6d522%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227396503%26signature%3DM4o6W6Uc0LAXoASsNWIt0%252B1j%252FpM%253D%26ts%3D1670487703" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<서유기> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 06 Dec 2022 06:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5how2bf18tnzz0za9zf2gi4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227214938%26signature%3Do5vmMHDBOESb9gaEJGabGMOUHx0%253D%26ts%3D1670306138" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<영웅> 캐릭터 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434044100?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434044100?act=clip</guid>
-            <pubDate>Tue, 06 Dec 2022 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvimrjyz5a4stwxyz2x6jdz5n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227210173%26signature%3D%252Br8WVna5lKxQtuRkjjLj02b06I8%253D%26ts%3D1670301373" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
