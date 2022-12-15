@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 01:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434247020?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434247020?act=clip</guid>
+            <pubDate>Thu, 15 Dec 2022 01:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1219060386%2Fthumb%2F20221214111221" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 지니 & 조지아 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434245512?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433921176?act=clip</guid>
             <pubDate>Thu, 01 Dec 2022 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F406579655%2Fthumb%2F20221201121602" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F406579655%2Fthumb%2F20221201121602" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다 시즌 3 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F871820154%2Fthumb%2F20221115144013" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 솔로지옥2 | 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433502683?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433502683?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F619469438%2Fthumb%2F20221114175415" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
