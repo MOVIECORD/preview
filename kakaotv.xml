@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스위치> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434284312?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434284312?act=clip</guid>
+            <pubDate>Thu, 15 Dec 2022 09:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrnq5ndywxfwrhfupepf950n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228002227%26signature%3DtjDnNnQSOHOIyNoyj2YD9RK9a6U%253D%26ts%3D1671093427" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나나> 카밀라 안디니 감독 개봉 인사 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434281428?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434220510?act=clip</guid>
             <pubDate>Tue, 13 Dec 2022 02:55:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk754ekioo8up2ekvc0vsikn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227806786%26signature%3D3iU2kiasapCcjx5EaEdRz9f9XRs%253D%26ts%3D1670897986" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk754ekioo8up2ekvc0vsikn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227806786%26signature%3D3iU2kiasapCcjx5EaEdRz9f9XRs%253D%26ts%3D1670897986" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<희망의 요소> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 08 Dec 2022 08:26:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbt7yzsbg3s8l68d17rekjsz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227394163%26signature%3D2%252Bz%252FrbgjsVt3gYiv79%252BG7UJ5B8M%253D%26ts%3D1670485363" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<몬스터 신부 : 101번째 프로포즈> 우리말 더빙 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434101949?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434101949?act=clip</guid>
-            <pubDate>Thu, 08 Dec 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvftoec6n7n2zs9chqxwhm34n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227391651%26signature%3DL0ZzFSm43LGpebpqcZxvIOHUH3A%253D%26ts%3D1670482851" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
