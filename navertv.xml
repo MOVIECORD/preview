@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 03:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 04:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['장화신은 고양이: 끝내주는 모험' 히어로캣 액션 영상]]></title>
+            <link>https://tv.naver.com/v/31627012</link>
+            <guid>https://tv.naver.com/v/31627012</guid>
+            <pubDate>Thu, 15 Dec 2022 04:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_155/x3GpY_1671077873645bhUK3_JPEG/106317eb-7c2f-11ed-bfc6-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['기문언갑사' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/31603044</link>
             <guid>https://tv.naver.com/v/31603044</guid>
             <pubDate>Wed, 14 Dec 2022 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_129/7O1ZQ_16710013804420eYWz_JPEG/0f53ec9a-7b7d-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/31597113</link>
             <guid>https://tv.naver.com/v/31597113</guid>
             <pubDate>Wed, 14 Dec 2022 05:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_253/A94WE_1670992052578uPPLd_JPEG/37847955-7b67-11ed-93f8-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://tv.naver.com/v/31566353</link>
             <guid>https://tv.naver.com/v/31566353</guid>
             <pubDate>Tue, 13 Dec 2022 04:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_251/F7Afu_1670904947717wyzGM_JPEG/661d0c65-7a9c-11ed-a94b-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 01:40:46 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_168/fAIuG_1670462062005rEUue_JPEG/40f5d2f3-7695-11ed-a6e4-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['젠틀맨' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31419990</link>
-            <guid>https://tv.naver.com/v/31419990</guid>
-            <pubDate>Thu, 08 Dec 2022 02:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_239/1uKfL_1670406085757Vdqbp_PNG/1670406074927.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
