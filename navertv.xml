@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 01:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:53:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/31603044</link>
             <guid>https://tv.naver.com/v/31603044</guid>
             <pubDate>Wed, 14 Dec 2022 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_129/7O1ZQ_16710013804420eYWz_JPEG/0f53ec9a-7b7d-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/31597113</link>
             <guid>https://tv.naver.com/v/31597113</guid>
             <pubDate>Wed, 14 Dec 2022 05:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_253/A94WE_1670992052578uPPLd_JPEG/37847955-7b67-11ed-93f8-505dac8c35ff_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/31593524</link>
             <guid>https://tv.naver.com/v/31593524</guid>
             <pubDate>Wed, 14 Dec 2022 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_96/WZMnq_1670984987998XrX0o_JPEG/1670984848063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/31592300</link>
             <guid>https://tv.naver.com/v/31592300</guid>
             <pubDate>Wed, 14 Dec 2022 02:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_168/MCEhB_1670982659603YYnwz_JPEG/476daa65-7b51-11ed-87eb-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +172,7 @@
             <link>https://tv.naver.com/v/31466742</link>
             <guid>https://tv.naver.com/v/31466742</guid>
             <pubDate>Fri, 09 Dec 2022 02:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_261/3qZtg_1670550631040tHais_JPEG/295223ce-7763-11ed-a2f9-d4f5ef5a9532_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +220,7 @@
             <link>https://tv.naver.com/v/31435764</link>
             <guid>https://tv.naver.com/v/31435764</guid>
             <pubDate>Thu, 08 Dec 2022 02:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_9/QRSyZ_1670467079517ojCGA_JPEG/e12163a1-76a0-11ed-b0f2-d4f5ef58ad5e_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/31419990</link>
             <guid>https://tv.naver.com/v/31419990</guid>
             <pubDate>Thu, 08 Dec 2022 02:48:34 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_239/1uKfL_1670406085757Vdqbp_PNG/1670406074927.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
