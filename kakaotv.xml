@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 09:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시간을 꿈꾸는 소녀> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434389965?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434389965?act=clip</guid>
+            <pubDate>Mon, 19 Dec 2022 09:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F763877547%2Fthumb%2F20221219173221" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<라스트 필름> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434388829?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434312749?act=clip</guid>
             <pubDate>Fri, 16 Dec 2022 09:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sevqiddt4s1s7vdjyeefp0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228088376%26signature%3DCqM6QvYxrmbW1p4vVSTHRo8p07g%253D%26ts%3D1671179576" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sevqiddt4s1s7vdjyeefp0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228088376%26signature%3DCqM6QvYxrmbW1p4vVSTHRo8p07g%253D%26ts%3D1671179576" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신비아파트 극장판 차원도깨비와 7개의 세계> 민쩌미도 기다린 개봉일 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 14 Dec 2022 06:28:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfk820szh586yifmrkipfm66%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227906054%26signature%3DDkvZRdxVy1dW9DUhrMzFVEWuG4o%253D%26ts%3D1670997254" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<해시태그 시그네> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434251882?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434251882?act=clip</guid>
-            <pubDate>Wed, 14 Dec 2022 06:28:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhkdkyhpb8sq1gcspr4bucuw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227905493%26signature%3Dztkm8h4ZtO6PWy4bnkUtP%252FQz%252B6Y%253D%26ts%3D1670996693" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
