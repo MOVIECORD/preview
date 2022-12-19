@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['솔캠' 예고편]]></title>
+            <link>https://tv.naver.com/v/31716929</link>
+            <guid>https://tv.naver.com/v/31716929</guid>
+            <pubDate>Mon, 19 Dec 2022 03:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_247/QFU3b_1671419013174RjhBW_JPEG/f20b849d-7f47-11ed-b8de-b4055da548a1_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['오펜하이머' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/31714102</link>
             <guid>https://tv.naver.com/v/31714102</guid>
             <pubDate>Mon, 19 Dec 2022 02:36:29 GMT</pubDate>
-            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_42/VBdob_1671412847206LwiMz_JPEG/38904428-7f3b-11ed-bc47-a0369ffabc10_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 07:20:31 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_64/JbYFT_1670828423105JBBI4_JPEG/687b6a1b-79ea-11ed-a2f9-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이스터 선데이' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31538738</link>
-            <guid>https://tv.naver.com/v/31538738</guid>
-            <pubDate>Mon, 12 Dec 2022 07:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_115/i9eHG_1670828079851Tjujf_JPEG/b2b2654d-79e9-11ed-a94b-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

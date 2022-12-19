@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 02:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 03:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 리크루트 | 노아 센티네오와 촬영장에서]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434381078?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434381078?act=clip</guid>
+            <pubDate>Mon, 19 Dec 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1000662346%2Fthumb%2F20221219115200" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 서울에서 만나는 블랑의 추리 퀴즈 | 나이브스 아웃: 글래스 어니언]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434273939?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/433921352?act=clip</guid>
             <pubDate>Thu, 01 Dec 2022 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798819714%2Fthumb%2F20221201122720" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798819714%2Fthumb%2F20221201122720" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 김연경의 하드코어 예능 도전기 | 코리아 넘버원]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 18 Nov 2022 11:19:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2056630756%2Fthumb%2F20221118200656" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 소닉 프라임 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433606083?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433606083?act=clip</guid>
-            <pubDate>Mon, 21 Nov 2022 03:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F208493639%2Fthumb%2F20221118150315" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
