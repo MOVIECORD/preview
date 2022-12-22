@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 23:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 01:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/31778069</link>
             <guid>https://tv.naver.com/v/31778069</guid>
             <pubDate>Wed, 21 Dec 2022 04:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_107/YhKYP_1671595659989gy7bA_JPEG/651b9b09-80e4-11ed-b4ec-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_229/zyG0T_167108768984500T4R_JPEG/0a18687f-7c46-11ed-b0f2-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<유령> 1차 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434461595?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434461595?act=clip</guid>
+            <pubDate>Thu, 22 Dec 2022 01:36:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcodv018wwttiilms9gfkmcf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228576384%26signature%3DPatXq6R4pexyHRsy2T9ZtXHrtUo%253D%26ts%3D1671667584" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<정이> 티저 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434436329?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/434436329?act=clip</guid>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434382657?act=clip</guid>
             <pubDate>Mon, 19 Dec 2022 05:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkdgd5puk553pjtq3q9heorx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228331689%26signature%3DvDjBDzoYJ%252B7i5%252BKnt2Dg%252FTmPTN0%253D%26ts%3D1671422889" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkdgd5puk553pjtq3q9heorx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228331689%26signature%3DvDjBDzoYJ%252B7i5%252BKnt2Dg%252FTmPTN0%253D%26ts%3D1671422889" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 신부: 101번째 프로포즈> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Thu, 15 Dec 2022 09:20:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrnq5ndywxfwrhfupepf950n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228002227%26signature%3DtjDnNnQSOHOIyNoyj2YD9RK9a6U%253D%26ts%3D1671093427" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나나> 카밀라 안디니 감독 개봉 인사 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434281428?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434281428?act=clip</guid>
-            <pubDate>Thu, 15 Dec 2022 08:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdv2x22zrlaonjlnn3l49lc1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33227996419%26signature%3Dr0gWOMj00ieeBw%252B2zjPkLiX7Q1I%253D%26ts%3D1671087619" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국 팬들에게 전하는 인사 | 나이브스 아웃: 글래스 어니언 (카카오TV ─ 넷플릭스)]]></title>
