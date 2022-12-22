@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 01:36:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 02:39:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434464105?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434464105?act=clip</guid>
+            <pubDate>Thu, 22 Dec 2022 02:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F920193579%2Fthumb%2F20221222105528" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 한국 팬들에게 전하는 인사 | 나이브스 아웃: 글래스 어니언]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434445103?act=clip</link>
@@ -30,6 +38,14 @@
             <pubDate>Wed, 21 Dec 2022 01:28:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1220014556%2Fthumb%2F20221220234240" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마성의 남자 진영에게 반해버린 슬기ㅣ솔로지옥2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434414990?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434414990?act=clip</guid>
+            <pubDate>Thu, 22 Dec 2022 02:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F294002594%2Fthumb%2F20221220230143" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 지옥도에 새로운 남자가 등장하다ㅣ솔로지옥2]]></title>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434074253?act=clip</guid>
             <pubDate>Fri, 09 Dec 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1512251059%2Fthumb%2F20221207153157" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1512251059%2Fthumb%2F20221207153157" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434047080?act=clip</guid>
             <pubDate>Wed, 07 Dec 2022 01:46:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958173669%2Fthumb%2F20221206154516" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958173669%2Fthumb%2F20221206154516" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 해리와 메건 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 03:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F136684563%2Fthumb%2F20221125114449" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 꿈의 세계 무법자가 된 제이슨 모모아 | 슬럼버랜드]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433753990?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433753990?act=clip</guid>
-            <pubDate>Thu, 24 Nov 2022 06:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1300398829%2Fthumb%2F20221124144104" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 거대한 미스터리를 마주한 케르베로스호의 승객들 | 1899]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433753985?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433753985?act=clip</guid>
-            <pubDate>Thu, 24 Nov 2022 06:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F542109024%2Fthumb%2F20221124144015" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
