@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 07:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['너와 함께한 시간: 이탈리안 레시피' 배우 개봉 응원 영상]]></title>
+            <link>https://tv.naver.com/v/31816639</link>
+            <guid>https://tv.naver.com/v/31816639</guid>
+            <pubDate>Thu, 22 Dec 2022 08:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_138/3IIhW_1671695316704h8IGQ_JPEG/573bdd28-81b8-11ed-b33d-80615f0c4788_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['프린스 챠밍' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/31810967</link>
             <guid>https://tv.naver.com/v/31810967</guid>
             <pubDate>Thu, 22 Dec 2022 05:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_106/KE7eh_1671685261514FiQoK_JPEG/4afe5952-81b5-11ed-9eb0-48df377036d6_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/31806232</link>
             <guid>https://tv.naver.com/v/31806232</guid>
             <pubDate>Thu, 22 Dec 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_153/j8r7p_1671674355320guun0_JPEG/081dfb7b-819b-11ed-b1f2-80615f0bcc68_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31779442</link>
             <guid>https://tv.naver.com/v/31779442</guid>
             <pubDate>Thu, 22 Dec 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_300/08HRP_1671598347798qFkCW_PNG/1671598213689.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/31756811</link>
             <guid>https://tv.naver.com/v/31756811</guid>
             <pubDate>Tue, 20 Dec 2022 08:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_167/9WTaM_1671524620714BI04x_JPEG/e65f8233-803e-11ed-ad27-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/31726664</link>
             <guid>https://tv.naver.com/v/31726664</guid>
             <pubDate>Mon, 19 Dec 2022 08:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_75/9TM5Y_1671437278050ckkLM_JPEG/ef1264a1-7f73-11ed-b4ec-d4f5ef5906a4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/31724848</link>
             <guid>https://tv.naver.com/v/31724848</guid>
             <pubDate>Mon, 19 Dec 2022 08:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_203/KqegM_1671434368464mpvRE_JPEG/c9e46f5e-7f6c-11ed-a64d-a0369ffb3c64_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 02:36:47 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_254/SmUeH_1671156288373t2CMO_JPEG/d775c31f-7ce4-11ed-bbe6-a0369ffda7e0_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['라스트 필름' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31637144</link>
-            <guid>https://tv.naver.com/v/31637144</guid>
-            <pubDate>Thu, 15 Dec 2022 09:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_185/RWoTp_16710939683599Gs8L_JPEG/8a2808f2-7c54-11ed-a197-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
