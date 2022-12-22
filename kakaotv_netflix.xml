@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 05:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언  | 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434469717?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434469717?act=clip</guid>
+            <pubDate>Thu, 22 Dec 2022 06:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq2dpkq2vm91ticc555729s1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228596700%26signature%3D%252BhZyl2ZT7PmA0YRMZNvcOqQ%252B7yw%253D%26ts%3D1671687900" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434464105?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434075996?act=clip</guid>
             <pubDate>Thu, 08 Dec 2022 01:41:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1240564786%2Fthumb%2F20221208101607" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1240564786%2Fthumb%2F20221208101607" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 새로운 캐릭터 서울의 등장 | 종이의 집: 공동경제구역 파트2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Nov 2022 08:27:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1077569970%2Fthumb%2F20221125153353" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433775629?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433775629?act=clip</guid>
-            <pubDate>Fri, 25 Nov 2022 03:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F136684563%2Fthumb%2F20221125114449" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
