@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 08:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['문맨' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/31844774</link>
+            <guid>https://tv.naver.com/v/31844774</guid>
+            <pubDate>Fri, 23 Dec 2022 08:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_260/8lYTn_1671782887301IMNww_JPEG/8a65ca6c-8298-11ed-ac52-505dac8c3639_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['은밀한 동거' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/31844349</link>
+            <guid>https://tv.naver.com/v/31844349</guid>
+            <pubDate>Fri, 23 Dec 2022 08:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_174/h8uDb_1671782007426lT0Fs_JPEG/2284387c-8292-11ed-89d2-a0369ffab09c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[<가가린> X ONEWE(원위) '너의 우주는' 콜라보 뮤직비디오]]></title>
             <link>https://tv.naver.com/v/31842366</link>
             <guid>https://tv.naver.com/v/31842366</guid>
             <pubDate>Fri, 23 Dec 2022 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_167/GcnIy_16717785192408gGgA_JPEG/1671778513043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/31841899</link>
             <guid>https://tv.naver.com/v/31841899</guid>
             <pubDate>Fri, 23 Dec 2022 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[36분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_31/s6wo8_1671777685488n1NH8_JPEG/4441ab3c-828c-11ed-819e-a0369ffabd48_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/31841333</link>
             <guid>https://tv.naver.com/v/31841333</guid>
             <pubDate>Fri, 23 Dec 2022 07:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_273/hwPoU_1671776773092TbI62_JPEG/611ef610-828a-11ed-871b-a0369ffac1dc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/31839902</link>
             <guid>https://tv.naver.com/v/31839902</guid>
             <pubDate>Fri, 23 Dec 2022 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_100/i2d7l_1671774277623ybciG_JPEG/dcb54fbb-8283-11ed-8177-a0369ffb38d4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://tv.naver.com/v/31838842</link>
             <guid>https://tv.naver.com/v/31838842</guid>
             <pubDate>Fri, 23 Dec 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_51/dJSnl_1671772088301P3PzG_JPEG/68ef8ae1-827f-11ed-ac52-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://tv.naver.com/v/31834088</link>
             <guid>https://tv.naver.com/v/31834088</guid>
             <pubDate>Fri, 23 Dec 2022 02:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_268/e3QWD_1671761454389dSK4k_PNG/1671761375668.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://tv.naver.com/v/31833839</link>
             <guid>https://tv.naver.com/v/31833839</guid>
             <pubDate>Fri, 23 Dec 2022 02:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_135/GxNQ6_1671760994488KdcMT_JPEG/7ddfa628-8265-11ed-9aad-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +84,7 @@
             <link>https://tv.naver.com/v/31832595</link>
             <guid>https://tv.naver.com/v/31832595</guid>
             <pubDate>Fri, 23 Dec 2022 01:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_129/6A3Ko_1671758448181aP6qm_JPEG/8f51f37e-825f-11ed-8112-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +92,7 @@
             <link>https://tv.naver.com/v/31818871</link>
             <guid>https://tv.naver.com/v/31818871</guid>
             <pubDate>Thu, 22 Dec 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_150/tQAeS_1671699323115MRJ1E_JPEG/171cc814-81d6-11ed-b1f2-80615f0bcc68_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +100,7 @@
             <link>https://tv.naver.com/v/31818717</link>
             <guid>https://tv.naver.com/v/31818717</guid>
             <pubDate>Thu, 22 Dec 2022 09:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_20/UCnfu_1671699009806bEHFQ_JPEG/2f8efb5c-81d5-11ed-b8af-48df37e2c3b0_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +108,7 @@
             <link>https://tv.naver.com/v/31816639</link>
             <guid>https://tv.naver.com/v/31816639</guid>
             <pubDate>Thu, 22 Dec 2022 08:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_138/3IIhW_1671695316704h8IGQ_JPEG/573bdd28-81b8-11ed-b33d-80615f0c4788_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +156,7 @@
             <link>https://tv.naver.com/v/31756811</link>
             <guid>https://tv.naver.com/v/31756811</guid>
             <pubDate>Tue, 20 Dec 2022 08:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_167/9WTaM_1671524620714BI04x_JPEG/e65f8233-803e-11ed-ad27-505dac8c38f5_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 09:19:54 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_246/TRzr9_1671439624979vpItc_JPEG/1671439621790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['몬스터 신부: 101번째 프로포즈' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/31726664</link>
-            <guid>https://tv.naver.com/v/31726664</guid>
-            <pubDate>Mon, 19 Dec 2022 08:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_75/9TM5Y_1671437278050ckkLM_JPEG/ef1264a1-7f73-11ed-b4ec-d4f5ef5906a4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['해시태그 시그네' 무삭제 영상]]></title>
-            <link>https://tv.naver.com/v/31724848</link>
-            <guid>https://tv.naver.com/v/31724848</guid>
-            <pubDate>Mon, 19 Dec 2022 08:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_203/KqegM_1671434368464mpvRE_JPEG/c9e46f5e-7f6c-11ed-a64d-a0369ffb3c64_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
