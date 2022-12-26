@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 04:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 05:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['황제의 검' 예고편]]></title>
+            <link>https://tv.naver.com/v/31892315</link>
+            <guid>https://tv.naver.com/v/31892315</guid>
+            <pubDate>Mon, 26 Dec 2022 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_37/eWcsI_16720292103846nJFE_JPEG/30293ce0-84d6-11ed-bae5-a0369ffb33b4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['교섭' 공식 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/31892214</link>
+            <guid>https://tv.naver.com/v/31892214</guid>
+            <pubDate>Mon, 26 Dec 2022 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[50분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_277/DDKqt_16720289603147tSjo_JPEG/1672028803785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['장화신은 고양이: 끝내주는 모험' 세로형 메인 예고편]]></title>
             <link>https://tv.naver.com/v/31890967</link>
             <guid>https://tv.naver.com/v/31890967</guid>
             <pubDate>Mon, 26 Dec 2022 04:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[54분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_64/c4xFW_1672025344302Bwyiy_JPEG/37e12fc6-84cd-11ed-a54e-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/31890353</link>
             <guid>https://tv.naver.com/v/31890353</guid>
             <pubDate>Mon, 26 Dec 2022 03:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_60/zcJkJ_1672023359425agV3u_JPEG/25bf1a2b-84c8-11ed-87d6-80615f0bcea6_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/31889760</link>
             <guid>https://tv.naver.com/v/31889760</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_58/m3UWd_1672021713110Vwqva_JPEG/6366c823-84c4-11ed-b491-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/31889488</link>
             <guid>https://tv.naver.com/v/31889488</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_276/R2kFF_1672021137511m8Yeg_JPEG/1672021090175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://tv.naver.com/v/31889177</link>
             <guid>https://tv.naver.com/v/31889177</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/BavuE_1672020530030MEkhx_JPEG/1c6842c3-84c2-11ed-a307-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +116,7 @@
             <link>https://tv.naver.com/v/31838842</link>
             <guid>https://tv.naver.com/v/31838842</guid>
             <pubDate>Fri, 23 Dec 2022 05:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_51/dJSnl_1671772088301P3PzG_JPEG/68ef8ae1-827f-11ed-ac52-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +180,7 @@
             <link>https://tv.naver.com/v/31810967</link>
             <guid>https://tv.naver.com/v/31810967</guid>
             <pubDate>Thu, 22 Dec 2022 05:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_106/KE7eh_1671685261514FiQoK_JPEG/4afe5952-81b5-11ed-9eb0-48df377036d6_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 06:25:35 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_69/rKA03_16715140453822IuYz_JPEG/cd84ac41-8026-11ed-b792-a0369ffac664_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['패닉 런' 긴급 경보 영상]]></title>
-            <link>https://tv.naver.com/v/31750375</link>
-            <guid>https://tv.naver.com/v/31750375</guid>
-            <pubDate>Tue, 20 Dec 2022 05:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_92/v0YIc_1671513109858KNnh7_JPEG/933fe6da-8024-11ed-8bd9-48df37e301e2_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' MC신비의 엉망진창 인터뷰 시즌2]]></title>
-            <link>https://tv.naver.com/v/31749862</link>
-            <guid>https://tv.naver.com/v/31749862</guid>
-            <pubDate>Tue, 20 Dec 2022 05:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_290/YS2X6_1671512354615gKC35_JPEG/6a4c939a-8022-11ed-858f-a0369ffddda0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
