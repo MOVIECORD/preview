@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 02:42:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['관계의 일변' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/31890353</link>
+            <guid>https://tv.naver.com/v/31890353</guid>
+            <pubDate>Mon, 26 Dec 2022 03:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_60/zcJkJ_1672023359425agV3u_JPEG/25bf1a2b-84c8-11ed-87d6-80615f0bcea6_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['유령' 캐릭터 프로필 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/31889760</link>
             <guid>https://tv.naver.com/v/31889760</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <content:encoded><![CDATA[52분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_58/m3UWd_1672021713110Vwqva_JPEG/6366c823-84c4-11ed-b491-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/31889488</link>
             <guid>https://tv.naver.com/v/31889488</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_276/R2kFF_1672021137511m8Yeg_JPEG/1672021090175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/31889177</link>
             <guid>https://tv.naver.com/v/31889177</guid>
             <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/BavuE_1672020530030MEkhx_JPEG/1c6842c3-84c2-11ed-a307-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 05:18:54 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_248/2Avuo_1671510909691hN8pp_JPEG/2777fe3e-801f-11ed-84f1-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['처음 꽃향기를 만난 순간' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/31746410</link>
-            <guid>https://tv.naver.com/v/31746410</guid>
-            <pubDate>Tue, 20 Dec 2022 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_257/BtONT_1671504974665DNLQI_JPEG/1671504735429.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[<문맨> 메인 예고편 (우리 영화 볼래?)]]></title>
