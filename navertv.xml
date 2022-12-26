@@ -4,9 +4,33 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 01:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 02:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['유령' 캐릭터 프로필 영상]]></title>
+            <link>https://tv.naver.com/v/31889760</link>
+            <guid>https://tv.naver.com/v/31889760</guid>
+            <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_58/m3UWd_1672021713110Vwqva_JPEG/6366c823-84c4-11ed-b491-48df379ccacc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가가린' 국내 개봉 기념 인사 영상]]></title>
+            <link>https://tv.naver.com/v/31889488</link>
+            <guid>https://tv.naver.com/v/31889488</guid>
+            <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_276/R2kFF_1672021137511m8Yeg_JPEG/1672021090175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엄마의 땅: 그리샤와 숲의 주인' 크리스마스 캐럴 영상]]></title>
+            <link>https://tv.naver.com/v/31889177</link>
+            <guid>https://tv.naver.com/v/31889177</guid>
+            <pubDate>Mon, 26 Dec 2022 02:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_106/BavuE_1672020530030MEkhx_JPEG/1c6842c3-84c2-11ed-a307-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['문맨' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/31844774</link>
@@ -76,7 +100,7 @@
             <link>https://tv.naver.com/v/31834088</link>
             <guid>https://tv.naver.com/v/31834088</guid>
             <pubDate>Fri, 23 Dec 2022 02:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_268/e3QWD_1671761454389dSK4k_PNG/1671761375668.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://tv.naver.com/v/31833839</link>
             <guid>https://tv.naver.com/v/31833839</guid>
             <pubDate>Fri, 23 Dec 2022 02:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_135/GxNQ6_1671760994488KdcMT_JPEG/7ddfa628-8265-11ed-9aad-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +156,7 @@
             <link>https://tv.naver.com/v/31806232</link>
             <guid>https://tv.naver.com/v/31806232</guid>
             <pubDate>Thu, 22 Dec 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_153/j8r7p_1671674355320guun0_JPEG/081dfb7b-819b-11ed-b1f2-80615f0bcc68_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://tv.naver.com/v/31779442</link>
             <guid>https://tv.naver.com/v/31779442</guid>
             <pubDate>Thu, 22 Dec 2022 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_300/08HRP_1671598347798qFkCW_PNG/1671598213689.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_257/BtONT_1671504974665DNLQI_JPEG/1671504735429.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['시간을 꿈꾸는 소녀' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/31745018</link>
-            <guid>https://tv.naver.com/v/31745018</guid>
-            <pubDate>Tue, 20 Dec 2022 02:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_244/0ESZO_1671502017458bUbSg_JPEG/1671502014473.JPG?type=f194_109_blend" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA['뮬란: 더 레전드' 예고편]]></title>
-            <link>https://tv.naver.com/v/31728985</link>
-            <guid>https://tv.naver.com/v/31728985</guid>
-            <pubDate>Mon, 19 Dec 2022 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_296/09dye_1671441509570gcj8d_JPEG/9c0fbd9b-7f7d-11ed-ae87-505dac8c3721_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3000년의 기다림' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/31728548</link>
-            <guid>https://tv.naver.com/v/31728548</guid>
-            <pubDate>Mon, 19 Dec 2022 09:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_249/LLJgj_1671440664739Yp269_JPEG/d7474345-7f7b-11ed-84f1-d4f5ef5a9532_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
