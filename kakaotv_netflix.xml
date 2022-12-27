@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 01:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 02:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 왠지 눈물이 핑 도는 '어른이 되면'ㅣ로알드 달의 뮤지컬 마틸다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434603921?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434603921?act=clip</guid>
+            <pubDate>Tue, 27 Dec 2022 02:38:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518805742%2Fthumb%2F20221227104022" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434603097?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434273939?act=clip</guid>
             <pubDate>Thu, 15 Dec 2022 05:19:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1734710336%2Fthumb%2F20221215112100" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1734710336%2Fthumb%2F20221215112100" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 《바이킹스: 발할라》 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 01 Dec 2022 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798819714%2Fthumb%2F20221201122720" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 김연경의 하드코어 예능 도전기 | 코리아 넘버원]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/433921349?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/433921349?act=clip</guid>
-            <pubDate>Thu, 01 Dec 2022 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F936061811%2Fthumb%2F20221201122646" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
