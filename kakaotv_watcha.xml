@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 23:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 01:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음 빈칸을 채우시오 | 왓챠와 K-POP 아이돌 넷의 만남 | 메인 예고편 | 왓챠 오리지널]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/434582004?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/434582004?act=clip</guid>
+            <pubDate>Tue, 27 Dec 2022 01:39:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1023538689%2Fthumb%2F20221226202637" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 캐릭터 예고편 | 왓챠 익스클루시브 | 12월 21일 왓챠 공개!]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/434075830?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/429254903?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1001009054%2Fthumb%2F20220602115456" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1001009054%2Fthumb%2F20220602115456" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[★웃음 참기★참으면 오천만원 보장. 의심말고 클릭!ㅣ노키득존ㅣ30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1570570539%2Fthumb%2F20220202133411" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[시맨틱 에러ㅣ티저 예고편ㅣ왓챠 오리지널]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/425818100?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/425818100?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.daumcdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47088995%2Fthumb%2F20220124105856" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
