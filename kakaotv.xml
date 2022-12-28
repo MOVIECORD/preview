@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 03:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 04:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<라인> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434630853?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434630853?act=clip</guid>
+            <pubDate>Wed, 28 Dec 2022 04:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz1wh3oss50k0diihbs0ewmv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229108354%26signature%3DzRSG%252Bw7jfyW04Y4fnEF5AFgWGz8%253D%26ts%3D1672199554" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<로알드 달의 뮤지컬 마틸다> 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434628539?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434583047?act=clip</guid>
             <pubDate>Mon, 26 Dec 2022 06:24:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr28dhta8fld69ftwmugxm8z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228941667%26signature%3DsbKhA3g6hv6YRyeSTytNarcBaRI%253D%26ts%3D1672032867" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr28dhta8fld69ftwmugxm8z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228941667%26signature%3DsbKhA3g6hv6YRyeSTytNarcBaRI%253D%26ts%3D1672032867" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 한국 성우 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Dec 2022 09:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8007octwy3udx2rcwr84k39%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228607089%26signature%3DCxl3l3sibk5x0xB3K5O3R%252B7ctEI%253D%26ts%3D1671698289" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<너와 함께한 시간: 이탈리안 레시피> 배우 개봉응원 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434464774?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434464774?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 02:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8gkxsy033yh57xefwlla3x1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228584423%26signature%3Dqh6klJD1h4v7TLsFbq2rCSy2hMY%253D%26ts%3D1671675623" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
