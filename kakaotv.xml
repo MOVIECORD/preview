@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<솔캠> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434653872?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434653872?act=clip</guid>
+            <pubDate>Thu, 29 Dec 2022 03:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv06yudljan5ijcq6vve5xtqw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229190860%26signature%3DZ7hS4zCi4dF3NSUGtbDRrX24Fo4%253D%26ts%3D1672282060" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<단순한 열정> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434653383?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434604462?act=clip</guid>
             <pubDate>Tue, 27 Dec 2022 02:37:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9tn4aho0qzbz2kcdkaencbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229015519%26signature%3DbAQz8EMlduoL7NoyecPsKjuRr0c%253D%26ts%3D1672106719" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9tn4aho0qzbz2kcdkaencbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229015519%26signature%3DbAQz8EMlduoL7NoyecPsKjuRr0c%253D%26ts%3D1672106719" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<캐리와 슈퍼콜라> 캐리크리스마스 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Dec 2022 05:18:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf0nh9q5018wnitohu7umgql%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228679645%26signature%3Dmdh3lr7O0frZOIQzfZRN5fpA2UI%253D%26ts%3D1671770845" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<영웅천전> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434497252?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434497252?act=clip</guid>
-            <pubDate>Fri, 23 Dec 2022 05:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9ctcehdsbnbm1z3v5dt92ee%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228678924%26signature%3DaXa4ytR%252FGIyrRGtWTceSNQTcyeo%253D%26ts%3D1671770124" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
