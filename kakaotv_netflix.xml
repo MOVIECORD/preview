@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 03:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 04:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 슬기와 계속 붙어있는 진영, 지켜보는 종우 | 솔로지옥2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434680906?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434680906?act=clip</guid>
+            <pubDate>Fri, 30 Dec 2022 04:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1668277328%2Fthumb%2F20221230131417" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 진영, 한빈, 나딘 직업 공개 | 솔로지옥2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434677051?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434445103?act=clip</guid>
             <pubDate>Wed, 21 Dec 2022 08:26:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F189601294%2Fthumb%2F20221221171135" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F189601294%2Fthumb%2F20221221171135" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 출연자들의 직업과 나이 공개 | 솔로지옥2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 09 Dec 2022 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1512251059%2Fthumb%2F20221207153157" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 패뷸러스 | 스페셜 심쿵 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434047080?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434047080?act=clip</guid>
-            <pubDate>Wed, 07 Dec 2022 01:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958173669%2Fthumb%2F20221206154516" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
