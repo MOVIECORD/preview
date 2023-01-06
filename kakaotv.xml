@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 03:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 04:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<커플 체인지> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/434850319?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/434850319?act=clip</guid>
+            <pubDate>Fri, 06 Jan 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvi8yfeu22fb6dctawz1658bu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229887220%26signature%3DtKJjkmPS7n8Dpr7JX%252B0DOJvFAhM%253D%26ts%3D1672978420" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아바타: 물의 길> 판도라의 경이로운 대자연 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/434848417?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434802077?act=clip</guid>
             <pubDate>Wed, 04 Jan 2023 04:23:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfveou9ggqpbuezsraj5zdcp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229714367%26signature%3DR19wYKfxYe2Enw3%252BvfsSpY6gIz0%253D%26ts%3D1672805567" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfveou9ggqpbuezsraj5zdcp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229714367%26signature%3DR19wYKfxYe2Enw3%252BvfsSpY6gIz0%253D%26ts%3D1672805567" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<영웅> '당신을 기억합니다, 황후마마여' 넘버 풀버전 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 02 Jan 2023 05:18:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmqiqnxh7xx11ea3bkp8j3px%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229544610%26signature%3DEiwzqXJNzxJSto1%252B2mArf%252B2%252BVDo%253D%26ts%3D1672635810" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<장화신은 고양이: 끝내주는 모험> 무장 해제 케미스트리 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434755040?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434755040?act=clip</guid>
-            <pubDate>Mon, 02 Jan 2023 05:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt4wyatlztaq57o5vxeh2fcs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33229544281%26signature%3DvyL11HA2kvOZXPRzlcxXW2oZWZU%253D%26ts%3D1672635481" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
