@@ -4,23 +4,47 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 23:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 01:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['새를 사랑한 화가' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32166474</link>
+            <guid>https://tv.naver.com/v/32166474</guid>
+            <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_192/cZIHL_1672966807110DNbUm_JPEG/1243519e-8d5d-11ed-bda9-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['돌핀보이' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32166254</link>
+            <guid>https://tv.naver.com/v/32166254</guid>
+            <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[50분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_84/9ZKAs_1672966270471cUy44_JPEG/deb90121-8d5b-11ed-b6c0-a0369ffddf94_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['곽가권' 예고편]]></title>
+            <link>https://tv.naver.com/v/32166162</link>
+            <guid>https://tv.naver.com/v/32166162</guid>
+            <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[57분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_71/VqZtO_1672965844997e9ESA_JPEG/890061c9-8d5a-11ed-85c6-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['교섭' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/32146232</link>
             <guid>https://tv.naver.com/v/32146232</guid>
             <pubDate>Thu, 05 Jan 2023 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_126/AmgKH_1672902792011q5K1Y_JPEG/fde5ce82-8cc7-11ed-bae5-a0369ffb33b4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_37/OG7Tj_1672968235346bkBYp_JPEG/1672968219831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['매복' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/32145965</link>
             <guid>https://tv.naver.com/v/32145965</guid>
             <pubDate>Thu, 05 Jan 2023 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_226/gYT44_1672902362245aCYCq_JPEG/1672902255714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +52,7 @@
             <link>https://tv.naver.com/v/32145481</link>
             <guid>https://tv.naver.com/v/32145481</guid>
             <pubDate>Thu, 05 Jan 2023 07:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_1/0kO0h_1672901530851CSalR_JPEG/2f36ce23-8cc5-11ed-a215-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/32136610</link>
             <guid>https://tv.naver.com/v/32136610</guid>
             <pubDate>Thu, 05 Jan 2023 02:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_55/LtKBX_16728847656457XF1d_JPEG/ba2934c9-8c9d-11ed-b33d-80615f0c4788_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/32135777</link>
             <guid>https://tv.naver.com/v/32135777</guid>
             <pubDate>Thu, 05 Jan 2023 02:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_58/YkcX0_1672883096273wW3pX_JPEG/1f12c849-8c9a-11ed-a215-505dac8c37f3_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -141,7 +165,7 @@
             <guid>https://tv.naver.com/v/32109798</guid>
             <pubDate>Wed, 04 Jan 2023 05:19:54 GMT</pubDate>
             <content:encoded><![CDATA[1일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_28/ot2Nh_1672808467983pMF7Y_JPEG/1672808093997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_184/UqENe_1672968208337G9KFE_JPEG/1672968193393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['처음 꽃향기를 만난 순간' 체육관 데이트_ film.ver 영상]]></title>
@@ -172,7 +196,7 @@
             <link>https://tv.naver.com/v/32104139</link>
             <guid>https://tv.naver.com/v/32104139</guid>
             <pubDate>Wed, 04 Jan 2023 01:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_141/Ctwco_1672794774490mP2X5_JPEG/67c50e0b-8bcc-11ed-be24-a0369ff85d54_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_143/Yujny_16727283290966yNF7_JPEG/c67a5e47-8b31-11ed-b8af-48df37e2c3b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이태석' 감동의 리뷰 영상]]></title>
-            <link>https://tv.naver.com/v/32083911</link>
-            <guid>https://tv.naver.com/v/32083911</guid>
-            <pubDate>Tue, 03 Jan 2023 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_58/hFmku_1672727687181xEMOW_JPEG/0bcb7e84-8b30-11ed-8112-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['점프,점프,점프' 예고편]]></title>
-            <link>https://tv.naver.com/v/32075518</link>
-            <guid>https://tv.naver.com/v/32075518</guid>
-            <pubDate>Tue, 03 Jan 2023 02:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_70/wctTn_1672713249087ntI2j_JPEG/bd03d08c-8b0e-11ed-9cc6-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['겨울 이야기' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/32073897</link>
-            <guid>https://tv.naver.com/v/32073897</guid>
-            <pubDate>Tue, 03 Jan 2023 02:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_185/UfhjQ_1672710000666CE4a9_JPEG/1b5e9a17-8b07-11ed-b1f2-80615f0bcc68_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
