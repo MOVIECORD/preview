@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 23:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 01:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라일 라일 크로커다일' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32227910</link>
+            <guid>https://tv.naver.com/v/32227910</guid>
+            <pubDate>Mon, 09 Jan 2023 01:37:57 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_229/rVIOG_1673225599705tV5q2_JPEG/405edfb8-8fb7-11ed-a54e-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['별 볼일 없는 인생' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/32174524</link>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/32166474</link>
             <guid>https://tv.naver.com/v/32166474</guid>
             <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_192/cZIHL_1672966807110DNbUm_JPEG/1243519e-8d5d-11ed-bda9-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/32166254</link>
             <guid>https://tv.naver.com/v/32166254</guid>
             <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_84/9ZKAs_1672966270471cUy44_JPEG/deb90121-8d5b-11ed-b6c0-a0369ffddf94_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/32166162</link>
             <guid>https://tv.naver.com/v/32166162</guid>
             <pubDate>Fri, 06 Jan 2023 01:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_71/VqZtO_1672965844997e9ESA_JPEG/890061c9-8d5a-11ed-85c6-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +228,7 @@
             <link>https://tv.naver.com/v/32104139</link>
             <guid>https://tv.naver.com/v/32104139</guid>
             <pubDate>Wed, 04 Jan 2023 01:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_141/Ctwco_1672794774490mP2X5_JPEG/67c50e0b-8bcc-11ed-be24-a0369ff85d54_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 08:25:04 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_35/l8H1b_1672731326777XeV81_JPEG/c66a5510-8b38-11ed-819e-a0369ffabd48_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캐리와 슈퍼콜라' 15초 예고편]]></title>
-            <link>https://tv.naver.com/v/32085878</link>
-            <guid>https://tv.naver.com/v/32085878</guid>
-            <pubDate>Tue, 03 Jan 2023 08:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_295/ZortM_1672731008626VlNof_JPEG/3282421f-8b38-11ed-85c6-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
