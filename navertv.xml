@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 09:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['울브스 오브 워' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32241864</link>
+            <guid>https://tv.naver.com/v/32241864</guid>
+            <pubDate>Mon, 09 Jan 2023 09:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_213/8aImd_1673255269965y4NRq_JPEG/fa2f3628-8ff9-11ed-85c6-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['젠틀맨' ON&OFF 영상]]></title>
             <link>https://tv.naver.com/v/32236527</link>
             <guid>https://tv.naver.com/v/32236527</guid>
             <pubDate>Mon, 09 Jan 2023 07:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_213/rr6hp_16732456306284hGx8_JPEG/21c3e644-8fe6-11ed-a215-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/32235110</link>
             <guid>https://tv.naver.com/v/32235110</guid>
             <pubDate>Mon, 09 Jan 2023 06:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_143/qn5mP_1673243078545onGCh_JPEG/4a26daa3-8fe0-11ed-8298-a0369ffda310_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/32227910</link>
             <guid>https://tv.naver.com/v/32227910</guid>
             <pubDate>Mon, 09 Jan 2023 01:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_229/rVIOG_1673225599705tV5q2_JPEG/405edfb8-8fb7-11ed-a54e-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 02:42:17 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_130/pUSWW_16727966656871LCNy_JPEG/edb7afd5-8bd0-11ed-8177-a0369ffb38d4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신비아파트 극장판 차원도깨비와 7개의 세계' 차원이 다른 리뷰 영상]]></title>
-            <link>https://tv.naver.com/v/32104139</link>
-            <guid>https://tv.naver.com/v/32104139</guid>
-            <pubDate>Wed, 04 Jan 2023 01:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_141/Ctwco_1672794774490mP2X5_JPEG/67c50e0b-8bcc-11ed-be24-a0369ff85d54_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

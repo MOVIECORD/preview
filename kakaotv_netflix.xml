@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 08:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 09:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 송혜교가 가해자들에게 하는 복수들 | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434925540?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434925540?act=clip</guid>
+            <pubDate>Mon, 09 Jan 2023 09:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1928488614%2Fthumb%2F20230109174758" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 천국도에 함께 온 소이와 세준 | 솔로지옥2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434918655?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434659961?act=clip</guid>
             <pubDate>Thu, 29 Dec 2022 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F371522399%2Fthumb%2F20221229165651" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F371522399%2Fthumb%2F20221229165651" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 누나 네 명을 둔 최민호 (a.k.a 지우민) | 더 패뷸러스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 21 Dec 2022 07:19:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1860557626%2Fthumb%2F20221221154356" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정이 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434427497?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434427497?act=clip</guid>
-            <pubDate>Wed, 21 Dec 2022 01:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1220014556%2Fthumb%2F20221220234240" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
