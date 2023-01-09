@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 05:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 06:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['10일간의 애인' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32235110</link>
+            <guid>https://tv.naver.com/v/32235110</guid>
+            <pubDate>Mon, 09 Jan 2023 06:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[40분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_143/qn5mP_1673243078545onGCh_JPEG/4a26daa3-8fe0-11ed-8298-a0369ffda310_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라일 라일 크로커다일' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/32227910</link>
             <guid>https://tv.naver.com/v/32227910</guid>
             <pubDate>Mon, 09 Jan 2023 01:37:57 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_229/rVIOG_1673225599705tV5q2_JPEG/405edfb8-8fb7-11ed-a54e-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/32174524</link>
             <guid>https://tv.naver.com/v/32174524</guid>
             <pubDate>Fri, 06 Jan 2023 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_56/hxHWw_1672984155577qmaTM_JPEG/70716676-8d85-11ed-9231-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://tv.naver.com/v/32111498</link>
             <guid>https://tv.naver.com/v/32111498</guid>
             <pubDate>Wed, 04 Jan 2023 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_34/dZoaP_1672811526062HSgPV_JPEG/802d7591-8bf3-11ed-a307-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/32111018</link>
             <guid>https://tv.naver.com/v/32111018</guid>
             <pubDate>Wed, 04 Jan 2023 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_291/6YsZH_1672810664024RnnJJ_JPEG/581c6b47-8bf1-11ed-b8af-48df37e2c3b0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/32110734</link>
             <guid>https://tv.naver.com/v/32110734</guid>
             <pubDate>Wed, 04 Jan 2023 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_34/UjbEl_1672810111373NAo43_JPEG/5fa8c080-8bf0-11ed-8791-505dac8c3607_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 09:19:36 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_233/PGSLp_1672735745405k62U3_JPEG/1672735612586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캐리와 슈퍼콜라' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/32086066</link>
-            <guid>https://tv.naver.com/v/32086066</guid>
-            <pubDate>Tue, 03 Jan 2023 08:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_35/l8H1b_1672731326777XeV81_JPEG/c66a5510-8b38-11ed-819e-a0369ffabd48_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
