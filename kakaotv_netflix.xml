@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 23:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 01:44:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 1 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434940462?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434940462?act=clip</guid>
+            <pubDate>Tue, 10 Jan 2023 01:44:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F55319071%2Fthumb%2F20230110100859" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 송혜교가 가해자들에게 하는 복수들 | 더 글로리]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434925540?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434677051?act=clip</guid>
             <pubDate>Fri, 30 Dec 2022 01:38:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1622481673%2Fthumb%2F20221230101342" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1622481673%2Fthumb%2F20221230101342" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 채수빈과 단 둘만 있고 싶었던 최민호 | 더 패뷸러스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 21 Dec 2022 08:26:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F189601294%2Fthumb%2F20221221171135" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 출연자들의 직업과 나이 공개 | 솔로지옥2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434442526?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434442526?act=clip</guid>
-            <pubDate>Wed, 21 Dec 2022 07:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1860557626%2Fthumb%2F20221221154356" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
