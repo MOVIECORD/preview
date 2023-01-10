@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 02:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 03:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 퍼스트 슬램덩크' 셀럽 추천 영상 2탄]]></title>
+            <link>https://tv.naver.com/v/32260325</link>
+            <guid>https://tv.naver.com/v/32260325</guid>
+            <pubDate>Tue, 10 Jan 2023 03:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_242/g3Cpp_16733189088472i3cr_JPEG/d16ec0be-9090-11ed-9a3c-a0369ffdb988_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 퍼스트 슬램덩크' 셀럽 추천 영상]]></title>
             <link>https://tv.naver.com/v/32260158</link>
             <guid>https://tv.naver.com/v/32260158</guid>
             <pubDate>Tue, 10 Jan 2023 02:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_58/PbRYy_1673318585272iscf8_JPEG/73996888-908f-11ed-a23d-48df377034d4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/32257829</link>
             <guid>https://tv.naver.com/v/32257829</guid>
             <pubDate>Tue, 10 Jan 2023 01:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_272/qXnQi_1673313133863LVVTv_JPEG/1673312839475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/32257594</link>
             <guid>https://tv.naver.com/v/32257594</guid>
             <pubDate>Tue, 10 Jan 2023 01:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_289/iR8Ru_1673312446980TiU2y_JPEG/01b4fcf6-9082-11ed-97c6-d4f5ef58ad5e_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/32257510</link>
             <guid>https://tv.naver.com/v/32257510</guid>
             <pubDate>Tue, 10 Jan 2023 01:44:23 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_295/cl41h_1673312190052H6Xvk_JPEG/40a741e3-9080-11ed-9c62-a0369ffb36c4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/32241864</link>
             <guid>https://tv.naver.com/v/32241864</guid>
             <pubDate>Mon, 09 Jan 2023 09:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_213/8aImd_1673255269965y4NRq_JPEG/fa2f3628-8ff9-11ed-85c6-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 07:17:37 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_121/ZKZJE_1672815133710csIbc_JPEG/856033e8-8bfb-11ed-b07f-80615f0bce8c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다음 소희' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/32111498</link>
-            <guid>https://tv.naver.com/v/32111498</guid>
-            <pubDate>Wed, 04 Jan 2023 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_34/dZoaP_1672811526062HSgPV_JPEG/802d7591-8bf3-11ed-a307-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
