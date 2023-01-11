@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 02:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 03:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 출연자를 공개합니다 | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434967092?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434967092?act=clip</guid>
+            <pubDate>Wed, 11 Jan 2023 03:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F106559199%2Fthumb%2F20230111120313" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 배우들이 말하는 그때 그 장면ㅣ나이브스 아웃: 글래스 어니언]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434964034?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434750426?act=clip</guid>
             <pubDate>Mon, 02 Jan 2023 01:36:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F366591087%2Fthumb%2F20230102100757" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F366591087%2Fthumb%2F20230102100757" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 계속 붙어있는 진영, 지켜보는 종우 | 솔로지옥2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Dec 2022 08:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq2dpkq2vm91ticc555729s1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228596700%26signature%3D%252BhZyl2ZT7PmA0YRMZNvcOqQ%252B7yw%253D%26ts%3D1671687900" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 화가 난 매들린 양수가 터지다 | 에밀리, 파리에 가다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434464105?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434464105?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 02:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F920193579%2Fthumb%2F20221222105528" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
