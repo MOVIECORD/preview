@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 02:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 03:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 융재와 서은의 알콩달콩 천국도 | 솔로지옥2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/434991569?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/434991569?act=clip</guid>
+            <pubDate>Thu, 12 Jan 2023 03:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1054939244%2Fthumb%2F20230112122030" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 출연자를 공개합니다 | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/434967092?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434750454?act=clip</guid>
             <pubDate>Tue, 03 Jan 2023 02:38:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F269725380%2Fthumb%2F20230102101041" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F269725380%2Fthumb%2F20230102101041" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 학창시절 자신을 괴롭혔던 임지연을 기다린 송혜교 | 더 글로리]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Dec 2022 07:18:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F773868455%2Fthumb%2F20221222153136" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이브스 아웃: 글래스 어니언  | 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434469717?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434469717?act=clip</guid>
-            <pubDate>Fri, 23 Dec 2022 08:24:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq2dpkq2vm91ticc555729s1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33228596700%26signature%3D%252BhZyl2ZT7PmA0YRMZNvcOqQ%252B7yw%253D%26ts%3D1671687900" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
