@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 03:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 04:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<쥴 앤 짐> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/435092515?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/435092515?act=clip</guid>
+            <pubDate>Mon, 16 Jan 2023 04:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpp7eifo4qun41f9npaficme%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33230751258%26signature%3DtDhTeg4PbUhHmA4SOYD%252F1wfd0uk%253D%26ts%3D1673842458" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<타이타닉: 25주년> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/435024785?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/434993408?act=clip</guid>
             <pubDate>Thu, 12 Jan 2023 05:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3w9g4cyf55cejzoitxajyjo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33230408564%26signature%3DbDB51gYTQoMc99Pmzkr5lZ57m2g%253D%26ts%3D1673499764" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3w9g4cyf55cejzoitxajyjo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33230408564%26signature%3DbDB51gYTQoMc99Pmzkr5lZ57m2g%253D%26ts%3D1673499764" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<궁지에 몰린 쥐는 치즈 꿈을 꾼다> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 11 Jan 2023 05:18:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3s65fuss25gm7mgwtwqhg7u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33230320497%26signature%3D0shUkWW0aWGrQrOMrhcAIai7WrQ%253D%26ts%3D1673411697" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<상견니> 15초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/434968576?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/434968576?act=clip</guid>
-            <pubDate>Wed, 11 Jan 2023 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2b9zoweyk5c5oar34xo9we2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33230320354%26signature%3DCXqLZO7kw2Zle8uEqHSUooHit7s%253D%26ts%3D1673411554" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
