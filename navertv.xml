@@ -4,9 +4,49 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 23:20:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 01:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['성스러운 거미' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32407844</link>
+            <guid>https://tv.naver.com/v/32407844</guid>
+            <pubDate>Mon, 16 Jan 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_48/Oe16R_1673832372050Vdw78_JPEG/1673832129896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['쥴 앤 짐' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32407595</link>
+            <guid>https://tv.naver.com/v/32407595</guid>
+            <pubDate>Mon, 16 Jan 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_248/mTtSZ_1673831613918vL5iD_JPEG/b03924d8-953a-11ed-9a3c-a0369ffdb988_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['400번의 구타' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32407493</link>
+            <guid>https://tv.naver.com/v/32407493</guid>
+            <pubDate>Mon, 16 Jan 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_19/B99rg_1673831239771Ivymk_JPEG/1673831078422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킬샷: 7 스나이퍼' 예고편]]></title>
+            <link>https://tv.naver.com/v/32407176</link>
+            <guid>https://tv.naver.com/v/32407176</guid>
+            <pubDate>Mon, 16 Jan 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_295/1341P_1673830431309RY0S5_JPEG/fd6de1a8-9537-11ed-a215-505dac8c37f3_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['타이타닉: 25주년' 예고편]]></title>
+            <link>https://tv.naver.com/v/32406943</link>
+            <guid>https://tv.naver.com/v/32406943</guid>
+            <pubDate>Mon, 16 Jan 2023 01:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_173/AHZjp_1673829765040rFGe8_JPEG/4ec550a3-9536-11ed-a215-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['애프터썬' 1차 예고편]]></title>
             <link>https://tv.naver.com/v/32353199</link>
@@ -76,7 +116,7 @@
             <link>https://tv.naver.com/v/32344561</link>
             <guid>https://tv.naver.com/v/32344561</guid>
             <pubDate>Fri, 13 Jan 2023 03:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_191/CpwkF_1673573027341ViHeD_JPEG/9b20c93f-92e0-11ed-9cc6-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +124,7 @@
             <link>https://tv.naver.com/v/32344188</link>
             <guid>https://tv.naver.com/v/32344188</guid>
             <pubDate>Fri, 13 Jan 2023 03:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_176/LjLd1_1673571996526RsvwJ_JPEG/369c47cd-92de-11ed-bda9-505dacfbaa5c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +132,7 @@
             <link>https://tv.naver.com/v/32343883</link>
             <guid>https://tv.naver.com/v/32343883</guid>
             <pubDate>Fri, 13 Jan 2023 03:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_181/WXZ9J_16735707733080Tz1H_JPEG/5de31711-92db-11ed-bda9-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +204,7 @@
             <link>https://tv.naver.com/v/32316427</link>
             <guid>https://tv.naver.com/v/32316427</guid>
             <pubDate>Thu, 12 Jan 2023 01:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_262/8pWtR_1673487322136a0wX6_JPEG/f0af63f2-9218-11ed-9e05-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +212,7 @@
             <link>https://tv.naver.com/v/32315971</link>
             <guid>https://tv.naver.com/v/32315971</guid>
             <pubDate>Thu, 12 Jan 2023 01:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_100/C7dUl_1673486102944kRvUr_JPEG/3b834e03-9216-11ed-b1f2-80615f0bcc68_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +220,7 @@
             <link>https://tv.naver.com/v/32315838</link>
             <guid>https://tv.naver.com/v/32315838</guid>
             <pubDate>Thu, 12 Jan 2023 01:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_104/oI55A_1673485734365pKvPb_JPEG/3048cf84-9215-11ed-a307-d4f5ef5a9532_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 09:24:07 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_230/gc8i0_1673426046455DCq2H_JPEG/3c4f07da-918a-11ed-89d2-a0369ffab09c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['바빌론' 호평 리뷰 예고편]]></title>
-            <link>https://tv.naver.com/v/32299919</link>
-            <guid>https://tv.naver.com/v/32299919</guid>
-            <pubDate>Wed, 11 Jan 2023 08:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_164/p6C7Z_1673425533369czq7I_JPEG/45fb7e11-9189-11ed-9231-d4f5ef58ac88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['캐리와 슈퍼콜라' 치얼 업 영상]]></title>
-            <link>https://tv.naver.com/v/32299512</link>
-            <guid>https://tv.naver.com/v/32299512</guid>
-            <pubDate>Wed, 11 Jan 2023 08:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_49/eO2b5_1673424874674QAqGw_JPEG/b65faf61-9187-11ed-aba2-80615f0bce14_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['돌핀보이' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/32295837</link>
-            <guid>https://tv.naver.com/v/32295837</guid>
-            <pubDate>Wed, 11 Jan 2023 07:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_213/mqo4b_16734190817870owon_JPEG/0f432730-917a-11ed-9cc6-48df379cc9e4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3000년의 기다림' 뮤직 비하인드 영상]]></title>
-            <link>https://tv.naver.com/v/32289063</link>
-            <guid>https://tv.naver.com/v/32289063</guid>
-            <pubDate>Wed, 11 Jan 2023 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_79/VMzwO_1673404815967P0cL1_JPEG/a4a7dcaa-9157-11ed-866f-b4055da5498f_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['열여덟, 어른이 되는 나이' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/32288513</link>
-            <guid>https://tv.naver.com/v/32288513</guid>
-            <pubDate>Wed, 11 Jan 2023 02:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_298/Yux0o_1673403519429PG5hE_JPEG/0911b8c5-9154-11ed-b8af-48df37e2c3b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
