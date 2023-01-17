@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 03:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 04:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['엄마의 땅: 그리샤와 숲의 주인' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/32439570</link>
+            <guid>https://tv.naver.com/v/32439570</guid>
+            <pubDate>Tue, 17 Jan 2023 04:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_114/nZOXC_1673928727101HK84R_JPEG/aafcacaa-961c-11ed-8112-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['젠틀맨' 나쁜 놈이 잡는 나쁜 놈 영상]]></title>
             <link>https://tv.naver.com/v/32433983</link>
             <guid>https://tv.naver.com/v/32433983</guid>
             <pubDate>Tue, 17 Jan 2023 01:39:32 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_43/4ReYg_1673915532038jy2y8_JPEG/b4e36805-95fd-11ed-bc1e-505dac8c385b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/32433864</link>
             <guid>https://tv.naver.com/v/32433864</guid>
             <pubDate>Tue, 17 Jan 2023 01:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_162/lT4Xh_1673914896271TJFVl_JPEG/7688b077-95fc-11ed-b02b-a0369ffb35dc_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/32420834</link>
             <guid>https://tv.naver.com/v/32420834</guid>
             <pubDate>Tue, 17 Jan 2023 02:42:54 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_224/zMIOZ_1673859269395n6BC1_JPEG/3fde1b3b-957b-11ed-89d2-a0369ffab09c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/32416339</link>
             <guid>https://tv.naver.com/v/32416339</guid>
             <pubDate>Mon, 16 Jan 2023 07:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_62/zutiR_1673851494106hnP1C_JPEG/1fe0207d-9569-11ed-bae5-a0369ffb33b4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 08:27:16 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_12/nXwI0_1673510003238H395e_JPEG/d5fd2e8b-924d-11ed-9791-a0369ffdecf8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엄마의 땅: 그리샤와 숲의 주인' 세로데토 맹활약 영상]]></title>
-            <link>https://tv.naver.com/v/32323837</link>
-            <guid>https://tv.naver.com/v/32323837</guid>
-            <pubDate>Thu, 12 Jan 2023 06:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_107/99CXK_16735021485955oc1i_JPEG/923361a0-923b-11ed-a54e-505dac8c38f5_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
