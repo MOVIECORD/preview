@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 23:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 01:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 2023년 넷플릭스 라인업 공개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435115178?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435115178?act=clip</guid>
+            <pubDate>Tue, 17 Jan 2023 01:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1382608771%2Fthumb%2F20230117100859" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 이나딘은 완벽하다는 것이 학계의 정설 | 솔로지옥2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435089399?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434851357?act=clip</guid>
             <pubDate>Fri, 06 Jan 2023 06:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F377598151%2Fthumb%2F20230106141436" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F377598151%2Fthumb%2F20230106141436" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 새로운 출연자 세준의 등장, 그리고 소이 | 솔로지옥2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Dec 2022 01:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1108014535%2Fthumb%2F20221227182059" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 왠지 눈물이 핑 도는 '어른이 되면'ㅣ로알드 달의 뮤지컬 마틸다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434603921?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434603921?act=clip</guid>
-            <pubDate>Tue, 27 Dec 2022 02:38:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518805742%2Fthumb%2F20221227104022" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
