@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 23:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 01:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 어그레시브 레츠코 시즌 5 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435141364?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435141364?act=clip</guid>
+            <pubDate>Wed, 18 Jan 2023 01:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1208374505%2Fthumb%2F20230118101301" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 최강의 피지컬을 가리는 첫 퀘스트 공개 | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435117645?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434915800?act=clip</guid>
             <pubDate>Mon, 09 Jan 2023 01:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1985784127%2Fthumb%2F20230109102118" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1985784127%2Fthumb%2F20230109102118" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 유 피플 | 에디 머피 & 조나 힐 출연 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Dec 2022 01:38:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1539465283%2Fthumb%2F20221228101956" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 앨피에게 노래로 고백하는 에밀리 | 에밀리, 파리에 가다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434627900?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434627900?act=clip</guid>
-            <pubDate>Wed, 28 Dec 2022 01:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F49959343%2Fthumb%2F20221228101925" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
