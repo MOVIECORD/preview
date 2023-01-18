@@ -4,9 +4,17 @@
         <title>카카오TV ─ 왓챠</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 06:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 07:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브]]></title>
+            <link>https://tv.kakao.com/channel/2657623/cliplink/435146906?act=clip</link>
+            <guid>https://tv.kakao.com/channel/2657623/cliplink/435146906?act=clip</guid>
+            <pubDate>Wed, 18 Jan 2023 07:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1069954916%2Fthumb%2F20230118155928" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[신입사원 | 대망의 담벼락 키스신..!😳 입 맞추고.. 나는 모니터에 눈 맞추고.. | 3화 비하인드 |]]></title>
             <link>https://tv.kakao.com/channel/2657623/cliplink/434925488?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/2657623/cliplink/431698677?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3xxq5z7krgqkocm024o7roj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219077576%26signature%3DqSJdXAGsfPiGVq%252BtPsZTQufJH%252Fo%253D%26ts%3D1662168776" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3xxq5z7krgqkocm024o7roj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33219077576%26signature%3DqSJdXAGsfPiGVq%252BtPsZTQufJH%252Fo%253D%26ts%3D1662168776" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[인사이드 리릭스 | 1화 예고편 '타블로의 이야기' | 왓챠 오리지널]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1866284055%2Fthumb%2F20220304181646" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[조인 마이 테이블 | 제주에서 마셔본 예멘 커피에 관한 이야기]]></title>
-            <link>https://tv.kakao.com/channel/2657623/cliplink/426772958?act=clip</link>
-            <guid>https://tv.kakao.com/channel/2657623/cliplink/426772958?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1036896187%2Fthumb%2F20220303234916" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
