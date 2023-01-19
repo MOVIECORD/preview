@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 01:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 02:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스마트폰을 떨어뜨렸을 뿐인데 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435146253?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435146253?act=clip</guid>
+            <pubDate>Thu, 19 Jan 2023 02:50:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1957578769%2Fthumb%2F20230118142901" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 어그레시브 레츠코 시즌 5 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435141364?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/434915846?act=clip</guid>
             <pubDate>Mon, 09 Jan 2023 01:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1518050237%2Fthumb%2F20230109102204" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1518050237%2Fthumb%2F20230109102204" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 웬즈데이 | 시즌 2 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 29 Dec 2022 02:40:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F462237525%2Fthumb%2F20221229105803" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 슬기와 천국도에 간 진영, 그리고 종우 | 솔로지옥2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434627901?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434627901?act=clip</guid>
-            <pubDate>Wed, 28 Dec 2022 01:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1539465283%2Fthumb%2F20221228101956" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
