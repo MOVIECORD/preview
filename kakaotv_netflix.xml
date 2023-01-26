@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 23:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 01:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 25 Jan 2023 13:25:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F665276869%2Fthumb%2F20230125214918" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 연애대전 | 강호 ver. 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435305533?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435305533?act=clip</guid>
+            <pubDate>Thu, 26 Jan 2023 01:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F401704602%2Fthumb%2F20230125201921" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 연애대전 | 미란 ver. 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435304887?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435304887?act=clip</guid>
+            <pubDate>Thu, 26 Jan 2023 01:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1650714337%2Fthumb%2F20230125201319" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 힘과 힘의 대결, 설기관 VS 에이전트 H | 피지컬: 100]]></title>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435089393?act=clip</guid>
             <pubDate>Mon, 16 Jan 2023 02:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933214386%2Fthumb%2F20230116105134" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F933214386%2Fthumb%2F20230116105134" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 누나가 둘인 융재와 소이가 신경 쓰이는 세준 | 솔로지옥2]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435089392?act=clip</guid>
             <pubDate>Mon, 16 Jan 2023 02:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F975702469%2Fthumb%2F20230116105327" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F975702469%2Fthumb%2F20230116105327" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 정이 | 정이 탄생기]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 05 Jan 2023 01:42:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1233988212%2Fthumb%2F20230104134548" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 슬기를 떠난 진영, 틈을 노리는 종우 | 솔로지옥2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434801618?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434801618?act=clip</guid>
-            <pubDate>Wed, 04 Jan 2023 04:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F877725574%2Fthumb%2F20230104124300" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 《지니 & 조지아》 시즌 2 | 시즌 1 지난 줄거리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434778019?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434778019?act=clip</guid>
-            <pubDate>Tue, 03 Jan 2023 04:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F414972877%2Fthumb%2F20230103124945" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
