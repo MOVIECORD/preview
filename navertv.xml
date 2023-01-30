@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 01:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극장판 카케구루이2: 절체절명의 러시안 룰렛' 예고편]]></title>
+            <link>https://tv.naver.com/v/32722717</link>
+            <guid>https://tv.naver.com/v/32722717</guid>
+            <pubDate>Mon, 30 Jan 2023 01:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_190/UlHBC_16750422316654vWVs_JPEG/26cc0fc1-a03d-11ed-b360-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극장판 겁쟁이 페달' 예고편]]></title>
+            <link>https://tv.naver.com/v/32722465</link>
+            <guid>https://tv.naver.com/v/32722465</guid>
+            <pubDate>Mon, 30 Jan 2023 01:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_86/BiI8c_1675041525620JNPY0_JPEG/7ae1b40c-a03b-11ed-88a0-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['대외비' 특급 유출 대외비 영상]]></title>
             <link>https://tv.naver.com/v/32674304</link>
@@ -60,7 +76,7 @@
             <link>https://tv.naver.com/v/32658178</link>
             <guid>https://tv.naver.com/v/32658178</guid>
             <pubDate>Fri, 27 Jan 2023 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_116/ysLOK_1674781231701PW15A_PNG/1674781028542.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -148,7 +164,7 @@
             <link>https://tv.naver.com/v/32629519</link>
             <guid>https://tv.naver.com/v/32629519</guid>
             <pubDate>Thu, 26 Jan 2023 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_49/teMpU_16746963782290lAuG_JPEG/fe003bce-9d17-11ed-bf1b-d4f5ef590144_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +172,7 @@
             <link>https://tv.naver.com/v/32629312</link>
             <guid>https://tv.naver.com/v/32629312</guid>
             <pubDate>Thu, 26 Jan 2023 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_269/hzUxF_1674695959093Py8kY_JPEG/2e696116-9d17-11ed-88a0-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +180,7 @@
             <link>https://tv.naver.com/v/32628729</link>
             <guid>https://tv.naver.com/v/32628729</guid>
             <pubDate>Thu, 26 Jan 2023 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_188/Ep0Hg_1674694227645mdRSF_JPEG/297ef97b-9d13-11ed-9997-a0369ffddc0c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 07:20:52 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_278/t5g9X_1674629479401A0RxC_JPEG/04cbdc4e-9c7c-11ed-acc2-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서쪽의 마녀가 죽었다' 예고편]]></title>
-            <link>https://tv.naver.com/v/32605118</link>
-            <guid>https://tv.naver.com/v/32605118</guid>
-            <pubDate>Wed, 25 Jan 2023 05:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_103/KR3q0_1674621085722dmg0e_JPEG/c4a717b1-9c68-11ed-9590-d4f5ef58ad5e_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['멍뭉이' 1차 예고편]]></title>
-            <link>https://tv.naver.com/v/32603837</link>
-            <guid>https://tv.naver.com/v/32603837</guid>
-            <pubDate>Thu, 26 Jan 2023 02:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_136/tW0fp_1674617879863YfxlI_JPEG/021b7d86-9c61-11ed-9fa5-a0369ff83d3c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
