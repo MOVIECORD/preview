@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 01:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 02:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['루비콘' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32724478</link>
+            <guid>https://tv.naver.com/v/32724478</guid>
+            <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_277/8sc7w_1675046399205Fz8QX_JPEG/d19e98d3-a046-11ed-b4bb-a0369ffabf64_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우리 사랑이 향기로 남을 때' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32723383</link>
+            <guid>https://tv.naver.com/v/32723383</guid>
+            <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_60/28JaC_1675043941162b6Pcl_JPEG/e7986aa5-a040-11ed-b90b-a0369ffabdb4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 카케구루이2: 절체절명의 러시안 룰렛' 예고편]]></title>
             <link>https://tv.naver.com/v/32722717</link>
             <guid>https://tv.naver.com/v/32722717</guid>
             <pubDate>Mon, 30 Jan 2023 01:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_190/UlHBC_16750422316654vWVs_JPEG/26cc0fc1-a03d-11ed-b360-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/32722465</link>
             <guid>https://tv.naver.com/v/32722465</guid>
             <pubDate>Mon, 30 Jan 2023 01:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_86/BiI8c_1675041525620JNPY0_JPEG/7ae1b40c-a03b-11ed-88a0-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -46,6 +62,14 @@
             <pubDate>Fri, 27 Jan 2023 07:17:57 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_221/4OarE_16748019292833TLoX_JPEG/d54cb1a9-9e0d-11ed-87f6-a0369ff83be8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['교섭' 요르단 스케일 영상]]></title>
+            <link>https://tv.naver.com/v/32668457</link>
+            <guid>https://tv.naver.com/v/32668457</guid>
+            <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_153/awc3M_1674801769972Bgbx9_JPEG/afdaaa85-9e0d-11ed-b1c2-a0369ff83bc0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['다음 소희' 리뷰 30초 예고편]]></title>
@@ -148,7 +172,7 @@
             <link>https://tv.naver.com/v/32631414</link>
             <guid>https://tv.naver.com/v/32631414</guid>
             <pubDate>Thu, 26 Jan 2023 02:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_296/tXog5_167470010347878KIi_JPEG/6374daab-9d20-11ed-adf1-a0369ff84068_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +180,7 @@
             <link>https://tv.naver.com/v/32630840</link>
             <guid>https://tv.naver.com/v/32630840</guid>
             <pubDate>Thu, 26 Jan 2023 02:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_81/A6WIX_1674699051846CPKBK_JPEG/4bf4d72f-9d1e-11ed-a11e-a0369ffab2c4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 09:18:57 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_124/RgQab_1674632434213BvYm1_JPEG/4177c322-9c83-11ed-8407-505dac8c3639_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시간을 꿈꾸는 소녀' VIP & 관객 추천 영상]]></title>
-            <link>https://tv.naver.com/v/32610716</link>
-            <guid>https://tv.naver.com/v/32610716</guid>
-            <pubDate>Wed, 25 Jan 2023 09:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_261/HMZHp_1674631597909GywhJ_JPEG/1674631533608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디텍티브 나이트: 가면의 밤' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/32609768</link>
-            <guid>https://tv.naver.com/v/32609768</guid>
-            <pubDate>Wed, 25 Jan 2023 07:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_245/rdNVI_1674629806747ntzdJ_JPEG/27afc96e-9c7d-11ed-993b-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엄마의 땅: 그리샤와 숲의 주인' 붉은 곰 전설 영상]]></title>
-            <link>https://tv.naver.com/v/32609595</link>
-            <guid>https://tv.naver.com/v/32609595</guid>
-            <pubDate>Wed, 25 Jan 2023 07:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_278/t5g9X_1674629479401A0RxC_JPEG/04cbdc4e-9c7c-11ed-acc2-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
