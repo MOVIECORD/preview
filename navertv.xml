@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 09:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 10:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['TAR 타르' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32766124</link>
+            <guid>https://tv.naver.com/v/32766124</guid>
+            <pubDate>Tue, 31 Jan 2023 10:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_235/i3LYn_1675157757507TzAqd_JPEG/34d6d630-a14a-11ed-ac11-a0369ffb35c4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민족' 예고편]]></title>
             <link>https://tv.naver.com/v/32761835</link>
             <guid>https://tv.naver.com/v/32761835</guid>
             <pubDate>Tue, 31 Jan 2023 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_220/7BaAs_1675150046930wtDMv_JPEG/22964f87-a138-11ed-a460-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/32751263</link>
             <guid>https://tv.naver.com/v/32751263</guid>
             <pubDate>Tue, 31 Jan 2023 01:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_65/I2qFu_1675129274894v8TbR_JPEG/c9ca133f-a107-11ed-9e9e-d4f5ef5906a4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/32750708</link>
             <guid>https://tv.naver.com/v/32750708</guid>
             <pubDate>Tue, 31 Jan 2023 01:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_272/xe1MY_1675127901868WwYtd_JPEG/93a8d67b-a104-11ed-acc2-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/32750361</link>
             <guid>https://tv.naver.com/v/32750361</guid>
             <pubDate>Tue, 31 Jan 2023 01:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_54/hRRPT_1675127010315G3mG3_JPEG/c511ae0f-a102-11ed-b360-a0369ff8413c_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 Jan 2023 01:41:30 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_269/hzUxF_1674695959093Py8kY_JPEG/2e696116-9d17-11ed-88a0-a0369ff8413c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우리 사랑이 향기로 남을 때' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/32628729</link>
-            <guid>https://tv.naver.com/v/32628729</guid>
-            <pubDate>Thu, 26 Jan 2023 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_188/Ep0Hg_1674694227645mdRSF_JPEG/297ef97b-9d13-11ed-9997-a0369ffddc0c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
