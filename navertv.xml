@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 01:54:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 03:00:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['살수' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/32782340</link>
+            <guid>https://tv.naver.com/v/32782340</guid>
+            <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_242/cawny_1675219651524rGLDe_JPEG/530da938-a1da-11ed-ab91-a0369ffdb0e0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소림사: 영춘권 고수' 예고편]]></title>
+            <link>https://tv.naver.com/v/32781969</link>
+            <guid>https://tv.naver.com/v/32781969</guid>
+            <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
+            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_38/Nv7mJ_1675218898378KDXhV_JPEG/746a3aeb-a1d8-11ed-85a8-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['천룡팔부: 교봉전' 메이킹 영상]]></title>
             <link>https://tv.naver.com/v/32780113</link>
             <guid>https://tv.naver.com/v/32780113</guid>
             <pubDate>Wed, 01 Feb 2023 01:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_92/RJd7C_16752150196682Wbmv_JPEG/4e331a52-a1ce-11ed-87f6-a0369ff83be8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/32779475</link>
             <guid>https://tv.naver.com/v/32779475</guid>
             <pubDate>Wed, 01 Feb 2023 01:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_283/7OAOF_1675212864995ibceS_JPEG/1675212620745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/32779311</link>
             <guid>https://tv.naver.com/v/32779311</guid>
             <pubDate>Wed, 01 Feb 2023 01:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_120/tXAPA_1675212375498xjbge_PNG/1675212310285.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/32766124</link>
             <guid>https://tv.naver.com/v/32766124</guid>
             <pubDate>Tue, 31 Jan 2023 10:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_235/i3LYn_1675157757507TzAqd_JPEG/34d6d630-a14a-11ed-ac11-a0369ffb35c4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,8 +60,16 @@
             <link>https://tv.naver.com/v/32761835</link>
             <guid>https://tv.naver.com/v/32761835</guid>
             <pubDate>Tue, 31 Jan 2023 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_220/7BaAs_1675150046930wtDMv_JPEG/22964f87-a138-11ed-a460-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대외비' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/32759041</link>
+            <guid>https://tv.naver.com/v/32759041</guid>
+            <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
+            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_183/0SnSU_1675144978747X3DIS_JPEG/854a5f63-a12c-11ed-ac11-a0369ffb35c4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['어메이징 모리스' 어메이징 캐스팅 영상]]></title>
@@ -76,7 +100,7 @@
             <link>https://tv.naver.com/v/32724653</link>
             <guid>https://tv.naver.com/v/32724653</guid>
             <pubDate>Mon, 30 Jan 2023 03:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_228/N43jP_1675046781921iAnFw_JPEG/02ad88a5-a048-11ed-be8b-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +108,7 @@
             <link>https://tv.naver.com/v/32724478</link>
             <guid>https://tv.naver.com/v/32724478</guid>
             <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_277/8sc7w_1675046399205Fz8QX_JPEG/d19e98d3-a046-11ed-b4bb-a0369ffabf64_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +116,7 @@
             <link>https://tv.naver.com/v/32723383</link>
             <guid>https://tv.naver.com/v/32723383</guid>
             <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_60/28JaC_1675043941162b6Pcl_JPEG/e7986aa5-a040-11ed-b90b-a0369ffabdb4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -140,7 +164,7 @@
             <link>https://tv.naver.com/v/32668457</link>
             <guid>https://tv.naver.com/v/32668457</guid>
             <pubDate>Mon, 30 Jan 2023 02:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_153/awc3M_1674801769972Bgbx9_JPEG/afdaaa85-9e0d-11ed-b1c2-a0369ff83bc0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 26 Jan 2023 06:24:49 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_251/DubAZ_1674712308344Vuzoy_JPEG/68491807-9d3d-11ed-b50e-48df379cca40_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['철권 : 쿵푸마스터' 예고편]]></title>
-            <link>https://tv.naver.com/v/32635042</link>
-            <guid>https://tv.naver.com/v/32635042</guid>
-            <pubDate>Thu, 26 Jan 2023 05:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_200/LIQaZ_1674708650790hpmqD_JPEG/b27e5f68-9d34-11ed-844b-505dacfbaa5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['살수' 새해 인사 영상]]></title>
-            <link>https://tv.naver.com/v/32634836</link>
-            <guid>https://tv.naver.com/v/32634836</guid>
-            <pubDate>Thu, 26 Jan 2023 05:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_87/WPKP4_1674708289712i9kPP_JPEG/cce70ba8-9d33-11ed-844b-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영웅' 본격 비교 영상 2탄 '단지동맹' 편]]></title>
-            <link>https://tv.naver.com/v/32631414</link>
-            <guid>https://tv.naver.com/v/32631414</guid>
-            <pubDate>Thu, 26 Jan 2023 02:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_296/tXog5_167470010347878KIi_JPEG/6374daab-9d20-11ed-adf1-a0369ff84068_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
