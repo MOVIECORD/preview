@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 03:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 03:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/32782340</link>
             <guid>https://tv.naver.com/v/32782340</guid>
             <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
-            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_242/cawny_1675219651524rGLDe_JPEG/530da938-a1da-11ed-ab91-a0369ffdb0e0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/32781969</link>
             <guid>https://tv.naver.com/v/32781969</guid>
             <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
-            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <content:encoded><![CDATA[55분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_38/Nv7mJ_1675218898378KDXhV_JPEG/746a3aeb-a1d8-11ed-85a8-48df379cc9e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/32780113</link>
             <guid>https://tv.naver.com/v/32780113</guid>
             <pubDate>Wed, 01 Feb 2023 01:54:02 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_92/RJd7C_16752150196682Wbmv_JPEG/4e331a52-a1ce-11ed-87f6-a0369ff83be8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://tv.naver.com/v/32761835</link>
             <guid>https://tv.naver.com/v/32761835</guid>
             <pubDate>Tue, 31 Jan 2023 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_220/7BaAs_1675150046930wtDMv_JPEG/22964f87-a138-11ed-a460-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +68,7 @@
             <link>https://tv.naver.com/v/32759041</link>
             <guid>https://tv.naver.com/v/32759041</guid>
             <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
-            <content:encoded><![CDATA[59분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_183/0SnSU_1675144978747X3DIS_JPEG/854a5f63-a12c-11ed-ac11-a0369ffb35c4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9i44nwpacnkx2mihalli3z3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33231619200%26signature%3DR8wUA%252BKTIci1Jqgqch%252ByuzdqhWo%253D%26ts%3D1674710400" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435464788?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435464788?act=clip</guid>
+            <pubDate>Wed, 01 Feb 2023 03:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1087658620%2Fthumb%2F20230201120441" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 괴력에 스피드까지 갖고 있는 사기캐 윤성빈 | 피지컬: 100 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435463527?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435463527?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435146253?act=clip</guid>
             <pubDate>Thu, 19 Jan 2023 02:50:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1957578769%2Fthumb%2F20230118142901" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1957578769%2Fthumb%2F20230118142901" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 어그레시브 레츠코 시즌 5 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Mon, 09 Jan 2023 01:38:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1432491694%2Fthumb%2F20230109102239" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 슬기의 눈물 앞에서 다짐하는 종우 | 솔로지옥2 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434915846?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434915846?act=clip</guid>
-            <pubDate>Mon, 09 Jan 2023 01:38:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1518050237%2Fthumb%2F20230109102204" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
