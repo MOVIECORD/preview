@@ -4,16 +4,24 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 23:21:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 01:45:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 길복순 | 날짜공개: 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</guid>
+            <pubDate>Thu, 02 Feb 2023 01:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753863070%2Fthumb%2F20230201195008" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 격투기 선배를 이겨라, 추성훈 대 신동국 | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435465075?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435465075?act=clip</guid>
             <pubDate>Wed, 01 Feb 2023 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F544140558%2Fthumb%2F20230201181036" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2097945577%2Fthumb%2F20230202093602" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435170384?act=clip</guid>
             <pubDate>Thu, 19 Jan 2023 04:26:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1557767129%2Fthumb%2F20230119123447" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1557767129%2Fthumb%2F20230119123447" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 명탐정 코난: 범인 한자와 씨 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 Jan 2023 09:20:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1928488614%2Fthumb%2F20230109174758" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 천국도에 함께 온 소이와 세준 | 솔로지옥2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434918655?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434918655?act=clip</guid>
-            <pubDate>Mon, 09 Jan 2023 04:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F278851297%2Fthumb%2F20230109123050" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
