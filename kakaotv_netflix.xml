@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 05:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 여기서 운동 못할까 봐 걱정했네... | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435493370?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435493370?act=clip</guid>
+            <pubDate>Thu, 02 Feb 2023 06:25:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907433861%2Fthumb%2F20230202143135" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 길복순 | 날짜공개: 1차 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435175551?act=clip</guid>
             <pubDate>Fri, 20 Jan 2023 02:50:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1727605523%2Fthumb%2F20230119163308" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1727605523%2Fthumb%2F20230119163308" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 2023년 넷플릭스 영화 라인업 공개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Jan 2023 01:44:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F55319071%2Fthumb%2F20230110100859" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 송혜교가 가해자들에게 하는 복수들 | 더 글로리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/434925540?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/434925540?act=clip</guid>
-            <pubDate>Mon, 09 Jan 2023 09:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1928488614%2Fthumb%2F20230109174758" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
