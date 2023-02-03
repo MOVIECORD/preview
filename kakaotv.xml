@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 04:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<쾌락의 밤> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/435516595?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/435516595?act=clip</guid>
+            <pubDate>Fri, 03 Feb 2023 04:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv62xnvhcr9sxly51o94qlrez%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232306954%26signature%3D6mATZr4Dkn3iIt72uSS9QDawi44%253D%26ts%3D1675398154" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<우리 사랑이 향기로 남을 때> 뮤직 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/435514893?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/435466249?act=clip</guid>
             <pubDate>Wed, 01 Feb 2023 04:25:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvq2q0a54a4im2j2blhfdbs7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232134004%26signature%3D8FAyEUPOH7YZVqJ7lOSXhIdLsjM%253D%26ts%3D1675225204" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvq2q0a54a4im2j2blhfdbs7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232134004%26signature%3D8FAyEUPOH7YZVqJ7lOSXhIdLsjM%253D%26ts%3D1675225204" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<어쩌면 우린 헤어졌는지 모른다> 캐릭터 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 31 Jan 2023 01:45:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw0dm4853ncd9xbss8jkv8sf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232037771%26signature%3DgYPGT7u8L%252Fh8jREOx6GN8yJgKPg%253D%26ts%3D1675128971" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<카운트> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435422313?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435422313?act=clip</guid>
-            <pubDate>Mon, 30 Jan 2023 09:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1ryr8dckdn7uppgr1ee8w1d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33231977069%26signature%3DOgSxYbll%252FhQjn4BQjBshBBTqFaE%253D%26ts%3D1675068269" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
