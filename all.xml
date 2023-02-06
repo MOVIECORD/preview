@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['TAR 타르' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/32911963</link>
+            <guid>https://tv.naver.com/v/32911963</guid>
+            <pubDate>Mon, 06 Feb 2023 03:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_255/AiLYE_1675651926303FwMrq_JPEG/ec7b029e-a5c8-11ed-a0c7-505dac8c38f5_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서치 2' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/32910677</link>
             <guid>https://tv.naver.com/v/32910677</guid>
             <pubDate>Mon, 06 Feb 2023 02:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_151/FlbQ1_1675649409697jLDTG_JPEG/fcc3eb2f-a5c2-11ed-8407-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/32909119</link>
             <guid>https://tv.naver.com/v/32909119</guid>
             <pubDate>Mon, 06 Feb 2023 01:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_226/XYoD0_1675646290523Kxls0_JPEG/1675646129594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/32845210</link>
             <guid>https://tv.naver.com/v/32845210</guid>
             <pubDate>Fri, 03 Feb 2023 03:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_68/ImV91_1675392942270vKSDy_JPEG/b13a15ce-a36d-11ed-be8b-d4f5ef58ac88_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/32844850</link>
             <guid>https://tv.naver.com/v/32844850</guid>
             <pubDate>Fri, 03 Feb 2023 02:53:34 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_278/CHdcV_1675392329400BPad8_JPEG/40635319-a36c-11ed-97a8-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +204,7 @@
             <link>https://tv.naver.com/v/32782340</link>
             <guid>https://tv.naver.com/v/32782340</guid>
             <pubDate>Wed, 01 Feb 2023 02:59:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_242/cawny_1675219651524rGLDe_JPEG/530da938-a1da-11ed-ab91-a0369ffdb0e0_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 Jan 2023 10:21:38 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_235/i3LYn_1675157757507TzAqd_JPEG/34d6d630-a14a-11ed-ac11-a0369ffb35c4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['민족' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/32761835</link>
-            <guid>https://tv.naver.com/v/32761835</guid>
-            <pubDate>Tue, 31 Jan 2023 08:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_220/7BaAs_1675150046930wtDMv_JPEG/22964f87-a138-11ed-a460-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<카메라를 멈추면 안돼! 프랑스에서도> 메인 예고편 (우리 영화 볼래?)]]></title>
