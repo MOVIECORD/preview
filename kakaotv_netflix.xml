@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 09:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 10:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435646790?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435646790?act=clip</guid>
+            <pubDate>Wed, 08 Feb 2023 10:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F240592310%2Fthumb%2F20230208191015" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 흔들리는 다리, 윤성빈 팀의 운명은? | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435638949?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435295331?act=clip</guid>
             <pubDate>Wed, 25 Jan 2023 03:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1126788854%2Fthumb%2F20230125120529" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1126788854%2Fthumb%2F20230125120529" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 메이크 마이 데이 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Jan 2023 03:01:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1397199304%2Fthumb%2F20230113101443" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유어 플레이스 오어 마인 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435013925?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435013925?act=clip</guid>
-            <pubDate>Fri, 13 Jan 2023 03:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F504634581%2Fthumb%2F20230113101413" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
