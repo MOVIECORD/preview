@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 02:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 글로리 파트2 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435654860?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435654860?act=clip</guid>
+            <pubDate>Thu, 09 Feb 2023 02:51:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F385522322%2Fthumb%2F20230209003701" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435646790?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435303043?act=clip</guid>
             <pubDate>Wed, 25 Jan 2023 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F698653438%2Fthumb%2F20230125181718" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F698653438%2Fthumb%2F20230125181718" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 근육 농부 김경진과 댄서 차현승의 대결 | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Jan 2023 02:46:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F996041613%2Fthumb%2F20230113151238" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이토 준지: 매니악 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435013926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435013926?act=clip</guid>
-            <pubDate>Fri, 13 Jan 2023 03:01:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1397199304%2Fthumb%2F20230113101443" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
