@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 05:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 06:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<TAR 타르> 괴물과 괴물의 만남!-케이트 블란쳇이 말하는 리디아 타르]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/435762909?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/435762909?act=clip</guid>
+            <pubDate>Mon, 13 Feb 2023 06:33:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:07]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvobg4a4k7ftybs0tkj0kycbe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233174926%26signature%3DT%252BPD%252FOwhoLO3FowHrfvF11bvtKg%253D%26ts%3D1676266126" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인어공주> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/435757418?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/435638018?act=clip</guid>
             <pubDate>Wed, 08 Feb 2023 04:25:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfpcf8fezjqmczsg9jvkt84s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232737047%26signature%3DIbLuoCRC6ftBtABg1eykU%252Be8xJk%253D%26ts%3D1675828247" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfpcf8fezjqmczsg9jvkt84s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232737047%26signature%3DIbLuoCRC6ftBtABg1eykU%252Be8xJk%253D%26ts%3D1675828247" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<TAR 타르> 제가 시계를 시작하죠]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 06 Feb 2023 05:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb27qyyzkqyhr4znz6yv3v3n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232567238%26signature%3D9wjALRgRY1xkEMFinpUSAykxp3Q%253D%26ts%3D1675658438" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<서치 2> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435588917?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435588917?act=clip</guid>
-            <pubDate>Mon, 06 Feb 2023 05:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0dgz40w8h3xe3gwk6a1tfwh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33232566716%26signature%3DDv%252FdzwXkNximiRA8s48NZxHl5Ag%253D%26ts%3D1675657916" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
