@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 01:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:52:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개]누군가 나의 24시간을 훔쳐보고 있다면?ㅣ스마트폰을 떨어뜨렸을 뿐인데]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435783721?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435783721?act=clip</guid>
+            <pubDate>Tue, 14 Feb 2023 02:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061946712%2Fthumb%2F20230214104829" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'BIG Naughty - 그러니까 하고 싶은 내 말은']]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435783667?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</guid>
             <pubDate>Thu, 02 Feb 2023 01:45:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753863070%2Fthumb%2F20230201195008" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753863070%2Fthumb%2F20230201195008" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 격투기 선배를 이겨라, 추성훈 대 신동국 | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Jan 2023 02:50:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1727605523%2Fthumb%2F20230119163308" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2023년 넷플릭스 영화 라인업 공개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435170384?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435170384?act=clip</guid>
-            <pubDate>Thu, 19 Jan 2023 04:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1557767129%2Fthumb%2F20230119123447" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
