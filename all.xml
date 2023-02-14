@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 04:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 05:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/33110558</link>
             <guid>https://tv.naver.com/v/33110558</guid>
             <pubDate>Tue, 14 Feb 2023 02:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_300/0Y4Fo_1676342381387OfKTY_JPEG/1676342130236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/33109623</link>
             <guid>https://tv.naver.com/v/33109623</guid>
             <pubDate>Tue, 14 Feb 2023 02:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_53/qrESa_1676340473163sCLMN_JPEG/fe5ed96d-ac0b-11ed-af4d-80615f0bcd2e_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/33107757</link>
             <guid>https://tv.naver.com/v/33107757</guid>
             <pubDate>Tue, 14 Feb 2023 01:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_219/b7pVQ_1676335785725gK5zv_JPEG/2105b4a7-ac01-11ed-a39f-a0369ffac634_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://tv.naver.com/v/33091006</link>
             <guid>https://tv.naver.com/v/33091006</guid>
             <pubDate>Mon, 13 Feb 2023 06:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_4/kNgdC_16762687534870x9PF_JPEG/719da799-ab64-11ed-b1c2-a0369ff83bc0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/33088167</link>
             <guid>https://tv.naver.com/v/33088167</guid>
             <pubDate>Mon, 13 Feb 2023 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_131/I7Qyq_16762631025778g5Ox_JPEG/ffd6e0af-ab57-11ed-ac11-a0369ffb35c4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/33035197</link>
             <guid>https://tv.naver.com/v/33035197</guid>
             <pubDate>Fri, 10 Feb 2023 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_285/S6mNR_1676005281086sAmr0_JPEG/057936bd-a8ff-11ed-b360-a0369ff8413c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/33034753</link>
             <guid>https://tv.naver.com/v/33034753</guid>
             <pubDate>Fri, 10 Feb 2023 05:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_59/YhmRo_1676004475695NtaAj_JPEG/c00ad1b8-a8fd-11ed-9dc8-d4f5ef5a9532_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -132,7 +132,7 @@
             <link>https://tv.naver.com/v/33007673</link>
             <guid>https://tv.naver.com/v/33007673</guid>
             <pubDate>Thu, 09 Feb 2023 05:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230209_258/RTLeC_1675918723163ODiEO_JPEG/5b881b02-a836-11ed-85a8-48df379cc9e4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
