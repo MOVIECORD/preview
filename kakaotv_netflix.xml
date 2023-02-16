@@ -4,17 +4,9 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 09:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 파트1 I 지난 이야기]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435844971?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435844971?act=clip</guid>
-            <pubDate>Thu, 16 Feb 2023 09:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1133986938%2Fthumb%2F20230216182132" length="0" type="image/q75/"/>
-        </item>
         <item>
             <title><![CDATA[[넷플릭스] 국가대표 vs 야구선수 vs 댄서 vs 보디빌더 승자는? | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435843459?act=clip</link>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435654860?act=clip</guid>
             <pubDate>Thu, 09 Feb 2023 02:51:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F385522322%2Fthumb%2F20230209003701" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F385522322%2Fthumb%2F20230209003701" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Thu, 26 Jan 2023 01:41:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1650714337%2Fthumb%2F20230125201319" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 힘과 힘의 대결, 설기관 VS 에이전트 H | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435303043?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435303043?act=clip</guid>
+            <pubDate>Thu, 16 Feb 2023 10:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F698653438%2Fthumb%2F20230125181718" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
