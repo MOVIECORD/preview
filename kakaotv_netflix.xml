@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 05:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 06:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435840833?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435840833?act=clip</guid>
+            <pubDate>Thu, 16 Feb 2023 06:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F278673631%2Fthumb%2F20230216152746" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435833925?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435638949?act=clip</guid>
             <pubDate>Wed, 08 Feb 2023 05:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1732690480%2Fthumb%2F20230208134425" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1732690480%2Fthumb%2F20230208134425" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV '(여자)아이들 - Sweet Dream']]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 Jan 2023 03:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1126788854%2Fthumb%2F20230125120529" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 메이크 마이 데이 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435295326?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435295326?act=clip</guid>
-            <pubDate>Wed, 25 Jan 2023 03:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F584735118%2Fthumb%2F20230125120717" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
