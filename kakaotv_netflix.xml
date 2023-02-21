@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 10:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 생존이 달린 5각 줄다리기 게임 | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/435968180?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/435968180?act=clip</guid>
+            <pubDate>Tue, 21 Feb 2023 10:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F100428310%2Fthumb%2F20230221191856" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 마지막 생존자 5인의 마지막 게임 | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435935370?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435757228?act=clip</guid>
             <pubDate>Mon, 13 Feb 2023 02:51:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1707808423%2Fthumb%2F20230213111618" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1707808423%2Fthumb%2F20230213111618" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 파이널 퀘스트 진출자는 단 5인 뿐 | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Feb 2023 09:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2097945577%2Fthumb%2F20230202093602" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 진짜 강함을 뻘컵에게 가르쳐주는 김상욱 | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435464788?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435464788?act=clip</guid>
-            <pubDate>Wed, 01 Feb 2023 03:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1426668013%2Fthumb%2F20230201164459" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
