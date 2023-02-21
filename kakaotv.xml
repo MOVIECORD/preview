@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 08:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 09:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 웨일> 브레네상스 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/435965912?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/435965912?act=clip</guid>
+            <pubDate>Tue, 21 Feb 2023 09:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sodzsz05s2or4m3an3g2i3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233877938%26signature%3D92TyHJ6Bl4rgutJm2yTGV3MiYJU%253D%26ts%3D1676969138" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<차별> 울림 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/435964175?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/435865176?act=clip</guid>
             <pubDate>Fri, 17 Feb 2023 06:29:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8zff8zvmx105k6bupz58jfm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233523777%26signature%3DdirI9Jjw9gh6%252FIaOjId5e4TwZz0%253D%26ts%3D1676614977" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8zff8zvmx105k6bupz58jfm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233523777%26signature%3DdirI9Jjw9gh6%252FIaOjId5e4TwZz0%253D%26ts%3D1676614977" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<서치 2> 북미 관객 리액션 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Feb 2023 01:47:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkap54a3scfc8r03o4mvuvzj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233419169%26signature%3Dc1FRiZ7%252BOQ1blIR7yQSGORbazWI%253D%26ts%3D1676510369" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<바다 탐험대 옥토넛 육지수호 대작전 : 열대우림을 지켜라!> 옥토넛 X 옥토 요원 환상의 협동작전 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435833641?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435833641?act=clip</guid>
-            <pubDate>Thu, 16 Feb 2023 01:47:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk5oxhwfpxo43ju19fmbpcdv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233416866%26signature%3DAfSFFrgYlSiQV00%252BFwxHFzycBik%253D%26ts%3D1676508066" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
