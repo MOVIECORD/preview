@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 03:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 04:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 최후 생존 5인의 진짜 이야기 | 피지컬: 100]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436010336?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436010336?act=clip</guid>
+            <pubDate>Thu, 23 Feb 2023 04:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F120059470%2Fthumb%2F20230223123212" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 파트2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/435983869?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435783721?act=clip</guid>
             <pubDate>Tue, 14 Feb 2023 02:52:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061946712%2Fthumb%2F20230214104829" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061946712%2Fthumb%2F20230214104829" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'BIG Naughty - 그러니까 하고 싶은 내 말은']]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Feb 2023 06:25:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907433861%2Fthumb%2F20230202143135" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 길복순 | 날짜공개: 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435475366?act=clip</guid>
-            <pubDate>Thu, 02 Feb 2023 01:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753863070%2Fthumb%2F20230201195008" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
