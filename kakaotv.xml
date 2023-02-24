@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 02:52:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 03:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크리드 3> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436034736?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436034736?act=clip</guid>
+            <pubDate>Fri, 24 Feb 2023 03:26:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzu3s2janyyottlrokmj0a6u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234115928%26signature%3DCVnhhY8%252FO6iYcU8khnVw9goRAeI%253D%26ts%3D1677207128" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<던전 앤 드래곤: 도적들의 명예> 액션 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436034679?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/435982156?act=clip</guid>
             <pubDate>Wed, 22 Feb 2023 02:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvznnayzokbwulhghwg9ihva3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233939841%26signature%3DyW20%252BQBlRMqvsrhyUsXTFQB6hbw%253D%26ts%3D1677031041" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvznnayzokbwulhghwg9ihva3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233939841%26signature%3DyW20%252BQBlRMqvsrhyUsXTFQB6hbw%253D%26ts%3D1677031041" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<멍뭉이> 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Feb 2023 09:22:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdbav4b5vcjfz3y4w3pyoz66%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233791025%26signature%3DVMX4RjncsqNHaY1BOub9FOEQma0%253D%26ts%3D1676882225" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<베리얼: 라스트 미션> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435931903?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435931903?act=clip</guid>
-            <pubDate>Mon, 20 Feb 2023 02:57:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8s46nwdn8oixmk4nhpfgcbf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233767826%26signature%3DiPpHjz2MC3eyUyGNf60QvVBa5DQ%253D%26ts%3D1676859026" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
