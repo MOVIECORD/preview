@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 23:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 01:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 나는 신이다: 신이 배신한 사람들 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436032587?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436032587?act=clip</guid>
+            <pubDate>Fri, 24 Feb 2023 01:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731488015%2Fthumb%2F20230224100522" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마지막 2인, 상금 3억의 주인은 누구? | 피지컬: 100]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436016472?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435809887?act=clip</guid>
             <pubDate>Wed, 15 Feb 2023 02:54:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2052515781%2Fthumb%2F20230215110837" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2052515781%2Fthumb%2F20230215110837" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 장은실 팀과 패자부활 팀 연합, 언더독의 반란? | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 03 Feb 2023 02:53:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1299049307%2Fthumb%2F20230203114518" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 동종업계는 외나무 다리에서 만난다 남경진vs장은실 | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435514882?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435514882?act=clip</guid>
-            <pubDate>Fri, 03 Feb 2023 02:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518320333%2Fthumb%2F20230203114455" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
