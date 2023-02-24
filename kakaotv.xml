@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 04:26:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 05:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에어> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436036425?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436036425?act=clip</guid>
+            <pubDate>Fri, 24 Feb 2023 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdeyl47yssu1j0lc1rnwg4jh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234121898%26signature%3DM%252BpulrjoS35r4s7i4FPdhVoAJ9c%253D%26ts%3D1677213098" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<크리드 3> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436034736?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/435982243?act=clip</guid>
             <pubDate>Wed, 22 Feb 2023 02:51:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbcd7rwblkkn92ym2lcyjo0j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233940056%26signature%3DNUDJ%252BtnoV8MPP25eFUcf24b%252FiRw%253D%26ts%3D1677031256" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbcd7rwblkkn92ym2lcyjo0j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233940056%26signature%3DNUDJ%252BtnoV8MPP25eFUcf24b%252FiRw%253D%26ts%3D1677031256" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아임 히어로 더 파이널> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 21 Feb 2023 01:47:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg23i5egh8rdh26mazsixvjk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233849887%26signature%3DQ%252FuzEKIZiad5r8gTln8AhtYH%252BN8%253D%26ts%3D1676941087" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[< 서치 2> '서치'팀의 한국 개봉 축하 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435941447?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435941447?act=clip</guid>
-            <pubDate>Mon, 20 Feb 2023 09:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdbav4b5vcjfz3y4w3pyoz66%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233791025%26signature%3DVMX4RjncsqNHaY1BOub9FOEQma0%253D%26ts%3D1676882225" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
