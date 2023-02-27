@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:53:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['리바운드' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/33499096</link>
+            <guid>https://tv.naver.com/v/33499096</guid>
+            <pubDate>Mon, 27 Feb 2023 03:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_109/gBW97_1677468164021p4fRl_JPEG/b424c9a6-b64d-11ed-b334-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['차별' 외침 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/33441548</link>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/33428217</link>
             <guid>https://tv.naver.com/v/33428217</guid>
             <pubDate>Fri, 24 Feb 2023 03:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_121/2jLn4_1677207180959mB9RM_JPEG/12074cf5-b3ee-11ed-9034-80615f0bcec2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 13:28:36 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_278/WhiY3_1676985817973a6vOl_JPEG/7f5a961f-b1ea-11ed-a705-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 웨일' 브레네상스 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/33347421</link>
-            <guid>https://tv.naver.com/v/33347421</guid>
-            <pubDate>Tue, 21 Feb 2023 13:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_130/3nElH_1676984948870rSRNA_JPEG/9b875586-b1e8-11ed-9ce8-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<대외비> 리뷰 예고편 (우리 영화 볼래?)]]></title>
