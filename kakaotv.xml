@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 07:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 08:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오토라는 남자> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436135024?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436135024?act=clip</guid>
+            <pubDate>Tue, 28 Feb 2023 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbif26jw0qerw4gghn3w4x0a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234480663%26signature%3Dq%252FcJ%252BHGhFDtKeaXqyWX6rfnmAvk%253D%26ts%3D1677571863" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스즈메의 문단속> 구하러 갈게 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436132793?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436016895?act=clip</guid>
             <pubDate>Thu, 23 Feb 2023 09:22:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhtc2e0sed1h4lwyb8g73nog%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234050038%26signature%3DOmGl1Zuz%252FoxQSE%252F78717O0ZkY7Y%253D%26ts%3D1677141238" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhtc2e0sed1h4lwyb8g73nog%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234050038%26signature%3DOmGl1Zuz%252FoxQSE%252F78717O0ZkY7Y%253D%26ts%3D1677141238" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<젠틀맨> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Feb 2023 01:44:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb97ps36rmp67jjan42eghic%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233936747%26signature%3DJldqh0n54nzGp7abqN1nUegBcUY%253D%26ts%3D1677027947" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 웨일> 브레네상스 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/435965912?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/435965912?act=clip</guid>
-            <pubDate>Tue, 21 Feb 2023 09:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sodzsz05s2or4m3an3g2i3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33233877938%26signature%3D92TyHJ6Bl4rgutJm2yTGV3MiYJU%253D%26ts%3D1676969138" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
