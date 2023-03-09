@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 06:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 07:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['파라노말 데드점프' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/33811226</link>
+            <guid>https://tv.naver.com/v/33811226</guid>
+            <pubDate>Thu, 09 Mar 2023 07:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_237/nhsIQ_1678344500111xRO6Y_JPEG/74345172-be45-11ed-8152-d4f5ef590144_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['샷건 웨딩' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/33801596</link>
             <guid>https://tv.naver.com/v/33801596</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_148/Ya9Nh_16783303480969sgQd_JPEG/08acc15e-be25-11ed-9034-80615f0bcec2_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/33800226</link>
             <guid>https://tv.naver.com/v/33800226</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_215/tPMAw_1678328072034Nw8R2_JPEG/e6c531c6-be1f-11ed-9034-80615f0bcec2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/33781149</link>
             <guid>https://tv.naver.com/v/33781149</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_269/vJ7vb_16782694895611964a_PNG/1678269477902.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/33772158</link>
             <guid>https://tv.naver.com/v/33772158</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_156/q6UI1_16782571879213XnKX_PNG/1678257167767.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 06:27:39 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230306_105/fJioq_1678083585646fNo1O_JPEG/9ffe7930-bbe6-11ed-8299-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['블라스트: 폭탄제거반' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/33700318</link>
-            <guid>https://tv.naver.com/v/33700318</guid>
-            <pubDate>Mon, 06 Mar 2023 06:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_225/twAnw_1678082021061urYWt_JPEG/d900456c-bbe2-11ed-84b1-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<샷건 웨딩> 메인 예고편 (우리 영화 볼래?)]]></title>
