@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 04:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 05:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Mar 2023 01:52:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1370425826%2Fthumb%2F20230310101527" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 기어이 박연진의 상자를 여는 하도영 | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436352509?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436352509?act=clip</guid>
+            <pubDate>Fri, 10 Mar 2023 05:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F691276208%2Fthumb%2F20230309225323" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 과몰입러를 위한 중간고사 개최🎉 | 더 글로리]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435840833?act=clip</guid>
             <pubDate>Thu, 16 Feb 2023 06:34:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F278673631%2Fthumb%2F20230216152746" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F278673631%2Fthumb%2F20230216152746" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스마트폰을 떨어뜨렸을 뿐인데 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 09 Feb 2023 02:51:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F385522322%2Fthumb%2F20230209003701" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 힘만으로는 승자가 될 수 없다 추성훈vs호주타잔 | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435646790?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435646790?act=clip</guid>
-            <pubDate>Wed, 08 Feb 2023 10:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F240592310%2Fthumb%2F20230208191015" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
