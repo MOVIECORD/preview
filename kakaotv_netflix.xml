@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 05:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 06:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 10 Mar 2023 01:52:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1370425826%2Fthumb%2F20230310101527" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너한테 마지막 기회를 줄게 연진아 | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436352559?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436352559?act=clip</guid>
+            <pubDate>Sun, 12 Mar 2023 06:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1449566742%2Fthumb%2F20230310150250" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 기어이 박연진의 상자를 여는 하도영 | 더 글로리]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435859527?act=clip</guid>
             <pubDate>Fri, 17 Feb 2023 01:50:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1571802631%2Fthumb%2F20230217102058" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1571802631%2Fthumb%2F20230217102058" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 국가대표 vs 야구선수 vs 댄서 vs 보디빌더 승자는? | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 09 Feb 2023 06:37:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1553545821%2Fthumb%2F20230209152840" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자신의 몸무게 40% 버틸 수 있겠습니까? | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435660302?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435660302?act=clip</guid>
-            <pubDate>Thu, 09 Feb 2023 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1840853712%2Fthumb%2F20230209101057" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
