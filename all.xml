@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 07:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 08:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['오늘 출가합니다' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/33927282</link>
+            <guid>https://tv.naver.com/v/33927282</guid>
+            <pubDate>Mon, 13 Mar 2023 08:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[6분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_106/5bUEy_1678695600790F7vWj_JPEG/706f887c-c177-11ed-8778-48df37e304d4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인어공주' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/33912046</link>
             <guid>https://tv.naver.com/v/33912046</guid>
             <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_29/unqJJ_1678673515824fpqPd_PNG/1678673511662.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/33911792</link>
             <guid>https://tv.naver.com/v/33911792</guid>
             <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_167/NWnhq_1678673047272YVzzT_JPEG/dfd02b81-c141-11ed-99d0-80615f0bcfaa_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/33851076</link>
             <guid>https://tv.naver.com/v/33851076</guid>
             <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_84/PfH8w_1678431566872Df7yR_PNG/1678431559637.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -240,12 +248,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_85/1tj58_1678236034855r4pGc_JPEG/592236f3-bd49-11ed-a4fc-48df379cc9e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['오글리스: 웰컴 투 냄새 마을' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/33742651</link>
-            <guid>https://tv.naver.com/v/33742651</guid>
-            <pubDate>Tue, 07 Mar 2023 09:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_109/ts4K8_1678180424030VmYYU_JPEG/f5a6180a-bcc7-11ed-befd-a0369ffab218_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<오늘 출가합니다> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436436870?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436436870?act=clip</guid>
+            <pubDate>Mon, 13 Mar 2023 08:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvreftyylidlf3vn2s35q1syg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235604080%26signature%3DVlSGFxKmy%252Bye8BKs3GGsYmiwiNE%253D%26ts%3D1678695280" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나는 여기에 있다> 티저 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436316034?act=clip</guid>
             <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzqcb0p6etvwz87n51b0h639%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160504%26signature%3DEcwEltC7fGvNsLee6vModxkDYjs%253D%26ts%3D1678251704" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzqcb0p6etvwz87n51b0h639%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160504%26signature%3DEcwEltC7fGvNsLee6vModxkDYjs%253D%26ts%3D1678251704" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그대 어이가리> 공감 백배 리뷰 영상 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Tue, 07 Mar 2023 03:03:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn70mcycf88bnybkxw9h95x5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235062471%26signature%3DJ1WRbksw5FBmX781o9yE9PVlox8%253D%26ts%3D1678153671" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<치킨래빗: 잃어버린 보물을 찾아서> 스토리텔링 30초 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436289236?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436289236?act=clip</guid>
-            <pubDate>Tue, 07 Mar 2023 01:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2sh2at22fecrodzy9w6961b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235062441%26signature%3D2Ml5c2W8ZkuDBEocvXP2FaIBeaQ%253D%26ts%3D1678153641" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 당신의 약점을 알고 있는 범인 | 루터: 태양의 몰락 (카카오TV ─ 넷플릭스)]]></title>
