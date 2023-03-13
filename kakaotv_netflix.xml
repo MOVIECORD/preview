@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 11:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 13:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436441248?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436441248?act=clip</guid>
+            <pubDate>Mon, 13 Mar 2023 13:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:53]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1447207784%2Fthumb%2F20230313202917" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 당신의 약점을 알고 있는 범인 | 루터: 태양의 몰락]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436429621?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435862420?act=clip</guid>
             <pubDate>Fri, 17 Feb 2023 04:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F130601241%2Fthumb%2F20230217130321" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F130601241%2Fthumb%2F20230217130321" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 파트1 I 지난 이야기]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 12 Feb 2023 10:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2140280928%2Fthumb%2F20230212182232" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도저히 욕 없이는 게임을 진행할 수 없었습니다 | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435689838?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435689838?act=clip</guid>
-            <pubDate>Fri, 10 Feb 2023 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F414719895%2Fthumb%2F20230210140947" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
