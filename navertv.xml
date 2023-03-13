@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 01:40:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 02:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['인어공주' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/33912046</link>
+            <guid>https://tv.naver.com/v/33912046</guid>
+            <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_29/unqJJ_1678673515824fpqPd_PNG/1678673511662.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['나는 여기에 있다' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/33911792</link>
+            <guid>https://tv.naver.com/v/33911792</guid>
+            <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_167/NWnhq_1678673047272YVzzT_JPEG/dfd02b81-c141-11ed-99d0-80615f0bcfaa_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어떤 영웅' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/33855793</link>
@@ -14,6 +30,14 @@
             <pubDate>Fri, 10 Mar 2023 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_51/EOmkD_16784384126140mUij_JPEG/1678438236590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['존 윅 4' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/33851076</link>
+            <guid>https://tv.naver.com/v/33851076</guid>
+            <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[42분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_84/PfH8w_1678431566872Df7yR_PNG/1678431559637.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['피기' 론칭 예고편]]></title>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/33839933</link>
             <guid>https://tv.naver.com/v/33839933</guid>
             <pubDate>Fri, 10 Mar 2023 02:59:38 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_168/kFXK1_1678415111927shMqI_JPEG/1678410814528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +116,7 @@
             <link>https://tv.naver.com/v/33800226</link>
             <guid>https://tv.naver.com/v/33800226</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_215/tPMAw_1678328072034Nw8R2_JPEG/e6c531c6-be1f-11ed-9034-80615f0bcec2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,15 +124,23 @@
             <link>https://tv.naver.com/v/33781149</link>
             <guid>https://tv.naver.com/v/33781149</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_269/vJ7vb_16782694895611964a_PNG/1678269477902.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['소림사: 영춘권 부활' 예고편]]></title>
+            <link>https://tv.naver.com/v/33779384</link>
+            <guid>https://tv.naver.com/v/33779384</guid>
+            <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_175/3cHCF_1678266338709zB9LE_JPEG/f8f9b2fe-bd8f-11ed-b0c9-a0369ffdb2e4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['65' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/33772158</link>
             <guid>https://tv.naver.com/v/33772158</guid>
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_156/q6UI1_16782571879213XnKX_PNG/1678257167767.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -188,7 +220,7 @@
             <link>https://tv.naver.com/v/33760026</link>
             <guid>https://tv.naver.com/v/33760026</guid>
             <pubDate>Wed, 08 Mar 2023 02:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_230/3SIOC_1678237499540SqV4I_JPEG/f28f5ff7-bd4c-11ed-8778-48df37e304d4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 09:22:12 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_109/ts4K8_1678180424030VmYYU_JPEG/f5a6180a-bcc7-11ed-befd-a0369ffab218_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오글리스: 웰컴 투 냄새 마을' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/33742439</link>
-            <guid>https://tv.naver.com/v/33742439</guid>
-            <pubDate>Tue, 07 Mar 2023 09:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_198/HD7bB_1678180059289jtUwq_JPEG/119fea94-bcc7-11ed-b494-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['플레인' 호스티지 예고편]]></title>
-            <link>https://tv.naver.com/v/33739980</link>
-            <guid>https://tv.naver.com/v/33739980</guid>
-            <pubDate>Tue, 07 Mar 2023 08:27:47 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_251/FlHmb_167817652861833qFt_JPEG/eeb23d94-bcbe-11ed-a4a0-48df37e2c042_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포커페이스' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/33731634</link>
-            <guid>https://tv.naver.com/v/33731634</guid>
-            <pubDate>Tue, 07 Mar 2023 05:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_195/1A1Ds_16781647324016R4sf_JPEG/8775f89a-bca3-11ed-afc3-48df379ccacc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['멍뭉이' 리뷰 예고편]]></title>
-            <link>https://tv.naver.com/v/33731433</link>
-            <guid>https://tv.naver.com/v/33731433</guid>
-            <pubDate>Tue, 07 Mar 2023 05:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_185/WlC4U_1678164386395cFtYl_JPEG/a50140c5-bca2-11ed-bd14-d4f5ef5a9532_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
