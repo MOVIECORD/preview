@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 03:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 04:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나는 여기에 있다> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436431429?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436431429?act=clip</guid>
+            <pubDate>Mon, 13 Mar 2023 04:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw16t7jch1wowl4rumma68ou%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235589332%26signature%3De%252FRPb1aS83aGMsSxn5kSaWMmXbE%253D%26ts%3D1678680532" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<튤립 모양> 예고편1]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436431407?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436431407?act=clip</guid>
+            <pubDate>Mon, 13 Mar 2023 04:24:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx57ieqf8na2sugw28njxkr0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235589305%26signature%3DQ%252FpBpoSDscTaZe4K77JAFRD8BUI%253D%26ts%3D1678680505" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<슈퍼 마리오 브라더스> 파이널 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436368675?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436315941?act=clip</guid>
             <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1548654655%2Fthumb%2F20230308135713" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1548654655%2Fthumb%2F20230308135713" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<차별> 30초 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436315883?act=clip</guid>
             <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sk8hta7ywayuvkv61lniqs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160018%26signature%3DWf1zT0DsXsKrXuj2tn8cH0CvBKY%253D%26ts%3D1678251218" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sk8hta7ywayuvkv61lniqs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160018%26signature%3DWf1zT0DsXsKrXuj2tn8cH0CvBKY%253D%26ts%3D1678251218" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<찬란한 나의 복수> 메인 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 07 Mar 2023 01:54:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2sh2at22fecrodzy9w6961b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235062441%26signature%3D2Ml5c2W8ZkuDBEocvXP2FaIBeaQ%253D%26ts%3D1678153641" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보스턴 교살자> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436289156?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436289156?act=clip</guid>
-            <pubDate>Tue, 07 Mar 2023 01:54:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlgjswmoir5g31ql20cr3avx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235062522%26signature%3DTR%252F7%252FNzVjir7LfCRTolmu6HBonM%253D%26ts%3D1678153722" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<블라스트: 폭탄제거반> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436267059?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436267059?act=clip</guid>
-            <pubDate>Mon, 06 Mar 2023 05:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnha25lcq8vv96i5oi8pxj0x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33234986061%26signature%3DW1ItYqq%252F2bRg8AYoV9MWaATSqVk%253D%26ts%3D1678077261" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
