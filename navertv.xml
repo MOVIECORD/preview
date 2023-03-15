@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 04:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 05:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['콜 제인' 시고니 위버 띵언 영상]]></title>
+            <link>https://tv.naver.com/v/33993447</link>
+            <guid>https://tv.naver.com/v/33993447</guid>
+            <pubDate>Wed, 15 Mar 2023 05:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_56/CFdZO_1678856255251NC9KA_JPEG/1678856207169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['모나리자와 블러드 문' 오프닝 무삭제 영상]]></title>
             <link>https://tv.naver.com/v/33963964</link>
             <guid>https://tv.naver.com/v/33963964</guid>
             <pubDate>Wed, 15 Mar 2023 02:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_14/S8wDh_1678780037045dYsx4_JPEG/3a5a3583-c23c-11ed-afc3-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/33959734</link>
             <guid>https://tv.naver.com/v/33959734</guid>
             <pubDate>Tue, 14 Mar 2023 07:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_45/VgRuf_1678775386679YDLIf_JPEG/29307194-c231-11ed-8dc9-a0369ffd9ff0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/33955938</link>
             <guid>https://tv.naver.com/v/33955938</guid>
             <pubDate>Tue, 14 Mar 2023 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_134/sSJV3_16787705229140868P_JPEG/e62a654f-c225-11ed-98ec-a0369ffdaefc_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/33955566</link>
             <guid>https://tv.naver.com/v/33955566</guid>
             <pubDate>Tue, 14 Mar 2023 05:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_47/blVxz_1678770040645ck2Se_JPEG/d7c38750-c224-11ed-82a3-a0369ff85d28_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/33844502</link>
             <guid>https://tv.naver.com/v/33844502</guid>
             <pubDate>Fri, 10 Mar 2023 05:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_131/pJ1bN_1678423466678ElKI0_JPEG/e6d0a53c-befd-11ed-afc3-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 02:56:52 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_156/q6UI1_16782571879213XnKX_PNG/1678257167767.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['은밀한 비밀' 예고편]]></title>
-            <link>https://tv.naver.com/v/33770851</link>
-            <guid>https://tv.naver.com/v/33770851</guid>
-            <pubDate>Wed, 08 Mar 2023 06:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_172/4pkvO_1678255628367zOgfN_JPEG/0d823c1d-bd77-11ed-8994-a0369ff85c2c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
