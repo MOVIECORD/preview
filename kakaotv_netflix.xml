@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 01:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 02:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 고마워 엄마 하나도 안 변해서 | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436478191?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436478191?act=clip</guid>
+            <pubDate>Wed, 15 Mar 2023 02:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1368923396%2Fthumb%2F20230315113129" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436441248?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435867711?act=clip</guid>
             <pubDate>Fri, 17 Feb 2023 08:27:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1729308717%2Fthumb%2F20230217171120" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1729308717%2Fthumb%2F20230217171120" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 영원히 끝나지 않는 달리기 | 피지컬: 100]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Feb 2023 02:51:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1082842459%2Fthumb%2F20230213111440" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] | 연애대전 | 배우 유태오와 변호사 김옥빈의 계약 연애]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435741259?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435741259?act=clip</guid>
-            <pubDate>Sun, 12 Feb 2023 10:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2140280928%2Fthumb%2F20230212182232" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
