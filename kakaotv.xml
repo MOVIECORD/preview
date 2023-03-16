@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 03:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 04:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<틸> 세상을 변화시킨 엄마의 목소리 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436506377?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436506377?act=clip</guid>
+            <pubDate>Thu, 16 Mar 2023 04:24:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc8lsh6xmma2ypykfad66261%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235848573%26signature%3DEY%252Bpc8nMavY%252FGlNhCshDxiLnvlc%253D%26ts%3D1678939773" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<길복순> 파이널 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436504692?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436436870?act=clip</guid>
             <pubDate>Mon, 13 Mar 2023 08:26:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvreftyylidlf3vn2s35q1syg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235604080%26signature%3DVlSGFxKmy%252Bye8BKs3GGsYmiwiNE%253D%26ts%3D1678695280" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvreftyylidlf3vn2s35q1syg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235604080%26signature%3DVlSGFxKmy%252Bye8BKs3GGsYmiwiNE%253D%26ts%3D1678695280" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나는 여기에 있다> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Mar 2023 06:27:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz429leo8cxqxsz9kbuzcznr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235162148%26signature%3DM1rus5oh%252F9wAyCUC%252BDwOc6w83uU%253D%26ts%3D1678253348" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<라이스보이 슬립스> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436316034?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436316034?act=clip</guid>
-            <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzqcb0p6etvwz87n51b0h639%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160504%26signature%3DEcwEltC7fGvNsLee6vModxkDYjs%253D%26ts%3D1678251704" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
