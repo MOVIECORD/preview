@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 01:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 02:42:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<존 윅 4> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436504570?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436504570?act=clip</guid>
+            <pubDate>Thu, 16 Mar 2023 02:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyup2dnhfe84pdahx5gztlln%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235843232%26signature%3DlRJtebvetywYvHh8vwpqF7fj%252Bh0%253D%26ts%3D1678934432" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<오토라는 남자> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436486523?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436368675?act=clip</guid>
             <pubDate>Fri, 10 Mar 2023 09:21:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztote9z6mx2klnx2eqozvb7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235346519%26signature%3DeCSiD6s2LGXWeg07MhAUUryClxo%253D%26ts%3D1678437719" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztote9z6mx2klnx2eqozvb7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235346519%26signature%3DeCSiD6s2LGXWeg07MhAUUryClxo%253D%26ts%3D1678437719" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<슈퍼 마리오 브라더스> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3sk8hta7ywayuvkv61lniqs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235160018%26signature%3DWf1zT0DsXsKrXuj2tn8cH0CvBKY%253D%26ts%3D1678251218" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<찬란한 나의 복수> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436315421?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436315421?act=clip</guid>
-            <pubDate>Wed, 08 Mar 2023 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjqrbc3nnqo23ktogo1n50xo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235158782%26signature%3Dyw1fmNasxUEYg9JCK1wBOxESLME%253D%26ts%3D1678249982" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
