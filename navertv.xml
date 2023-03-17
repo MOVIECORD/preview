@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 05:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 06:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['팅커 테일러 솔저 스파이' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/34069294</link>
+            <guid>https://tv.naver.com/v/34069294</guid>
+            <pubDate>Fri, 17 Mar 2023 06:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[35분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_130/3zZ2F_1679032109265PhW6F_JPEG/d7d0ab53-c483-11ed-b494-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인사이드 르윈' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/34068139</link>
             <guid>https://tv.naver.com/v/34068139</guid>
             <pubDate>Fri, 17 Mar 2023 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_127/zCpWi_1679030325382PS2fL_JPEG/a9123aa5-c482-11ed-90b1-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/34067735</link>
             <guid>https://tv.naver.com/v/34067735</guid>
             <pubDate>Fri, 17 Mar 2023 05:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_250/ryKaP_1679029700978COwBM_JPEG/66c51270-c481-11ed-b0c9-a0369ffdb2e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/34062552</link>
             <guid>https://tv.naver.com/v/34062552</guid>
             <pubDate>Fri, 17 Mar 2023 02:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_250/eoQJB_1679019401453bvGbC_JPEG/78f02ec5-c469-11ed-9c6c-b4055da54885_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/34062293</link>
             <guid>https://tv.naver.com/v/34062293</guid>
             <pubDate>Fri, 17 Mar 2023 02:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_257/7aLMH_1679018946678fMkCt_JPEG/1679018934456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/34043360</link>
             <guid>https://tv.naver.com/v/34043360</guid>
             <pubDate>Thu, 16 Mar 2023 09:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_23/GSvMs_1678958139296fWJwT_JPEG/db6612ff-c3da-11ed-a25f-80615f0bcc3a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/34043187</link>
             <guid>https://tv.naver.com/v/34043187</guid>
             <pubDate>Thu, 16 Mar 2023 09:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_210/qxzTp_16789578541705zCy9_JPEG/e4de0b37-c3d9-11ed-99d0-80615f0bcfaa_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/34035699</link>
             <guid>https://tv.naver.com/v/34035699</guid>
             <pubDate>Thu, 16 Mar 2023 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_192/zuJsd_1678948241481hD5P2_JPEG/aa186def-c3c3-11ed-afc3-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -108,7 +116,7 @@
             <link>https://tv.naver.com/v/33995953</link>
             <guid>https://tv.naver.com/v/33995953</guid>
             <pubDate>Wed, 15 Mar 2023 07:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_154/tYo81_1678859804880DukQY_JPEG/a76e8f81-c2f5-11ed-8c12-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 09:21:11 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_51/EOmkD_16784384126140mUij_JPEG/1678438236590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['존 윅 4' 2차 예고편]]></title>
-            <link>https://tv.naver.com/v/33851076</link>
-            <guid>https://tv.naver.com/v/33851076</guid>
-            <pubDate>Mon, 13 Mar 2023 02:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_84/PfH8w_1678431566872Df7yR_PNG/1678431559637.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
