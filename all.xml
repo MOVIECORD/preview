@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 23:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 01:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/34043360</link>
             <guid>https://tv.naver.com/v/34043360</guid>
             <pubDate>Thu, 16 Mar 2023 09:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_23/GSvMs_1678958139296fWJwT_JPEG/db6612ff-c3da-11ed-a25f-80615f0bcc3a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/34043187</link>
             <guid>https://tv.naver.com/v/34043187</guid>
             <pubDate>Thu, 16 Mar 2023 09:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_210/qxzTp_16789578541705zCy9_JPEG/e4de0b37-c3d9-11ed-99d0-80615f0bcfaa_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/34035699</link>
             <guid>https://tv.naver.com/v/34035699</guid>
             <pubDate>Thu, 16 Mar 2023 07:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_192/zuJsd_1678948241481hD5P2_JPEG/aa186def-c3c3-11ed-afc3-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/34032008</link>
             <guid>https://tv.naver.com/v/34032008</guid>
             <pubDate>Thu, 16 Mar 2023 05:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_128/RjTwJ_1678943460073fj6kI_PNG/1678943201581.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://tv.naver.com/v/34031635</link>
             <guid>https://tv.naver.com/v/34031635</guid>
             <pubDate>Thu, 16 Mar 2023 05:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_153/2fI9g_1678942978947KchKP_PNG/1678942842698.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/34026016</link>
             <guid>https://tv.naver.com/v/34026016</guid>
             <pubDate>Thu, 16 Mar 2023 03:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_256/pMP1c_1678935002850qQDld_JPEG/a5e3b603-c3a4-11ed-a04e-d4f5ef5906a4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +60,7 @@
             <link>https://tv.naver.com/v/34023431</link>
             <guid>https://tv.naver.com/v/34023431</guid>
             <pubDate>Thu, 16 Mar 2023 02:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_117/p7L6s_1678931023286HzUj0_JPEG/5f94d51a-c39b-11ed-8b58-a0369ffab0c4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +164,7 @@
             <link>https://tv.naver.com/v/33948215</link>
             <guid>https://tv.naver.com/v/33948215</guid>
             <pubDate>Tue, 14 Mar 2023 02:36:11 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_140/Lwjqs_1678757743116wrl9F_JPEG/18bfc098-c208-11ed-9441-505dac8c3607_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy45dazebtbqbhvtkeu3jvlb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235237782%26signature%3DTfMa1658hjiBIyInqfriP78I7KM%253D%26ts%3D1678328982" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 퀸메이커 | 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436505140?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436505140?act=clip</guid>
+            <pubDate>Fri, 17 Mar 2023 01:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F315380682%2Fthumb%2F20230316120327" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 성난 사람들(비프) | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436504507?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436504507?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/435983869?act=clip</guid>
             <pubDate>Thu, 23 Feb 2023 01:41:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1808110439%2Fthumb%2F20230222180306" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1808110439%2Fthumb%2F20230222180306" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 생존이 달린 5각 줄다리기 게임 | 피지컬: 100 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Tue, 14 Feb 2023 02:52:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2061946712%2Fthumb%2F20230214104829" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연애대전 | 스페셜 MV 'BIG Naughty - 그러니까 하고 싶은 내 말은' (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435783667?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435783667?act=clip</guid>
-            <pubDate>Tue, 14 Feb 2023 01:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1558338051%2Fthumb%2F20230214104343" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
