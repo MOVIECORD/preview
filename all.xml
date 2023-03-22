@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 23:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 01:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['포커페이스' 본 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/34209629</link>
+            <guid>https://tv.naver.com/v/34209629</guid>
+            <pubDate>Wed, 22 Mar 2023 01:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_43/zp2sA_1679447685859vqXzJ_JPEG/6a3f4937-c84e-11ed-9c6c-b4055da54885_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사랑의 고고학' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/34209477</link>
+            <guid>https://tv.naver.com/v/34209477</guid>
+            <pubDate>Wed, 22 Mar 2023 01:30:53 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_151/47hOj_1679447359650o26nm_JPEG/1679447357735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['거울 속 외딴 성' 감독 인사 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/34190732</link>
             <guid>https://tv.naver.com/v/34190732</guid>
             <pubDate>Tue, 21 Mar 2023 09:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_161/cnnYE_1679389202680bsibj_JPEG/a74eaff3-c7c5-11ed-8334-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/34184614</link>
             <guid>https://tv.naver.com/v/34184614</guid>
             <pubDate>Tue, 21 Mar 2023 07:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_59/qDoc2_1679380942253D2DAN_JPEG/0f2157d6-c7b3-11ed-9cfe-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/34179394</link>
             <guid>https://tv.naver.com/v/34179394</guid>
             <pubDate>Tue, 21 Mar 2023 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_118/IjMlW_1679374800208kQSLM_JPEG/a827ae1d-c7a4-11ed-b2fb-a0369ffabd48_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/34170912</link>
             <guid>https://tv.naver.com/v/34170912</guid>
             <pubDate>Tue, 21 Mar 2023 01:27:53 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230321_19/w1BO1_1679360532839zaLww_JPEG/a333fda3-c783-11ed-98ec-a0369ffdaefc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 07:18:27 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_154/tYo81_1678859804880DukQY_JPEG/a76e8f81-c2f5-11ed-8c12-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콜 제인' 시고니 위버 띵언 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/33993447</link>
-            <guid>https://tv.naver.com/v/33993447</guid>
-            <pubDate>Wed, 15 Mar 2023 05:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_56/CFdZO_1678856255251NC9KA_JPEG/1678856207169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['모나리자와 블러드 문' 오프닝 무삭제 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/33963964</link>
-            <guid>https://tv.naver.com/v/33963964</guid>
-            <pubDate>Wed, 15 Mar 2023 02:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_14/S8wDh_1678780037045dYsx4_JPEG/3a5a3583-c23c-11ed-afc3-48df379ccacc_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<물안에서> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -568,6 +568,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8b38ckgozgviaxybh5f6z8s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33235678866%26signature%3D3VALnrTKY1SJ0rtOjXrww8Zf%252FlY%253D%26ts%3D1678770066" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 스위트 투스: 사슴뿔을 가진 소년 시즌 2 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436654002?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436654002?act=clip</guid>
+            <pubDate>Wed, 22 Mar 2023 01:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2964901%2Fthumb%2F20230322101632" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 살인범이 주여정의 아버지를 죽인 이유 | 더 글로리 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436602429?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436602429?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436016472?act=clip</guid>
             <pubDate>Thu, 23 Feb 2023 09:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1299682895%2Fthumb%2F20230223171331" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1299682895%2Fthumb%2F20230223171331" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 최후 생존 5인의 진짜 이야기 | 피지컬: 100 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Wed, 15 Feb 2023 02:54:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2052515781%2Fthumb%2F20230215110837" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 장은실 팀과 패자부활 팀 연합, 언더독의 반란? | 피지컬: 100 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435794475?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435794475?act=clip</guid>
-            <pubDate>Tue, 14 Feb 2023 10:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F964697819%2Fthumb%2F20230214185130" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
