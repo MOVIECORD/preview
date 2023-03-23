@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 01:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 엑스오, 키티 | 퍼스트룩 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436680016?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436680016?act=clip</guid>
+            <pubDate>Thu, 23 Mar 2023 01:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1629351734%2Fthumb%2F20230323101121" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 설경구에게 요구하는 전도연의 재계약 조건 | 길복순]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436657894?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436043377?act=clip</guid>
             <pubDate>Sat, 25 Feb 2023 03:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494324718%2Fthumb%2F20230225101822" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494324718%2Fthumb%2F20230225101822" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나는 신이다: 신이 배신한 사람들 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Feb 2023 03:26:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2121404856%2Fthumb%2F20230215121742" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플루토 | 미리보기]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435809891?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435809891?act=clip</guid>
-            <pubDate>Wed, 15 Feb 2023 02:54:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1490619708%2Fthumb%2F20230215110907" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
