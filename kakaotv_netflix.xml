@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스페셜 MV '폴킴 - 너는 기억한다' | 더 글로리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436787857?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436787857?act=clip</guid>
+            <pubDate>Mon, 27 Mar 2023 06:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1305860430%2Fthumb%2F20230327142039" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티 | 퍼스트룩 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436680016?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436127951?act=clip</guid>
             <pubDate>Tue, 28 Feb 2023 02:52:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F853362247%2Fthumb%2F20230228111140" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F853362247%2Fthumb%2F20230228111140" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 베테랑 킬러, 우수 직원 전도연 | 길복순]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Feb 2023 01:47:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F591132647%2Fthumb%2F20230215160839" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 집채만 한 돌 들고 90분 버티기 가능? | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435811250?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435811250?act=clip</guid>
-            <pubDate>Wed, 15 Feb 2023 03:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2121404856%2Fthumb%2F20230215121742" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
