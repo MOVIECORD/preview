@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 03:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 04:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<가디언즈 오브 갤럭시: Volume 3> '돌아온 가디언즈' 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436813875?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436813875?act=clip</guid>
+            <pubDate>Tue, 28 Mar 2023 04:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8s2vjpwnz6kktze5hdumirj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236885464%26signature%3DYtPl2hn9J1bvmUX3JGlO5eFNagI%253D%26ts%3D1679976664" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<킬링 로맨스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436812015?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436710755?act=clip</guid>
             <pubDate>Fri, 24 Mar 2023 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F852213927%2Fthumb%2F20230324133404" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F852213927%2Fthumb%2F20230324133404" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<귀를 기울이면> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 21 Mar 2023 05:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgadgtdmej4kzvan7w7jyp9j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236281561%26signature%3DIseXlLbabhb4enFiq4zhodCFXJY%253D%26ts%3D1679372761" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<드림> 공식 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436630194?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436630194?act=clip</guid>
-            <pubDate>Tue, 21 Mar 2023 02:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9nhur68f7s3ttrai3tuoh6w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236272789%26signature%3DAn7fkh6CXDO97LCqf9Xsz1kkzio%253D%26ts%3D1679363989" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
