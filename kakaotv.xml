@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 01:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Mar 2023 02:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<목두기 비디오> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436838540?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436838540?act=clip</guid>
+            <pubDate>Wed, 29 Mar 2023 02:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgheeoen2xb8v68jgv3r9vej%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236966688%26signature%3DvGHK6aI7QM8lCh4NuN65x1VGQvw%253D%26ts%3D1680057888" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<파벨만스> 관객 리뷰 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436816961?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436786357?act=clip</guid>
             <pubDate>Mon, 27 Mar 2023 04:23:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlvzeooirbpqpl5rg9tak92q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236798684%26signature%3DU1Q2KijXjYU7g9pbl25TXS0e3TI%253D%26ts%3D1679889884" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlvzeooirbpqpl5rg9tak92q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236798684%26signature%3DU1Q2KijXjYU7g9pbl25TXS0e3TI%253D%26ts%3D1679889884" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<파벨만스> 프로덕션 비하인드 영상 2탄]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Mar 2023 02:38:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1qu0yq4ab5p1qyj51r75x2p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236360207%26signature%3DDdElMeGVX%252FsVUQaq7zaWbFZd%252Bb8%253D%26ts%3D1679451407" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑의 고고학> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436655251?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436655251?act=clip</guid>
-            <pubDate>Wed, 22 Mar 2023 02:38:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzt7ds0lifg9z1ednw7u75ji%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236360285%26signature%3DgEp1T3QkXKe99%252BignVhS5X5aX8Y%253D%26ts%3D1679451485" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
