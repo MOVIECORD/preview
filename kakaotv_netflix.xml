@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Mar 2023 23:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 01:37:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 28 Mar 2023 07:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1250231802%2Fthumb%2F20230328152825" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 퀸메이커 | 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436811421?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436811421?act=clip</guid>
+            <pubDate>Thu, 30 Mar 2023 01:37:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F552603875%2Fthumb%2F20230328110420" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '폴킴 - 너는 기억한다' | 더 글로리]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436171513?act=clip</guid>
             <pubDate>Thu, 02 Mar 2023 01:51:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F749198690%2Fthumb%2F20230302102250" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F749198690%2Fthumb%2F20230302102250" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너에게 닿기를 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Feb 2023 08:27:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F830334214%2Fthumb%2F20230216143624" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 4 파트 2 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435833925?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435833925?act=clip</guid>
-            <pubDate>Thu, 16 Feb 2023 01:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1303517239%2Fthumb%2F20230216095446" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
