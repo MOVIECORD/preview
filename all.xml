@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 08:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 09:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/34513097</link>
             <guid>https://tv.naver.com/v/34513097</guid>
             <pubDate>Fri, 31 Mar 2023 07:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_134/EvDlz_1680244143843o75Bj_JPEG/18ff0d3f-cf8d-11ed-849b-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/34512581</link>
             <guid>https://tv.naver.com/v/34512581</guid>
             <pubDate>Fri, 31 Mar 2023 06:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_209/nq1ue_16802432744784H7oH_JPEG/faccfab2-cf89-11ed-bb22-a0369ffabc5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/34506070</link>
             <guid>https://tv.naver.com/v/34506070</guid>
             <pubDate>Fri, 31 Mar 2023 03:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_157/8BmUT_1680230690988ABF2d_JPEG/1680230688721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/34447647</link>
             <guid>https://tv.naver.com/v/34447647</guid>
             <pubDate>Wed, 29 Mar 2023 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_19/mJtgs_1680081363755gO7t3_JPEG/0968f52a-ce12-11ed-a708-a0369ff84114_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/34447487</link>
             <guid>https://tv.naver.com/v/34447487</guid>
             <pubDate>Wed, 29 Mar 2023 09:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_239/iCWEW_1680081086083j2QFu_JPEG/509a5287-ce11-11ed-9998-48df37ae3dc4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Tue, 28 Mar 2023 01:36:44 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_252/nEFaT_1679963751350bnKwI_JPEG/14567dbc-cd00-11ed-9cfe-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<섀도우 마스터> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436901613?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436901613?act=clip</guid>
+            <pubDate>Fri, 31 Mar 2023 09:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt0vjbi6k1eqp15lr8tn6ir5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237161459%26signature%3Df%252BxElIaYl8Mx%252BuBPDkIhRzRvyis%253D%26ts%3D1680252659" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<렌필드> 피 말리는 업무일지 영상 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436843408?act=clip</guid>
             <pubDate>Wed, 29 Mar 2023 07:18:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk4ivor53kpqzaljluwr3dxp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236980175%26signature%3DmWtTwJNcVBgP3nAEpufXr%252BcMxmU%253D%26ts%3D1680071375" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk4ivor53kpqzaljluwr3dxp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236980175%26signature%3DmWtTwJNcVBgP3nAEpufXr%252BcMxmU%253D%26ts%3D1680071375" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<존 윅 4> 1차 예고편 (우리 영화 볼래?)]]></title>
@@ -560,20 +568,12 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv19n9zmqdny44bp187suo9xu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236889352%26signature%3DeJ%252FHzswIDZOwpILBxnPo9kVw97A%253D%26ts%3D1679980552" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<킬링 로맨스> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436812015?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436812015?act=clip</guid>
-            <pubDate>Tue, 28 Mar 2023 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvys8hldrdnza2stffmrti396%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236879656%26signature%3DCn0NMvNN3iZtKx9JyVDyFJlddQM%253D%26ts%3D1679970856" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[길복순_나우 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
+            <title><![CDATA[[넷플릭스] 절찬 스트리밍 중 | 길복순 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436900273?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436900273?act=clip</guid>
             <pubDate>Fri, 31 Mar 2023 08:24:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvixspd0ftzeiwv1h20ieok7v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237158460%26signature%3DZkP0eYdokYbXbZXnqgcCQ5%252BKiPA%253D%26ts%3D1680249660" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F654173561%2Fthumb%2F20230331174241" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 길복순 속으로 | 길복순 (카카오TV ─ 넷플릭스)]]></title>
