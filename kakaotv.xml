@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 02:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 03:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<레디 플레이어 원> [재개봉] 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/436893218?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/436893218?act=clip</guid>
+            <pubDate>Fri, 31 Mar 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvexligxtj3yenphmk2ubhb2a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237139243%26signature%3Dohhf7UWVEu3OJ3YtQLxvaOzWALI%253D%26ts%3D1680230443" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<오디션> 시이나 에이히 개봉 감사 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/436892699?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436842590?act=clip</guid>
             <pubDate>Wed, 29 Mar 2023 06:25:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv31kt6jvrougjwjcvew4yzhu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236977936%26signature%3DQd8cjDzeDAGjxj0WSCKfcSDqh54%253D%26ts%3D1680069136" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv31kt6jvrougjwjcvew4yzhu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236977936%26signature%3DQd8cjDzeDAGjxj0WSCKfcSDqh54%253D%26ts%3D1680069136" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사쿠라> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 28 Mar 2023 02:37:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1690960473%2Fthumb%2F20230328113149" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<치킨래빗: 잃어버린 보물을 찾아서> 피그미 액션 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436811425?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436811425?act=clip</guid>
-            <pubDate>Tue, 28 Mar 2023 02:37:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveuj41yo0qkm8wt8dyapt54d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33236877981%26signature%3DI5AzuHEoRQbPahADPtH2JY%252ByBlc%253D%26ts%3D1679969181" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
