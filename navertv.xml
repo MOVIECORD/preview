@@ -4,16 +4,48 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 01:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 02:32:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['이케와 나' 예고편]]></title>
+            <link>https://tv.naver.com/v/34570321</link>
+            <guid>https://tv.naver.com/v/34570321</guid>
+            <pubDate>Mon, 03 Apr 2023 02:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_110/4IDv3_1680488614197zHyvN_JPEG/2ce7ecb2-d1c6-11ed-9b16-d4f5ef5906a4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['불멸의 여자' 셀럽 추천&응원 영상]]></title>
+            <link>https://tv.naver.com/v/34569846</link>
+            <guid>https://tv.naver.com/v/34569846</guid>
+            <pubDate>Mon, 03 Apr 2023 02:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[25분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_84/4yojh_1680487577842XLL9z_JPEG/90c16fa0-d1c2-11ed-a9f0-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['어바웃 조안' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/34569381</link>
+            <guid>https://tv.naver.com/v/34569381</guid>
+            <pubDate>Mon, 03 Apr 2023 02:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_208/Hpu1j_1680486621950JF6CU_JPEG/aa508423-d1c1-11ed-849b-505dac8c385b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['섀도우 마스터' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/34568429</link>
             <guid>https://tv.naver.com/v/34568429</guid>
             <pubDate>Mon, 03 Apr 2023 01:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_211/9ipj0_1680484666811VOLqo_JPEG/e77562a9-d1bc-11ed-9bb4-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['드림' 공식 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/34519779</link>
+            <guid>https://tv.naver.com/v/34519779</guid>
+            <pubDate>Mon, 03 Apr 2023 02:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_215/2YxBY_1680254572355pm3cO_JPEG/67bf7fb5-cfa5-11ed-b8b6-a0369ffabf34_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['마리아: 전쟁의 사도' 예고편]]></title>
@@ -164,7 +196,7 @@
             <link>https://tv.naver.com/v/34432143</link>
             <guid>https://tv.naver.com/v/34432143</guid>
             <pubDate>Wed, 29 Mar 2023 01:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_260/tXyRK_1680054094624lfike_JPEG/2dece755-cdd2-11ed-a7c2-505dac8c3721_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +204,7 @@
             <link>https://tv.naver.com/v/34431751</link>
             <guid>https://tv.naver.com/v/34431751</guid>
             <pubDate>Wed, 29 Mar 2023 01:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230329_269/uOctN_1680053247365knImX_JPEG/591085bb-cdd0-11ed-9508-a0369ffd9cd8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Tue, 28 Mar 2023 05:18:35 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_236/DeQTE_1679980526859TNXxk_JPEG/325f7ada-cd27-11ed-b494-505dac8c3721_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유랑지구2' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/34404882</link>
-            <guid>https://tv.naver.com/v/34404882</guid>
-            <pubDate>Tue, 28 Mar 2023 05:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_291/BAn4u_1679979834613SAc68_JPEG/874ce1de-cd25-11ed-b265-d4f5ef58ad5e_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['가디언즈 오브 갤럭시: Volume 3' '돌아온 가디언즈' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/34404542</link>
-            <guid>https://tv.naver.com/v/34404542</guid>
-            <pubDate>Tue, 28 Mar 2023 05:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_32/Qp9vQ_1679979284566y5gvt_JPEG/0cf215f9-cd21-11ed-9965-80615f0bce2a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엘 카미노' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/34399112</link>
-            <guid>https://tv.naver.com/v/34399112</guid>
-            <pubDate>Tue, 28 Mar 2023 02:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_46/PqeKr_1679969157339vjxj6_JPEG/00c23d8b-cd0a-11ed-a928-80615f0bcf3e_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['목두기 비디오' 예고편]]></title>
-            <link>https://tv.naver.com/v/34398237</link>
-            <guid>https://tv.naver.com/v/34398237</guid>
-            <pubDate>Tue, 28 Mar 2023 02:37:43 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_102/hcz2i_1679967637607fvDxP_JPEG/40399abf-cd09-11ed-a25f-80615f0bcc3a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
