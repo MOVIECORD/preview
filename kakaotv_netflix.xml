@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436975011?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436975011?act=clip</guid>
+            <pubDate>Mon, 03 Apr 2023 06:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1825083585%2Fthumb%2F20230403150212" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 티저 예고편 #2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/436975008?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/436975008?act=clip</guid>
+            <pubDate>Mon, 03 Apr 2023 06:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1624195645%2Fthumb%2F20230403150140" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 3월 31일 대개봉 | 길복순]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/436920216?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436429621?act=clip</guid>
             <pubDate>Mon, 13 Mar 2023 02:42:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1768123034%2Fthumb%2F20230313113109" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1768123034%2Fthumb%2F20230313113109" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436427928?act=clip</guid>
             <pubDate>Mon, 13 Mar 2023 01:40:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F46050278%2Fthumb%2F20230313101654" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F46050278%2Fthumb%2F20230313101654" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나이트 에이전트 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 17 Feb 2023 04:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F130601241%2Fthumb%2F20230217130321" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 글로리 파트1 I 지난 이야기]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435859902?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435859902?act=clip</guid>
-            <pubDate>Fri, 17 Feb 2023 01:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F849283782%2Fthumb%2F20230217103728" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] F1, 본능의 질주 시즌 5 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435859530?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435859530?act=clip</guid>
-            <pubDate>Fri, 17 Feb 2023 01:50:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F661461627%2Fthumb%2F20230217102021" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
