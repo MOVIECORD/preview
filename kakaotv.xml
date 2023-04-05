@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 07:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 08:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<무명> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437033767?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437033767?act=clip</guid>
+            <pubDate>Wed, 05 Apr 2023 08:26:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxtassv4f9te2f0w719ba5lu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237591856%26signature%3DUNgZCvShAAIblpZoUFVik%252Bjerqw%253D%26ts%3D1680683056" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스몰 월드> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437030264?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/436974998?act=clip</guid>
             <pubDate>Mon, 03 Apr 2023 06:23:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlz052eqayzdrc8stb2t1m3n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237410136%26signature%3DOO2o%252FezcEM016CxUc0pkQsjsCu4%253D%26ts%3D1680501336" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlz052eqayzdrc8stb2t1m3n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237410136%26signature%3DOO2o%252FezcEM016CxUc0pkQsjsCu4%253D%26ts%3D1680501336" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아머드 사우루스: 기계공룡제국의 침략> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Mar 2023 04:24:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrh9c0s0yuvjuifmh9sahsj2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237058508%26signature%3D%252FzlT1yVeSnawg1VRHlXvSbcT0Mo%253D%26ts%3D1680149708" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<여덟 번째 감각> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/436866021?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/436866021?act=clip</guid>
-            <pubDate>Thu, 30 Mar 2023 02:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5qt8pigedu6j1jpiw0tfsll%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33237052255%26signature%3DDVYmZtAq2BjaufubJ3Fk8shBafk%253D%26ts%3D1680143455" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
