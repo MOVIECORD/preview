@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Apr 2023 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 06:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 4월 신작 소개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437056221?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437056221?act=clip</guid>
+            <pubDate>Thu, 06 Apr 2023 06:26:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F538241677%2Fthumb%2F20230406142054" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 전도연을 처리하면 취업시켜드릴게요 | 길복순]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437050837?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436503276?act=clip</guid>
             <pubDate>Thu, 16 Mar 2023 10:23:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1120691277%2Fthumb%2F20230316104030" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1120691277%2Fthumb%2F20230316104030" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고마워 엄마 하나도 안 변해서 | 더 글로리]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 21 Feb 2023 10:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F100428310%2Fthumb%2F20230221191856" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 마지막 생존자 5인의 마지막 게임 | 피지컬: 100]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/435935370?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/435935370?act=clip</guid>
-            <pubDate>Mon, 20 Feb 2023 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F783797751%2Fthumb%2F20230220133237" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
