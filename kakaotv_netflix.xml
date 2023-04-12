@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 23:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 01:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437207212?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437207212?act=clip</guid>
+            <pubDate>Wed, 12 Apr 2023 01:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1701808011%2Fthumb%2F20230412100542" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437166893?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436657894?act=clip</guid>
             <pubDate>Wed, 22 Mar 2023 09:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1739804863%2Fthumb%2F20230322134317" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1739804863%2Fthumb%2F20230322134317" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트 투스: 사슴뿔을 가진 소년 시즌 2 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 25 Feb 2023 03:25:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494324718%2Fthumb%2F20230225101822" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나는 신이다: 신이 배신한 사람들 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/436032587?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/436032587?act=clip</guid>
-            <pubDate>Fri, 24 Feb 2023 01:43:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731488015%2Fthumb%2F20230224100522" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
