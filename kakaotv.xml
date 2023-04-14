@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 04:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 05:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<칠중주: 홍콩 이야기> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437266148?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437266148?act=clip</guid>
+            <pubDate>Fri, 14 Apr 2023 05:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpucunmaxlbr5z67xohoboam%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238356454%26signature%3DkI0LVkXRPdGQSgB5v9sGBO98MeE%253D%26ts%3D1681447654" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<슬픔의 삼각형> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437264327?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437238026?act=clip</guid>
             <pubDate>Thu, 13 Apr 2023 05:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgmu0x8xu9fljohgdsta25kp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238269067%26signature%3Dvzt9d3BDoZRyggizjAOzw8ahunw%253D%26ts%3D1681360267" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgmu0x8xu9fljohgdsta25kp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238269067%26signature%3Dvzt9d3BDoZRyggizjAOzw8ahunw%253D%26ts%3D1681360267" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<살룸의 하이에나> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 10 Apr 2023 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz63qq2v0a8dqunv5i186prj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238010855%26signature%3D%252B%252FlflVygugyE%252B%252FmHSB1QRgJmYro%253D%26ts%3D1681102055" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<메탈리카: 72 시즌스> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437157312?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437157312?act=clip</guid>
-            <pubDate>Mon, 10 Apr 2023 05:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnow3pm4bxgc53sf4sivmy2k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238010738%26signature%3DlOzh%252BZD5O9oBLnOEe75eVw37%252Bys%253D%26ts%3D1681101938" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
