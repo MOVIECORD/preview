@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 22:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 23:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 14 Apr 2023 08:23:03 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_87/He2wk_16814601706937xqcV_JPEG/c640e0a7-da9b-11ed-9b16-d4f5ef5906a4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극장판 짱구는 못말려: 동물소환 닌자 배꼽수비대' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/34950110</link>
+            <guid>https://tv.naver.com/v/34950110</guid>
+            <pubDate>Sun, 16 Apr 2023 23:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_120/R4Cwc_1681447308748M5VyI_PNG/1681447293922.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['칠중주: 홍콩 이야기' 티저 예고편]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_189/NH6yE_1681189785783xomKv_JPEG/af1d67ba-d826-11ed-b741-a0369ffdb820_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스위치' 인터뷰]]></title>
-            <link>https://tv.naver.com/v/34834197</link>
-            <guid>https://tv.naver.com/v/34834197</guid>
-            <pubDate>Tue, 11 Apr 2023 04:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_95/63alw_1681185118866nmElQ_JPEG/cd9e5bf8-d81a-11ed-9998-48df37ae3dc4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
