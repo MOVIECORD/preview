@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 23:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 01:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트 투스: 사슴뿔을 가진 소년 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437360647?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437360647?act=clip</guid>
+            <pubDate>Tue, 18 Apr 2023 01:26:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F525569651%2Fthumb%2F20230418100913" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 익스트랙션 2 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437344554?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/436920216?act=clip</guid>
             <pubDate>Sat, 01 Apr 2023 06:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1994025171%2Fthumb%2F20230401143634" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1994025171%2Fthumb%2F20230401143634" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 절찬 스트리밍 중 | 길복순]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Mar 2023 01:40:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F46050278%2Fthumb%2F20230313101654" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이트 에이전트 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/436359442?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/436359442?act=clip</guid>
-            <pubDate>Fri, 10 Mar 2023 01:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1370425826%2Fthumb%2F20230310101527" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
