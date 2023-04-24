@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 08:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,7 +100,7 @@
             <link>https://tv.naver.com/v/35155573</link>
             <guid>https://tv.naver.com/v/35155573</guid>
             <pubDate>Thu, 20 Apr 2023 08:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_258/xJlT8_16819789843271wLTL_JPEG/1efa4b48-df54-11ed-92f0-a0369ffda02c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Tue, 18 Apr 2023 01:26:30 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230418_253/PWf4E_1681780910649mesrk_JPEG/c285ad25-dd86-11ed-9998-48df37ae3dc4_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<유랑지구2> 30초 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437518881?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437518881?act=clip</guid>
+            <pubDate>Mon, 24 Apr 2023 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpvjkv75gffx7mekqsr5me44%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239233414%26signature%3DW5lR5rbjyZTF7mJfwGc6bY9BzQQ%253D%26ts%3D1682324614" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스프린터> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437416503?act=clip</guid>
             <pubDate>Thu, 20 Apr 2023 04:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcuwa8p36ortmqksp7zz2e8v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238872719%26signature%3DvvqMHy4fVRtYy5eckX6pNKcjpCY%253D%26ts%3D1681963919" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcuwa8p36ortmqksp7zz2e8v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238872719%26signature%3DvvqMHy4fVRtYy5eckX6pNKcjpCY%253D%26ts%3D1681963919" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 고고학> 크로스 인터뷰1(이완민 감독 X 옥자연 배우) (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Mon, 17 Apr 2023 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvba6m8bd9582ormnvgjsui70%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238616026%26signature%3DJhkHB114LNep0RI9WbQfRM9MsNI%253D%26ts%3D1681707226" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 마리오 브라더스> '저희 영화 자랑 좀 할게요' 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437338397?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437338397?act=clip</guid>
-            <pubDate>Mon, 17 Apr 2023 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdwiv10ph5unqjtao02aliyr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238615059%26signature%3DVquOxclmk2m%252Bn9dSNcPzqsriIm0%253D%26ts%3D1681706259" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 푸바 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
