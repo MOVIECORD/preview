@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 05:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<리턴 투 서울> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437539860?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437539860?act=clip</guid>
+            <pubDate>Tue, 25 Apr 2023 05:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7ytq3bmpglohx0dw52d3jue%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239307358%26signature%3D8ML%252BpmiNtXWi95hDbFqtprF5I8s%253D%26ts%3D1682398558" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<메리 마이 데드 바디> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437539030?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437438919?act=clip</guid>
             <pubDate>Fri, 21 Apr 2023 02:35:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlb3m3dz3nd8k5xc4s4pf6e7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238952854%26signature%3DOuSlx7sM6%252FL9ydjd3oCz9p7pzU0%253D%26ts%3D1682044054" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlb3m3dz3nd8k5xc4s4pf6e7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238952854%26signature%3DOuSlx7sM6%252FL9ydjd3oCz9p7pzU0%253D%26ts%3D1682044054" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<드림> 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Apr 2023 02:33:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx1l8mwa90n8xnhtwjfctwgd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238690965%26signature%3DKTNcqRmdTMaZfymLw%252BPk%252Ftqp7t4%253D%26ts%3D1681782165" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 마리오 브라더스> # ‘피치’ 갓벽한 액션폼 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437342562?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437342562?act=clip</guid>
-            <pubDate>Mon, 17 Apr 2023 08:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgkcetyc4a19ueji21bu8esy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238624820%26signature%3Df%252BXoLyi%252FK1tlIIUKClUaMqMDgGY%253D%26ts%3D1681716020" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
