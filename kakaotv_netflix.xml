@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 23:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 01:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 성인 용품을 6천 개 테스트해 본 남자 | 성+인물: 일본편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437534994?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437534994?act=clip</guid>
+            <pubDate>Tue, 25 Apr 2023 01:29:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1364846700%2Fthumb%2F20230425095855" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 푸바 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437412969?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/437050503?act=clip</guid>
             <pubDate>Thu, 06 Apr 2023 01:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1143967943%2Fthumb%2F20230406101229" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1143967943%2Fthumb%2F20230406101229" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Mar 2023 09:20:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1844297316%2Fthumb%2F20230315083837" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 강현남을 매수하는 박연진 | 더 글로리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/436441248?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/436441248?act=clip</guid>
-            <pubDate>Mon, 13 Mar 2023 13:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1447207784%2Fthumb%2F20230313202917" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
