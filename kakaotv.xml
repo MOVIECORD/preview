@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 02:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 03:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 리틀 슈퍼맨 샘샘> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437537315?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437537315?act=clip</guid>
+            <pubDate>Tue, 25 Apr 2023 03:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsmkus8cebmn9x75oy8pmv4o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239299400%26signature%3DYLVj5tlo8VeYGVOrOZj7n2Lv1tQ%253D%26ts%3D1682390600" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스프린터> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437512633?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437416503?act=clip</guid>
             <pubDate>Thu, 20 Apr 2023 04:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcuwa8p36ortmqksp7zz2e8v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238872719%26signature%3DvvqMHy4fVRtYy5eckX6pNKcjpCY%253D%26ts%3D1681963919" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcuwa8p36ortmqksp7zz2e8v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238872719%26signature%3DvvqMHy4fVRtYy5eckX6pNKcjpCY%253D%26ts%3D1681963919" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 고고학> 크로스 인터뷰1(이완민 감독 X 옥자연 배우)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Apr 2023 05:18:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvba6m8bd9582ormnvgjsui70%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238616026%26signature%3DJhkHB114LNep0RI9WbQfRM9MsNI%253D%26ts%3D1681707226" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 마리오 브라더스> '저희 영화 자랑 좀 할게요' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437338397?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437338397?act=clip</guid>
-            <pubDate>Mon, 24 Apr 2023 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdwiv10ph5unqjtao02aliyr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238615059%26signature%3DVquOxclmk2m%252Bn9dSNcPzqsriIm0%253D%26ts%3D1681706259" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
