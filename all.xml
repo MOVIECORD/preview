@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 03:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 04:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/35292139</link>
             <guid>https://tv.naver.com/v/35292139</guid>
             <pubDate>Tue, 25 Apr 2023 02:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_146/3S3Qe_1682387659097RuxMX_JPEG/6e331439-e30b-11ed-9523-505dac8c381b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/35291945</link>
             <guid>https://tv.naver.com/v/35291945</guid>
             <pubDate>Tue, 25 Apr 2023 02:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_199/IaSyf_1682387249173eduy4_PNG/1682387242048.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -248,6 +248,22 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230418_254/qpWqp_1681784885959aFl4q_JPEG/af078209-dd8f-11ed-849b-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<메리 마이 데드 바디> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437539030?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437539030?act=clip</guid>
+            <pubDate>Tue, 25 Apr 2023 04:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1516320907%2Fthumb%2F20230425131011" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<엑소시스트: 더 바티칸> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437538795?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437538795?act=clip</guid>
+            <pubDate>Tue, 25 Apr 2023 04:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdh3hr0e0oj6ts047sxqhpsb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239303902%26signature%3DjtJy2LT0oYjmeYPuDK%252FcZxOzeVw%253D%26ts%3D1682395102" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<극장판 리틀 슈퍼맨 샘샘> 티저 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437537315?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/437537315?act=clip</guid>
@@ -397,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437422561?act=clip</guid>
             <pubDate>Thu, 20 Apr 2023 09:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1902405531%2Fthumb%2F20230420175040" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1902405531%2Fthumb%2F20230420175040" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리턴 투 서울> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +421,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437421095?act=clip</guid>
             <pubDate>Thu, 20 Apr 2023 08:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs2tt28fwx1xdvkhz95rtc1q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238886091%26signature%3D9qd5Ffq7g%252F%252Bxq0IPC1BB90HZDBg%253D%26ts%3D1681977291" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs2tt28fwx1xdvkhz95rtc1q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238886091%26signature%3D9qd5Ffq7g%252F%252Bxq0IPC1BB90HZDBg%253D%26ts%3D1681977291" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 테러: 인디아 해즈 폴른> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -550,22 +566,6 @@
             <pubDate>Mon, 17 Apr 2023 08:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgkcetyc4a19ueji21bu8esy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238624820%26signature%3Df%252BXoLyi%252FK1tlIIUKClUaMqMDgGY%253D%26ts%3D1681716020" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<롱디> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437342440?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437342440?act=clip</guid>
-            <pubDate>Mon, 17 Apr 2023 07:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3snhj3vk9vc9xiygrv6q5tm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238624553%26signature%3DrHyCLJNkrQxLTantfA%252FE4IRuTdk%253D%26ts%3D1681715753" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<트랜스포머: 비스트의 서막> 1차 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437338753?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437338753?act=clip</guid>
-            <pubDate>Mon, 17 Apr 2023 05:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvba6m8bd9582ormnvgjsui70%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33238616026%26signature%3DJhkHB114LNep0RI9WbQfRM9MsNI%253D%26ts%3D1681707226" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 성인 용품을 6천 개 테스트해 본 남자 | 성+인물: 일본편 (카카오TV ─ 넷플릭스)]]></title>
