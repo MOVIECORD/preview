@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 04:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 샬럿 왕비: 브리저튼 외전 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437615475?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437615475?act=clip</guid>
+            <pubDate>Fri, 28 Apr 2023 05:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F301039464%2Fthumb%2F20230428140450" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 남편 때문에 폭발한 외교관 | 외교관]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437597488?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/437166893?act=clip</guid>
             <pubDate>Tue, 11 Apr 2023 01:26:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1828146073%2Fthumb%2F20230410195052" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1828146073%2Fthumb%2F20230410195052" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 복수는 원초적으로 해야 제맛 | 성난 사람들(비프)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Mar 2023 01:31:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2964901%2Fthumb%2F20230322101632" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 살인범이 주여정의 아버지를 죽인 이유 | 더 글로리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/436602429?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/436602429?act=clip</guid>
-            <pubDate>Mon, 20 Mar 2023 01:43:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1172107374%2Fthumb%2F20230320101317" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
