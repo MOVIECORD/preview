@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 02:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 03:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['배터리' 예고편]]></title>
+            <link>https://tv.naver.com/v/35516191</link>
+            <guid>https://tv.naver.com/v/35516191</guid>
+            <pubDate>Tue, 02 May 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[5분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_203/7aeJU_1682997186075yHANK_JPEG/a489b52c-e896-11ed-8b86-80615f0bce16_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['건담 G의 레콘기스타 4: 격전 속에 외치는 사랑' 예고편]]></title>
+            <link>https://tv.naver.com/v/35515387</link>
+            <guid>https://tv.naver.com/v/35515387</guid>
+            <pubDate>Tue, 02 May 2023 03:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_152/cnpYN_16829955491703TEa6_JPEG/1644fe49-e893-11ed-a28f-48df3770706a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['사랑하는 당신에게' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/35515068</link>
             <guid>https://tv.naver.com/v/35515068</guid>
             <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_224/7asPs_1682994928997EmvvE_JPEG/65c8be46-e891-11ed-84f4-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/35514737</link>
             <guid>https://tv.naver.com/v/35514737</guid>
             <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_272/DaLHF_1682994352127WnHBv_JPEG/3a43581e-e890-11ed-ad6d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/35514020</link>
             <guid>https://tv.naver.com/v/35514020</guid>
             <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_227/xYuPI_1682993085043PlgPr_JPEG/45e520e0-e88d-11ed-839e-a0369ffdf87c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/35513594</link>
             <guid>https://tv.naver.com/v/35513594</guid>
             <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_121/pzFC5_1682992351647AcjQU_JPEG/1740951b-e88b-11ed-b02e-48df37e2c2ae_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +68,7 @@
             <link>https://tv.naver.com/v/35512487</link>
             <guid>https://tv.naver.com/v/35512487</guid>
             <pubDate>Tue, 02 May 2023 01:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_47/WjgA4_1682990167338wq0s4_JPEG/1682990081730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_41/t9f7W_16820715034880PYEJ_JPEG/b60e767f-e02b-11ed-b9a4-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슬픔의 삼각형' 칸영화제 스페셜 영상]]></title>
-            <link>https://tv.naver.com/v/35193585</link>
-            <guid>https://tv.naver.com/v/35193585</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_12/olKlN_1682065723337m2cMD_JPEG/197b1221-e01e-11ed-a9f0-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피기' 감독 인사 영상]]></title>
-            <link>https://tv.naver.com/v/35179483</link>
-            <guid>https://tv.naver.com/v/35179483</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_47/NwAst_1682045350840N8YYs_JPEG/1682045349194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
