@@ -4,15 +4,47 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 01:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:36:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['사랑하는 당신에게' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/35515068</link>
+            <guid>https://tv.naver.com/v/35515068</guid>
+            <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_224/7asPs_1682994928997EmvvE_JPEG/65c8be46-e891-11ed-84f4-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['토리와 로키타' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/35514737</link>
+            <guid>https://tv.naver.com/v/35514737</guid>
+            <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_272/DaLHF_1682994352127WnHBv_JPEG/3a43581e-e890-11ed-ad6d-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서브마린: ORP 오제우' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/35514020</link>
+            <guid>https://tv.naver.com/v/35514020</guid>
+            <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_227/xYuPI_1682993085043PlgPr_JPEG/45e520e0-e88d-11ed-839e-a0369ffdf87c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['문재인입니다' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/35513594</link>
+            <guid>https://tv.naver.com/v/35513594</guid>
+            <pubDate>Tue, 02 May 2023 02:35:48 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_121/pzFC5_1682992351647AcjQU_JPEG/1740951b-e88b-11ed-b02e-48df37e2c2ae_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['거신: 바람의 아이' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/35512645</link>
             <guid>https://tv.naver.com/v/35512645</guid>
             <pubDate>Tue, 02 May 2023 01:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_225/2rvBt_1682990544595evLwn_JPEG/1682990440814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://tv.naver.com/v/35512487</link>
             <guid>https://tv.naver.com/v/35512487</guid>
             <pubDate>Tue, 02 May 2023 01:26:39 GMT</pubDate>
-            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_47/WjgA4_1682990167338wq0s4_JPEG/1682990081730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +188,7 @@
             <link>https://tv.naver.com/v/35302139</link>
             <guid>https://tv.naver.com/v/35302139</guid>
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_120/rO0xx_1682403782281rm1Ka_PNG/1682403763101.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -164,7 +196,7 @@
             <link>https://tv.naver.com/v/35292139</link>
             <guid>https://tv.naver.com/v/35292139</guid>
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_146/3S3Qe_1682387659097RuxMX_JPEG/6e331439-e30b-11ed-9523-505dac8c381b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +204,7 @@
             <link>https://tv.naver.com/v/35291945</link>
             <guid>https://tv.naver.com/v/35291945</guid>
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_199/IaSyf_1682387249173eduy4_PNG/1682387242048.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_47/NwAst_1682045350840N8YYs_JPEG/1682045349194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['피기' 배우 인사 영상]]></title>
-            <link>https://tv.naver.com/v/35179163</link>
-            <guid>https://tv.naver.com/v/35179163</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_131/s8NAR_1682044903576yprAx_JPEG/1682044901503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑의 고고학' 크로스 인터뷰 2 (옥자연 배우 X 기윤 배우)]]></title>
-            <link>https://tv.naver.com/v/35178759</link>
-            <guid>https://tv.naver.com/v/35178759</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_183/QLvCK_1682044266125v9IWl_JPEG/1682044263601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['슈퍼 마리오 브라더스' ‘크리스 프랫 is 마리오 그 잡채’ 영상]]></title>
-            <link>https://tv.naver.com/v/35178228</link>
-            <guid>https://tv.naver.com/v/35178228</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_292/deLBm_16820433112329YgF3_JPEG/b098eec1-dfe9-11ed-b597-a0369ffabdf8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['스트리머' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/35178010</link>
-            <guid>https://tv.naver.com/v/35178010</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_147/7OoSY_1682042956238m2qTm_JPEG/1682042952390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
