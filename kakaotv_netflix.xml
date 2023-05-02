@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 01:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 탑 보이: 시즌 3 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/437707619?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/437707619?act=clip</guid>
+            <pubDate>Tue, 02 May 2023 01:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2034244569%2Fthumb%2F20230502101109" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 뷰티풀 라이프 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/437619660?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/437240025?act=clip</guid>
             <pubDate>Fri, 14 Apr 2023 07:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1887354562%2Fthumb%2F20230413150038" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1887354562%2Fthumb%2F20230413150038" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 내 이름은 마더 | 제니퍼 로페즈 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 Mar 2023 01:27:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1629351734%2Fthumb%2F20230323101121" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 설경구에게 요구하는 전도연의 재계약 조건 | 길복순]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/436657894?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/436657894?act=clip</guid>
-            <pubDate>Wed, 22 Mar 2023 09:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1739804863%2Fthumb%2F20230322134317" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

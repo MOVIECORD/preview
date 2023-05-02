@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 01:27:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['거신: 바람의 아이' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/35512645</link>
+            <guid>https://tv.naver.com/v/35512645</guid>
+            <pubDate>Tue, 02 May 2023 01:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_225/2rvBt_1682990544595evLwn_JPEG/1682990440814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['거신: 바람의 아이' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/35512487</link>
+            <guid>https://tv.naver.com/v/35512487</guid>
+            <pubDate>Tue, 02 May 2023 01:26:39 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_47/WjgA4_1682990167338wq0s4_JPEG/1682990081730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트랜스포머: 비스트의 서막' 2차 예고편]]></title>
             <link>https://tv.naver.com/v/35403484</link>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/35392161</link>
             <guid>https://tv.naver.com/v/35392161</guid>
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_227/3zS6d_1682597591926bJAFr_JPEG/72761d9e-e4f4-11ed-837b-505dac8c3721_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_147/7OoSY_1682042956238m2qTm_JPEG/1682042952390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['칠중주: 홍콩 이야기' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/35177439</link>
-            <guid>https://tv.naver.com/v/35177439</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_274/gJtIP_1682041946387HN3ml_JPEG/bf66543a-dfe6-11ed-98d7-a0369ffdaaf4_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['드림' 리뷰 예고편]]></title>
-            <link>https://tv.naver.com/v/35157072</link>
-            <guid>https://tv.naver.com/v/35157072</guid>
-            <pubDate>Mon, 01 May 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_46/pMfIX_1681980879053aPfEE_JPEG/1681980709856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
