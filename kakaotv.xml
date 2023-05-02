@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<페이퍼 스파이더스> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437712347?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437712347?act=clip</guid>
+            <pubDate>Tue, 02 May 2023 05:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvub2ophmasx2s0at0yyisjfd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239911769%26signature%3DNAqM8XEfYyoskGeFDi7Wn%252BScScQ%253D%26ts%3D1683002969" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<거신: 바람의 아이> 타임슬립 액션 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437709085?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437587788?act=clip</guid>
             <pubDate>Thu, 27 Apr 2023 02:37:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpr7hzsechgyblebtaa97ot3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239470540%26signature%3DgmjabJyXvuVB7M7venEfzC%252BdRWI%253D%26ts%3D1682561740" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpr7hzsechgyblebtaa97ot3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239470540%26signature%3DgmjabJyXvuVB7M7venEfzC%252BdRWI%253D%26ts%3D1682561740" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피스트 오브 콘도르> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 25 Apr 2023 09:18:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbnw5domljjzrs8eyq6jfou0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239320797%26signature%3DgihpiA82Bd7HFrdT%252BmgDiRH9QCc%253D%26ts%3D1682411997" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<유랑지구2> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437545493?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437545493?act=clip</guid>
-            <pubDate>Tue, 25 Apr 2023 09:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvthtd2a9q32jm3hs5au20nr4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239320488%26signature%3DuDLB8eY1vaiKCQpp0FRgetJSFr8%253D%26ts%3D1682411688" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
