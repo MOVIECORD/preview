@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 08:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<유랑지구2> 범우주적 프로덕션 비하인드 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437718028?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437718028?act=clip</guid>
+            <pubDate>Tue, 02 May 2023 09:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv95qw6dy1pl45ic1sqeglhq8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239925262%26signature%3DNtYt3OMx%252By4BsyLpoQBsPEcTWP0%253D%26ts%3D1683016462" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<자이언트 스네이크> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437716969?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437593287?act=clip</guid>
             <pubDate>Thu, 27 Apr 2023 07:17:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlrsljkxlq9p58mi5wby16cv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239487412%26signature%3DqwIjCydRDvJdD1fG%252B%252FK2FKG3OhQ%253D%26ts%3D1682578612" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlrsljkxlq9p58mi5wby16cv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239487412%26signature%3DqwIjCydRDvJdD1fG%252B%252FK2FKG3OhQ%253D%26ts%3D1682578612" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<롱디> 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 26 Apr 2023 01:25:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1998350633%2Fthumb%2F20230426102334" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<거신: 바람의 아이> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437561449?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437561449?act=clip</guid>
-            <pubDate>Wed, 26 Apr 2023 01:25:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F46680918%2Fthumb%2F20230426102111" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
