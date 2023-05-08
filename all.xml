@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 May 2023 03:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 04:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/35695150</link>
             <guid>https://tv.naver.com/v/35695150</guid>
             <pubDate>Mon, 08 May 2023 02:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_44/Ci9xH_1683510106426xEeiP_JPEG/f791f1c1-ed40-11ed-a6ee-505dac8c3607_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/35694407</link>
             <guid>https://tv.naver.com/v/35694407</guid>
             <pubDate>Mon, 08 May 2023 01:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_120/Uxf0W_1683508586024o1efV_JPEG/1683508176388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_254/ZVjsf_1683098426305WxEKg_JPEG/1683098333221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<슬기로운 아내 수업> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437860162?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437860162?act=clip</guid>
+            <pubDate>Mon, 08 May 2023 04:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdry05wjvirx5gnw4470w4bz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240427079%26signature%3D7qD7vmUZYZzJV3zE3aJ9DblnbLc%253D%26ts%3D1683518279" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<가디언즈 오브 갤럭시: Volume 3> 전 세계 최초 개봉! 전 포맷 예매 오픈! (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437857980?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/437857980?act=clip</guid>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437736364?act=clip</guid>
             <pubDate>Wed, 03 May 2023 03:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmj5tnolpy8pvjtmbluqcx77%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239990687%26signature%3DS%252BULrH1lk%252Fd%252FhXfNQm9fYfAHTBw%253D%26ts%3D1683081887" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmj5tnolpy8pvjtmbluqcx77%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239990687%26signature%3DS%252BULrH1lk%252Fd%252FhXfNQm9fYfAHTBw%253D%26ts%3D1683081887" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<무명> 무삭제 액션 영상 2탄 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Tue, 02 May 2023 02:35:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlcijpwjbko4ip7z5umvv9ja%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239901598%26signature%3Dy81Q27VMVEZ7FEEk6y9R6XzoMbo%253D%26ts%3D1682992798" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인어공주> '꿈의 시작' 스페셜 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437708705?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437708705?act=clip</guid>
-            <pubDate>Tue, 02 May 2023 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj9hr1lnbrpxms8db3hruhw3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33239901322%26signature%3Dz5H2acFQznfD34LiBq6kgj62ddY%253D%26ts%3D1682992522" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 나쁜엄마 배우들의 베스트 신은? | 나쁜엄마 (카카오TV ─ 넷플릭스)]]></title>
