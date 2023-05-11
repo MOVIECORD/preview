@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<라이드 온> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/437941562?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/437941562?act=clip</guid>
+            <pubDate>Thu, 11 May 2023 06:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F919243299%2Fthumb%2F20230511145621" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<조인트> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/437938978?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437890732?act=clip</guid>
             <pubDate>Tue, 09 May 2023 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtajcufm1cotkgmun2f280fe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240523686%26signature%3DnmERa4UU%252BjMnvycucCIah8oyPmg%253D%26ts%3D1683614886" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtajcufm1cotkgmun2f280fe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240523686%26signature%3DnmERa4UU%252BjMnvycucCIah8oyPmg%253D%26ts%3D1683614886" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[< 파이어하트> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 May 2023 09:18:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvs9w22yzztuqsgojpzw546b1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240098354%26signature%3DFh5ndtonY3nsATqKfJPDJx%252BCseY%253D%26ts%3D1683189554" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<문재인입니다> 이창재 감독 인터뷰 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437762480?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437762480?act=clip</guid>
-            <pubDate>Thu, 04 May 2023 04:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjhv9u9jvnoeoth4d52k8641%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240081820%26signature%3D7vZ279WkORXVv98iV0IJ9yXsW%252BY%253D%26ts%3D1683173020" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
