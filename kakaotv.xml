@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 05:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 06:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인어공주> 환상의 캐스트 비하인드 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438037157?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438037157?act=clip</guid>
+            <pubDate>Mon, 15 May 2023 06:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva013ng094s32uvnya2xfpo2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241038448%26signature%3DjvROAx4ppQIkinaDqWGbkeOda2I%253D%26ts%3D1684129648" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<빅트립2 : 아기곰 배달 대작전> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438036299?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437937715?act=clip</guid>
             <pubDate>Thu, 11 May 2023 03:25:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva017ym8slj23we93iid2gl7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240681735%26signature%3DwMzPwJN2xNZgrXxGOgxnzrq05Yw%253D%26ts%3D1683772935" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva017ym8slj23we93iid2gl7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240681735%26signature%3DwMzPwJN2xNZgrXxGOgxnzrq05Yw%253D%26ts%3D1683772935" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피의 성배> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 May 2023 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrwoqc9gzqu6xebbxdl7vvvh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240522799%26signature%3DQKl14%252B4npdGnUJudN3eMR83ym3s%253D%26ts%3D1683613999" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<빅트립2 : 아기곰 배달 대작전> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437887905?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437887905?act=clip</guid>
-            <pubDate>Tue, 09 May 2023 05:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv37ccxyv85o8qnov94vq9s3u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240515277%26signature%3Dwz85sk3lRhwLvepzRzfGyVM1hyE%253D%26ts%3D1683606477" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
