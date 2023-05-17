@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 06:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 07:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<여름날 우리> 규현X정은지 컬래버 음원 '우리 사랑 이대로' MV]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438091541?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438091541?act=clip</guid>
+            <pubDate>Wed, 17 May 2023 07:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj60mwwmnuylmkp9r90hu670%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241214525%26signature%3DWTxRoEVsg8YFIlPC1%252F3bC35bDKs%253D%26ts%3D1684305725" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<빈틈없는 사이> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438086565?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/437964419?act=clip</guid>
             <pubDate>Fri, 12 May 2023 05:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn8vhm5ba0u6pknlc9tjpclc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240775043%26signature%3DbX3alLIqeMgLBpNjuN0vlJQGWQk%253D%26ts%3D1683866243" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn8vhm5ba0u6pknlc9tjpclc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240775043%26signature%3DbX3alLIqeMgLBpNjuN0vlJQGWQk%253D%26ts%3D1683866243" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<이윽고 바다에 닿다> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 11 May 2023 01:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcrisk0nad1asgl85kru5cif%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240675899%26signature%3DJ%252B6daJamdv2kYWy1kJvQ6OeB1x0%253D%26ts%3D1683767099" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<스파이더맨: 어크로스 더 유니버스>  인터내셔널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437915844?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437915844?act=clip</guid>
-            <pubDate>Wed, 10 May 2023 07:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5kcnlkqd0u62jyjkf02rwt3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240609108%26signature%3DZu8thzrzrOmKNYiyO2q6n5Av3Hs%253D%26ts%3D1683700308" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
