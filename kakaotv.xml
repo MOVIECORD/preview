@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<라방> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438218369?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438218369?act=clip</guid>
+            <pubDate>Mon, 22 May 2023 05:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq9lo2v30v4iwqzaakxkpehp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241638987%26signature%3DZW%252BL2WkXCfTiu%252BiwxMmVT8k5ph0%253D%26ts%3D1684730187" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<그 여름> 정우 '그 여름' 뮤직비디오]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438217556?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438086426?act=clip</guid>
             <pubDate>Wed, 17 May 2023 03:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvduksunclb9nxq9we4bjjn38%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241199866%26signature%3DyvW3IVqPIS6oq4nhVsMDiOM09Dw%253D%26ts%3D1684291066" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvduksunclb9nxq9we4bjjn38%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241199866%26signature%3DyvW3IVqPIS6oq4nhVsMDiOM09Dw%253D%26ts%3D1684291066" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<익스트랙션 2> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 May 2023 05:17:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F898087811%2Fthumb%2F20230512133327" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<유랑지구2> 관객 추천 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/437964240?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/437964240?act=clip</guid>
-            <pubDate>Fri, 12 May 2023 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxl02y3i1l4mrfgxbao5b1p5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33240774500%26signature%3D51vSy1%252Bp%252Fw3FfOyNDJDG16rWxC0%253D%26ts%3D1683865700" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
