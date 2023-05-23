@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 03:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 04:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<보 이즈 어프레이드> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438245209?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438245209?act=clip</guid>
+            <pubDate>Tue, 23 May 2023 04:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2jbe3u2elaic5forvlptrx1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241722914%26signature%3DUS4dbs3mWmjoPueZK3jTcbel6wE%253D%26ts%3D1684814114" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 리틀 슈퍼맨 샘샘> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438243717?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438112849?act=clip</guid>
             <pubDate>Thu, 18 May 2023 02:36:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfsr497n824bak7anx21uv6c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241283886%26signature%3DnMhVqFlviIemzTMCayiUzJu5zJU%253D%26ts%3D1684375086" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfsr497n824bak7anx21uv6c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241283886%26signature%3DnMhVqFlviIemzTMCayiUzJu5zJU%253D%26ts%3D1684375086" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<슈가 앤 스타> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 May 2023 05:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvav1nrx2dww9kievbp44cgij%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241036053%26signature%3DUYo%252BkrmlEeUWQtsnPdR%252FNhkpMjw%253D%26ts%3D1684127253" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아기공룡 둘리 : 얼음별 대모험 리마스터링> 마이콜송 뮤직 클립]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438035450?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438035450?act=clip</guid>
-            <pubDate>Mon, 15 May 2023 05:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv247jpmxymj8589g6h7lmoyt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241033712%26signature%3D%252FuWTE9Y%252B73Ph%252Bo2k87iKvW4SFXI%253D%26ts%3D1684124912" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
