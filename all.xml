@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 06:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 07:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['부화' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/36222840</link>
+            <guid>https://tv.naver.com/v/36222840</guid>
+            <pubDate>Tue, 23 May 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[26분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_198/XxgFv_1684824606852foP6c_JPEG/b41919cd-f935-11ed-8c05-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['낭만여행' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/36221581</link>
+            <guid>https://tv.naver.com/v/36221581</guid>
+            <pubDate>Tue, 23 May 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[49분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_190/THBAQ_1684823239354Nrofr_JPEG/1ab824a6-f932-11ed-8c05-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['보 이즈 어프레이드' 1차 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/36219831</link>
             <guid>https://tv.naver.com/v/36219831</guid>
             <pubDate>Tue, 23 May 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[37분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_141/KbZyr_1684820916457rlMmv_JPEG/3cbdf586-f92d-11ed-a7b9-a0369ffde1ec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/36219490</link>
             <guid>https://tv.naver.com/v/36219490</guid>
             <pubDate>Tue, 23 May 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_3/Barpo_16848204426371QMwJ_JPEG/11c1b739-f919-11ed-b17c-a0369ffac1e4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/36213699</link>
             <guid>https://tv.naver.com/v/36213699</guid>
             <pubDate>Tue, 23 May 2023 03:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_233/mf57q_1684811012155SuQvB_JPEG/16fdbb99-f915-11ed-9dc4-d4f5ef58ac88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +60,7 @@
             <link>https://tv.naver.com/v/36186602</link>
             <guid>https://tv.naver.com/v/36186602</guid>
             <pubDate>Mon, 22 May 2023 23:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230522_74/AQBMp_1684745417990E5HOT_JPEG/80a96981-f87d-11ed-98d6-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +188,7 @@
             <link>https://tv.naver.com/v/36024796</link>
             <guid>https://tv.naver.com/v/36024796</guid>
             <pubDate>Tue, 23 May 2023 06:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_68/BVW6v_1684315331361GE8p1_JPEG/1538bbdd-f494-11ed-9903-80615f0bcd1a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,24 +244,16 @@
             <link>https://tv.naver.com/v/35980023</link>
             <guid>https://tv.naver.com/v/35980023</guid>
             <pubDate>Tue, 16 May 2023 08:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230516_295/HdA7C_16842207536247b6dq_JPEG/bf52c287-f3b7-11ed-a7b9-a0369ffde1ec_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['인어공주' 배우 정상훈 인터뷰 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/35971858</link>
-            <guid>https://tv.naver.com/v/35971858</guid>
-            <pubDate>Tue, 16 May 2023 04:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_268/gYslE_1684207864437mQz2q_JPEG/7a36a281-f399-11ed-9971-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['귀공자' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/35971538</link>
-            <guid>https://tv.naver.com/v/35971538</guid>
-            <pubDate>Tue, 16 May 2023 04:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_273/KdUBc_1684207278136a2gzY_JPEG/74a607fd-f398-11ed-b02e-48df37e2c2ae_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[<북 오브 러브> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438248938?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438248938?act=clip</guid>
+            <pubDate>Tue, 23 May 2023 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxvltxi2kgybvopf7an0cxxw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241733580%26signature%3DULKdeyRxN0myczqMduk1uzgAOQI%253D%26ts%3D1684824780" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<부화> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438113131?act=clip</guid>
             <pubDate>Thu, 18 May 2023 02:36:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfzy70726rfdmrb9ur2g31g3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241284559%26signature%3DCWCp7%252FNaNzVSoNUypSaYjuI3xb8%253D%26ts%3D1684375759" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfzy70726rfdmrb9ur2g31g3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241284559%26signature%3DCWCp7%252FNaNzVSoNUypSaYjuI3xb8%253D%26ts%3D1684375759" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<씨씨:베스트 프렌즈> 예고편 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Mon, 15 May 2023 08:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt84c0z97mn89quwll1328zn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241045362%26signature%3DCjaZPySxIdYFrI5XaNhuNhE2VtU%253D%26ts%3D1684136562" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인어공주> 환상의 캐스트 비하인드 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438037157?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438037157?act=clip</guid>
-            <pubDate>Mon, 15 May 2023 06:24:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva013ng094s32uvnya2xfpo2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241038448%26signature%3DjvROAx4ppQIkinaDqWGbkeOda2I%253D%26ts%3D1684129648" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이혼 좀 합시다 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
