@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 06:23:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 07:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<엔니오: 더 마에스트로> 론칭 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438327010?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438327010?act=clip</guid>
+            <pubDate>Fri, 26 May 2023 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3hixpz3iek41dc01k48ll8q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241992458%26signature%3DH8OCVB0e142otRJd4SnoMoJ4b%252Fc%253D%26ts%3D1685083658" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<레이더스: 황금도서관의 비밀> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438325663?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438294567?act=clip</guid>
             <pubDate>Thu, 25 May 2023 02:36:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnlch4utg0b9mg82ilajh8wq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241888350%26signature%3DBC%252B5N5jdvQet0hLL9k6DWA%252BNCfA%253D%26ts%3D1684979550" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnlch4utg0b9mg82ilajh8wq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241888350%26signature%3DBC%252B5N5jdvQet0hLL9k6DWA%252BNCfA%253D%26ts%3D1684979550" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<총알 발레> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 23 May 2023 04:26:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2jbe3u2elaic5forvlptrx1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241722914%26signature%3DUS4dbs3mWmjoPueZK3jTcbel6wE%253D%26ts%3D1684814114" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 리틀 슈퍼맨 샘샘> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438243717?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438243717?act=clip</guid>
-            <pubDate>Tue, 23 May 2023 02:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd5fb7cvf47zzbzz4emlo8ba%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241717981%26signature%3DRO%252BfOUSgCLbKoSvRo5TRST1WT3w%253D%26ts%3D1684809181" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
