@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 01:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 02:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<라이드 온> 성룡 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438418815?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438418815?act=clip</guid>
+            <pubDate>Tue, 30 May 2023 02:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvirkvqxk4s1o40sai72dsnl3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242321907%26signature%3Dkk0eLgGxSBN3HELAPXQPIb%252FFEHY%253D%26ts%3D1685413107" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<여름날 우리> 로맨틱 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438417812?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438298306?act=clip</guid>
             <pubDate>Thu, 25 May 2023 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvte283pcxeew93scn7anuc3k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241898767%26signature%3DQri6PuunEU4ac93d8rTp9nJFVGg%253D%26ts%3D1684989967" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvte283pcxeew93scn7anuc3k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241898767%26signature%3DQri6PuunEU4ac93d8rTp9nJFVGg%253D%26ts%3D1684989967" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사랑하는 당신에게> 제르맹’s Fantastic Life 특별 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 24 May 2023 01:40:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvusa01ecskhewi94ezrsmor6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241800859%26signature%3Dx24zZNv2fQ8ARkHlPkGSg87BwSU%253D%26ts%3D1684892059" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인어공주> 'Part of Your World' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438268133?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438268133?act=clip</guid>
-            <pubDate>Wed, 24 May 2023 01:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv33sy556r6kchzyd4s6hze4s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33241800424%26signature%3DoyAO9FV95T53cP2m8%252BdFrMi4ICU%253D%26ts%3D1684891624" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
