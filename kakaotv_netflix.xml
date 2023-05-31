@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 08:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 11:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 소방 대원과 군인의 대결 | 사이렌: 불의 섬]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/438453770?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/438453770?act=clip</guid>
+            <pubDate>Wed, 31 May 2023 11:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1636614164%2Fthumb%2F20230531184448" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 생존에 가장 유리한 기지를 선점하라 | 사이렌: 불의 섬]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/438442141?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/437909938?act=clip</guid>
             <pubDate>Wed, 10 May 2023 02:34:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1432001426%2Fthumb%2F20230510103511" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1432001426%2Fthumb%2F20230510103511" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Apr 2023 09:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2023078328%2Fthumb%2F20230417174433" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리키시 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/437333647?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/437333647?act=clip</guid>
-            <pubDate>Mon, 17 Apr 2023 01:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1603645051%2Fthumb%2F20230417101158" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
