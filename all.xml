@@ -4,23 +4,39 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 04:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 05:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라이드 온' 크레딧 NG 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/36534928</link>
+            <guid>https://tv.naver.com/v/36534928</guid>
+            <pubDate>Thu, 01 Jun 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_295/6aPkd_1685595301632D9GQU_JPEG/da01182e-0037-11ee-b6e0-a0369ffdf1d8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['닌자터틀: 뮤턴트 대소동' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/36518475</link>
             <guid>https://tv.naver.com/v/36518475</guid>
             <pubDate>Thu, 01 Jun 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_62/usp3i_1685582061817xKizA_PNG/1685582058660.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['바비' 2차 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/36506829</link>
+            <guid>https://tv.naver.com/v/36506829</guid>
+            <pubDate>Thu, 01 Jun 2023 05:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_171/u5Xo1_1685525960646Cs9A5_JPEG/62e5adb7-ff96-11ed-a6ee-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['인디아나 존스: 운명의 다이얼' ‘마침내 그가 돌아왔다’ 컴백 영상 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/36496278</link>
             <guid>https://tv.naver.com/v/36496278</guid>
             <pubDate>Wed, 31 May 2023 06:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_34/w8Vwy_1685513564380TTkwH_JPEG/b064b964-ff79-11ed-a9a5-a0369ffac2a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/36494422</link>
             <guid>https://tv.naver.com/v/36494422</guid>
             <pubDate>Thu, 01 Jun 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_27/PMQTv_1685511113132Q6oAz_PNG/1685511104591.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 25 May 2023 09:17:57 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_184/pQvkU_1685005208923KodqW_JPEG/cc054d39-fad9-11ed-bf6e-a0369ffde940_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['안나푸르나' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/36310033</link>
-            <guid>https://tv.naver.com/v/36310033</guid>
-            <pubDate>Thu, 25 May 2023 08:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_49/BJYPE_16850025039480lM9F_JPEG/de4fac31-fad3-11ed-a6ee-505dac8c3607_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['분노의 질주: 라이드 오어 다이' 파이널 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/36310003</link>
-            <guid>https://tv.naver.com/v/36310003</guid>
-            <pubDate>Fri, 26 May 2023 01:27:13 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_175/nZhN9_1685002460032GJ7iV_PNG/1685002445807.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<귀공자> 메인 예고편 (우리 영화 볼래?)]]></title>
