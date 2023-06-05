@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 23:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 01:52:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명탐정코난: 하이바라 아이 이야기 ~흑철의 미스터리 트레인' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/36649179</link>
+            <guid>https://tv.naver.com/v/36649179</guid>
+            <pubDate>Mon, 05 Jun 2023 01:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_192/dIN8L_1685929305695wNuaR_JPEG/cb14a7fb-0341-11ee-a9a5-a0369ffac2a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['너의 눈을 들여다보면' 디렉터스 토크 미리보기 영상]]></title>
             <link>https://tv.naver.com/v/36587483</link>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/36518475</link>
             <guid>https://tv.naver.com/v/36518475</guid>
             <pubDate>Thu, 01 Jun 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_62/usp3i_1685582061817xKizA_PNG/1685582058660.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -212,7 +220,7 @@
             <link>https://tv.naver.com/v/36445019</link>
             <guid>https://tv.naver.com/v/36445019</guid>
             <pubDate>Tue, 30 May 2023 02:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_262/OsnWc_16854113479008D2ny_JPEG/4fcc46fb-fe8b-11ed-98d6-505dac8c381b_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +228,7 @@
             <link>https://tv.naver.com/v/36444369</link>
             <guid>https://tv.naver.com/v/36444369</guid>
             <pubDate>Tue, 30 May 2023 01:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_255/aMPBU_1685410026184XeGDG_JPEG/bc88c241-fe88-11ed-847c-a0369ffabd9c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -228,7 +236,7 @@
             <link>https://tv.naver.com/v/36444185</link>
             <guid>https://tv.naver.com/v/36444185</guid>
             <pubDate>Tue, 30 May 2023 01:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_27/JvXci_16854096426086Eq04_JPEG/c2ccb8dd-fe87-11ed-967c-a0369ffdab5c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,16 +244,8 @@
             <link>https://tv.naver.com/v/36443991</link>
             <guid>https://tv.naver.com/v/36443991</guid>
             <pubDate>Tue, 30 May 2023 01:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_196/Zr8x4_1685409244555f6tJk_JPEG/0491fdde-fe87-11ed-833a-505dac8c3639_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['플래닛' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/36349935</link>
-            <guid>https://tv.naver.com/v/36349935</guid>
-            <pubDate>Fri, 26 May 2023 08:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_144/POima_1685088281195asjRB_JPEG/82079152-fb9b-11ed-8de4-a0369ffdb264_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
