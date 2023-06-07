@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 23:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 01:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['엘리멘탈' '다이나믹 그 자체! 엘리멘트 시티' 영상]]></title>
+            <link>https://tv.naver.com/v/36721535</link>
+            <guid>https://tv.naver.com/v/36721535</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_53/a1HeI_16861021349542pkjI_JPEG/2e19455d-04d4-11ee-ad6d-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소녀작가 입문기' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/36669849</link>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/36649179</link>
             <guid>https://tv.naver.com/v/36649179</guid>
             <pubDate>Mon, 05 Jun 2023 01:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_192/dIN8L_1685929305695wNuaR_JPEG/cb14a7fb-0341-11ee-a9a5-a0369ffac2a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Jun 2023 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_295/6aPkd_1685595301632D9GQU_JPEG/da01182e-0037-11ee-b6e0-a0369ffdf1d8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['닌자터틀: 뮤턴트 대소동' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/36518475</link>
-            <guid>https://tv.naver.com/v/36518475</guid>
-            <pubDate>Thu, 01 Jun 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_62/usp3i_1685582061817xKizA_PNG/1685582058660.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

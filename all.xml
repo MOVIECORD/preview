@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 23:17:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 01:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['엘리멘탈' '다이나믹 그 자체! 엘리멘트 시티' 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/36721535</link>
+            <guid>https://tv.naver.com/v/36721535</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[10분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_53/a1HeI_16861021349542pkjI_JPEG/2e19455d-04d4-11ee-ad6d-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소녀작가 입문기' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/36669849</link>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/36649179</link>
             <guid>https://tv.naver.com/v/36649179</guid>
             <pubDate>Mon, 05 Jun 2023 01:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_192/dIN8L_1685929305695wNuaR_JPEG/cb14a7fb-0341-11ee-a9a5-a0369ffac2a8_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -240,12 +248,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_295/6aPkd_1685595301632D9GQU_JPEG/da01182e-0037-11ee-b6e0-a0369ffdf1d8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['닌자터틀: 뮤턴트 대소동' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/36518475</link>
-            <guid>https://tv.naver.com/v/36518475</guid>
-            <pubDate>Thu, 01 Jun 2023 02:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_62/usp3i_1685582061817xKizA_PNG/1685582058660.png?type=f194_109_blend" length="0" type="image/png"/>
+            <title><![CDATA[<군산전기> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438613334?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438613334?act=clip</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlcjax42hvxn2v7vffzjjenu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243009412%26signature%3DzyU05KwsftvAn2AGmaRK4vn3cG4%253D%26ts%3D1686100612" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<엘리멘탈> '다이나믹 그 자체! 엘리멘트 시티' 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438612666?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438612666?act=clip</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvowewmlp83xvei2ev8oqkb06%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243007452%26signature%3DnfA6Ex8n%252BHNXuEYmUUM6Fcb%252Bfo0%253D%26ts%3D1686098652" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<라방> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -397,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438500423?act=clip</guid>
             <pubDate>Fri, 02 Jun 2023 06:25:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqb4di93b719h81vpup2nem7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242591937%26signature%3DFle1lwd9AfES5W9g1dJ4xPnnwz0%253D%26ts%3D1685683137" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqb4di93b719h81vpup2nem7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242591937%26signature%3DFle1lwd9AfES5W9g1dJ4xPnnwz0%253D%26ts%3D1685683137" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<손> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +421,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438498732?act=clip</guid>
             <pubDate>Fri, 02 Jun 2023 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3cs1ekgdfnsj25wfcjib779%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242587253%26signature%3DYh6VyMNx3locNHFZ4PPX7a%252F6cco%253D%26ts%3D1685678453" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3cs1ekgdfnsj25wfcjib779%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242587253%26signature%3DYh6VyMNx3locNHFZ4PPX7a%252F6cco%253D%26ts%3D1685678453" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<악마들> 티저 예고편 (우리 영화 볼래?)]]></title>
@@ -552,20 +568,20 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrk8ks6d1k1rba770hmljop1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242318812%26signature%3DqRE3%252Ff4ssG%252BQRSV%252FiZUnNS7TI%252BI%253D%26ts%3D1685410012" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<활: 추격자 스부> 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438417292?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438417292?act=clip</guid>
-            <pubDate>Tue, 30 May 2023 01:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9g56jq3nq2m4ijnebdwtoht%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242317479%26signature%3DO1wQQT3PF5XGFCHAhFTMD2UKzwQ%253D%26ts%3D1685408679" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] 사냥개들 | 액션 비하인드 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/438613118?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/438613118?act=clip</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F429110429%2Fthumb%2F20230607101427" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<엘리멘탈> '함께 떠나자! 엘리멘트 시티' 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438417196?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438417196?act=clip</guid>
-            <pubDate>Tue, 30 May 2023 01:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdq30d2l2sj6uzrrtiawrnxk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242317226%26signature%3DO5%252Fx1kD9UOnZH%252FrqTB4i87vm3gE%253D%26ts%3D1685408426" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] 버드 박스: 바르셀로나 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/438613116?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/438613116?act=clip</guid>
+            <pubDate>Wed, 07 Jun 2023 01:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F11773703%2Fthumb%2F20230607101347" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 크리스토퍼가 한국에서 버스킹을 한다면? | 우리들의 아름다운 노래 (카카오TV ─ 넷플릭스)]]></title>
@@ -717,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/438043124?act=clip</guid>
             <pubDate>Tue, 16 May 2023 01:28:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F380028120%2Fthumb%2F20230515184706" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F380028120%2Fthumb%2F20230515184706" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 김우빈에게 특급 훈련을 받는 강유석 | 택배기사 (카카오TV ─ 넷플릭스)]]></title>
@@ -725,7 +741,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/437973689?act=clip</guid>
             <pubDate>Sun, 14 May 2023 14:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F598272652%2Fthumb%2F20230512200436" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F598272652%2Fthumb%2F20230512200436" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 택배기사 김우빈과 그룹 대표 송승헌의 대립 | 택배기사 (카카오TV ─ 넷플릭스)]]></title>
@@ -870,22 +886,6 @@
             <pubDate>Thu, 27 Apr 2023 01:29:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1369533345%2Fthumb%2F20230426190259" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 엑스오, 키티 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/437561227?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/437561227?act=clip</guid>
-            <pubDate>Wed, 26 Apr 2023 01:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2139719538%2Fthumb%2F20230426101600" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/437561225?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/437561225?act=clip</guid>
-            <pubDate>Wed, 26 Apr 2023 01:25:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1166509798%2Fthumb%2F20230426101521" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
