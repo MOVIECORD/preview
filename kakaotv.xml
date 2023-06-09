@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 06:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 07:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<안나푸르나> 절찬상영중 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438671554?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438671554?act=clip</guid>
+            <pubDate>Fri, 09 Jun 2023 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgpjogmncfemm2y0egvz4oof%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243200767%26signature%3DdtHahUhD1f%252FpAaQEOu6VAc9Ft10%253D%26ts%3D1686291967" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 인터내셔널 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438670976?act=clip</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 09 Jun 2023 01:53:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlkccc9w875kwant74z62ywf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243182646%26signature%3DiNaLU9fcCp30mSnSr5rY8trwn10%253D%26ts%3D1686273846" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<안나푸르나> 절찬상영중 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438664574?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438664574?act=clip</guid>
-            <pubDate>Fri, 09 Jun 2023 01:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv47trw0ww1wifcrvo06txsqe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243182192%26signature%3DWydwAPvmMIWbilUdw2A7bf86uTY%253D%26ts%3D1686273392" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 피노키오 위대한 모험> 티저 예고편]]></title>
