@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<트랜스포머: 비스트의 서막> 페루 로케이션 특별영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438675106?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438675106?act=clip</guid>
+            <pubDate>Fri, 09 Jun 2023 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd8b7ytxh2wd7dbbno9rdfqv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243207801%26signature%3DnkpHL1RW%252B1Z3Wp3z7ZIVIsfGg2Y%253D%26ts%3D1686299001" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<안나푸르나> 절찬상영중 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438671554?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438639577?act=clip</guid>
             <pubDate>Thu, 08 Jun 2023 01:53:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy6tbm7eaux6xgrh5cxxoyco%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243094725%26signature%3D1Yn3frrQ2tk9PRVCasssOaD6Svk%253D%26ts%3D1686185925" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy6tbm7eaux6xgrh5cxxoyco%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243094725%26signature%3D1Yn3frrQ2tk9PRVCasssOaD6Svk%253D%26ts%3D1686185925" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<엘리멘탈> '외쳐봐, 마르코! 폴로!' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Jun 2023 05:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frverw2rij3dw0y5xzcvah3dpq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242850938%26signature%3DM0QnWrDpo4LvilfGLXI3grrargM%253D%26ts%3D1685942138" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보 이즈 어프레이드> 2차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438569088?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438569088?act=clip</guid>
-            <pubDate>Mon, 05 Jun 2023 05:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrqq8lb8a07abjj9cg37muhl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33242847648%26signature%3DaWmGWeevY5MoPcGJ4F7wlxTnzwg%253D%26ts%3D1685938848" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
