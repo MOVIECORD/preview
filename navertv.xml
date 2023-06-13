@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 06:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 07:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['쿠툴룬: 전쟁의 여신' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/36941566</link>
+            <guid>https://tv.naver.com/v/36941566</guid>
+            <pubDate>Tue, 13 Jun 2023 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_162/KfWDb_16866404092566qveo_JPEG/0c59b766-09b9-11ee-bf11-b4055da5489b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['라방' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/36926690</link>
             <guid>https://tv.naver.com/v/36926690</guid>
             <pubDate>Tue, 13 Jun 2023 01:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_37/R9AkU_1686619597219QtmiQ_JPEG/d72321d8-0988-11ee-8c05-505dac8c38f5_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/36926253</link>
             <guid>https://tv.naver.com/v/36926253</guid>
             <pubDate>Tue, 13 Jun 2023 01:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_279/pnym4_1686618792430B1odA_JPEG/2aa7aa36-0987-11ee-9ab8-48df3772577a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/36907001</link>
             <guid>https://tv.naver.com/v/36907001</guid>
             <pubDate>Mon, 12 Jun 2023 10:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_205/7YBC7_1686562072480iwLDG_JPEG/4fb87fcb-0902-11ee-88f2-d4f5ef5a9532_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/36902930</link>
             <guid>https://tv.naver.com/v/36902930</guid>
             <pubDate>Mon, 12 Jun 2023 08:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_147/K96QD_1686623427573655f2_JPEG/1686623423669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/36898409</link>
             <guid>https://tv.naver.com/v/36898409</guid>
             <pubDate>Tue, 13 Jun 2023 02:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_61/Dv2T2_16865497505421mbFs_JPEG/86ab08e5-08e6-11ee-954b-a0369ffac1d8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 10:19:50 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_129/RUCzV_1686130254071lGvWs_JPEG/130d8801-0515-11ee-9dc4-d4f5ef58ac88_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1986 그 여름, 그리고 고등어통조림' 오리지널 예고편]]></title>
-            <link>https://tv.naver.com/v/36740483</link>
-            <guid>https://tv.naver.com/v/36740483</guid>
-            <pubDate>Wed, 07 Jun 2023 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_189/tymUV_1686127748912E4cvS_JPEG/90b14974-050f-11ee-954b-a0369ffac1d8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
