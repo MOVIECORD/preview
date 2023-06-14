@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 05:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 06:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파이어하트> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438796025?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438796025?act=clip</guid>
+            <pubDate>Wed, 14 Jun 2023 06:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvezvjsra2b2xbv3f1yge5gr2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243629512%26signature%3DJ7BSFOV6zFdwCAGNDGOl9OSHZgI%253D%26ts%3D1686720712" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<플래닛> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438791467?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438671554?act=clip</guid>
             <pubDate>Fri, 09 Jun 2023 07:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgpjogmncfemm2y0egvz4oof%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243200767%26signature%3DdtHahUhD1f%252FpAaQEOu6VAc9Ft10%253D%26ts%3D1686291967" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgpjogmncfemm2y0egvz4oof%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243200767%26signature%3DdtHahUhD1f%252FpAaQEOu6VAc9Ft10%253D%26ts%3D1686291967" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스파이더맨: 어크로스 더 유니버스> 인터내셔널 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 14 Jun 2023 02:43:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy6tbm7eaux6xgrh5cxxoyco%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243094725%26signature%3D1Yn3frrQ2tk9PRVCasssOaD6Svk%253D%26ts%3D1686185925" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘리멘탈> '외쳐봐, 마르코! 폴로!' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438639542?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438639542?act=clip</guid>
-            <pubDate>Wed, 14 Jun 2023 02:43:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv72ufkyoedov5105p0x0zj5n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243094617%26signature%3DWoKcrBCKUrjsnnprjACtNBO9utA%253D%26ts%3D1686185817" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
