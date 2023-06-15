@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 01:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/37009118</link>
             <guid>https://tv.naver.com/v/37009118</guid>
             <pubDate>Thu, 15 Jun 2023 01:45:46 GMT</pubDate>
-            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230615_140/Cc4yN_1686792675570HhQIn_JPEG/dd752b41-0b1b-11ee-bb6e-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/36988212</link>
             <guid>https://tv.naver.com/v/36988212</guid>
             <pubDate>Wed, 14 Jun 2023 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_244/q8Tj2_1686733099390fkBSr_JPEG/16c18156-0a91-11ee-bd02-a0369ffabd48_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,15 +28,23 @@
             <link>https://tv.naver.com/v/36978377</link>
             <guid>https://tv.naver.com/v/36978377</guid>
             <pubDate>Wed, 14 Jun 2023 06:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_290/s0oYC_1686721471643u7ea2_JPEG/52f344bf-0a75-11ee-8790-a0369ffb3274_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['풍재기시' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/36977296</link>
+            <guid>https://tv.naver.com/v/36977296</guid>
+            <pubDate>Thu, 15 Jun 2023 03:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_221/EgXsD_16867199769493yPql_PNG/1686719970085.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['살롱 드 서울' 예고편]]></title>
             <link>https://tv.naver.com/v/36976588</link>
             <guid>https://tv.naver.com/v/36976588</guid>
             <pubDate>Wed, 14 Jun 2023 05:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_79/zv0kt_16867189725691WrPy_JPEG/049b10a2-0a70-11ee-befd-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/36974606</link>
             <guid>https://tv.naver.com/v/36974606</guid>
             <pubDate>Wed, 14 Jun 2023 04:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_127/ZJcWO_1686715832308GULAj_JPEG/1686715769312.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -124,7 +132,7 @@
             <link>https://tv.naver.com/v/36898409</link>
             <guid>https://tv.naver.com/v/36898409</guid>
             <pubDate>Tue, 13 Jun 2023 02:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_61/Dv2T2_16865497505421mbFs_JPEG/86ab08e5-08e6-11ee-954b-a0369ffac1d8_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -204,7 +212,7 @@
             <link>https://tv.naver.com/v/36808157</link>
             <guid>https://tv.naver.com/v/36808157</guid>
             <pubDate>Fri, 09 Jun 2023 03:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_36/jXCKy_1686278288433EBsCa_JPEG/75ce2f8e-066e-11ee-a676-505dac8c385b_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 09:19:05 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_186/fLnG9_16862149995820L0h7_JPEG/ea177865-05da-11ee-8bd0-d4f5ef58ad5e_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['하나님의 마음' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/36781129</link>
-            <guid>https://tv.naver.com/v/36781129</guid>
-            <pubDate>Thu, 08 Jun 2023 08:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_75/DZbKG_1686211769340s3w7A_JPEG/40dd09d0-05d3-11ee-8c05-505dac8c38f5_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
