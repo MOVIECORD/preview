@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 02:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 16 Jun 2023 01:44:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1995635177%2Fthumb%2F20230616102347" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 달리는 열차 속, 원 테이크 액션 | 익스트랙션 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/438834645?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/438834645?act=clip</guid>
+            <pubDate>Sat, 17 Jun 2023 03:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1691175846%2Fthumb%2F20230616103608" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우도환&이상이 궁극의 액션 합 | 사냥개들]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/438507814?act=clip</guid>
             <pubDate>Fri, 02 Jun 2023 11:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1730324863%2Fthumb%2F20230602194658" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1730324863%2Fthumb%2F20230602194658" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] TUDUM: 브라질 생중계 | 6월 18일 | 이벤트 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 14 May 2023 14:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2050967568%2Fthumb%2F20230512195344" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 데이스 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/437964837?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/437964837?act=clip</guid>
-            <pubDate>Fri, 12 May 2023 05:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1589637660%2Fthumb%2F20230512140339" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
