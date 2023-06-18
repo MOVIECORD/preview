@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 01:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 02:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 17 Jun 2023 03:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1691175846%2Fthumb%2F20230616103608" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트 오브 스톤 | 갤 가돗 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/438834641?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/438834641?act=clip</guid>
+            <pubDate>Sun, 18 Jun 2023 02:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1943844084%2Fthumb%2F20230615233801" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우도환&이상이 궁극의 액션 합 | 사냥개들]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/438566000?act=clip</guid>
             <pubDate>Mon, 05 Jun 2023 02:53:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F176487056%2Fthumb%2F20230605105836" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F176487056%2Fthumb%2F20230605105836" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 기지를 그냥 부숴버리는 연합 팀 | 사이렌: 불의 섬]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 14 May 2023 14:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F598272652%2Fthumb%2F20230512200436" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 택배기사 김우빈과 그룹 대표 송승헌의 대립 | 택배기사]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/437973446?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/437973446?act=clip</guid>
-            <pubDate>Sun, 14 May 2023 14:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2050967568%2Fthumb%2F20230512195344" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
