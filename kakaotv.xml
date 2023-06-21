@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 01:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 02:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<좀비 사용 설명서> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/438967996?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/438967996?act=clip</guid>
+            <pubDate>Wed, 21 Jun 2023 02:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvog0abxwjn9uhzbnikpupbnp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244220396%26signature%3DyzTa8Jp4Vt0iI%252BexqTIcvbiXHFQ%253D%26ts%3D1687311596" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/438967404?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/438914755?act=clip</guid>
             <pubDate>Mon, 19 Jun 2023 01:46:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsnujvvf5fqr8nucv2j55ybb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244048056%26signature%3DdEfNv8y4UOKVssNWo3uaB7WyCfk%253D%26ts%3D1687139256" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsnujvvf5fqr8nucv2j55ybb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244048056%26signature%3DdEfNv8y4UOKVssNWo3uaB7WyCfk%253D%26ts%3D1687139256" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<인디아나 존스: 운명의 다이얼> ‘레전드 액션 어드벤처’ 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 14 Jun 2023 01:44:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1464567190%2Fthumb%2F20230614103057" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈가: 로드 투 디데이> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/438791195?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/438791195?act=clip</guid>
-            <pubDate>Wed, 14 Jun 2023 01:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx654q8n77t1bnznpdi6ozf0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33243614799%26signature%3DqKnzkpxm4bdM325dSQ%252FAENmMD%252BE%253D%26ts%3D1686705999" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
