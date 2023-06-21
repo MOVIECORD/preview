@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/37211082</link>
             <guid>https://tv.naver.com/v/37211082</guid>
             <pubDate>Wed, 21 Jun 2023 02:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_170/X2k6M_1687311690855kyzoR_JPEG/19e47518-0fd4-11ee-81e8-80615f0bcf0c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/37210708</link>
             <guid>https://tv.naver.com/v/37210708</guid>
             <pubDate>Wed, 21 Jun 2023 01:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_255/JGyAB_16873110879313h8ll_JPEG/20327dbe-0fd3-11ee-8d1e-a0369ffb3258_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/37209725</link>
             <guid>https://tv.naver.com/v/37209725</guid>
             <pubDate>Wed, 21 Jun 2023 01:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_59/9fUkQ_168730940158452q0P_JPEG/f8c42e4c-0fce-11ee-bda5-d4f5ef590144_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +36,7 @@
             <link>https://tv.naver.com/v/37209236</link>
             <guid>https://tv.naver.com/v/37209236</guid>
             <pubDate>Wed, 21 Jun 2023 01:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_72/sIbm6_1687308167572Igcur_JPEG/fa8f58bb-0fcb-11ee-837b-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +52,7 @@
             <link>https://tv.naver.com/v/37175420</link>
             <guid>https://tv.naver.com/v/37175420</guid>
             <pubDate>Wed, 21 Jun 2023 02:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_233/dSHFC_1687232563588y0f50_PNG/1687232553998.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -156,7 +156,7 @@
             <link>https://tv.naver.com/v/37058723</link>
             <guid>https://tv.naver.com/v/37058723</guid>
             <pubDate>Fri, 16 Jun 2023 05:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_55/GAa1A_16868907844152WCuV_JPEG/5f0b3fc8-0c00-11ee-a241-48df3770386e_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/36976588</link>
             <guid>https://tv.naver.com/v/36976588</guid>
             <pubDate>Wed, 14 Jun 2023 05:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_79/zv0kt_16867189725691WrPy_JPEG/049b10a2-0a70-11ee-befd-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
