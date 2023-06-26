@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['킹 오브 몬스터' 예고편]]></title>
+            <link>https://tv.naver.com/v/37371192</link>
+            <guid>https://tv.naver.com/v/37371192</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_112/Xnyn5_1687745797565U4P6k_JPEG/18876553-13c7-11ee-88ac-80615f0bcf54_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['적인걸: 절대병기의 비밀' 예고편]]></title>
+            <link>https://tv.naver.com/v/37370957</link>
+            <guid>https://tv.naver.com/v/37370957</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[58분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_102/KBQSB_1687745402830hDe4i_JPEG/6d0e25c1-13c6-11ee-a0e8-a0369ffabe18_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['극장판 도라에몽: 진구와 하늘의 유토피아' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/37311039</link>
@@ -52,7 +68,7 @@
             <link>https://tv.naver.com/v/37293053</link>
             <guid>https://tv.naver.com/v/37293053</guid>
             <pubDate>Fri, 23 Jun 2023 03:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230623_1/y4e3Y_1687487678448pw6yy_JPEG/0260d83a-116e-11ee-833a-505dac8c3639_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -60,7 +76,7 @@
             <link>https://tv.naver.com/v/37292662</link>
             <guid>https://tv.naver.com/v/37292662</guid>
             <pubDate>Fri, 23 Jun 2023 03:02:41 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230623_200/QYgNt_1687487045245z4QVl_JPEG/8b2f4e0e-116b-11ee-81ca-a0369ffdb430_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +164,7 @@
             <link>https://tv.naver.com/v/37254120</link>
             <guid>https://tv.naver.com/v/37254120</guid>
             <pubDate>Thu, 22 Jun 2023 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_232/qijB3_1687402696366QrVWf_JPEG/ebe5c1b8-10a7-11ee-befd-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +172,7 @@
             <link>https://tv.naver.com/v/37253774</link>
             <guid>https://tv.naver.com/v/37253774</guid>
             <pubDate>Thu, 22 Jun 2023 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230622_195/frI4d_1687402100488FrKpH_JPEG/ba4edd21-10a6-11ee-a676-505dac8c385b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +180,7 @@
             <link>https://tv.naver.com/v/37230125</link>
             <guid>https://tv.naver.com/v/37230125</guid>
             <pubDate>Thu, 22 Jun 2023 02:44:18 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_127/kbbb8_16873387858057ezNB_JPEG/ababa58d-1013-11ee-9f0a-a0369ffac1dc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 21 Jun 2023 07:16:54 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_13/Qh1bo_1687329166940bFygo_JPEG/16e59106-0ffd-11ee-8de4-a0369ffdb264_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['파이어하트' 성우 추천 영상]]></title>
-            <link>https://tv.naver.com/v/37222362</link>
-            <guid>https://tv.naver.com/v/37222362</guid>
-            <pubDate>Wed, 21 Jun 2023 07:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_121/eufd9_1687328738056VbYWh_JPEG/f3b5f4e1-0ffb-11ee-9dc4-d4f5ef58ac88_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시그널: 여성실종사건' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/37211082</link>
-            <guid>https://tv.naver.com/v/37211082</guid>
-            <pubDate>Wed, 21 Jun 2023 02:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_170/X2k6M_1687311690855kyzoR_JPEG/19e47518-0fd4-11ee-81e8-80615f0bcf0c_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

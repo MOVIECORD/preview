@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 01:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 03:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 나의 인생이 스트리밍되고 있다 | 블랙 미러 6]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439095179?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439095179?act=clip</guid>
+            <pubDate>Mon, 26 Jun 2023 03:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1926794966%2Fthumb%2F20230626114232" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 19/20 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439029943?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/438642004?act=clip</guid>
             <pubDate>Thu, 08 Jun 2023 02:55:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F620353393%2Fthumb%2F20230608115435" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F620353393%2Fthumb%2F20230608115435" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 어디에 있더라도 우도환 이상이가 찾아낼 거야 | 사냥개들]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 May 2023 01:28:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F335778610%2Fthumb%2F20230519101342" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 납치범에게서 딸을 지키는 군인 출신 엄마 | 내 이름은 마더]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438069262?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438069262?act=clip</guid>
-            <pubDate>Tue, 16 May 2023 10:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1637672654%2Fthumb%2F20230516181850" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
