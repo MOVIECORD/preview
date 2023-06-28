@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 06:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 07:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 아름다운 그: 이터널> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439152534?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439152534?act=clip</guid>
+            <pubDate>Wed, 28 Jun 2023 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv143xzp56c56266xbbx1jc3f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244842688%26signature%3DzkOm3uaEt%252FO3naADnVwOw5X%252BlR8%253D%26ts%3D1687933888" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아버지의 마음> 1차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439151912?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439120049?act=clip</guid>
             <pubDate>Tue, 27 Jun 2023 01:56:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfkuq1yc4e8bfcby2omdzbcb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244737287%26signature%3D1wMLtf8nyO3IbMObHGpmpCvkMY4%253D%26ts%3D1687828487" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfkuq1yc4e8bfcby2omdzbcb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244737287%26signature%3D1wMLtf8nyO3IbMObHGpmpCvkMY4%253D%26ts%3D1687828487" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<슬기로운 아내 수업> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Jun 2023 01:55:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7twqeoeef5it5ytld2vexnv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244390012%26signature%3DEfDykbNKpVtkup5wDRGIUfKk5DA%253D%26ts%3D1687481212" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼 키드 헤일리> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439018336?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439018336?act=clip</guid>
-            <pubDate>Fri, 23 Jun 2023 01:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwd8j29wjmgb8vljej8nb14i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244389727%26signature%3DC2vYQVYkOpJTLaL6FQ%252FHFS2rSfM%253D%26ts%3D1687480927" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
