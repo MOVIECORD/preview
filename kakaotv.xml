@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 03:33:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 04:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에어 포스: 라스트 워> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439149408?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439149408?act=clip</guid>
+            <pubDate>Wed, 28 Jun 2023 04:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw4sjzin4oupl4b9hl4awd3z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244833539%26signature%3DaC1PAVXphwqi4txK4Zeif2WI%252Bxs%253D%26ts%3D1687924739" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<귀공자> 액션 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439145929?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439103552?act=clip</guid>
             <pubDate>Mon, 26 Jun 2023 08:30:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmwtdreva9ksmmw2mnbldaex%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244676647%26signature%3D0d5Ms0kneneELj5b%252Ftfv9kWWm30%253D%26ts%3D1687767847" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmwtdreva9ksmmw2mnbldaex%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244676647%26signature%3D0d5Ms0kneneELj5b%252Ftfv9kWWm30%253D%26ts%3D1687767847" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Jun 2023 01:55:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrwvcln6un9w9n44wjf8c6g3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244389462%26signature%3DIqs1MiqJuCArOKVHgbQxlalHrrY%253D%26ts%3D1687480662" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<와일드캣> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439002335?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439002335?act=clip</guid>
-            <pubDate>Thu, 22 Jun 2023 09:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv46agn260s36yuul1e4evorh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244331536%26signature%3Dn5yKP9Wc2LaCm%252FO8A13MS%252BW3b8g%253D%26ts%3D1687422736" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
