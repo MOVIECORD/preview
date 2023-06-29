@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 08:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 09:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['슈퍼 키드 헤일리' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/37508059</link>
+            <guid>https://tv.naver.com/v/37508059</guid>
+            <pubDate>Thu, 29 Jun 2023 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[11분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_186/qs0tj_1688029782537GVwzp_JPEG/511050d8-165c-11ee-bf11-b4055da5489b_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['퀴어 마이 프렌즈' HAPPT PRIDE 예고편 (15초 예고편)]]></title>
             <link>https://tv.naver.com/v/37488756</link>
             <guid>https://tv.naver.com/v/37488756</guid>
             <pubDate>Thu, 29 Jun 2023 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_29/uQIKB_1688002923628xNI5B_JPEG/c8fadb58-161d-11ee-a103-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/37428719</link>
             <guid>https://tv.naver.com/v/37428719</guid>
             <pubDate>Tue, 27 Jun 2023 09:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_175/Uh9at_16878574697617GoRb_JPEG/1ae73317-14cb-11ee-9652-48df37ae3fca_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/37427255</link>
             <guid>https://tv.naver.com/v/37427255</guid>
             <pubDate>Tue, 27 Jun 2023 09:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_108/0dobd_168785521141933gVL_JPEG/aeb4eee0-14c5-11ee-92e7-a0369ffdebe4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Jun 2023 10:22:46 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230623_266/0qh2Y_1687515011964eho4h_JPEG/a2eb0706-11ad-11ee-83da-d4f5ef5906a4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미션 임파서블: 데드 레코닝 PART ONE' 로마 카체이싱 비하인드 영상]]></title>
-            <link>https://tv.naver.com/v/37306519</link>
-            <guid>https://tv.naver.com/v/37306519</guid>
-            <pubDate>Fri, 23 Jun 2023 08:25:34 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230623_166/qguKs_1687507351787W5uuB_JPEG/80456ab2-119b-11ee-81e8-80615f0bcf0c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
