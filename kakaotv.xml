@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 07:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 08:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<틴에이지 크라켄 루비> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439205147?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439205147?act=clip</guid>
+            <pubDate>Fri, 30 Jun 2023 08:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvedz3xa3q0kf7pok18b44ph8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245022278%26signature%3D82y5fkdMpG3dQHQmcktRrzyQ2S8%253D%26ts%3D1688113478" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<좋.댓.구> 귀여워서 미안해 챌린지 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439203361?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439121206?act=clip</guid>
             <pubDate>Tue, 27 Jun 2023 03:02:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrhvb5niil5qu47hqcxiaqf9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244740340%26signature%3DatkrtRz5gPHuGQZtQ2ve7PrsS%252BE%253D%26ts%3D1687831540" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrhvb5niil5qu47hqcxiaqf9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244740340%26signature%3DatkrtRz5gPHuGQZtQ2ve7PrsS%252BE%253D%26ts%3D1687831540" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<1986 그 여름, 그리고 고등어통조림> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Jun 2023 03:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo0xasnfc9836qlo6cldaqjs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244656620%26signature%3D1Lf8PL2fgx9RZzrgCxiSzmQewGM%253D%26ts%3D1687747820" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 도라에몽: 진구와 하늘의 유토피아> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439029749?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439029749?act=clip</guid>
-            <pubDate>Fri, 23 Jun 2023 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9ae58e36mim6n153hgo4kbo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244418913%26signature%3D3UMBkR87U72ELYXIYylvhbM15%252F4%253D%26ts%3D1687510113" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
