@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 06:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 07:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<좋.댓.구> 귀여워서 미안해 챌린지 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439203361?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439203361?act=clip</guid>
+            <pubDate>Fri, 30 Jun 2023 07:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqzs5ktuvssneu644bvxixp2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245018263%26signature%3DHYldbHp84PuO9xau3PmAfpLRGnk%253D%26ts%3D1688109463" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인시디어스: 빨간 문> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439197107?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439120939?act=clip</guid>
             <pubDate>Tue, 27 Jun 2023 03:02:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv469tknp7tuwxj58npxjehvq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244739761%26signature%3D4AvaWr7cmoCns0gPUf%252B9CzFC6X0%253D%26ts%3D1687830961" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv469tknp7tuwxj58npxjehvq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244739761%26signature%3D4AvaWr7cmoCns0gPUf%252B9CzFC6X0%253D%26ts%3D1687830961" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<좋.댓.구> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Jun 2023 09:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9ae58e36mim6n153hgo4kbo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244418913%26signature%3D3UMBkR87U72ELYXIYylvhbM15%252F4%253D%26ts%3D1687510113" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 도라에몽: 진구와 하늘의 유토피아> 티저 예고편 #2]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439029732?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439029732?act=clip</guid>
-            <pubDate>Fri, 23 Jun 2023 09:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6o94fsqnmsxbs9s42612hzx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33244418856%26signature%3DijzQ7rTx5qC6sXyrlygQL9HOJjE%253D%26ts%3D1687510056" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
