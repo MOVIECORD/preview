@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 01:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 03:02:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/37606844</link>
             <guid>https://tv.naver.com/v/37606844</guid>
             <pubDate>Mon, 03 Jul 2023 01:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_52/wCH9c_1688349306243tm1FC_JPEG/17a3dfcf-1944-11ee-ad6d-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/37606448</link>
             <guid>https://tv.naver.com/v/37606448</guid>
             <pubDate>Mon, 03 Jul 2023 01:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_111/guYR1_1688348752880okYGj_JPEG/c214c1b9-1942-11ee-954b-a0369ffac1d8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -32,11 +32,19 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_249/gAC2C_1688113927391n650Y_JPEG/e82e41ab-171d-11ee-967c-a0369ffdab5c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA['비공식작전' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/37541388</link>
+            <guid>https://tv.naver.com/v/37541388</guid>
+            <pubDate>Mon, 03 Jul 2023 03:02:19 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_94/J5w79_1688110642730qLNgA_JPEG/cbf8ad83-1718-11ee-833a-505dac8c3639_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA['2023 청룡시리즈어워즈' 핸드프린팅]]></title>
             <link>https://tv.naver.com/v/37540893</link>
             <guid>https://tv.naver.com/v/37540893</guid>
             <pubDate>Sat, 01 Jul 2023 03:11:08 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_271/YnI2U_1688110094593ik1f0_JPEG/a1180799-1716-11ee-967c-a0369ffdab5c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/37528178</link>
             <guid>https://tv.naver.com/v/37528178</guid>
             <pubDate>Fri, 30 Jun 2023 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_176/GNHmW_1688090238033UtX1R_JPEG/f33c4172-16e8-11ee-8de4-a0369ffdb264_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/37507825</link>
             <guid>https://tv.naver.com/v/37507825</guid>
             <pubDate>Fri, 30 Jun 2023 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_102/H23Ek_1688029395630T44Sw_JPEG/8febbc2b-165b-11ee-9dc4-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +124,7 @@
             <link>https://tv.naver.com/v/37425718</link>
             <guid>https://tv.naver.com/v/37425718</guid>
             <pubDate>Wed, 28 Jun 2023 02:00:54 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_165/RRf8S_1687853111252a1Gog_JPEG/10e6d1cc-14c1-11ee-8bd0-d4f5ef58ad5e_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/37411271</link>
             <guid>https://tv.naver.com/v/37411271</guid>
             <pubDate>Tue, 27 Jun 2023 03:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_243/6ccMJ_1687832608414WM6Nu_JPEG/4f2d0d0b-1491-11ee-bf6e-a0369ffde940_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +204,7 @@
             <link>https://tv.naver.com/v/37411083</link>
             <guid>https://tv.naver.com/v/37411083</guid>
             <pubDate>Tue, 27 Jun 2023 03:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_237/qg6MG_1687832341293kUffz_JPEG/adca33c2-1490-11ee-bda5-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 26 Jun 2023 07:19:46 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_157/P5rLS_1687763930846NTA1Q_JPEG/1c7fd626-13f1-11ee-a103-505dac8c37f3_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노트르담 온 파이어' 소방관 비하인드 영상]]></title>
-            <link>https://tv.naver.com/v/37382679</link>
-            <guid>https://tv.naver.com/v/37382679</guid>
-            <pubDate>Mon, 26 Jun 2023 07:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_140/MYr04_1687763382289zOFeO_JPEG/eab81d0a-13ef-11ee-befd-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
