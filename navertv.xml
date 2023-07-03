@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 23:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 01:56:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['소녀작가 입문기' 배우 이준혁 인터뷰 영상]]></title>
+            <link>https://tv.naver.com/v/37606844</link>
+            <guid>https://tv.naver.com/v/37606844</guid>
+            <pubDate>Mon, 03 Jul 2023 01:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_52/wCH9c_1688349306243tm1FC_JPEG/17a3dfcf-1944-11ee-ad6d-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['레트로 벤전스' 예고편]]></title>
+            <link>https://tv.naver.com/v/37606448</link>
+            <guid>https://tv.naver.com/v/37606448</guid>
+            <pubDate>Mon, 03 Jul 2023 01:55:24 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_111/guYR1_1688348752880okYGj_JPEG/c214c1b9-1942-11ee-954b-a0369ffac1d8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['틴에이지 크라켄 루비' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/37543881</link>
@@ -60,7 +76,7 @@
             <link>https://tv.naver.com/v/37488756</link>
             <guid>https://tv.naver.com/v/37488756</guid>
             <pubDate>Thu, 29 Jun 2023 03:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_29/uQIKB_1688002923628xNI5B_JPEG/c8fadb58-161d-11ee-a103-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +204,7 @@
             <link>https://tv.naver.com/v/37409463</link>
             <guid>https://tv.naver.com/v/37409463</guid>
             <pubDate>Tue, 27 Jun 2023 01:56:23 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_140/DwfWn_1687829917449ifvWf_JPEG/04350554-148a-11ee-83da-d4f5ef5906a4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +212,7 @@
             <link>https://tv.naver.com/v/37408019</link>
             <guid>https://tv.naver.com/v/37408019</guid>
             <pubDate>Tue, 27 Jun 2023 01:56:23 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230627_141/jCE6H_16878271083759h34K_JPEG/d0550d25-1483-11ee-bb6e-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 26 Jun 2023 07:19:46 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_140/MYr04_1687763382289zOFeO_JPEG/eab81d0a-13ef-11ee-befd-48df379cca40_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보통의 카스미' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/37380815</link>
-            <guid>https://tv.naver.com/v/37380815</guid>
-            <pubDate>Mon, 26 Jun 2023 07:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_224/LKGde_1687761212541SAayo_JPEG/e5c14efa-13ea-11ee-b7b2-a0369ffb34e8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['핑크퐁 시네마 콘서트 3: 진저브레드맨을 잡아라' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/37379012</link>
-            <guid>https://tv.naver.com/v/37379012</guid>
-            <pubDate>Mon, 26 Jun 2023 06:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_178/rSnWk_168775887350089rlu_JPEG/89de275a-13e5-11ee-9a3e-48df3770378c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
