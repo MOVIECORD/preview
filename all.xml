@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 03:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/37750871</link>
             <guid>https://tv.naver.com/v/37750871</guid>
             <pubDate>Thu, 06 Jul 2023 10:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_270/lGtz9_16886354891764WOso_JPEG/9a2464d0-1bde-11ee-a3b2-a0369ffd9ff0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/37750456</link>
             <guid>https://tv.naver.com/v/37750456</guid>
             <pubDate>Thu, 06 Jul 2023 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_58/jJlTt_1688634761881IqQWD_JPEG/f456efeb-1bdb-11ee-ad32-48df37703818_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -248,6 +248,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_257/8Q9HP_1688384412732KCFll_JPEG/6ea3e40e-1995-11ee-84f4-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[<소녀작가 입문기> 뮤비 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439372549?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439372549?act=clip</guid>
+            <pubDate>Fri, 07 Jul 2023 03:34:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7irromolb58qkvcig0ujdow%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245607892%26signature%3DdzXS9k1vSZq%252BtCuolbNjvFToXq8%253D%26ts%3D1688699092" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[<일급 살수> 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439370229?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/439370229?act=clip</guid>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439296954?act=clip</guid>
             <pubDate>Tue, 04 Jul 2023 03:03:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6sqe5a58ozjs8tfi7fc5xbs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245346807%26signature%3DpN%252Fl3rS3Vf0ZfT%252Ffd%252B3MjCybH0U%253D%26ts%3D1688438007" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6sqe5a58ozjs8tfi7fc5xbs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245346807%26signature%3DpN%252Fl3rS3Vf0ZfT%252Ffd%252B3MjCybH0U%253D%26ts%3D1688438007" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<밀수> 수중&지상 액션 제작기 영상 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Mon, 03 Jul 2023 04:24:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F888656694%2Fthumb%2F20230703130058" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 슈퍼윙스: 맥시멈 스피드> 티저 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439272684?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439272684?act=clip</guid>
-            <pubDate>Mon, 03 Jul 2023 04:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F520872043%2Fthumb%2F20230703125840" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미라큘러스: 레이디버그와 블랙캣, 더 무비 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
