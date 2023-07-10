@@ -4,15 +4,55 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 04:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 05:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['명탐정코난: 흑철의 어영' 스페셜 예고편]]></title>
+            <link>https://tv.naver.com/v/37864729</link>
+            <guid>https://tv.naver.com/v/37864729</guid>
+            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_193/patMN_1688966161930rDtTU_JPEG/8cfcf688-1ee0-11ee-a841-a0369ffdac8c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['일급 살수' 예고편]]></title>
+            <link>https://tv.naver.com/v/37864204</link>
+            <guid>https://tv.naver.com/v/37864204</guid>
+            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[18분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_220/bOlik_1688965298787rGHPY_JPEG/89586a5b-1ede-11ee-a659-a0369ffda0c8_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소녀작가 입문기' 뮤비 영상]]></title>
+            <link>https://tv.naver.com/v/37864006</link>
+            <guid>https://tv.naver.com/v/37864006</guid>
+            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_146/E5eqE_16889650212155vWSj_JPEG/def46bb9-1edd-11ee-ba2d-a0369ffac67c_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['극장판 피노키오 위대한 모험' 어드벤처 영상]]></title>
+            <link>https://tv.naver.com/v/37863762</link>
+            <guid>https://tv.naver.com/v/37863762</guid>
+            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_254/J5TU5_1688964608269pH6QP_JPEG/e6cb103d-1edc-11ee-b5e6-d4f5ef5a9532_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보 이즈 어프레이드' 어드벤처 극찬 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/37863096</link>
+            <guid>https://tv.naver.com/v/37863096</guid>
+            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_182/7aBUw_16889635230055TX3o_JPEG/6ee59fa3-1eda-11ee-af8f-80615f0c4788_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['밀수' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/37782220</link>
             <guid>https://tv.naver.com/v/37782220</guid>
             <pubDate>Sun, 09 Jul 2023 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_153/QLYcE_1688709478975OKsa4_JPEG/f166453c-1c8a-11ee-9868-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +60,7 @@
             <link>https://tv.naver.com/v/37774769</link>
             <guid>https://tv.naver.com/v/37774769</guid>
             <pubDate>Sun, 09 Jul 2023 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_276/bu69p_1688697641809FYeh8_PNG/1688697629451.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 03:03:14 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_112/B3e80_1688436578668Av4vc_JPEG/8a9b2922-1a0f-11ee-ad6d-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애스터로이드 시티' 이상하고 아름다운 애스터로이드 시티로 초대합니다]]></title>
-            <link>https://tv.naver.com/v/37650055</link>
-            <guid>https://tv.naver.com/v/37650055</guid>
-            <pubDate>Tue, 04 Jul 2023 03:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_183/yNV7k_1688436082306myJTr_JPEG/64ea39aa-1a0e-11ee-8790-a0369ffb3274_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애스터로이드 시티' 미친듯이 기발하고 아름다운 웨스 앤더슨 감독의 독창적 세계!]]></title>
-            <link>https://tv.naver.com/v/37649867</link>
-            <guid>https://tv.naver.com/v/37649867</guid>
-            <pubDate>Tue, 04 Jul 2023 03:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_61/x8vR7_1688435769429MD6U6_JPEG/7f007f7b-1a0d-11ee-9dc4-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애스터로이드 시티' "뭔가 시작되는 걸까요?" 이제 알아봐야죠]]></title>
-            <link>https://tv.naver.com/v/37649424</link>
-            <guid>https://tv.naver.com/v/37649424</guid>
-            <pubDate>Tue, 04 Jul 2023 01:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_75/01FD1_1688435052733K73bB_JPEG/fd6ff795-1a0b-11ee-bfa2-a0369ffab468_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애스터로이드 시티' 관객들이 사랑에 빠진 영화!]]></title>
-            <link>https://tv.naver.com/v/37649236</link>
-            <guid>https://tv.naver.com/v/37649236</guid>
-            <pubDate>Tue, 04 Jul 2023 01:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_292/COXIi_1688434720885O5bII_JPEG/2d89778a-1a0b-11ee-8de4-a0369ffdb264_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['애스터로이드 시티' 신비로운 사막 도시로 재탄생!]]></title>
-            <link>https://tv.naver.com/v/37649002</link>
-            <guid>https://tv.naver.com/v/37649002</guid>
-            <pubDate>Tue, 04 Jul 2023 01:55:57 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_74/QN3fx_1688434348807BYei6_JPEG/f9bfd37b-1a09-11ee-b692-e4434b3678b0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
