@@ -4,15 +4,47 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 01:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미션 임파서블: 데드 레코닝 PART ONE' 리뷰 예고편]]></title>
+            <link>https://tv.naver.com/v/37945159</link>
+            <guid>https://tv.naver.com/v/37945159</guid>
+            <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[15분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_76/toQ8H_1689129918835Nmx3F_JPEG/943bfa29-205d-11ee-88d3-a0369ffdb390_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['더 문' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/37944462</link>
+            <guid>https://tv.naver.com/v/37944462</guid>
+            <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_15/KJ60P_1689128988339pOs5y_JPEG/de20ad0c-205b-11ee-a834-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['비공식작전' 캐릭터 예고편]]></title>
+            <link>https://tv.naver.com/v/37944298</link>
+            <guid>https://tv.naver.com/v/37944298</guid>
+            <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_196/iPWiA_1689128777799ppGwG_JPEG/de5f4e01-2059-11ee-b74d-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['밥 말리: 원 러브' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/37921155</link>
+            <guid>https://tv.naver.com/v/37921155</guid>
+            <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
+            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_214/48XfW_1689069759850LGLk4_JPEG/efb2ea92-1fd1-11ee-8eba-80615f0bcd42_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['거미줄 (악어와 악어새)' 예고편]]></title>
             <link>https://tv.naver.com/v/37918866</link>
             <guid>https://tv.naver.com/v/37918866</guid>
             <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[16시간 전]]></content:encoded>
+            <content:encoded><![CDATA[17시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_299/iFhr4_1689066321648HGNjc_JPEG/8e6a1b22-1fc9-11ee-bb5d-80615f0bcefc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +52,7 @@
             <link>https://tv.naver.com/v/37918272</link>
             <guid>https://tv.naver.com/v/37918272</guid>
             <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_34/0Vwuz_1689066658844GU89b_JPEG/1689066656495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +60,7 @@
             <link>https://tv.naver.com/v/37918034</link>
             <guid>https://tv.naver.com/v/37918034</guid>
             <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_189/Eb1Ph_1689065256460tyrLP_JPEG/1689065254814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +68,7 @@
             <link>https://tv.naver.com/v/37917643</link>
             <guid>https://tv.naver.com/v/37917643</guid>
             <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_34/VuuQG_1689064693038AVSoo_JPEG/c4ca88e2-1fc5-11ee-bb27-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +76,7 @@
             <link>https://tv.naver.com/v/37908817</link>
             <guid>https://tv.naver.com/v/37908817</guid>
             <pubDate>Tue, 11 Jul 2023 06:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_94/R1bnr_16890535438242AlKh_JPEG/d1b91373-1fab-11ee-8957-48df37e301e2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +84,7 @@
             <link>https://tv.naver.com/v/37901682</link>
             <guid>https://tv.naver.com/v/37901682</guid>
             <pubDate>Tue, 11 Jul 2023 02:55:53 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_135/Z9DQr_1689043218713Wc27S_JPEG/7e987140-1f92-11ee-bb27-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Sun, 09 Jul 2023 23:19:19 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_153/QLYcE_1688709478975OKsa4_JPEG/f166453c-1c8a-11ee-9868-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['헌티드 맨션' ‘세상에서 가장 기묘한 집' 제작기 영상]]></title>
-            <link>https://tv.naver.com/v/37774769</link>
-            <guid>https://tv.naver.com/v/37774769</guid>
-            <pubDate>Sun, 09 Jul 2023 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_276/bu69p_1688697641809FYeh8_PNG/1688697629451.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['소설 살인사건' 예고편]]></title>
-            <link>https://tv.naver.com/v/37750871</link>
-            <guid>https://tv.naver.com/v/37750871</guid>
-            <pubDate>Thu, 06 Jul 2023 10:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_270/lGtz9_16886354891764WOso_JPEG/9a2464d0-1bde-11ee-a3b2-a0369ffd9ff0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['다섯 번째 흉추' 론칭 예고편]]></title>
-            <link>https://tv.naver.com/v/37750456</link>
-            <guid>https://tv.naver.com/v/37750456</guid>
-            <pubDate>Thu, 06 Jul 2023 09:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_58/jJlTt_1688634761881IqQWD_JPEG/f456efeb-1bdb-11ee-ad32-48df37703818_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 문' 국내 최초 달 탐사 일지]]></title>
-            <link>https://tv.naver.com/v/37745432</link>
-            <guid>https://tv.naver.com/v/37745432</guid>
-            <pubDate>Thu, 06 Jul 2023 23:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_247/2efqU_1688627844087Jfb6W_PNG/1688627833397.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
