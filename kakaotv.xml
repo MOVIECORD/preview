@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 08:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 09:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄천국> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439502117?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439502117?act=clip</guid>
+            <pubDate>Wed, 12 Jul 2023 09:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm67ffhzwvkyg55fai3pag0t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246059986%26signature%3DnprMrP44vZ56x%252F0%252F2qeW9Q29TZk%253D%26ts%3D1689151186" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<작은정원> 공감 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439495929?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439450704?act=clip</guid>
             <pubDate>Mon, 10 Jul 2023 08:29:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjkn0byx3grovx3qlj8348pr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245886274%26signature%3DTkx2k2wWfDb9oq8hkPdyzKjmlag%253D%26ts%3D1688977474" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjkn0byx3grovx3qlj8348pr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245886274%26signature%3DTkx2k2wWfDb9oq8hkPdyzKjmlag%253D%26ts%3D1688977474" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 문> 국내 최초 달 탐사 일지 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 06 Jul 2023 06:28:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2m7ullm0zuapk8b3h3bsery%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245531140%26signature%3Diu7UVw0kHJePVs95Y7CoFTnArVI%253D%26ts%3D1688622340" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<다섯 번째 흉추> 론칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439350294?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439350294?act=clip</guid>
-            <pubDate>Thu, 06 Jul 2023 05:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvujzi3jcyyl0p5xoh0wrbhig%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245529153%26signature%3Dt59vyNqjfNNv0tuxiSH4%252BkkyedU%253D%26ts%3D1688620353" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
