@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 03:01:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 03:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['라스트 리소트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/37945859</link>
+            <guid>https://tv.naver.com/v/37945859</guid>
+            <pubDate>Wed, 12 Jul 2023 03:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_218/V1fYj_16891308958931NyML_JPEG/6ec68578-205f-11ee-a1a9-d4f5ef58ad5e_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['미션 임파서블: 데드 레코닝 PART ONE' 리뷰 예고편]]></title>
             <link>https://tv.naver.com/v/37945159</link>
             <guid>https://tv.naver.com/v/37945159</guid>
             <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[15분 전]]></content:encoded>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_76/toQ8H_1689129918835Nmx3F_JPEG/943bfa29-205d-11ee-88d3-a0369ffdb390_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/37944462</link>
             <guid>https://tv.naver.com/v/37944462</guid>
             <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_15/KJ60P_1689128988339pOs5y_JPEG/de20ad0c-205b-11ee-a834-d4f5ef58ac88_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/37944298</link>
             <guid>https://tv.naver.com/v/37944298</guid>
             <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_196/iPWiA_1689128777799ppGwG_JPEG/de5f4e01-2059-11ee-b74d-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/37921155</link>
             <guid>https://tv.naver.com/v/37921155</guid>
             <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <content:encoded><![CDATA[29분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_214/48XfW_1689069759850LGLk4_JPEG/efb2ea92-1fd1-11ee-8eba-80615f0bcd42_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/37918866</link>
             <guid>https://tv.naver.com/v/37918866</guid>
             <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[17시간 전]]></content:encoded>
+            <content:encoded><![CDATA[18시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_299/iFhr4_1689066321648HGNjc_JPEG/8e6a1b22-1fc9-11ee-bb5d-80615f0bcefc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jul 2023 01:47:04 GMT</pubDate>
             <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_247/aXrdA_16889613476029ECpB_JPEG/72667ab9-1ed5-11ee-a6f1-a0369ffdea94_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밀수' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/37782220</link>
-            <guid>https://tv.naver.com/v/37782220</guid>
-            <pubDate>Sun, 09 Jul 2023 23:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_153/QLYcE_1688709478975OKsa4_JPEG/f166453c-1c8a-11ee-9868-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
