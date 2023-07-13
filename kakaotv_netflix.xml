@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 08:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 09:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 13 Jul 2023 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1883809411%2Fthumb%2F20230713142304" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 등 뒤에서 설레는 짝피구 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439519635?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439519635?act=clip</guid>
+            <pubDate>Thu, 13 Jul 2023 09:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F195109942%2Fthumb%2F20230713115035" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 눈만 마주쳐도 설레는 도서관 데이트 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439171293?act=clip</guid>
             <pubDate>Thu, 29 Jun 2023 03:40:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1254530928%2Fthumb%2F20230629104802" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1254530928%2Fthumb%2F20230629104802" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 1부]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 09 Jun 2023 01:53:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F866331720%2Fthumb%2F20230609104834" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 사냥개들 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438647938?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438647938?act=clip</guid>
-            <pubDate>Fri, 09 Jun 2023 08:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F136400049%2Fthumb%2F20230608164112" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
