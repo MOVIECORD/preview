@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 09:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 10:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['에고이스트' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/38007376</link>
+            <guid>https://tv.naver.com/v/38007376</guid>
+            <pubDate>Thu, 13 Jul 2023 10:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_223/4OhKc_1689241070105TLocP_JPEG/800915e2-2160-11ee-968b-80615f0bccec_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['마야 3: 숲속 왕국의 위기' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/38000860</link>
             <guid>https://tv.naver.com/v/38000860</guid>
             <pubDate>Thu, 13 Jul 2023 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_63/0sNtX_1689231936266TQjug_JPEG/4f5c0b2b-214b-11ee-9244-a0369ffde9a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/37997881</link>
             <guid>https://tv.naver.com/v/37997881</guid>
             <pubDate>Thu, 13 Jul 2023 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_37/8J5EF_1689228050611MvQxL_JPEG/2123dacf-2142-11ee-ac6b-a0369ffdeab8_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/37997564</link>
             <guid>https://tv.naver.com/v/37997564</guid>
             <pubDate>Thu, 13 Jul 2023 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_251/HJmUd_1689227666794EbS0J_JPEG/74836154-213e-11ee-a3b2-a0369ffd9ff0_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/37993959</link>
             <guid>https://tv.naver.com/v/37993959</guid>
             <pubDate>Thu, 13 Jul 2023 05:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_283/oVHzB_16892238787108Lndb_JPEG/3aa8a52a-2138-11ee-962b-80615f0bcd1e_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/37993549</link>
             <guid>https://tv.naver.com/v/37993549</guid>
             <pubDate>Thu, 13 Jul 2023 05:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_264/MCuG8_16892233525077jmHQ_JPEG/01170db5-2137-11ee-bdb8-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Jul 2023 07:19:38 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_178/Sf5Y2_1688972489447QO4HQ_JPEG/23632077-1eef-11ee-8957-48df37e301e2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['런닝맨: 리벤져스' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/37868986</link>
-            <guid>https://tv.naver.com/v/37868986</guid>
-            <pubDate>Mon, 10 Jul 2023 07:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_11/4YuNf_1688971593769z72bB_JPEG/15468777-1eed-11ee-92dd-505dac8c385b_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
