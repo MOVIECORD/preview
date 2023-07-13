@@ -4,15 +4,31 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 04:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['범죄천국' 예고편]]></title>
+            <link>https://tv.naver.com/v/37993959</link>
+            <guid>https://tv.naver.com/v/37993959</guid>
+            <pubDate>Thu, 13 Jul 2023 05:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_283/oVHzB_16892238787108Lndb_JPEG/3aa8a52a-2138-11ee-962b-80615f0bcd1e_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['반지제왕:유령무사' 예고편]]></title>
+            <link>https://tv.naver.com/v/37993549</link>
+            <guid>https://tv.naver.com/v/37993549</guid>
+            <pubDate>Thu, 13 Jul 2023 05:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[37분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_264/MCuG8_16892233525077jmHQ_JPEG/01170db5-2137-11ee-bdb8-48df37ae3dc4_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['작은정원' 공감 영상]]></title>
             <link>https://tv.naver.com/v/37956625</link>
             <guid>https://tv.naver.com/v/37956625</guid>
             <pubDate>Wed, 12 Jul 2023 07:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_31/E8EeM_1689145672724uGF8I_JPEG/800a42c9-2081-11ee-a211-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/37951992</link>
             <guid>https://tv.naver.com/v/37951992</guid>
             <pubDate>Wed, 12 Jul 2023 07:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_170/7OypA_1689139804565iT6vB_JPEG/7ef2cb04-2074-11ee-9958-a0369ffb38d4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/37951351</link>
             <guid>https://tv.naver.com/v/37951351</guid>
             <pubDate>Wed, 12 Jul 2023 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_234/K8eSx_1689138912546HOQCY_JPEG/60594e17-2072-11ee-a841-a0369ffdac8c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +52,7 @@
             <link>https://tv.naver.com/v/37950493</link>
             <guid>https://tv.naver.com/v/37950493</guid>
             <pubDate>Wed, 12 Jul 2023 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_150/JPGaD_1689137752482olBRa_JPEG/b9a74613-206f-11ee-a1a9-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 10 Jul 2023 06:27:27 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_194/d7znZ_16889666347838y6uL_JPEG/a3cc3d28-1ee1-11ee-9fcb-80615f0bce1e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['명탐정코난: 흑철의 어영' 스페셜 예고편]]></title>
-            <link>https://tv.naver.com/v/37864729</link>
-            <guid>https://tv.naver.com/v/37864729</guid>
-            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_193/patMN_1688966161930rDtTU_JPEG/8cfcf688-1ee0-11ee-a841-a0369ffdac8c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일급 살수' 예고편]]></title>
-            <link>https://tv.naver.com/v/37864204</link>
-            <guid>https://tv.naver.com/v/37864204</guid>
-            <pubDate>Mon, 10 Jul 2023 05:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_220/bOlik_1688965298787rGHPY_JPEG/89586a5b-1ede-11ee-a659-a0369ffda0c8_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

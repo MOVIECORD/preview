@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 04:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 05:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<마야 3: 숲속 왕국의 위기> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439521401?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439521401?act=clip</guid>
+            <pubDate>Thu, 13 Jul 2023 05:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf7qx9d5zpbyw6k3km6rqa7n%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246131268%26signature%3DCW5RZiOeWS36%252FyDTWCW9AaGmveI%253D%26ts%3D1689222468" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<호쿠사이> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439517642?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439468128?act=clip</guid>
             <pubDate>Tue, 11 Jul 2023 01:47:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf2ae26jl4im5d7hnhujckjx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245947938%26signature%3DGLY8OZUaMSXcIPqs3TDG2L5fEBE%253D%26ts%3D1689039138" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf2ae26jl4im5d7hnhujckjx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245947938%26signature%3DGLY8OZUaMSXcIPqs3TDG2L5fEBE%253D%26ts%3D1689039138" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 패밀리 2> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 07 Jul 2023 01:55:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdyv5g9526sj95zlcmf340ef%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245601476%26signature%3Dq2K%252FjHMseLmur7ksTPs%252FV0VHyrw%253D%26ts%3D1688692676" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<보 이즈 어프레이드> 어드벤처 극찬 리뷰 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439369983?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439369983?act=clip</guid>
-            <pubDate>Fri, 07 Jul 2023 01:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhywnyf8y340z0jkas76iihn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245600571%26signature%3DUIL1avPVUhG%252BKz%252FqYvPUGZdDwNU%253D%26ts%3D1688691771" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
