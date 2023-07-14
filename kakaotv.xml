@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<퀴어 마이 프렌즈>  HAPPY PRIDE 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439552412?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439552412?act=clip</guid>
+            <pubDate>Fri, 14 Jul 2023 09:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6bsqickbvei9e0unlzuxnu5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246232220%26signature%3Dhyz5ucckiNCqmGInZOsKSGYf978%253D%26ts%3D1689323420" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<다섯 번째 흉추> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439547700?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439492482?act=clip</guid>
             <pubDate>Wed, 12 Jul 2023 01:55:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjjjg1cju3oivozrjqsontfa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246032550%26signature%3Dxt%252FfGwk3ibs285Th7IkDWNTixyc%253D%26ts%3D1689123750" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjjjg1cju3oivozrjqsontfa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246032550%26signature%3Dxt%252FfGwk3ibs285Th7IkDWNTixyc%253D%26ts%3D1689123750" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<보호자> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 10 Jul 2023 03:04:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv74cbzb9cmrhzdmrtrziqaq5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245864618%26signature%3DUvoFAOtIRuCn6zFsVLYuFuueXgk%253D%26ts%3D1688955818" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<콘크리트 유토피아> 황궁 아파트 입주민 명단]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439442667?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439442667?act=clip</guid>
-            <pubDate>Mon, 10 Jul 2023 03:04:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xlzuosu051kglirzsm28ti%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33245864259%26signature%3DBu%252BG1B5Kbjm%252BfKTZONupRP%252B5IcM%253D%26ts%3D1688955459" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
