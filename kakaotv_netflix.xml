@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 05:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 06:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 네 얼굴만 보면 부끄러워져 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439572422?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439572422?act=clip</guid>
+            <pubDate>Sat, 15 Jul 2023 06:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1638107328%2Fthumb%2F20230715140608" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 전학생 지우에게 홀딱 반한 정윤 | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439570186?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439269293?act=clip</guid>
             <pubDate>Mon, 03 Jul 2023 01:55:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907455801%2Fthumb%2F20230703102013" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907455801%2Fthumb%2F20230703102013" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 15 Jun 2023 01:46:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F298147681%2Fthumb%2F20230615104348" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀러브리티 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438815600?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438815600?act=clip</guid>
-            <pubDate>Thu, 15 Jun 2023 01:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2118632955%2Fthumb%2F20230615100821" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
