@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jul 2023 06:30:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 07:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['더 넌 2' 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/38124016</link>
+            <guid>https://tv.naver.com/v/38124016</guid>
+            <pubDate>Mon, 17 Jul 2023 07:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_246/lm8mz_1689577698420WmsLi_JPEG/0953ae76-2470-11ee-8fa1-48df37ae3dc4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오펜하이머' 세상을 영원히 바꾸다]]></title>
+            <link>https://tv.naver.com/v/38123660</link>
+            <guid>https://tv.naver.com/v/38123660</guid>
+            <pubDate>Mon, 17 Jul 2023 07:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_62/0YOb2_1689577228856L3QcY_JPEG/39ca4104-246f-11ee-8bd9-505dac8c3607_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['살바도르 달리 : 불멸을 찾아서' 1차 예고편]]></title>
+            <link>https://tv.naver.com/v/38123330</link>
+            <guid>https://tv.naver.com/v/38123330</guid>
+            <pubDate>Mon, 17 Jul 2023 07:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[28분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_198/K3EKF_1689576726490j530h_JPEG/fdf8cbe0-246d-11ee-8224-a0369ffac2a8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['비닐하우스' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/38120238</link>
             <guid>https://tv.naver.com/v/38120238</guid>
             <pubDate>Mon, 17 Jul 2023 06:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[47분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230717_238/fCkwC_1689572583610TczJy_JPEG/72a21b8f-2464-11ee-92d9-80615f0c46b2_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +44,7 @@
             <link>https://tv.naver.com/v/38118368</link>
             <guid>https://tv.naver.com/v/38118368</guid>
             <pubDate>Mon, 17 Jul 2023 05:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230717_264/dckAe_1689569839215R82ve_JPEG/efdde830-245d-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +60,7 @@
             <link>https://tv.naver.com/v/38115221</link>
             <guid>https://tv.naver.com/v/38115221</guid>
             <pubDate>Mon, 17 Jul 2023 04:24:27 GMT</pubDate>
-            <content:encoded><![CDATA[3시간 전]]></content:encoded>
+            <content:encoded><![CDATA[4시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230717_21/jFegk_1689563555035Rct6o_JPEG/667517e8-244f-11ee-8507-a0369ffd9e4c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +68,7 @@
             <link>https://tv.naver.com/v/38045897</link>
             <guid>https://tv.naver.com/v/38045897</guid>
             <pubDate>Sun, 16 Jul 2023 23:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_97/OksLz_1689320343505gOKLx_JPEG/5a1c3a1c-2219-11ee-8891-80615f0bce16_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -116,7 +140,7 @@
             <link>https://tv.naver.com/v/38000860</link>
             <guid>https://tv.naver.com/v/38000860</guid>
             <pubDate>Thu, 13 Jul 2023 07:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_63/0sNtX_1689231936266TQjug_JPEG/4f5c0b2b-214b-11ee-9244-a0369ffde9a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +188,7 @@
             <link>https://tv.naver.com/v/37956625</link>
             <guid>https://tv.naver.com/v/37956625</guid>
             <pubDate>Wed, 12 Jul 2023 07:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_31/E8EeM_1689145672724uGF8I_JPEG/800a42c9-2081-11ee-a211-d4f5ef590144_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_196/iPWiA_1689128777799ppGwG_JPEG/de5f4e01-2059-11ee-b74d-48df379cc9e4_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['밥 말리: 원 러브' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/37921155</link>
-            <guid>https://tv.naver.com/v/37921155</guid>
-            <pubDate>Wed, 12 Jul 2023 03:01:14 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_214/48XfW_1689069759850LGLk4_JPEG/efb2ea92-1fd1-11ee-8eba-80615f0bcd42_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거미줄 (악어와 악어새)' 예고편]]></title>
-            <link>https://tv.naver.com/v/37918866</link>
-            <guid>https://tv.naver.com/v/37918866</guid>
-            <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_299/iFhr4_1689066321648HGNjc_JPEG/8e6a1b22-1fc9-11ee-bb5d-80615f0bcefc_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신입사원: 더 무비' 예고편]]></title>
-            <link>https://tv.naver.com/v/37918272</link>
-            <guid>https://tv.naver.com/v/37918272</guid>
-            <pubDate>Tue, 11 Jul 2023 09:20:33 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_34/0Vwuz_1689066658844GU89b_JPEG/1689066656495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
