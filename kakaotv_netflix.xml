@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 09:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 10:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 17 Jul 2023 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494886066%2Fthumb%2F20230717163930" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439622698?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622698?act=clip</guid>
+            <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 공식 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439305247?act=clip</guid>
             <pubDate>Thu, 06 Jul 2023 01:59:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1948861458%2Fthumb%2F20230705190214" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1948861458%2Fthumb%2F20230705190214" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 파티의 진짜 진짜 셀럽은 나야 | 셀러브리티]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 16 Jun 2023 01:44:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1995635177%2Fthumb%2F20230616102347" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 달리는 열차 속, 원 테이크 액션 | 익스트랙션 2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438834645?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438834645?act=clip</guid>
-            <pubDate>Sat, 17 Jun 2023 03:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1691175846%2Fthumb%2F20230616103608" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
