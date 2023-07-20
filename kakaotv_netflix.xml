@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 08:22:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 09:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 드디어 술을 마실 수 있는 나이 스무 살 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439622687?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622687?act=clip</guid>
+            <pubDate>Thu, 20 Jul 2023 09:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F735530250%2Fthumb%2F20230720103253" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 다 같이 넷컷 사진 찍기 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439380526?act=clip</guid>
             <pubDate>Mon, 10 Jul 2023 01:57:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F233661118%2Fthumb%2F20230707180137" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F233661118%2Fthumb%2F20230707180137" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미라큘러스: 레이디버그와 블랙캣, 더 무비 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 20 Jun 2023 03:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1943770630%2Fthumb%2F20230620120010" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 비하인드 컷 | Rebel Moon]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438851711?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438851711?act=clip</guid>
-            <pubDate>Mon, 19 Jun 2023 01:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F892138134%2Fthumb%2F20230616175311" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
