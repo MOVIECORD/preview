@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 04:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 05:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] [미공개] 예린만 가질 수 있는 세연의 유니폼 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439622689?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622689?act=clip</guid>
+            <pubDate>Fri, 21 Jul 2023 05:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F542763931%2Fthumb%2F20230720180324" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 드디어 술을 마실 수 있는 나이 스무 살 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439450117?act=clip</guid>
             <pubDate>Tue, 11 Jul 2023 07:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1693846102%2Fthumb%2F20230710170209" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1693846102%2Fthumb%2F20230710170209" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀비버스 | 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Jun 2023 06:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1382037322%2Fthumb%2F20230622150736" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미타라이 가, 불타다 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/438943145?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/438943145?act=clip</guid>
-            <pubDate>Tue, 20 Jun 2023 03:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1943770630%2Fthumb%2F20230620120010" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
