@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 04:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정윤과 세연 그리고 지민의 질투를 받는 지우 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439622694?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622694?act=clip</guid>
+            <pubDate>Sat, 22 Jul 2023 05:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1423882173%2Fthumb%2F20230721200151" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 예린만 가질 수 있는 세연의 유니폼 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439472857?act=clip</guid>
             <pubDate>Thu, 13 Jul 2023 02:00:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F209247273%2Fthumb%2F20230711143043" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F209247273%2Fthumb%2F20230711143043" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 남녀공학을 처음 와 본 남학생 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Jun 2023 03:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1926794966%2Fthumb%2F20230626114232" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 19/20 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439029943?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439029943?act=clip</guid>
-            <pubDate>Mon, 26 Jun 2023 01:59:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1080887249%2Fthumb%2F20230623175341" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
