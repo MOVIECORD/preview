@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 06:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 07:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<여덟 개의 산> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439801592?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439801592?act=clip</guid>
+            <pubDate>Mon, 24 Jul 2023 07:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgkjlmt95djcqc3x1a3fz2xy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247089401%26signature%3DZmkdbX2ylz2tr6hhJh8srykbZhM%253D%26ts%3D1690180601" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<비밀의 언덕>  명은이의 비밀 앨범]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439800364?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439681195?act=clip</guid>
             <pubDate>Wed, 19 Jul 2023 08:22:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9wb4p1sqnjym5xbamhze7et%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246661826%26signature%3DbKXArmkEvM3EQU1aSmqNrddOBEg%253D%26ts%3D1689753026" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9wb4p1sqnjym5xbamhze7et%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246661826%26signature%3DbKXArmkEvM3EQU1aSmqNrddOBEg%253D%26ts%3D1689753026" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그란 투리스모> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 05:18:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmrsfx6przpkd7bu3mfx5el6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246565677%26signature%3DhZOj6M210GWn5WjIikpmE0YaHFM%253D%26ts%3D1689656877" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<콘크리트 유토피아> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439648087?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439648087?act=clip</guid>
-            <pubDate>Tue, 18 Jul 2023 04:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8phjnkx31rmjlqxb4g2tbw4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246561720%26signature%3Drn6EAZT4SIX%252FeqmONvu29i%252FfVMQ%253D%26ts%3D1689652920" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
