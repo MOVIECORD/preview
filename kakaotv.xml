@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 01:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 02:49:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<연악: 나의 운명> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439820565?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439820565?act=clip</guid>
+            <pubDate>Tue, 25 Jul 2023 02:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfyoy7bticzntbplul321lfr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247160317%26signature%3DtuvVqgl9yAUTlJGGCJaOwpHPlSE%253D%26ts%3D1690251517" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<런닝맨: 리벤져스> 코믹 케미 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/439819263?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439702100?act=clip</guid>
             <pubDate>Thu, 20 Jul 2023 04:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2vkw37s8exk6msj5aynvwhb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246734461%26signature%3DCYDDcYWHPC0aQRrI3XE38cEvrOA%253D%26ts%3D1689825661" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2vkw37s8exk6msj5aynvwhb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246734461%26signature%3DCYDDcYWHPC0aQRrI3XE38cEvrOA%253D%26ts%3D1689825661" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<몬스터 패밀리 2> 헬로, 몬스터 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 08:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf33u7whdhw4939f04gi25hx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246575013%26signature%3DuMFHUJZh00FgDOlAl6RQ1Gkvonk%253D%26ts%3D1689666213" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그녀가 좋아하는 것은> 밸런스 게임 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439653442?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439653442?act=clip</guid>
-            <pubDate>Tue, 18 Jul 2023 08:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrzmq6ppquz759lxvj5vy5rj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246574683%26signature%3DwatzyNID70iUMtCKmqlbopRJDdk%253D%26ts%3D1689665883" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
