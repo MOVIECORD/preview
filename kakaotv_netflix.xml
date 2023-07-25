@@ -4,9 +4,25 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 23:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 01:47:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439819256?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439819256?act=clip</guid>
+            <pubDate>Tue, 25 Jul 2023 01:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1082877124%2Fthumb%2F20230725101057" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 좀비버스 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439801570?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439801570?act=clip</guid>
+            <pubDate>Tue, 25 Jul 2023 01:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F696383090%2Fthumb%2F20230724153619" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 가메라: 부활 | 공식 예고편 #2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439794159?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439546570?act=clip</guid>
             <pubDate>Fri, 14 Jul 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F92190669%2Fthumb%2F20230714134709" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F92190669%2Fthumb%2F20230714134709" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 운명의 전학생이 등장했다 | 19/20]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439542974?act=clip</guid>
             <pubDate>Fri, 14 Jul 2023 03:03:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499266204%2Fthumb%2F20230714103657" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499266204%2Fthumb%2F20230714103657" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 메리 마이 데드 바디 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 01:55:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F385597117%2Fthumb%2F20230703101321" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀러브리티 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439173491?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439173491?act=clip</guid>
-            <pubDate>Thu, 29 Jun 2023 03:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F626207560%2Fthumb%2F20230703102635" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 당한 대로 갚아주는 박규영 | 셀러브리티]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439172459?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439172459?act=clip</guid>
-            <pubDate>Thu, 29 Jun 2023 03:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F785670524%2Fthumb%2F20230629113219" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
