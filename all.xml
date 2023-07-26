@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 01:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 02:39:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/38282549</link>
             <guid>https://tv.naver.com/v/38282549</guid>
             <pubDate>Mon, 24 Jul 2023 02:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_17/yGv2y_1689923005441E0fp0_JPEG/8f6f40c3-2794-11ee-bd68-a0369ffdada0_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +44,7 @@
             <link>https://tv.naver.com/v/38271686</link>
             <guid>https://tv.naver.com/v/38271686</guid>
             <pubDate>Fri, 21 Jul 2023 02:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_156/Q3q35_1689905748747Kgusq_JPEG/80591636-276b-11ee-b864-505dac8c37f3_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/38233505</link>
             <guid>https://tv.naver.com/v/38233505</guid>
             <pubDate>Thu, 20 Jul 2023 02:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_201/8vRTf_1689818571477w2pHV_JPEG/d6ce64b6-269f-11ee-ba0a-48df379cc9e4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -100,7 +100,7 @@
             <link>https://tv.naver.com/v/38231635</link>
             <guid>https://tv.naver.com/v/38231635</guid>
             <pubDate>Thu, 20 Jul 2023 02:38:02 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_234/GODrK_1689815534692mYnHJ_JPEG/1d791eea-269a-11ee-8224-a0369ffac2a8_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +164,7 @@
             <link>https://tv.naver.com/v/38191765</link>
             <guid>https://tv.naver.com/v/38191765</guid>
             <pubDate>Wed, 19 Jul 2023 02:53:45 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_37/f3xQJ_1689732729684Uwu5c_PNG/1689732641838.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Tue, 18 Jul 2023 05:18:26 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230718_289/Xbd1t_1689657183992wqxb9_JPEG/350ee7e2-2529-11ee-beb0-a0369ffde2b0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<잠> 해외 예고편(국내ver.) (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/439845036?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/439845036?act=clip</guid>
+            <pubDate>Wed, 26 Jul 2023 02:38:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvma4ko1ivnedquzqlx3gi9rk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247245907%26signature%3Da2Ec77x3zNcdYldYuk9Cic8GNyw%253D%26ts%3D1690337107" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<보호자> 신인 감독 정우성입니다 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/439794602?act=clip</guid>
             <pubDate>Mon, 24 Jul 2023 02:37:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbr89vixbe5pzrxmiifvfeku%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247071543%26signature%3Db58PsdkNX74wOGuhsiYo5V76%252FLs%253D%26ts%3D1690162743" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbr89vixbe5pzrxmiifvfeku%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247071543%26signature%3Db58PsdkNX74wOGuhsiYo5V76%252FLs%253D%26ts%3D1690162743" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<인투 더 월드> 1차 예고편 (우리 영화 볼래?)]]></title>
@@ -560,12 +568,12 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0nounuaqd5h9diu2o96b9mi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246636764%26signature%3DQ4yeOhzXrMTkUjiJ44LBKdBhoPQ%253D%26ts%3D1689727964" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<메타모르포제의 툇마루> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439654677?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439654677?act=clip</guid>
-            <pubDate>Tue, 18 Jul 2023 08:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5k43lsjsghd33vbroa1e8an%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33246577243%26signature%3DRmhsk52Svym0FQ%252BaatRUnovsSpM%253D%26ts%3D1689668443" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439844934?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439844934?act=clip</guid>
+            <pubDate>Wed, 26 Jul 2023 02:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F724604264%2Fthumb%2F20230726110133" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부 (카카오TV ─ 넷플릭스)]]></title>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439570186?act=clip</guid>
             <pubDate>Sat, 15 Jul 2023 03:05:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1873315870%2Fthumb%2F20230715120117" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1873315870%2Fthumb%2F20230715120117" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 링컨 차를 타는 변호사: 시즌 2 | 파트 2 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Mon, 03 Jul 2023 01:55:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907455801%2Fthumb%2F20230703102013" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439269063?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439269063?act=clip</guid>
-            <pubDate>Mon, 03 Jul 2023 01:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F347954846%2Fthumb%2F20230703101404" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
