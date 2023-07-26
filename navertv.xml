@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 03:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 04:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['나이트사이렌' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/38425270</link>
+            <guid>https://tv.naver.com/v/38425270</guid>
+            <pubDate>Wed, 26 Jul 2023 04:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[30분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_75/S7fez_1690343442145L6K4q_JPEG/36d52c9f-2b67-11ee-9178-505dacfba98a_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 문' 무비토크]]></title>
             <link>https://tv.naver.com/v/38288918</link>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/38275455</link>
             <guid>https://tv.naver.com/v/38275455</guid>
             <pubDate>Fri, 21 Jul 2023 04:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_139/dk8UI_1689912340478Tvq6r_JPEG/b36a9045-277b-11ee-9a63-a0369ffdb4b0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jul 2023 06:24:50 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230718_148/POIIL_1689657813349KjwuA_JPEG/d29f1847-252a-11ee-9deb-a0369ffdb398_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['퀴어 마이 프렌즈' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/38160445</link>
-            <guid>https://tv.naver.com/v/38160445</guid>
-            <pubDate>Tue, 18 Jul 2023 05:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_289/Xbd1t_1689657183992wqxb9_JPEG/350ee7e2-2529-11ee-beb0-a0369ffde2b0_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
