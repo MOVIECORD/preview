@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 09:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 10:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 영혼의 단짝 정해인과 구교환 | D.P. 시즌 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439678771?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439678771?act=clip</guid>
+            <pubDate>Thu, 27 Jul 2023 10:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1666068606%2Fthumb%2F20230727173720" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] [미공개] 두근두근 설레는 게임 | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439626456?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439626456?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439619739?act=clip</guid>
             <pubDate>Mon, 17 Jul 2023 03:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144125485%2Fthumb%2F20230717115541" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144125485%2Fthumb%2F20230717115541" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 네 얼굴만 보면 부끄러워져 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 12:44:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1352573936%2Fthumb%2F20230703202354" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 2 | 공식 예고편 #3]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439269295?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439269295?act=clip</guid>
-            <pubDate>Mon, 03 Jul 2023 01:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F819807849%2Fthumb%2F20230703102104" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
