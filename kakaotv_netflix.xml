@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 02:34:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 03:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [미공개] 희지 말고는 궁금한 사람이 없는 평석 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439845665?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439845665?act=clip</guid>
+            <pubDate>Fri, 28 Jul 2023 03:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1876654315%2Fthumb%2F20230726183037" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 나는 어제 데이트가 불만족스러웠다? | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439845663?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439622679?act=clip</guid>
             <pubDate>Thu, 20 Jul 2023 03:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1286498007%2Fthumb%2F20230720103043" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1286498007%2Fthumb%2F20230720103043" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jul 2023 12:44:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1195075024%2Fthumb%2F20230703202534" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 셀럽들의 진짜 모습을 알고 있다 | 셀러브리티]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439282992?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439282992?act=clip</guid>
-            <pubDate>Mon, 03 Jul 2023 12:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1352573936%2Fthumb%2F20230703202354" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
