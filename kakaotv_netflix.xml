@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 06:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 07:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1666068606%2Fthumb%2F20230727173720" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] D.P. 시즌 2 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439678738?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439678738?act=clip</guid>
+            <pubDate>Fri, 28 Jul 2023 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1316461872%2Fthumb%2F20230727173845" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] [미공개] 두근두근 설레는 게임 | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439626456?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439626456?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439622689?act=clip</guid>
             <pubDate>Fri, 21 Jul 2023 05:17:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F542763931%2Fthumb%2F20230720180324" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F542763931%2Fthumb%2F20230720180324" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 드디어 술을 마실 수 있는 나이 스무 살 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 05 Jul 2023 01:54:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>09:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1137880140%2Fthumb%2F20230705100848" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] D.P. | 지난 이야기]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439305247?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439305247?act=clip</guid>
-            <pubDate>Thu, 06 Jul 2023 01:59:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1948861458%2Fthumb%2F20230705190214" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
