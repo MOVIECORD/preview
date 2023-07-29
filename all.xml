@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 09:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 10:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -196,7 +196,7 @@
             <link>https://tv.naver.com/v/38438604</link>
             <guid>https://tv.naver.com/v/38438604</guid>
             <pubDate>Wed, 26 Jul 2023 10:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_218/mTJ03_1690364163744KPW25_JPEG/b9f90f85-2b96-11ee-89eb-d4f5ef5a9532_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -672,6 +672,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 새로운 디피조, 준호의 새로운 짝이 생겼다 | D.P. 시즌 2 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439678922?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439678922?act=clip</guid>
+            <pubDate>Sat, 29 Jul 2023 10:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1333447445%2Fthumb%2F20230728165529" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 영혼의 단짝 정해인과 구교환 | D.P. 시즌 2 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439678771?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439678771?act=clip</guid>
@@ -725,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439622694?act=clip</guid>
             <pubDate>Sat, 22 Jul 2023 05:16:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1423882173%2Fthumb%2F20230721200151" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1423882173%2Fthumb%2F20230721200151" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 예린만 가질 수 있는 세연의 유니폼 | 19/20 (카카오TV ─ 넷플릭스)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Thu, 06 Jul 2023 01:59:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2055708421%2Fthumb%2F20230706102026" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 밀리언 셀럽이 되는 방법 | 셀러브리티 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439320298?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439320298?act=clip</guid>
-            <pubDate>Wed, 05 Jul 2023 01:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>09:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1137880140%2Fthumb%2F20230705100848" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
