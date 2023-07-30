@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 02:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 03:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 준호와 호열의 재결합 | D.P. 시즌 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</guid>
+            <pubDate>Sun, 30 Jul 2023 03:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:35]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1536737031%2Fthumb%2F20230728165617" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 새로운 디피조, 준호의 새로운 짝이 생겼다 | D.P. 시즌 2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439678922?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439678922?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439622695?act=clip</guid>
             <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1228367763%2Fthumb%2F20230721200302" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1228367763%2Fthumb%2F20230721200302" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 정윤과 세연 그리고 지민의 질투를 받는 지우 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 07 Jul 2023 01:55:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F509151248%2Fthumb%2F20230707101008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439345676?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439345676?act=clip</guid>
-            <pubDate>Thu, 06 Jul 2023 01:59:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2055708421%2Fthumb%2F20230706102026" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
