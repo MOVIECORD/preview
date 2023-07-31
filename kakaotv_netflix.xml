@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 굿 나이트 월드 | 공식 예고편 #1]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439968155?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439968155?act=clip</guid>
+            <pubDate>Mon, 31 Jul 2023 09:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1465170629%2Fthumb%2F20230731181219" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 설렘주의 평석❤️희지 첫 뽀뽀 | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439959278?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439626456?act=clip</guid>
             <pubDate>Mon, 17 Jul 2023 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1201827271%2Fthumb%2F20230717164018" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1201827271%2Fthumb%2F20230717164018" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 나 지금 흔들리고 있어 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 11 Jul 2023 09:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1158787725%2Fthumb%2F20230711102034" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 19/20 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439450117?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439450117?act=clip</guid>
-            <pubDate>Tue, 11 Jul 2023 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1693846102%2Fthumb%2F20230710170209" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
