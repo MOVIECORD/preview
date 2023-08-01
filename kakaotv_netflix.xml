@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] GP에서 일어난 사건, 손석구와 최현욱의 신경전 | D.P. 시즌 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439679140?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439679140?act=clip</guid>
+            <pubDate>Tue, 01 Aug 2023 06:26:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274956244%2Fthumb%2F20230801121248" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 준호와 호열의 재결합 | D.P. 시즌 2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439678922?act=clip</guid>
             <pubDate>Sat, 29 Jul 2023 10:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1333447445%2Fthumb%2F20230728165529" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1333447445%2Fthumb%2F20230728165529" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 영혼의 단짝 정해인과 구교환 | D.P. 시즌 2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 12 Jul 2023 07:20:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1444882669%2Fthumb%2F20230712142718" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 페인킬러 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439494425?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439494425?act=clip</guid>
-            <pubDate>Wed, 12 Jul 2023 03:01:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1263976395%2Fthumb%2F20230712115636" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
