@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 02:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 03:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,28 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274956244%2Fthumb%2F20230801121248" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 부당함에 맞서는 일병 안준호, 그리고 병장 한호열 | D.P. 시즌 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439679110?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439679110?act=clip</guid>
+            <pubDate>Wed, 02 Aug 2023 03:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1438515057%2Fthumb%2F20230801172326" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 실시간 라이브 중, 아무도 쏠 수 없다 | D.P. 시즌 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439679041?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439679041?act=clip</guid>
+            <pubDate>Wed, 02 Aug 2023 03:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F284243533%2Fthumb%2F20230729100155" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 준호와 호열의 재결합 | D.P. 시즌 2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439678954?act=clip</guid>
             <pubDate>Sun, 30 Jul 2023 03:17:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1536737031%2Fthumb%2F20230728165617" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1536737031%2Fthumb%2F20230728165617" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 새로운 디피조, 준호의 새로운 짝이 생겼다 | D.P. 시즌 2]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Thu, 13 Jul 2023 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1883809411%2Fthumb%2F20230713142304" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 등 뒤에서 설레는 짝피구 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439519635?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439519635?act=clip</guid>
-            <pubDate>Thu, 13 Jul 2023 09:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F195109942%2Fthumb%2F20230713115035" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 눈만 마주쳐도 설레는 도서관 데이트 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439497402?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439497402?act=clip</guid>
-            <pubDate>Wed, 12 Jul 2023 07:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1444882669%2Fthumb%2F20230712142718" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
