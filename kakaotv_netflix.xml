@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 23:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 01:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마스크걸 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440015367?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440015367?act=clip</guid>
+            <pubDate>Thu, 03 Aug 2023 01:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1458328423%2Fthumb%2F20230802171536" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 너와 함께 있어도 내 마음속엔 다른 사람이 있어 | 19/20]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/439999957?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439679140?act=clip</guid>
             <pubDate>Tue, 01 Aug 2023 06:26:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274956244%2Fthumb%2F20230801121248" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274956244%2Fthumb%2F20230801121248" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 부당함에 맞서는 일병 안준호, 그리고 병장 한호열 | D.P. 시즌 2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Jul 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F92190669%2Fthumb%2F20230714134709" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 운명의 전학생이 등장했다 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439542974?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439542974?act=clip</guid>
-            <pubDate>Fri, 14 Jul 2023 03:03:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F499266204%2Fthumb%2F20230714103657" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
