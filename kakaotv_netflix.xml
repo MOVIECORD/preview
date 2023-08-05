@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 03:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 04:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 03 Aug 2023 01:25:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1458328423%2Fthumb%2F20230802171536" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 미공개] 한 침대에서 꿀잠 잔 평석❤️희지 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439999967?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439999967?act=clip</guid>
+            <pubDate>Sat, 05 Aug 2023 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F531046988%2Fthumb%2F20230805113124" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너와 함께 있어도 내 마음속엔 다른 사람이 있어 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439685412?act=clip</guid>
             <pubDate>Thu, 20 Jul 2023 01:36:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257346915%2Fthumb%2F20230719195356" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] GP에서 일어난 사건, 손석구와 최현욱의 신경전 | D.P. 시즌 2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Jul 2023 05:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1971447072%2Fthumb%2F20230714134807" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 공식 예고편 #2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439546570?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439546570?act=clip</guid>
-            <pubDate>Fri, 14 Jul 2023 05:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F92190669%2Fthumb%2F20230714134709" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
