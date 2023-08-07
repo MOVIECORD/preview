@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 08:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 09:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 03 Aug 2023 01:25:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1458328423%2Fthumb%2F20230802171536" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스무 살, 첫사랑을 이루어준 직진 고백법💕 | 19/20]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/439999973?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/439999973?act=clip</guid>
+            <pubDate>Mon, 07 Aug 2023 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1357292664%2Fthumb%2F20230805113227" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미공개] 한 침대에서 꿀잠 잔 평석❤️희지 | 19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439794158?act=clip</guid>
             <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F345293834%2Fthumb%2F20230724103402" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F345293834%2Fthumb%2F20230724103402" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 지우 앞에서 다른 여자와 데이트하려는 정윤 | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Jul 2023 03:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1286498007%2Fthumb%2F20230720103043" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀100: 좀비가 되기 전에 하고 싶은 100가지 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439619739?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439619739?act=clip</guid>
-            <pubDate>Mon, 17 Jul 2023 03:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144125485%2Fthumb%2F20230717115541" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
