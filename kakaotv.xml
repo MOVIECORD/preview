@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 07:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 08:25:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<괴짜소년 올리버> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440130243?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440130243?act=clip</guid>
+            <pubDate>Mon, 07 Aug 2023 08:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcdvph60d0o500c4ey61nvfx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248303075%26signature%3Dk0aOJgE1R8LoaExWPQdFd0bltFQ%253D%26ts%3D1691394275" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<파이터 제우스> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440125720?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440031685?act=clip</guid>
             <pubDate>Thu, 03 Aug 2023 02:30:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx025p7och4ryyui39xbyn5h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247936128%26signature%3DRh4bYzx%252Bbcpd3z6sI5G9ij0%252F4Hg%253D%26ts%3D1691027328" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx025p7och4ryyui39xbyn5h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247936128%26signature%3DRh4bYzx%252Bbcpd3z6sI5G9ij0%252F4Hg%253D%26ts%3D1691027328" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<킬러의 레스토랑> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Aug 2023 02:39:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvisj2ax36buukcu8rqqj7075%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247765807%26signature%3DQ%252F1ADvNetaq%252F5S8iljgwlFOEtxI%253D%26ts%3D1690857007" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<스파이 코드명 포춘> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/439984285?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/439984285?act=clip</guid>
-            <pubDate>Tue, 01 Aug 2023 02:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv792kq5g1s4pzuuv0bve4dtl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33247765612%26signature%3DiiQ8dpnW7q8JJ1W8s3b0syGXgGw%253D%26ts%3D1690856812" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
