@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 10:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 08 Aug 2023 02:32:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F62026449%2Fthumb%2F20230808103045" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 생존이 걸린 초고난도 퀘스트 | 좀비버스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440137662?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440137662?act=clip</guid>
+            <pubDate>Tue, 08 Aug 2023 10:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1696229062%2Fthumb%2F20230807213141" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 달달함 한도 초과하는 지우❤정윤 |  19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439819256?act=clip</guid>
             <pubDate>Tue, 25 Jul 2023 01:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1082877124%2Fthumb%2F20230725101057" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1082877124%2Fthumb%2F20230725101057" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀비버스 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1228367763%2Fthumb%2F20230721200302" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정윤과 세연 그리고 지민의 질투를 받는 지우 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439622694?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622694?act=clip</guid>
-            <pubDate>Sat, 22 Jul 2023 05:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1423882173%2Fthumb%2F20230721200151" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
