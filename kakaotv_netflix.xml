@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 10:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 11:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440183850?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440183850?act=clip</guid>
+            <pubDate>Wed, 09 Aug 2023 11:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx1sgc54womceixem7imy8h0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248487133%26signature%3D3F%252FVjJNbpQyvpWs5DYXG7LE1FxY%253D%26ts%3D1691578333" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트 오브 스톤 | 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440176442?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439845663?act=clip</guid>
             <pubDate>Wed, 26 Jul 2023 03:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F909593217%2Fthumb%2F20230726114122" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F909593217%2Fthumb%2F20230726114122" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Jul 2023 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494886066%2Fthumb%2F20230717163930" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 요리는 안 하고 사랑에 빠져버림 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439622698?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622698?act=clip</guid>
-            <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
