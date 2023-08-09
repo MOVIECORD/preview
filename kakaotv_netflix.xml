@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 05:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 06:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 하트 오브 스톤 | 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440176442?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440176442?act=clip</guid>
+            <pubDate>Wed, 09 Aug 2023 06:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1578001709%2Fthumb%2F20230809150801" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 빨간 모자, 여행을 떠나 시체를 만났습니다 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440147303?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439844934?act=clip</guid>
             <pubDate>Wed, 26 Jul 2023 02:38:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F724604264%2Fthumb%2F20230726110133" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F724604264%2Fthumb%2F20230726110133" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 시즌 3 | 2부]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jul 2023 10:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1648678304%2Fthumb%2F20230718182349" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 귀여운 남자가 박력 넘치는 순간 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439622695?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439622695?act=clip</guid>
-            <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1228367763%2Fthumb%2F20230721200302" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
