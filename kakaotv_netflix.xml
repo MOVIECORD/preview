@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 11:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 12:39:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 08 Aug 2023 10:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1696229062%2Fthumb%2F20230807213141" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 사기캐들의 활약상 모음 | 좀비버스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440137661?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440137661?act=clip</guid>
+            <pubDate>Thu, 10 Aug 2023 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F639113058%2Fthumb%2F20230810153516" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 달달함 한도 초과하는 지우❤정윤 |  19/20]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/439845665?act=clip</guid>
             <pubDate>Fri, 28 Jul 2023 03:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1876654315%2Fthumb%2F20230726183037" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1876654315%2Fthumb%2F20230726183037" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 나는 어제 데이트가 불만족스러웠다? | 19/20]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Jul 2023 08:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1201827271%2Fthumb%2F20230717164018" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 나 지금 흔들리고 있어 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439626455?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439626455?act=clip</guid>
-            <pubDate>Mon, 17 Jul 2023 08:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494886066%2Fthumb%2F20230717163930" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
