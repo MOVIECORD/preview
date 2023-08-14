@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 23:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 01:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -132,7 +132,7 @@
             <link>https://tv.naver.com/v/38882452</link>
             <guid>https://tv.naver.com/v/38882452</guid>
             <pubDate>Thu, 10 Aug 2023 01:26:13 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_111/3MSXT_1691567881306fLVvQ_JPEG/452b3440-368a-11ee-8891-80615f0bce16_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/38835797</link>
             <guid>https://tv.naver.com/v/38835797</guid>
             <pubDate>Wed, 09 Aug 2023 01:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_195/akzJL_16914672513252rXjK_JPEG/e3ae5875-359f-11ee-bd68-a0369ffdada0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
