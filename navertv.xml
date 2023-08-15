@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 22:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 23:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['잠' 캐릭터 예고편]]></title>
+            <link>https://tv.naver.com/v/39049968</link>
+            <guid>https://tv.naver.com/v/39049968</guid>
+            <pubDate>Tue, 15 Aug 2023 23:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_188/uOszW_16919979417235Xl7L_PNG/1691997804167.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['사고물건 무서운 방' 60초 예고편]]></title>
             <link>https://tv.naver.com/v/39043503</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_77/t7IVw_16915588595239AOoS_JPEG/89119163-3674-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마에스트로' 스페셜 영상]]></title>
-            <link>https://tv.naver.com/v/38874219</link>
-            <guid>https://tv.naver.com/v/38874219</guid>
-            <pubDate>Wed, 09 Aug 2023 06:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_286/JDZn0_1691558223352i7S5S_JPEG/2ed8417b-3672-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
