@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 07:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/39049968</link>
             <guid>https://tv.naver.com/v/39049968</guid>
             <pubDate>Tue, 15 Aug 2023 23:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[7시간 전]]></content:encoded>
+            <content:encoded><![CDATA[8시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_188/uOszW_16919979417235Xl7L_PNG/1691997804167.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/38965030</link>
             <guid>https://tv.naver.com/v/38965030</guid>
             <pubDate>Fri, 11 Aug 2023 07:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_116/OZcMO_1691735739227vfBGF_JPEG/a68b8ea2-3810-11ee-8891-80615f0bce16_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +212,7 @@
             <link>https://tv.naver.com/v/38877699</link>
             <guid>https://tv.naver.com/v/38877699</guid>
             <pubDate>Wed, 09 Aug 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_116/xO20u_1691562995082r29Wh_JPEG/adb1966c-367e-11ee-aeb5-d4f5ef58ac88_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -220,7 +220,7 @@
             <link>https://tv.naver.com/v/38877327</link>
             <guid>https://tv.naver.com/v/38877327</guid>
             <pubDate>Wed, 09 Aug 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
+            <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_52/PJh1R_16915623807394o6mX_JPEG/153f83ee-367d-11ee-89eb-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Wed, 09 Aug 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_77/t7IVw_16915588595239AOoS_JPEG/89119163-3674-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<한 남자> 스페셜 메이킹 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440342801?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440342801?act=clip</guid>
+            <pubDate>Wed, 16 Aug 2023 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvod2g8yo7p48287x57s84kg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249076762%26signature%3Df63o2HpNqKSGl9c6F8cXW7XXQDs%253D%26ts%3D1692167962" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<경감 매그레> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -405,7 +413,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440219921?act=clip</guid>
             <pubDate>Fri, 11 Aug 2023 02:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp778zasiupssabhg5x22iwt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248623318%26signature%3D7jmZVuND0%252FS%252Big%252Bcpl133FdvkTU%253D%26ts%3D1691714518" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp778zasiupssabhg5x22iwt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248623318%26signature%3D7jmZVuND0%252FS%252Big%252Bcpl133FdvkTU%253D%26ts%3D1691714518" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<피아노 프리즘> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -558,14 +566,6 @@
             <pubDate>Tue, 08 Aug 2023 06:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvic3aedo4vuam07r1687lk4m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248383227%26signature%3DnMgg6LmCr2Haje18I1vuRI49x%252BQ%253D%26ts%3D1691474427" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킬러의 레스토랑> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440150379?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440150379?act=clip</guid>
-            <pubDate>Tue, 08 Aug 2023 04:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvta8n9x3y1gvr61wulfspb5z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248375586%26signature%3DP1xhRhFqm3mEkrUv6%252BCESuTiHWU%253D%26ts%3D1691466786" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 늑대 양에게는 속지 않아 | 공식 예고편(주제가: BTS 'Lights') (카카오TV ─ 넷플릭스)]]></title>
