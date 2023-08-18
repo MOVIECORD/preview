@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 09:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 10:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<악마들> 캐릭터 예고 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440396797?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440396797?act=clip</guid>
+            <pubDate>Fri, 18 Aug 2023 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1m7phjdv7snjngizrb7784a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249259489%26signature%3DlHSsFCSaOtGJ%252FFrJ44tsw6b%252FUis%253D%26ts%3D1692350689" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<거룩한 술꾼의 전설> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440394999?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440370795?act=clip</guid>
             <pubDate>Thu, 17 Aug 2023 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6i62ob7dgxhp2zwwydks8be%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249170032%26signature%3DW7DlJYFIQNBYkXt5ZiqsZ9U3TiE%253D%26ts%3D1692261232" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6i62ob7dgxhp2zwwydks8be%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249170032%26signature%3DW7DlJYFIQNBYkXt5ZiqsZ9U3TiE%253D%26ts%3D1692261232" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<타겟> 캐릭터 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Aug 2023 04:21:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0zxzh54laknx3lc1dwq0awj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248894258%26signature%3DCK3V4CuFoqZGZJ8qtMhzc9WHtAw%253D%26ts%3D1691985458" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<지스톰:범죄와의전쟁> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440289628?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440289628?act=clip</guid>
-            <pubDate>Mon, 14 Aug 2023 03:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnqsxq3ihn7jnzl1la68icrw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33248890659%26signature%3D5axticN67tdfKNHLRePnFXxzPsI%253D%26ts%3D1691981859" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
