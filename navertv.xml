@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 03:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 04:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['잠' 무비토크]]></title>
+            <link>https://tv.naver.com/v/39193995</link>
+            <guid>https://tv.naver.com/v/39193995</guid>
+            <pubDate>Fri, 18 Aug 2023 04:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[38분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_283/aURKm_1692330142458wAcv3_JPEG/82b8735d-3d78-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서태지 25주년 라이브 타임: 트래블러' 예고편]]></title>
             <link>https://tv.naver.com/v/39192202</link>
             <guid>https://tv.naver.com/v/39192202</guid>
             <pubDate>Fri, 18 Aug 2023 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_247/vQX7b_1692327254977QXcyf_JPEG/2d74a8a2-3d72-11ee-ba0a-48df379cc9e4_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/39191663</link>
             <guid>https://tv.naver.com/v/39191663</guid>
             <pubDate>Fri, 18 Aug 2023 03:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_138/CO2PS_1692326536875TrgwV_JPEG/471f293b-3d70-11ee-9fdc-a0369ffda930_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/39190649</link>
             <guid>https://tv.naver.com/v/39190649</guid>
             <pubDate>Fri, 18 Aug 2023 02:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[57분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_25/7r6GS_1692325160384drq2d_JPEG/4e5a3bb4-3d6d-11ee-bd68-a0369ffdada0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_116/xO20u_1691562995082r29Wh_JPEG/adb1966c-367e-11ee-aeb5-d4f5ef58ac88_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어파이어' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/38877327</link>
-            <guid>https://tv.naver.com/v/38877327</guid>
-            <pubDate>Wed, 09 Aug 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_52/PJh1R_16915623807394o6mX_JPEG/153f83ee-367d-11ee-89eb-d4f5ef5a9532_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
