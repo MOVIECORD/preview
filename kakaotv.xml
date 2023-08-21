@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 05:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 06:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<적인걸 : 구층루살인> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440461486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440461486?act=clip</guid>
+            <pubDate>Mon, 21 Aug 2023 06:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyffwm2k9exvyqd2zwxgvj9v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249507703%26signature%3D7mBqmBdN2bHzSv8Git1u0Ux%252Bdgs%253D%26ts%3D1692598903" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<그란 투리스모> 꿈을 현실로 만든 실화 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440459414?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440386572?act=clip</guid>
             <pubDate>Fri, 18 Aug 2023 03:17:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsl66qug2h3tbwp23cm8wa8s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249234774%26signature%3DQVcENjCrfokr4%252Fe5yaqu9ij0vQE%253D%26ts%3D1692325974" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsl66qug2h3tbwp23cm8wa8s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249234774%26signature%3DQVcENjCrfokr4%252Fe5yaqu9ij0vQE%253D%26ts%3D1692325974" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<마브카 : 숲의 노래> 론칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 17 Aug 2023 01:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvive43go724vizc43tukpy0u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249143305%26signature%3DAhsie12cJS0PCbm6P9t%252BA3n6jPY%253D%26ts%3D1692234505" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<잠> 동상이몽 캐릭터 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440360494?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440360494?act=clip</guid>
-            <pubDate>Thu, 17 Aug 2023 01:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvrw9op0y2lclm7bdd49recn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249143094%26signature%3DWl05ogv2EBRiJYxyTjan48k45QU%253D%26ts%3D1692234294" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
