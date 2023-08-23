@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 01:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 02:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] Rebel Moon | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440504949?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440504949?act=clip</guid>
+            <pubDate>Wed, 23 Aug 2023 02:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1760214530%2Fthumb%2F20230823110758" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 마스크걸을 향한 처절한 복수의 밤 | 마스크걸]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440493870?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440124366?act=clip</guid>
             <pubDate>Mon, 07 Aug 2023 04:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F121314746%2Fthumb%2F20230807123522" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F121314746%2Fthumb%2F20230807123522" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 한마 바키 시즌 2 | 공식 예고편 #2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F345293834%2Fthumb%2F20230724103402" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 지우 앞에서 다른 여자와 데이트하려는 정윤 | 19/20]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439793602?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439793602?act=clip</guid>
-            <pubDate>Mon, 24 Jul 2023 01:39:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F752146218%2Fthumb%2F20230724100013" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
