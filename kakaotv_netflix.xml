@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 01:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 24 Aug 2023 02:22:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1109875297%2Fthumb%2F20230824110555" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440529166?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440529166?act=clip</guid>
+            <pubDate>Fri, 25 Aug 2023 01:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F357940001%2Fthumb%2F20230824104103" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 공식 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440137661?act=clip</guid>
             <pubDate>Thu, 10 Aug 2023 12:39:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F639113058%2Fthumb%2F20230810153516" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F639113058%2Fthumb%2F20230810153516" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀비에게 팀원을 버린 배신자들 | 좀비버스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 25 Jul 2023 01:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1082877124%2Fthumb%2F20230725101057" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 좀비버스 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/439801570?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/439801570?act=clip</guid>
-            <pubDate>Tue, 25 Jul 2023 01:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F696383090%2Fthumb%2F20230724153619" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
