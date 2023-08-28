@@ -4,7 +4,7 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 23:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 01:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 25 Aug 2023 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_124/hzrbo_1692951593265IAO5S_JPEG/7c346615-431f-11ee-9dce-a0369ffdb7e8_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['한 남자' 의문의 캐릭터 영상]]></title>
+            <link>https://tv.naver.com/v/39461564</link>
+            <guid>https://tv.naver.com/v/39461564</guid>
+            <pubDate>Mon, 28 Aug 2023 01:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_136/JOyIh_16929486685754DUUn_PNG/1692948663176.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['밀수' 캐릭터 갭차이 영상]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 02:22:27 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_131/vDbJM_16927571884738IhX6_JPEG/f9cc4568-415a-11ee-b864-505dac8c37f3_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신체모음.zip' 사이비 종교 단체, 그것이 알고 싶다 영상]]></title>
-            <link>https://tv.naver.com/v/39357151</link>
-            <guid>https://tv.naver.com/v/39357151</guid>
-            <pubDate>Wed, 23 Aug 2023 02:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_145/ASWyr_1692756077317Adbi2_JPEG/4b311841-4158-11ee-97c6-505dac8c385b_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
