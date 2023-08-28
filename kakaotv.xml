@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 05:19:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 06:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<잠> NO 스포일러! 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440627028?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440627028?act=clip</guid>
+            <pubDate>Mon, 28 Aug 2023 06:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnr0ew88evay7amh53sqdk3c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250111517%26signature%3DWXMDXvu7dq2yiGpm7EI2sbsXZq4%253D%26ts%3D1693202717" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<밀수> 해녀 메이킹 모음 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440621008?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440531805?act=clip</guid>
             <pubDate>Thu, 24 Aug 2023 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqub11ggvh8m286diwopq43b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249759582%26signature%3D9lXmHDhPlOj5IMCuIgMaQIEchY4%253D%26ts%3D1692850782" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqub11ggvh8m286diwopq43b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249759582%26signature%3D9lXmHDhPlOj5IMCuIgMaQIEchY4%253D%26ts%3D1692850782" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<이노센트> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 23 Aug 2023 02:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgxdxz58qmxj3sslfi6w010o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249662042%26signature%3D1UnswzbAAI3%252FQzUEGSGOjtp6opg%253D%26ts%3D1692753242" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<신체모음.zip> 사이비 종교 단체, 그것이 알고 싶다 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440504048?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440504048?act=clip</guid>
-            <pubDate>Wed, 23 Aug 2023 01:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvfebe2xefgj9tcy2tybjtmy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249661456%26signature%3DRBmz6YSycgBN0r9hydZ%252FBLzCYY0%253D%26ts%3D1692752656" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
