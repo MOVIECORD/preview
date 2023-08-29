@@ -4,9 +4,17 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 23:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 01:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['거미집' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/39557425</link>
+            <guid>https://tv.naver.com/v/39557425</guid>
+            <pubDate>Tue, 29 Aug 2023 01:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[13분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_118/GVE5t_1693215155590mwiMT_JPEG/99b7f2b8-4585-11ee-8ba9-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['밀수' 밀수즈가 소개하는 류승완 감독]]></title>
             <link>https://tv.naver.com/v/39466313</link>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/39461564</link>
             <guid>https://tv.naver.com/v/39461564</guid>
             <pubDate>Mon, 28 Aug 2023 01:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[22시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_136/JOyIh_16929486685754DUUn_PNG/1692948663176.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/39456695</link>
             <guid>https://tv.naver.com/v/39456695</guid>
             <pubDate>Mon, 28 Aug 2023 02:24:12 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[23시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_117/7ykGk_1692943420145DbNi4_PNG/1692943375914.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 03:17:34 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_13/b4GdR_1692759524189wMW3G_JPEG/95ae5548-4160-11ee-9178-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강변의 무코리타' 배우 인사 영상]]></title>
-            <link>https://tv.naver.com/v/39359006</link>
-            <guid>https://tv.naver.com/v/39359006</guid>
-            <pubDate>Wed, 23 Aug 2023 03:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_184/jlH6f_1692758937848aaJkq_JPEG/4f9e7fe9-415f-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
