@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 23:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 01:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<생츄어리: 마법의 소원나무> 에듀벤처 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440671229?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440671229?act=clip</guid>
+            <pubDate>Wed, 30 Aug 2023 01:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwcxid6rr060u7nes5zwrs9l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250266715%26signature%3DRO1cuR7IMyzV0609s5VVvI%252FTF%252B0%253D%26ts%3D1693357915" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<드림쏭2> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440647511?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440554375?act=clip</guid>
             <pubDate>Fri, 25 Aug 2023 03:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvowzp3ncfn7udk6njytzpoyy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249839537%26signature%3D%252BOSBwyUfD2MDea3eHegiDUabQ64%253D%26ts%3D1692930737" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvowzp3ncfn7udk6njytzpoyy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249839537%26signature%3D%252BOSBwyUfD2MDea3eHegiDUabQ64%253D%26ts%3D1692930737" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<차박- 살인과 낭만의 밤> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 23 Aug 2023 03:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2covyx5xdvtyuxpqfqceivm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249667022%26signature%3DIYr9xu4qMGa4XU4RVod9FM%252B6bfw%253D%26ts%3D1692758222" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그루카 용병: 전설의 시작> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440505625?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440505625?act=clip</guid>
-            <pubDate>Wed, 23 Aug 2023 03:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfff90merhfwxemnvfvifk05%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249666144%26signature%3DQcfvHRMxarmV9u%252FuKU8YEzQMORU%253D%26ts%3D1692757344" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
