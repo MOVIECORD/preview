@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 03:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 04:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<가문의 영광: 리턴즈> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440673721?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440673721?act=clip</guid>
+            <pubDate>Wed, 30 Aug 2023 04:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbdvyrgmgy0n32vtuo74rnbs%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250274412%26signature%3DQXpOAAAoYXRrJkplS3KcqRUNFTM%253D%26ts%3D1693365612" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<물꽃의 전설> 에바 알머슨 축하 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440673676?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440562221?act=clip</guid>
             <pubDate>Fri, 25 Aug 2023 09:16:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzn66uu0x6miydni5oscsmsu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249861776%26signature%3D%252Fq7%252FHN4LzD83ZZlxq7bBALt57jA%253D%26ts%3D1692952976" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzn66uu0x6miydni5oscsmsu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249861776%26signature%3D%252Fq7%252FHN4LzD83ZZlxq7bBALt57jA%253D%26ts%3D1692952976" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나의 그리스식 웨딩 3> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 24 Aug 2023 02:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1496739146%2Fthumb%2F20230824104751" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<어느 멋진 아침> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440528454?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440528454?act=clip</guid>
-            <pubDate>Thu, 24 Aug 2023 01:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfv4ict7d4e8jsjgnoxy7pot%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33249747885%26signature%3DCLkwYgIQ0S8Skmv8QJaZSU2Q6sU%253D%26ts%3D1692839085" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
