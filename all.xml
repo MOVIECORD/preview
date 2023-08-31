@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>https://tv.naver.com/v/39675900</link>
             <guid>https://tv.naver.com/v/39675900</guid>
             <pubDate>Thu, 31 Aug 2023 04:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[2시간 전]]></content:encoded>
+            <content:encoded><![CDATA[3시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230831_287/Rmq8z_1693453270013uWHNP_JPEG/c62338d0-47af-11ee-8891-80615f0bce16_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/39642273</link>
             <guid>https://tv.naver.com/v/39642273</guid>
             <pubDate>Thu, 31 Aug 2023 01:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[6시간 전]]></content:encoded>
+            <content:encoded><![CDATA[7시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_13/YOZIJ_1693380134268AUVz4_JPEG/b4af26cb-4705-11ee-b864-505dac8c37f3_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/39595668</link>
             <guid>https://tv.naver.com/v/39595668</guid>
             <pubDate>Tue, 29 Aug 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_136/9UNQE_1693292446114yUNyG_JPEG/820e00f6-4639-11ee-bd08-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/39595274</link>
             <guid>https://tv.naver.com/v/39595274</guid>
             <pubDate>Tue, 29 Aug 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_57/MUlfI_1693291967100LRmop_JPEG/15df1b98-4638-11ee-9178-505dacfba98a_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -236,7 +236,7 @@
             <link>https://tv.naver.com/v/39458222</link>
             <guid>https://tv.naver.com/v/39458222</guid>
             <pubDate>Fri, 25 Aug 2023 07:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_186/tDp2J_16929450895025gYYV_JPEG/88859e6e-4310-11ee-89eb-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Fri, 25 Aug 2023 06:22:24 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_249/7LC16_1692944192806IRJck_JPEG/4f629dfb-430e-11ee-9dce-a0369ffdb7e8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 티저 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440701896?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440701896?act=clip</guid>
+            <pubDate>Thu, 31 Aug 2023 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfe1gqlmujof3ojosv3mh94y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250371861%26signature%3DhavOyPm6C6DiHxXUsJjU7K18A%252FE%253D%26ts%3D1693463061" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<잠> 리뷰 예고편 (우리 영화 볼래?)]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 28 Aug 2023 02:24:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz3aiimjxuvyvz857aamwjx7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250095689%26signature%3DnA%252FeQXGvTyZ8YfN4oTEy%252FHMC1yk%253D%26ts%3D1693186889" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 티저 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440620569?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440620569?act=clip</guid>
-            <pubDate>Mon, 28 Aug 2023 02:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvynp9m3gx5d71hfzj21igs39%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250095498%26signature%3DgLBDVA7tmOQZbSSU7XFztQCm9Ls%253D%26ts%3D1693186698" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<밀수> 밀수즈가 소개하는 류승완 감독 영상 (우리 영화 볼래?)]]></title>
