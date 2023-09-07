@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Sep 2023 23:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 01:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 발레리나 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440847725?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440847725?act=clip</guid>
+            <pubDate>Thu, 07 Sep 2023 01:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1886028270%2Fthumb%2F20230906194212" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 3 지난 줄거리 | 밀번 박사의 돌아온 상담 시간]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440836416?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440493828?act=clip</guid>
             <pubDate>Tue, 22 Aug 2023 12:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1161078200%2Fthumb%2F20230822203059" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1161078200%2Fthumb%2F20230822203059" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 탈피(렙타일) | 베니시오 델 토로 & 저스틴 팀버레이크 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Aug 2023 04:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F207277068%2Fthumb%2F20230807123443" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마스크걸 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440015367?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440015367?act=clip</guid>
-            <pubDate>Thu, 03 Aug 2023 01:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1458328423%2Fthumb%2F20230802171536" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
