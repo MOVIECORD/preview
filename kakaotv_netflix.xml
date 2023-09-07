@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 01:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 02:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 뤼팽: 파트 3 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440859809?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440859809?act=clip</guid>
+            <pubDate>Thu, 07 Sep 2023 02:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2045635946%2Fthumb%2F20230907102019" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440847725?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440493870?act=clip</guid>
             <pubDate>Tue, 22 Aug 2023 12:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1809716792%2Fthumb%2F20230822203259" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1809716792%2Fthumb%2F20230822203259" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 염혜란이 마스크걸을 찾아내야만 했던 이유 | 마스크걸]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 07 Aug 2023 04:21:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F121314746%2Fthumb%2F20230807123522" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 한마 바키 시즌 2 | 공식 예고편 #2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440124365?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440124365?act=clip</guid>
-            <pubDate>Mon, 07 Aug 2023 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F207277068%2Fthumb%2F20230807123443" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
