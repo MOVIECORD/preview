@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 08:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/440892760?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/440892760?act=clip</guid>
+            <pubDate>Fri, 08 Sep 2023 08:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj6r4re83tjjqcmlfpdo3in7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251069842%26signature%3DA28hdmM5ZCfTtVplNsTz8bX8SEw%253D%26ts%3D1694161042" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<크리에이터> ‘AI, 인간적인가 인간의 적인가’ 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440889776?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440839202?act=clip</guid>
             <pubDate>Wed, 06 Sep 2023 04:20:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdl8uqbpwkj8c4d986quhig6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250881115%26signature%3DagMqSyhpXiu1e0edGdL%252F%252FFbt8QM%253D%26ts%3D1693972315" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdl8uqbpwkj8c4d986quhig6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250881115%26signature%3DagMqSyhpXiu1e0edGdL%252F%252FFbt8QM%253D%26ts%3D1693972315" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<콘크리트 유토피아> 본편 무삭제 클립_이병헌 애드리브 영상(feat. 수신제가치국평천하)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Sep 2023 02:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh1gyrrogneqbe9l9rcixsfj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250785196%26signature%3DIVRjY91Hh97Ir9r%252F7uQsKPPvxlI%253D%26ts%3D1693876396" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<절해고도> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440812229?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440812229?act=clip</guid>
-            <pubDate>Tue, 05 Sep 2023 01:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8kj2qhj0vgz8apbtp943l0h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33250785006%26signature%3DspFWTOyyfWP5x7uQCwSBMZD19nY%253D%26ts%3D1693876206" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 08:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440891298?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440891298?act=clip</guid>
+            <pubDate>Fri, 08 Sep 2023 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F298634477%2Fthumb%2F20230908161726" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 그토록 그리던 죽은 옛 연인을 다시 만난 전여빈 | 너의 시간 속으로]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440890968?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440504949?act=clip</guid>
             <pubDate>Wed, 23 Aug 2023 02:22:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1760214530%2Fthumb%2F20230823110758" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1760214530%2Fthumb%2F20230823110758" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마스크걸 | 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 02:32:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1274244200%2Fthumb%2F20230807175456" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 | 시즌 2 현재 제작 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440124368?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440124368?act=clip</guid>
-            <pubDate>Mon, 07 Aug 2023 04:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F109153457%2Fthumb%2F20230807123622" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

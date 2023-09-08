@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 07:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 08:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['스크래퍼' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/40026445</link>
+            <guid>https://tv.naver.com/v/40026445</guid>
+            <pubDate>Fri, 08 Sep 2023 08:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[방금 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_49/dIum2_1694161242669eixqy_JPEG/30bcbf77-4e20-11ee-89eb-d4f5ef5a9532_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['엑소시스트: 믿는 자' 2차 예고편]]></title>
             <link>https://tv.naver.com/v/40021484</link>
             <guid>https://tv.naver.com/v/40021484</guid>
             <pubDate>Fri, 08 Sep 2023 07:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_59/aKy05_1694155429141q80lY_JPEG/bd10f6ed-4e11-11ee-b7d3-a0369ffac6ac_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/40005860</link>
             <guid>https://tv.naver.com/v/40005860</guid>
             <pubDate>Fri, 08 Sep 2023 02:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[5시간 전]]></content:encoded>
+            <content:encoded><![CDATA[6시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_267/Vq9Gs_1694134896502DGQIJ_PNG/1694134849701.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/39930513</link>
             <guid>https://tv.naver.com/v/39930513</guid>
             <pubDate>Wed, 06 Sep 2023 08:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230906_200/Ezl5O_1693987755235OnBw5_JPEG/ed0a7fb3-4c8a-11ee-9a63-a0369ffdb4b0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://tv.naver.com/v/39927940</link>
             <guid>https://tv.naver.com/v/39927940</guid>
             <pubDate>Wed, 06 Sep 2023 08:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[1일 전]]></content:encoded>
+            <content:encoded><![CDATA[2일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230906_112/h742T_1693985464222bkUa3_JPEG/e90a02a4-4c86-11ee-a2d6-80615f0bcc12_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/39879344</link>
             <guid>https://tv.naver.com/v/39879344</guid>
             <pubDate>Tue, 05 Sep 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_261/YTVCk_1693902057471aQUEF_JPEG/d0443c02-4bc4-11ee-8382-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -156,7 +164,7 @@
             <link>https://tv.naver.com/v/39878919</link>
             <guid>https://tv.naver.com/v/39878919</guid>
             <pubDate>Tue, 05 Sep 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_59/BzhLZ_1693901686329fvOAq_JPEG/d6880be6-4bc3-11ee-a9b6-80615f0bcd26_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +172,7 @@
             <link>https://tv.naver.com/v/39877948</link>
             <guid>https://tv.naver.com/v/39877948</guid>
             <pubDate>Tue, 05 Sep 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_265/ln2H4_1693900874052zp9LK_JPEG/13c37850-4bc2-11ee-968b-80615f0bccec_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -172,7 +180,7 @@
             <link>https://tv.naver.com/v/39877507</link>
             <guid>https://tv.naver.com/v/39877507</guid>
             <pubDate>Tue, 05 Sep 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_236/ylggt_1693900495720WMs86_JPEG/373fbfda-4bc1-11ee-8891-80615f0bce16_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/39876686</link>
             <guid>https://tv.naver.com/v/39876686</guid>
             <pubDate>Tue, 05 Sep 2023 08:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_13/RGwEM_1693899770618CcxoS_JPEG/43a7ef5e-4bbf-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Sep 2023 03:18:37 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_85/DCNxr_1693881331005KBJmK_JPEG/996d3d34-4b94-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여름을 향한 터널, 이별의 출구' '찬란한 여름날' 예고편]]></title>
-            <link>https://tv.naver.com/v/39860334</link>
-            <guid>https://tv.naver.com/v/39860334</guid>
-            <pubDate>Tue, 05 Sep 2023 02:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_59/bp6jj_1693879728680EpqjX_JPEG/3e581e22-4b90-11ee-8608-a0369ffb31a0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
