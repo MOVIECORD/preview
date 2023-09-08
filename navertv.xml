@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 06:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 07:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['엑소시스트: 믿는 자' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/40021484</link>
+            <guid>https://tv.naver.com/v/40021484</guid>
+            <pubDate>Fri, 08 Sep 2023 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_59/aKy05_1694155429141q80lY_JPEG/bd10f6ed-4e11-11ee-b7d3-a0369ffac6ac_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['30일' 캐릭터 예고편]]></title>
             <link>https://tv.naver.com/v/40005860</link>
             <guid>https://tv.naver.com/v/40005860</guid>
             <pubDate>Fri, 08 Sep 2023 02:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_267/Vq9Gs_1694134896502DGQIJ_PNG/1694134849701.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -180,7 +188,7 @@
             <link>https://tv.naver.com/v/39874269</link>
             <guid>https://tv.naver.com/v/39874269</guid>
             <pubDate>Tue, 05 Sep 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_21/nfxhu_1693897140657n5bya_JPEG/69798b2a-4bb9-11ee-ac75-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/39873982</link>
             <guid>https://tv.naver.com/v/39873982</guid>
             <pubDate>Tue, 05 Sep 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_55/fawAq_1693896876258Mk5Hq_JPEG/f585d0b3-4bb7-11ee-9244-a0369ffde9a8_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Sep 2023 02:21:21 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_59/bp6jj_1693879728680EpqjX_JPEG/3e581e22-4b90-11ee-8608-a0369ffb31a0_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['절해고도' 예고편]]></title>
-            <link>https://tv.naver.com/v/39858812</link>
-            <guid>https://tv.naver.com/v/39858812</guid>
-            <pubDate>Tue, 05 Sep 2023 02:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_268/xfbnh_16938776892389aL44_JPEG/d3631f45-4b8b-11ee-9416-48df379cca40_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
