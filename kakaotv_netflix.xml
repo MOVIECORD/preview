@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 23:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 01:13:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 11 Sep 2023 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F86841505%2Fthumb%2F20230908171059" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 데블스 플랜 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/440892534?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/440892534?act=clip</guid>
+            <pubDate>Tue, 12 Sep 2023 01:13:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F36866139%2Fthumb%2F20230908171116" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440553588?act=clip</guid>
             <pubDate>Fri, 25 Aug 2023 02:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F54244255%2Fthumb%2F20230825105302" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F54244255%2Fthumb%2F20230825105302" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지구 위의 생명 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 08 Aug 2023 02:32:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F62026449%2Fthumb%2F20230808103045" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 생존이 걸린 초고난도 퀘스트 | 좀비버스]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440137662?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440137662?act=clip</guid>
-            <pubDate>Tue, 08 Aug 2023 10:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1696229062%2Fthumb%2F20230807213141" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
