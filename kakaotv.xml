@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 06:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 07:16:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 넌 2> 악마의 귀환 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441004336?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441004336?act=clip</guid>
+            <pubDate>Wed, 13 Sep 2023 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9y03jkclzxeavztjhm8x0sa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251497031%26signature%3D2NUiT7J2Jr%252Fm%252Bc3YmtpRp3yyPmo%253D%26ts%3D1694588231" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<화사한 그녀> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441002771?act=clip</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvzguzvoagau51d8l70z68zg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251480921%26signature%3DPBws4o1%252B0ag%252FvFTbrHdod2y%252BWO4%253D%26ts%3D1694572121" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<죽음과의 계약> 예고편]]></title>
+            <title><![CDATA[<죽음과의 계약> [청불] 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/440998471?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/440998471?act=clip</guid>
             <pubDate>Wed, 13 Sep 2023 02:24:08 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440974444?act=clip</guid>
             <pubDate>Tue, 12 Sep 2023 02:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6w4ypq9rhpuy4j56pe3cx3o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251392562%26signature%3DBCJOelg1GXvztX%252BNUVx5S6POTsM%253D%26ts%3D1694483762" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6w4ypq9rhpuy4j56pe3cx3o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251392562%26signature%3DBCJOelg1GXvztX%252BNUVx5S6POTsM%253D%26ts%3D1694483762" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스파이 코드명 포춘> 파이널 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Sep 2023 08:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj6r4re83tjjqcmlfpdo3in7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251069842%26signature%3DA28hdmM5ZCfTtVplNsTz8bX8SEw%253D%26ts%3D1694161042" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<크리에이터> ‘AI, 인간적인가 인간의 적인가’ 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440889776?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440889776?act=clip</guid>
-            <pubDate>Fri, 08 Sep 2023 06:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf8di3plix4ao0b6m04u9k8a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251062738%26signature%3D%252FZ1rUFPazlGdpIPe7LCkyDAn3dI%253D%26ts%3D1694153938" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
