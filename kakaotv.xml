@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 07:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 08:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<용감한 시민> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441029646?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441029646?act=clip</guid>
+            <pubDate>Thu, 14 Sep 2023 08:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7lkdkgjyn8fi6xldz0hfodc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251586347%26signature%3DMQIyUe2Lmf5oSNC3DtchB%252Fheg9Y%253D%26ts%3D1694677547" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<세이 예스 어게인> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441025542?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/440997882?act=clip</guid>
             <pubDate>Wed, 13 Sep 2023 02:24:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkxix9ahgbcsk2le431k4563%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251478342%26signature%3DyIJmADOZV3j2pOgGfu1vNJ4HTeA%253D%26ts%3D1694569542" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkxix9ahgbcsk2le431k4563%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251478342%26signature%3DyIJmADOZV3j2pOgGfu1vNJ4HTeA%253D%26ts%3D1694569542" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<투 브라더스: 더블린 스토리> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Sep 2023 03:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5upnse85q9q4vw480306ol%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251315894%26signature%3DGQ7nnNUIBb8ChVRSR%252BMIqs8Pt2o%253D%26ts%3D1694407094" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<폭로> 30초 예고편 '본드 살인사건의 진실']]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440953586?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440953586?act=clip</guid>
-            <pubDate>Tue, 12 Sep 2023 03:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5yx6mcbv91htm0sx9dcxmkn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251315902%26signature%3D6XrDS3GhtANEDo1rs%252B%252FJbETc8zU%253D%26ts%3D1694407102" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
