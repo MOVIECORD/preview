@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 23:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 01:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 원피스 | 시즌 2 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441046413?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441046413?act=clip</guid>
+            <pubDate>Fri, 15 Sep 2023 01:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610742174%2Fthumb%2F20230915100125" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/440997055?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440671243?act=clip</guid>
             <pubDate>Wed, 30 Aug 2023 02:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1627974528%2Fthumb%2F20230830101456" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1627974528%2Fthumb%2F20230830101456" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 두 남자를 진땀 나게 만든 대만 속옷가게 | 성+인물: 대만 편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Aug 2023 02:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1607521471%2Fthumb%2F20230814105950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440183850?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440183850?act=clip</guid>
-            <pubDate>Fri, 11 Aug 2023 01:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1758042881%2Fthumb%2F20230809201554" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
