@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 02:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 03:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에브리씽 에브리웨어 올 앳 원스> 1주년 기념 특별 동영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441048572?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441048572?act=clip</guid>
+            <pubDate>Fri, 15 Sep 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4su9tzil454fwairlypf9be%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251654107%26signature%3D6HAvD0bdlv3OW4PGNSQOGpWHtT0%253D%26ts%3D1694745307" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<80일간의 세계일주> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441048221?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441004824?act=clip</guid>
             <pubDate>Wed, 13 Sep 2023 08:22:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviobfa2gutv158xv4oxu4ktt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251498425%26signature%3DauB%252Flog4HTJpNUVz158RC2UkLz0%253D%26ts%3D1694589625" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviobfa2gutv158xv4oxu4ktt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251498425%26signature%3DauB%252Flog4HTJpNUVz158RC2UkLz0%253D%26ts%3D1694589625" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 넌 2> 악마의 귀환 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Sep 2023 02:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvho5lbcq0by9opq1svozjkge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251392693%26signature%3DL8az42BluOYrAN10xkdOMAZtDBg%253D%26ts%3D1694483893" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<기억해, 우리가 사랑한 시간> 캐릭터 티저 예고편_허광한 편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440974444?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440974444?act=clip</guid>
-            <pubDate>Tue, 12 Sep 2023 02:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6w4ypq9rhpuy4j56pe3cx3o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251392562%26signature%3DBCJOelg1GXvztX%252BNUVx5S6POTsM%253D%26ts%3D1694483762" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
