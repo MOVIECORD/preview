@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 17:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 18:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['프로즌 밸리' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/40431440</link>
+            <guid>https://tv.naver.com/v/40431440</guid>
+            <pubDate>Mon, 18 Sep 2023 18:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[43분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_200/ZrpbE_16950588064090FHGA_JPEG/e113da64-5649-11ee-bae1-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['괴담만찬' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/40430386</link>
             <guid>https://tv.naver.com/v/40430386</guid>
             <pubDate>Mon, 18 Sep 2023 17:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[34분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_282/P6bT8_1695055349204vhVCx_JPEG/d0d9034a-5641-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/40430056</link>
             <guid>https://tv.naver.com/v/40430056</guid>
             <pubDate>Mon, 18 Sep 2023 16:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[53분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_28/maN6a_16950542177766swd4_JPEG/0aafb6c2-563f-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/40429314</link>
             <guid>https://tv.naver.com/v/40429314</guid>
             <pubDate>Mon, 18 Sep 2023 16:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_280/wbYnn_1695052551796j61id_JPEG/b45c21cf-563b-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/40402991</link>
             <guid>https://tv.naver.com/v/40402991</guid>
             <pubDate>Mon, 18 Sep 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_138/fX0u7_1695019262533n52Lj_JPEG/1c071eeb-55ee-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/40401909</link>
             <guid>https://tv.naver.com/v/40401909</guid>
             <pubDate>Mon, 18 Sep 2023 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[10시간 전]]></content:encoded>
+            <content:encoded><![CDATA[11시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_179/GCkHR_1695018250042K3cVU_JPEG/9d322a01-55eb-11ee-8224-a0369ffac2a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/40387967</link>
             <guid>https://tv.naver.com/v/40387967</guid>
             <pubDate>Mon, 18 Sep 2023 02:24:37 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_272/2bGPi_1694999178510GAGQo_PNG/1694999172485.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Sep 2023 09:18:59 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_202/Xuqt1_16946813340226YtHz_JPEG/11b60147-52db-11ee-95cd-a0369ffbf8a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['80일간의 세계일주' 티저 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/40261726</link>
-            <guid>https://tv.naver.com/v/40261726</guid>
-            <pubDate>Thu, 14 Sep 2023 07:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_214/Kf2Il_1694675500468uoQTd_JPEG/8911c3b8-52cd-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴담만찬> 메인 예고편 (우리 영화 볼래?)]]></title>
