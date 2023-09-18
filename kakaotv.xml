@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 04:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 05:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<킴스 비디오> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441120639?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441120639?act=clip</guid>
+            <pubDate>Mon, 18 Sep 2023 05:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0dbgp2bhpcvctctuvuivzcg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251920146%26signature%3DiSIWU2FG7xPASnFrW%252BDUFhFMhMA%253D%26ts%3D1695011346" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<베니스 유령 살인사건> 극강의 서스펜스 제작기 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441056198?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441021165?act=clip</guid>
             <pubDate>Thu, 14 Sep 2023 01:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva0jn4br2luqc9x938xp4fwg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251561819%26signature%3Djl03Q0TFnxnciWxn8WQQxB0fdcg%253D%26ts%3D1694653019" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva0jn4br2luqc9x938xp4fwg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251561819%26signature%3Djl03Q0TFnxnciWxn8WQQxB0fdcg%253D%26ts%3D1694653019" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 엉덩이 탐정: 미스터리 가면 ~최강의 대결> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 12 Sep 2023 09:17:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcxpitwsig9s2qtau904i1fo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251417100%26signature%3D0MQdNUob9qcR3W%252FfPRY%252B3No00B4%253D%26ts%3D1694508300" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<당나귀 EO> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/440980458?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/440980458?act=clip</guid>
-            <pubDate>Tue, 12 Sep 2023 07:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwy6apm097z0cmrq2uo8q5e8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33251410013%26signature%3DQWqgIyrdPF89EveHgCnriroQnJc%253D%26ts%3D1694501213" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
