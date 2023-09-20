@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 23:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 01:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 발레리나 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441148100?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441148100?act=clip</guid>
+            <pubDate>Wed, 20 Sep 2023 01:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1730020660%2Fthumb%2F20230919155858" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 베를린 | 공개일 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441141708?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440798805?act=clip</guid>
             <pubDate>Mon, 04 Sep 2023 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F253475179%2Fthumb%2F20230904185950" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F253475179%2Fthumb%2F20230904185950" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 9월 신작 소개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 21 Aug 2023 07:16:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:04]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1138195257%2Fthumb%2F20230821155849" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마스크걸 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440387036?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440387036?act=clip</guid>
-            <pubDate>Fri, 18 Aug 2023 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F12218976%2Fthumb%2F20230818114720" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
