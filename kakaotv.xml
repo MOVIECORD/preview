@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 08:23:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<팟 제너레이션> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441221628?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441221628?act=clip</guid>
+            <pubDate>Fri, 22 Sep 2023 08:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlckzicfgvmsw36d6vsdsine%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252278478%26signature%3DYSIyRwWXqgOd0ANF477kI9EFcWg%253D%26ts%3D1695369678" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 넌 2> 다시 시작된 공포]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441219670?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441189561?act=clip</guid>
             <pubDate>Thu, 21 Sep 2023 02:23:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxbvt2gbn5a8o4fbmedwx835%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252168730%26signature%3DdJsj3OVep2FFUdUw%252FLWB0T4IQEU%253D%26ts%3D1695259930" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxbvt2gbn5a8o4fbmedwx835%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252168730%26signature%3DdJsj3OVep2FFUdUw%252FLWB0T4IQEU%253D%26ts%3D1695259930" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<닥터 애쉬그로브> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 19 Sep 2023 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1g2n4lls6uv7xpw6f8ji00p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252013048%26signature%3D68jLd1Zt0y6U3Dj%252FTjYZ9mwmuuo%253D%26ts%3D1695104248" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<힙노틱> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441144768?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441144768?act=clip</guid>
-            <pubDate>Tue, 19 Sep 2023 04:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgiukvwkfgp9tv1h6cti1vc3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252005109%26signature%3DHi%252FiJOCJw%252BtptgcQN44qkyWgZlg%253D%26ts%3D1695096309" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
