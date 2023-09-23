@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 11:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 12:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 19 Sep 2023 02:24:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F902470948%2Fthumb%2F20230918180603" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 독립군이냐고요? 아뇨 우리는 도적인데요ㅎ | 도적: 칼의 소리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441123419?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123419?act=clip</guid>
+            <pubDate>Sat, 23 Sep 2023 12:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1820757933%2Fthumb%2F20230920113732" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 포병대 올킬하는 저승사자 김남길 | 도적: 칼의 소리]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440892534?act=clip</guid>
             <pubDate>Tue, 12 Sep 2023 01:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F36866139%2Fthumb%2F20230908171116" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F36866139%2Fthumb%2F20230908171116" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 절찬 스트리밍 중]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 25 Aug 2023 01:13:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F357940001%2Fthumb%2F20230824104103" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너의 시간 속으로 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440520649?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440520649?act=clip</guid>
-            <pubDate>Thu, 24 Aug 2023 02:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F920685190%2Fthumb%2F20230823220820" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
