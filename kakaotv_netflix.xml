@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 폭력, 절도 외엔 어떠한 계획도 허용합니다 | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441272439?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441272439?act=clip</guid>
+            <pubDate>Mon, 25 Sep 2023 03:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F471686234%2Fthumb%2F20230925121804" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[그리셀다   공식 티저 예고편   넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441219615?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440892537?act=clip</guid>
             <pubDate>Mon, 11 Sep 2023 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F86841505%2Fthumb%2F20230908171059" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F86841505%2Fthumb%2F20230908171059" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 데블스 플랜 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 24 Aug 2023 02:22:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1109875297%2Fthumb%2F20230824110555" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440529166?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440529166?act=clip</guid>
-            <pubDate>Fri, 25 Aug 2023 01:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F357940001%2Fthumb%2F20230824104103" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 02:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 03:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['키리에의 노래' 티저 예고편]]></title>
+            <link>https://tv.naver.com/v/40681763</link>
+            <guid>https://tv.naver.com/v/40681763</guid>
+            <pubDate>Mon, 25 Sep 2023 03:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_145/FnZVT_1695609971721cwc6I_JPEG/28338b78-5b4d-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['일어나, 레오나드' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/40679642</link>
             <guid>https://tv.naver.com/v/40679642</guid>
             <pubDate>Mon, 25 Sep 2023 02:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_239/HFU6d_1695606799294pAKyH_JPEG/19bd2b1e-5b46-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +92,7 @@
             <link>https://tv.naver.com/v/40590725</link>
             <guid>https://tv.naver.com/v/40590725</guid>
             <pubDate>Fri, 22 Sep 2023 03:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_65/Cp3Va_16953526590589dVJa_JPEG/63f40755-58f6-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +100,7 @@
             <link>https://tv.naver.com/v/40589851</link>
             <guid>https://tv.naver.com/v/40589851</guid>
             <pubDate>Fri, 22 Sep 2023 03:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_105/zAULU_1695351469112blBek_JPEG/a2b98b52-58f3-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 04:20:48 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_24/Mw4lj_1695267562212n9tUu_JPEG/c22cb1bf-582f-11ee-9125-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['섹스 앤 머니' 예고편]]></title>
-            <link>https://tv.naver.com/v/40500652</link>
-            <guid>https://tv.naver.com/v/40500652</guid>
-            <pubDate>Wed, 20 Sep 2023 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_210/iyPqA_1695188509105Uc5AG_JPEG/0246f23a-5778-11ee-b893-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
