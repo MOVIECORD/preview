@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 23:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 01:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 노란문: 세기말 시네필 다이어리 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441287623?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441287623?act=clip</guid>
+            <pubDate>Tue, 26 Sep 2023 01:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F426498358%2Fthumb%2F20230925145144" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441285356?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440985359?act=clip</guid>
             <pubDate>Tue, 12 Sep 2023 11:15:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F551422570%2Fthumb%2F20230912193443" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F551422570%2Fthumb%2F20230912193443" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 동시에 같은 여자를 좋아하게 된 안효섭과 강훈 | 너의 시간 속으로]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 29 Aug 2023 02:52:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1421113699%2Fthumb%2F20230829101943" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 연쇄 살인범이 탈옥할 수 밖에 없었던 이유 | 마스크걸]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440558301?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440558301?act=clip</guid>
-            <pubDate>Fri, 25 Aug 2023 06:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1080415773%2Fthumb%2F20230825150835" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
