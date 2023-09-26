@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<믿을 수 있는 사람> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441314730?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441314730?act=clip</guid>
+            <pubDate>Tue, 26 Sep 2023 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmsk0hdxnvoc24c32sxd0g4t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252625418%26signature%3DxnlUxfiem6MFKaZ48kolCqhZOCA%253D%26ts%3D1695716618" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<잔고: 분노의 적자> ep 1. 서부극 촬영 현장]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441313921?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441290368?act=clip</guid>
             <pubDate>Mon, 25 Sep 2023 09:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6wh3lfe7468bta4hlwbtzy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252536962%26signature%3DUtvnJC4SPmee%252FZK72BfCrsKF7ek%253D%26ts%3D1695628162" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6wh3lfe7468bta4hlwbtzy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252536962%26signature%3DUtvnJC4SPmee%252FZK72BfCrsKF7ek%253D%26ts%3D1695628162" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<위어드> 플레이리스트 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Sep 2023 02:25:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F296594945%2Fthumb%2F20230922102932" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<시카리오: 워 오브 건즈> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441213111?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441213111?act=clip</guid>
-            <pubDate>Fri, 22 Sep 2023 02:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzxnu0z012016irxturxwujp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33252254056%26signature%3D9tmRDIcfCWJyncsKuEhef3BP2n0%253D%26ts%3D1695345256" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

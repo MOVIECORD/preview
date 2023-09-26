@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 거짓말, 연기, 의심! 혼돈의 첫 번째 게임 공개 | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441301560?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441301560?act=clip</guid>
+            <pubDate>Tue, 26 Sep 2023 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F996496697%2Fthumb%2F20230926180303" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 노란문: 세기말 시네필 다이어리 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441287623?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440997035?act=clip</guid>
             <pubDate>Wed, 13 Sep 2023 02:24:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1067102112%2Fthumb%2F20230913101704" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1067102112%2Fthumb%2F20230913101704" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 잠든 전여빈에게 솔직하게 고백하는 안효섭 | 너의 시간 속으로]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Aug 2023 01:14:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F47454306%2Fthumb%2F20230829142550" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 대만 청춘들이 정의하는 썸의 기준 | 성+인물: 대만 편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440646860?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440646860?act=clip</guid>
-            <pubDate>Tue, 29 Aug 2023 02:52:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1421113699%2Fthumb%2F20230829101943" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
