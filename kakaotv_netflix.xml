@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 04:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 05:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Sep 2023 01:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958750670%2Fthumb%2F20230927101107" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 궤도의 방식에 반감이 들기 시작한 참가자들 | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441328624?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441328624?act=clip</guid>
+            <pubDate>Wed, 27 Sep 2023 05:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F982093376%2Fthumb%2F20230927141219" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 거짓말, 연기, 의심! 혼돈의 첫 번째 게임 공개 | 데블스 플랜]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/440997055?act=clip</guid>
             <pubDate>Wed, 13 Sep 2023 02:24:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F349158097%2Fthumb%2F20230913101750" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F349158097%2Fthumb%2F20230913101750" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 어셔가의 몰락 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Aug 2023 02:22:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1627974528%2Fthumb%2F20230830101456" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 두 남자를 진땀 나게 만든 대만 속옷가게 | 성+인물: 대만 편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440670978?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440670978?act=clip</guid>
-            <pubDate>Wed, 30 Aug 2023 01:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1609109275%2Fthumb%2F20230830095741" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
