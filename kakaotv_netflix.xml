@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 02:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 03:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F248898256%2Fthumb%2F20230922150455" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 이름은 언년이고요. 돈 받고 사람 죽여드려요.🔫 | 도적: 칼의 소리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441123395?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123395?act=clip</guid>
+            <pubDate>Thu, 28 Sep 2023 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1216142911%2Fthumb%2F20230922150530" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] [선공개] 포병대 올킬하는 저승사자 김남길 | 도적: 칼의 소리]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441123359?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441123359?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441046413?act=clip</guid>
             <pubDate>Fri, 15 Sep 2023 01:15:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610742174%2Fthumb%2F20230915100125" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610742174%2Fthumb%2F20230915100125" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 오티스의 비밀 상담소: 시즌 4 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 31 Aug 2023 01:14:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1935284720%2Fthumb%2F20230831100621" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 더 킬러 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440671243?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440671243?act=clip</guid>
-            <pubDate>Wed, 30 Aug 2023 02:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1627974528%2Fthumb%2F20230830101456" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
