@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 07:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,6 +176,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1183900485%2Fthumb%2F20230920113619" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 일본군 싸게싸게 거시기해버리는 도적단 | 도적: 칼의 소리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</guid>
+            <pubDate>Sat, 30 Sep 2023 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1186580968%2Fthumb%2F20230922150606" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</guid>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Sep 2023 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F253475179%2Fthumb%2F20230904185950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 9월 신작 소개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440723926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440723926?act=clip</guid>
-            <pubDate>Fri, 01 Sep 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F58460707%2Fthumb%2F20230901122904" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 07:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 08:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://tv.naver.com/v/40784103</link>
             <guid>https://tv.naver.com/v/40784103</guid>
             <pubDate>Wed, 27 Sep 2023 08:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_130/1Q8Ci_1695800560286KW3ax_JPEG/56ade67a-5d09-11ee-ba6d-80615f0bcdae_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +28,7 @@
             <link>https://tv.naver.com/v/40783542</link>
             <guid>https://tv.naver.com/v/40783542</guid>
             <pubDate>Wed, 27 Sep 2023 08:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_203/N22K8_1695799860361llcbW_JPEG/7642fe1b-5d07-11ee-968b-80615f0bccec_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -84,7 +84,7 @@
             <link>https://tv.naver.com/v/40742112</link>
             <guid>https://tv.naver.com/v/40742112</guid>
             <pubDate>Tue, 26 Sep 2023 08:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_83/A5Q5T_16957149217320TTxO_JPEG/93028721-5c41-11ee-968b-80615f0bccec_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +92,7 @@
             <link>https://tv.naver.com/v/40741583</link>
             <guid>https://tv.naver.com/v/40741583</guid>
             <pubDate>Tue, 26 Sep 2023 08:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_176/YxOPJ_16957142280328Io9P_JPEG/cf72b4a2-5c3f-11ee-9b44-a0369ffdab64_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -164,7 +164,7 @@
             <link>https://tv.naver.com/v/40696827</link>
             <guid>https://tv.naver.com/v/40696827</guid>
             <pubDate>Mon, 25 Sep 2023 08:23:14 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_189/ROrkb_1695629630042mTBSg_JPEG/f1f49679-5b7a-11ee-ab5a-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -736,6 +736,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1183900485%2Fthumb%2F20230920113619" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 일본군 싸게싸게 거시기해버리는 도적단 | 도적: 칼의 소리 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</guid>
+            <pubDate>Sat, 30 Sep 2023 08:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1186580968%2Fthumb%2F20230922150606" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</guid>
@@ -878,14 +886,6 @@
             <pubDate>Mon, 04 Sep 2023 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F253475179%2Fthumb%2F20230904185950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 9월 신작 소개 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440723926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440723926?act=clip</guid>
-            <pubDate>Fri, 01 Sep 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F58460707%2Fthumb%2F20230901122904" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
