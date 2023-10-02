@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 03:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 04:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스][선공개] 결국 피스의 비밀을 찾아낸 하석진과 이시원 | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441418331?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441418331?act=clip</guid>
+            <pubDate>Mon, 02 Oct 2023 04:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1042916596%2Fthumb%2F20231002111819" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 궤도 연합 VS 하석진 연합, 누가 웃을 것인가 | 데블스 플랜]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441361034?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441123419?act=clip</guid>
             <pubDate>Sat, 23 Sep 2023 12:30:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1820757933%2Fthumb%2F20230920113732" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1820757933%2Fthumb%2F20230920113732" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 조선총독부 과장으로 위장한 OOO? 서현의 진짜 정체 | 도적: 칼의 소리]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Sep 2023 02:22:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F603209085%2Fthumb%2F20230906103036" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/440836413?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/440836413?act=clip</guid>
-            <pubDate>Wed, 06 Sep 2023 02:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1936861626%2Fthumb%2F20230906102945" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
