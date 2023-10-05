@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 04:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 05:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['화란' 리뷰 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/41000479</link>
+            <guid>https://tv.naver.com/v/41000479</guid>
+            <pubDate>Thu, 05 Oct 2023 05:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_170/sb2aA_1696482164268VbjNp_JPEG/f0bb96ee-633b-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['나의 피투성이 연인' 런칭 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/40963653</link>
             <guid>https://tv.naver.com/v/40963653</guid>
             <pubDate>Wed, 04 Oct 2023 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_144/haaRU_16964058650439NJpX_JPEG/831e3d32-628a-11ee-8382-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/40962762</link>
             <guid>https://tv.naver.com/v/40962762</guid>
             <pubDate>Wed, 04 Oct 2023 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_13/uXQE6_1696404714019kiR84_JPEG/b4cffb5b-6287-11ee-968b-80615f0bccec_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/40960924</link>
             <guid>https://tv.naver.com/v/40960924</guid>
             <pubDate>Wed, 04 Oct 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_205/O3Wwd_1696402302405EkEbN_JPEG/68605186-6281-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/40960038</link>
             <guid>https://tv.naver.com/v/40960038</guid>
             <pubDate>Wed, 04 Oct 2023 07:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231004_297/Vh5E5_1696401237305itWJk_JPEG/e5e05776-6273-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 05:17:13 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_76/lLcEc_1695618555221H8Xqe_JPEG/4c323d1f-5b61-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['독친' 1차 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/40686628</link>
-            <guid>https://tv.naver.com/v/40686628</guid>
-            <pubDate>Mon, 25 Sep 2023 05:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_272/O4aKu_1695617688912H9qwA_JPEG/0636cf7e-5b5f-11ee-8bd9-505dac8c3607_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<괴담만찬> 믿기지 않는 괴담썰 _ 입주민 전용 헬스장 (우리 영화 볼래?)]]></title>
