@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 23:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 01:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['소년들' 제작일지 영상]]></title>
+            <link>https://tv.naver.com/v/41014216</link>
+            <guid>https://tv.naver.com/v/41014216</guid>
+            <pubDate>Fri, 06 Oct 2023 01:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_249/eH0M5_1696497635561fnfD0_PNG/1696497507412.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['화란' 리뷰 예고편]]></title>
             <link>https://tv.naver.com/v/41000479</link>
             <guid>https://tv.naver.com/v/41000479</guid>
             <pubDate>Thu, 05 Oct 2023 05:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[18시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_170/sb2aA_1696482164268VbjNp_JPEG/f0bb96ee-633b-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Sep 2023 03:18:14 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_77/kTVK9_1695622962626Npbb4_PNG/1695622954079.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['당나귀 EO' 30초 예고편]]></title>
-            <link>https://tv.naver.com/v/40687276</link>
-            <guid>https://tv.naver.com/v/40687276</guid>
-            <pubDate>Mon, 25 Sep 2023 05:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_76/lLcEc_1695618555221H8Xqe_JPEG/4c323d1f-5b61-11ee-9ba4-a0369ffb3258_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
