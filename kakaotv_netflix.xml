@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 02:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 03:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F591384998%2Fthumb%2F20231004122505" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 피스를 조립하면 ◯◯◯가 나온다? | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441439092?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441439092?act=clip</guid>
+            <pubDate>Fri, 06 Oct 2023 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1944603990%2Fthumb%2F20231006120417" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 다수를 위해 승관을 포기하는 궤도? | 데블스 플랜]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441328624?act=clip</guid>
             <pubDate>Wed, 27 Sep 2023 05:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F982093376%2Fthumb%2F20230927141219" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F982093376%2Fthumb%2F20230927141219" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 거짓말, 연기, 의심! 혼돈의 첫 번째 게임 공개 | 데블스 플랜]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Sep 2023 07:16:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F560534890%2Fthumb%2F20230922150402" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 원피스 | 시즌 2 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441046413?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441046413?act=clip</guid>
-            <pubDate>Fri, 15 Sep 2023 01:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610742174%2Fthumb%2F20230915100125" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
