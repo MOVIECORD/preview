@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 04:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 05:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F591384998%2Fthumb%2F20231004122505" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스스로 감옥행을 택하는 하석진 | 데블스 플랜]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441439119?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441439119?act=clip</guid>
+            <pubDate>Sat, 07 Oct 2023 05:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2104271511%2Fthumb%2F20231007140723" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 피스를 조립하면 ◯◯◯가 나온다? | 데블스 플랜]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441328839?act=clip</guid>
             <pubDate>Wed, 27 Sep 2023 01:14:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958750670%2Fthumb%2F20230927101107" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1958750670%2Fthumb%2F20230927101107" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 궤도의 방식에 반감이 들기 시작한 참가자들 | 데블스 플랜]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 30 Sep 2023 08:20:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1186580968%2Fthumb%2F20230922150606" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 도적: 칼의 소리 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123308?act=clip</guid>
-            <pubDate>Fri, 22 Sep 2023 07:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F560534890%2Fthumb%2F20230922150402" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
