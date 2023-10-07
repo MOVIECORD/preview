@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 06:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 07:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441530100?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441530100?act=clip</guid>
+            <pubDate>Sat, 07 Oct 2023 07:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F935437716%2Fthumb%2F20231007153327" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 요리 서바이벌 참가자 모집]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441480217?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441338037?act=clip</guid>
             <pubDate>Wed, 04 Oct 2023 01:18:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1844833867%2Fthumb%2F20231004073323" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1844833867%2Fthumb%2F20231004073323" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 독전 2 | 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 07:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1183900485%2Fthumb%2F20230920113619" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 일본군 싸게싸게 거시기해버리는 도적단 | 도적: 칼의 소리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123341?act=clip</guid>
-            <pubDate>Sat, 30 Sep 2023 08:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1186580968%2Fthumb%2F20230922150606" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
