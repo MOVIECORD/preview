@@ -4,9 +4,25 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Oct 2023 15:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 16:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['달리랜드' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/41127389</link>
+            <guid>https://tv.naver.com/v/41127389</guid>
+            <pubDate>Sun, 08 Oct 2023 16:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_287/qNij7_16967806978741Oi4O_JPEG/11442163-65f3-11ee-b928-a0369ffdb5e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['홈그라운드' 론칭 예고편]]></title>
+            <link>https://tv.naver.com/v/41126961</link>
+            <guid>https://tv.naver.com/v/41126961</guid>
+            <pubDate>Sun, 08 Oct 2023 16:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_166/dnE9F_1696779304207Fr3Ri_JPEG/c4fd55b1-65ef-11ee-9416-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 도터' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/41073409</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 03:18:50 GMT</pubDate>
             <content:encoded><![CDATA[1주 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_179/POKQT_16957825844599o40j_JPEG/f0931459-5cde-11ee-bd08-505dac8c3639_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['플라워 킬링 문' 스페셜 예고편]]></title>
-            <link>https://tv.naver.com/v/40770915</link>
-            <guid>https://tv.naver.com/v/40770915</guid>
-            <pubDate>Wed, 27 Sep 2023 03:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_197/kS1Bq_1695781932746AFdP5_JPEG/4ac81b23-5cdd-11ee-b7d3-a0369ffac6ac_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['믿을 수 있는 사람' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/40744675</link>
-            <guid>https://tv.naver.com/v/40744675</guid>
-            <pubDate>Tue, 26 Sep 2023 09:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[1주 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_288/sOn4m_1695718191867BrGKv_JPEG/25340cbb-5c49-11ee-89eb-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
