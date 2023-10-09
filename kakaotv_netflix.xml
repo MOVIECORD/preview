@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 09:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 10:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 피 튀긴 얼굴로 다 쓸어버리는 전종서 | 발레리나]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441531228?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441531228?act=clip</guid>
+            <pubDate>Mon, 09 Oct 2023 10:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907683228%2Fthumb%2F20231009140115" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 초밥, 간장.. 무엇을 뜻하는 암호일까? | 발레리나]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441531201?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441360200?act=clip</guid>
             <pubDate>Fri, 29 Sep 2023 07:16:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053806623%2Fthumb%2F20230928202821" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053806623%2Fthumb%2F20230928202821" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 협동 게임 속 각자의 욕심 | 데블스 플랜]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Sep 2023 09:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F248898256%2Fthumb%2F20230922150455" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이름은 언년이고요. 돈 받고 사람 죽여드려요.🔫 | 도적: 칼의 소리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441123395?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123395?act=clip</guid>
-            <pubDate>Thu, 28 Sep 2023 03:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1216142911%2Fthumb%2F20230922150530" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
