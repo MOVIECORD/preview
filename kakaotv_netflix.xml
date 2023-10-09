@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 04:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 05:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 초밥, 간장.. 무엇을 뜻하는 암호일까? | 발레리나]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441531201?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441531201?act=clip</guid>
+            <pubDate>Mon, 09 Oct 2023 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1264469841%2Fthumb%2F20231007165411" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441530100?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441343040?act=clip</guid>
             <pubDate>Thu, 28 Sep 2023 11:15:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2069147326%2Fthumb%2F20230928201034" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2069147326%2Fthumb%2F20230928201034" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이두나! | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 28 Sep 2023 03:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1216142911%2Fthumb%2F20230922150530" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 포병대 올킬하는 저승사자 김남길 | 도적: 칼의 소리]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441123359?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441123359?act=clip</guid>
-            <pubDate>Thu, 21 Sep 2023 07:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1183900485%2Fthumb%2F20230920113619" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
