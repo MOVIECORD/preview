@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 06:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<용감한 시민> 액션 비하인드 더 신 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441625245?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441625245?act=clip</guid>
+            <pubDate>Wed, 11 Oct 2023 07:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgavyjh3ksq2mb1p4p2307ek%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253916798%26signature%3DWlQTyybBL231kh6mh06toxXNQT0%253D%26ts%3D1697007998" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<플라워 킬링 문> 굶주린 늑대들 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441622605?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441596325?act=clip</guid>
             <pubDate>Tue, 10 Oct 2023 04:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbt4w43us6q3zxwn4pv9tih7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253819749%26signature%3D4oV%252BdaL3wobb7s7nCnKZejEUD1Y%253D%26ts%3D1696910949" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbt4w43us6q3zxwn4pv9tih7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253819749%26signature%3D4oV%252BdaL3wobb7s7nCnKZejEUD1Y%253D%26ts%3D1696910949" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<열두 달, 흙을 먹다> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 06 Oct 2023 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv941kl3ef2ztwrwwadgpim8i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253468382%26signature%3DNbGzmfCHgrcr2kzoBV0rhDDegiU%253D%26ts%3D1696559582" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<천박사 퇴마 연구소: 설경의 비밀> 제작 비하인드 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441503115?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441503115?act=clip</guid>
-            <pubDate>Fri, 06 Oct 2023 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrhe8i5u3fmmjv8j0307lefb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253466333%26signature%3D%252FZ45TBpxIj8elHdVnuUp8qnbYQM%253D%26ts%3D1696557533" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
