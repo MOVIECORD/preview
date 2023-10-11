@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 02:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 03:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더 마블스> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441619821?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441619821?act=clip</guid>
+            <pubDate>Wed, 11 Oct 2023 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgeosqsnsmfqsf7zvlta6m9j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253900748%26signature%3D3HebWT8%252FdJGJnT8fF5gyMyj%252BAjU%253D%26ts%3D1696991948" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나의 피투성이 연인> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441619752?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441619752?act=clip</guid>
+            <pubDate>Wed, 11 Oct 2023 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F354074240%2Fthumb%2F20231011113516" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<너와 나> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441618891?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441594765?act=clip</guid>
             <pubDate>Tue, 10 Oct 2023 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4jwthsihw75xoxi2ee8m88d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253814892%26signature%3DOTZysYv8vZ1784gVsaxd4ffl5O4%253D%26ts%3D1696906092" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4jwthsihw75xoxi2ee8m88d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253814892%26signature%3DOTZysYv8vZ1784gVsaxd4ffl5O4%253D%26ts%3D1696906092" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<화사한 그녀> 메인 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441594519?act=clip</guid>
             <pubDate>Tue, 10 Oct 2023 04:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr2cj4e2byyq8s2nm1wrl7kb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253814036%26signature%3D7VUUDE%252FE7dZ5j05AvEAaksexWUE%253D%26ts%3D1696905236" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr2cj4e2byyq8s2nm1wrl7kb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253814036%26signature%3D7VUUDE%252FE7dZ5j05AvEAaksexWUE%253D%26ts%3D1696905236" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<엑소시스트: 믿는 자> 우리 제법 친해요 feat. 악마 빙의]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 06 Oct 2023 02:25:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn2wos9mkasruy0wvawfzigu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253464212%26signature%3DtdxMRh2g6Webv55yMq5j2pLTwHs%253D%26ts%3D1696555412" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<괴담만찬> 메인 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441502317?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441502317?act=clip</guid>
-            <pubDate>Fri, 06 Oct 2023 02:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvll3m8bnbo12uxyrcuudfd7y%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253463884%26signature%3DPGPWmLv%252BT0MV%252BgtMqZzyOLeqt1k%253D%26ts%3D1696555084" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<독전 2> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441502195?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441502195?act=clip</guid>
-            <pubDate>Fri, 06 Oct 2023 01:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv55hf8q34jo4wyge718bh49u%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253463344%26signature%3Dvsr%252Br4EEGWwxygrJzDz1ACWIiwQ%253D%26ts%3D1696554544" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
