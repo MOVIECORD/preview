@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 03:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 04:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<프레디의 피자가게> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441671035?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441671035?act=clip</guid>
+            <pubDate>Fri, 13 Oct 2023 04:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv82qb4o603gg08mf0jr69kmu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254078293%26signature%3DqR%252BK2K%252BU0bALYkb%252FEVDVbFeI8xY%253D%26ts%3D1697169493" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<유앤미앤미> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441668585?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441622570?act=clip</guid>
             <pubDate>Wed, 11 Oct 2023 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv623bs9yt4myzjveysuwg9gq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253909739%26signature%3DhfQPnVNqJ7pXTorUJszrvwtlOzs%253D%26ts%3D1697000939" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv623bs9yt4myzjveysuwg9gq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253909739%26signature%3DhfQPnVNqJ7pXTorUJszrvwtlOzs%253D%26ts%3D1697000939" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<더 마블스> 파이널 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 04:20:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxk5b6q2dl6fb33myjyx37oi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253819529%26signature%3DoeCKH8IF%252FwmYMnOZzGF32qoHigc%253D%26ts%3D1696910729" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<퍼피 구조대: 더 마이티 무비> Learning To Fly 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441595998?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441595998?act=clip</guid>
-            <pubDate>Tue, 10 Oct 2023 04:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv09ke8ubds9j13krefsuyqei%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33253819051%26signature%3DdwyTo%252B46oc6hp5QgEPJ6rfpOBX8%253D%26ts%3D1696910251" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
