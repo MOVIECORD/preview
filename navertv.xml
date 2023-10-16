@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 02:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 03:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['5시부터 7시까지의 주희' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/41426735</link>
+            <guid>https://tv.naver.com/v/41426735</guid>
+            <pubDate>Mon, 16 Oct 2023 03:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[31분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_243/Dr62m_1697424446004YJXid_JPEG/e6c96533-6bcd-11ee-b7d3-a0369ffac6ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['세이 예스 어게인' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/41425591</link>
             <guid>https://tv.naver.com/v/41425591</guid>
             <pubDate>Mon, 16 Oct 2023 02:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[1분 전]]></content:encoded>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_56/v6sOC_1697423111199I6WoN_JPEG/cfacd459-6bca-11ee-9244-a0369ffde9a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/41425031</link>
             <guid>https://tv.naver.com/v/41425031</guid>
             <pubDate>Mon, 16 Oct 2023 02:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[12분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_74/qEXgm_1697422449328SmImU_JPEG/54a0642f-6bc9-11ee-9671-80615f0bcd6e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/41424527</link>
             <guid>https://tv.naver.com/v/41424527</guid>
             <pubDate>Mon, 16 Oct 2023 02:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[22분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_112/Is2w4_16974218232591hfdt_JPEG/dac399fd-6bc7-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/41423622</link>
             <guid>https://tv.naver.com/v/41423622</guid>
             <pubDate>Mon, 16 Oct 2023 02:26:17 GMT</pubDate>
-            <content:encoded><![CDATA[45분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_164/PSVJp_16974204536609PUnX_JPEG/3d10b091-6bc4-11ee-8382-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/41272811</link>
             <guid>https://tv.naver.com/v/41272811</guid>
             <pubDate>Thu, 12 Oct 2023 03:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_136/EI2s2_1697079577614PfKMM_JPEG/a887dfda-68aa-11ee-b3ec-80615f0bcf30_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -196,7 +204,7 @@
             <link>https://tv.naver.com/v/41271874</link>
             <guid>https://tv.naver.com/v/41271874</guid>
             <pubDate>Thu, 12 Oct 2023 03:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_33/RzuTk_1697078344058TfSai_JPEG/45fdcfbf-68a8-11ee-bae1-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Oct 2023 07:16:32 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_244/DZMb0_1697008254243q9P1S_JPEG/112caec7-6805-11ee-ba6d-80615f0bcdae_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엑소시스트: 믿는 자' 엑소시즘의 현장 속으로]]></title>
-            <link>https://tv.naver.com/v/41227564</link>
-            <guid>https://tv.naver.com/v/41227564</guid>
-            <pubDate>Wed, 11 Oct 2023 06:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_191/w3FSM_16970018390474sekO_JPEG/7cd50e8c-67f5-11ee-9244-a0369ffde9a8_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
