@@ -4,9 +4,33 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<약속> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441773691?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441773691?act=clip</guid>
+            <pubDate>Tue, 17 Oct 2023 08:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt14qsx52f1l1gv9sqkktxud%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254438091%26signature%3DyU0CnB8C%252FrPiWfnDJpKEDCZPwIs%253D%26ts%3D1697529291" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<카타르시스> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441773583?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441773583?act=clip</guid>
+            <pubDate>Tue, 17 Oct 2023 08:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvllv6pegpg5gc8oag02wxdq1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254437869%26signature%3DaPz7iUiygQuWvCIKX7T2RiIEdWc%253D%26ts%3D1697529069" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<퀵샌드> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441773098?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441773098?act=clip</guid>
+            <pubDate>Tue, 17 Oct 2023 08:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvms6hbzuem9ur08yxj0hs3v4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254436750%26signature%3DsL6OyKK6%252BagGyrlDYRb18Nnk2pE%253D%26ts%3D1697527950" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 킬러> [청불] 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441771411?act=clip</link>
@@ -149,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441746045?act=clip</guid>
             <pubDate>Mon, 16 Oct 2023 07:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfstbi1bfpm4ujepkzymj6lg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254347138%26signature%3D%252BmxZJHQ5hTyGe910%252FccLLBckrJo%253D%26ts%3D1697438338" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfstbi1bfpm4ujepkzymj6lg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254347138%26signature%3D%252BmxZJHQ5hTyGe910%252FccLLBckrJo%253D%26ts%3D1697438338" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<시수> 런칭 예고편]]></title>
@@ -157,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441745948?act=clip</guid>
             <pubDate>Mon, 16 Oct 2023 07:17:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyxec8aesoccvavocb7r1omr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254346970%26signature%3DQVm%252FdnDml%252B5pmvmM8ReMGhiEOio%253D%26ts%3D1697438170" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyxec8aesoccvavocb7r1omr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254346970%26signature%3DQVm%252FdnDml%252B5pmvmM8ReMGhiEOio%253D%26ts%3D1697438170" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<약속> 메인 예고편]]></title>
@@ -165,7 +189,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441744911?act=clip</guid>
             <pubDate>Mon, 16 Oct 2023 06:25:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvun9l30egak9hswtwz50t8jq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254343671%26signature%3DT6959KKYotw2zWMcJxb%252FTkQ%252FLYY%253D%26ts%3D1697434871" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvun9l30egak9hswtwz50t8jq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254343671%26signature%3DT6959KKYotw2zWMcJxb%252FTkQ%252FLYY%253D%26ts%3D1697434871" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<PMC: 더 헬> 메인 예고편]]></title>
@@ -302,30 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 02:28:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoqi2wdldmc4wtqzd2qal3g0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254069634%26signature%3D6i5caMbmmBF5mCNyKuJ7px4CgfE%253D%26ts%3D1697160834" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<익스펜더블 4> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441667974?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441667974?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 02:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcrbbxowe354l5aqmk0oxna6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254069472%26signature%3Dc6yqFqUltEOFAEfBXwU4pcUs6oE%253D%26ts%3D1697160672" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<원피스 필름 레드> 4K 업컨버트 버전 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441667445?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441667445?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 01:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9c6wyzlnjuem328niydf3v7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254067582%26signature%3DjyY7vb5QVKIkISOAv%252FgRMvGMTyU%253D%26ts%3D1697158782" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<어른 김장하> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441667365?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441667365?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 01:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxvc9b4ikvbp7erzuba9khm1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254067404%26signature%3DAoC6EpwZFeSOStJQE3koRNe8PV4%253D%26ts%3D1697158604" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
