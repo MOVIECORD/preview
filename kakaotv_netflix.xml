@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 23:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 01:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 요즘 넷플 뭐봄?]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441764891?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441764891?act=clip</guid>
+            <pubDate>Tue, 17 Oct 2023 01:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F925936574%2Fthumb%2F20231017100534" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 레오 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441667697?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441439092?act=clip</guid>
             <pubDate>Fri, 06 Oct 2023 03:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1944603990%2Fthumb%2F20231006120417" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1944603990%2Fthumb%2F20231006120417" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 다수를 위해 승관을 포기하는 궤도? | 데블스 플랜]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Sep 2023 01:16:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F432302841%2Fthumb%2F20230920191700" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 귀무자 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441174319?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441174319?act=clip</guid>
-            <pubDate>Wed, 20 Sep 2023 09:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1906118909%2Fthumb%2F20230920175651" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
