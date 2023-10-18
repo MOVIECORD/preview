@@ -4,9 +4,25 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 03:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 04:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<톡 투 미> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441793502?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441793502?act=clip</guid>
+            <pubDate>Wed, 18 Oct 2023 04:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmfxxm1p6jvcli759w5a6br8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254511488%26signature%3DU5m2nMFh0yZk7%252BwBjCqd5fyo0As%253D%26ts%3D1697602688" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나폴레옹> 티저예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441793316?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441793316?act=clip</guid>
+            <pubDate>Wed, 18 Oct 2023 04:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvktmkk1bqabwwqh2dy3xchoo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254510833%26signature%3D62C1pfri6NNQKeKB0MqRWnQ51k0%253D%26ts%3D1697602033" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 마블스> '팀 마블스 제작기' 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441791043?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441764647?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmzgt00wc51hlgx75q6b8zqz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254412753%26signature%3DgQKuMzvP%252BFmXXLnsCsWI%252BzC3%252Bh4%253D%26ts%3D1697503953" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmzgt00wc51hlgx75q6b8zqz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254412753%26signature%3DgQKuMzvP%252BFmXXLnsCsWI%252BzC3%252Bh4%253D%26ts%3D1697503953" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<서울의 봄> 론칭 예고편]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441764552?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F453285154%2Fthumb%2F20231017125232" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F453285154%2Fthumb%2F20231017125232" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<익스펜더블 4> 캐릭터 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 08:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5sp4sdbvihxmo53zavxz746%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254093833%26signature%3DFvcHi%252BChpEQjaLEaGOvJWuB%252FKNA%253D%26ts%3D1697185033" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그대들은 어떻게 살 것인가> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441673686?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441673686?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 06:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn802v4zc0d6kz9dcqvf1sxm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254085783%26signature%3DQ8BgKi9eZgf7r%252FgfNrDN%252B1%252Famuo%253D%26ts%3D1697176983" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<프레디의 피자가게> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441671035?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441671035?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 04:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv82qb4o603gg08mf0jr69kmu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254078293%26signature%3DqR%252BK2K%252BU0bALYkb%252FEVDVbFeI8xY%253D%26ts%3D1697169493" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
