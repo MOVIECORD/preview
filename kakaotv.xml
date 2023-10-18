@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 06:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<만분의 일초> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441795666?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441795666?act=clip</guid>
+            <pubDate>Wed, 18 Oct 2023 06:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbw3zuhwzxlc55vd5dprrtvo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254518159%26signature%3DL5MLfzeRm2gBrIK8NuyzgbG7XDg%253D%26ts%3D1697609359" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<소년들> 2차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441793997?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441764994?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F248752697%2Fthumb%2F20231017100749" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F248752697%2Fthumb%2F20231017100749" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<오픈 더 도어> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Oct 2023 02:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlakvgs54smzqc6me8t8r2wh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254328413%26signature%3D%252B90DfxGTt60V1XBrnYE5C0YZbMg%253D%26ts%3D1697419613" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엑소시스트: 믿는 자> 전 세계를 사로잡은 압도적 공포 리뷰]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441677373?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441677373?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 09:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3x5ycfa8p0p6wflxqrhryuo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254095463%26signature%3DmhFEkt6wtesV3mBPbq6guOI%252FUp4%253D%26ts%3D1697186663" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
