@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 04:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 05:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<소년들> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441793997?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441793997?act=clip</guid>
+            <pubDate>Wed, 18 Oct 2023 05:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2081510xdujvtfwqv08c9d7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254513195%26signature%3DzlADpMq8Mult4jUL%252FJGVxx9VGbg%253D%26ts%3D1697604395" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<톡 투 미> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441793502?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441764933?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 01:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrkalndlke75k97q9n9bsing%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254413494%26signature%3Dr6NSwU%252BVJ1TT7OcQTSRRI2UUYUQ%253D%26ts%3D1697504694" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrkalndlke75k97q9n9bsing%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254413494%26signature%3Dr6NSwU%252BVJ1TT7OcQTSRRI2UUYUQ%253D%26ts%3D1697504694" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<엑소시스트: 믿는 자> '악마의 유니버스'를 파헤치다!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 09:19:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3x5ycfa8p0p6wflxqrhryuo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254095463%26signature%3DmhFEkt6wtesV3mBPbq6guOI%252FUp4%253D%26ts%3D1697186663" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인사이드 트럭> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441676537?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441676537?act=clip</guid>
-            <pubDate>Fri, 13 Oct 2023 08:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5sp4sdbvihxmo53zavxz746%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254093833%26signature%3DFvcHi%252BChpEQjaLEaGOvJWuB%252FKNA%253D%26ts%3D1697185033" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
