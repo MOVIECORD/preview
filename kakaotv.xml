@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 03:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 04:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<다이브:100 피트 추락> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441818218?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441818218?act=clip</guid>
+            <pubDate>Thu, 19 Oct 2023 04:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy7p6l1nh3w62m4gz657h1hg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254596911%26signature%3DxvuTRdbkkWLnCABww2AA5m42kOc%253D%26ts%3D1697688111" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<무간도: 비밀작전> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441815745?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441765602?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 02:25:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvagkvhgf1x0bnsfpyysnixqj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254415446%26signature%3Dn75uVqAKeg%252BtvrVmdF9iQHkBYlo%253D%26ts%3D1697506646" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvagkvhgf1x0bnsfpyysnixqj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254415446%26signature%3Dn75uVqAKeg%252BtvrVmdF9iQHkBYlo%253D%26ts%3D1697506646" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<원 모어 찬스> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Oct 2023 02:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw5qq6lhim8knyaf1bvzq9lp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254330258%26signature%3D27sRNZx%252BFou2UPrkMjLJj6NrXrw%253D%26ts%3D1697421458" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 아이돌리쉬 세븐; 라이브 4비트 비욘드 더 피리어드 - 데이 1> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441739614?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441739614?act=clip</guid>
-            <pubDate>Mon, 16 Oct 2023 02:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4jqknlyxgt5lssmq1avlxa8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254329783%26signature%3D%252F1di39%252FSmGpKE45EGty9XgcLaE8%253D%26ts%3D1697420983" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
