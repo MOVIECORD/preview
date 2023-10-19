@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 01:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 02:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<무간도: 비밀작전> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441815745?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441815745?act=clip</guid>
+            <pubDate>Thu, 19 Oct 2023 02:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqgqjazm3o1ol4ga6a6hco51%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254589188%26signature%3DVmBREGjKey9Ny0rp%252BNAEgQDP35A%253D%26ts%3D1697680388" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<도티와 영원의 탑> 론칭 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441799027?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441765544?act=clip</guid>
             <pubDate>Tue, 17 Oct 2023 02:25:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtaqfonqk5yi3pmw1spjc1g8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254415236%26signature%3DV6tQnlXqJfwutrse4beGZrB5gfM%253D%26ts%3D1697506436" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtaqfonqk5yi3pmw1spjc1g8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254415236%26signature%3DV6tQnlXqJfwutrse4beGZrB5gfM%253D%26ts%3D1697506436" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<원 모어 찬스> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Oct 2023 02:26:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4jqknlyxgt5lssmq1avlxa8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254329783%26signature%3D%252F1di39%252FSmGpKE45EGty9XgcLaE8%253D%26ts%3D1697420983" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<프리 철수 리> 제작진 개봉 인사 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441739415?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441739415?act=clip</guid>
-            <pubDate>Mon, 16 Oct 2023 02:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq6tdu1ryfdp8m6zq9nb79qi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254329414%26signature%3DUDvp9e1nRfp0SU6UY0clvWgdDSA%253D%26ts%3D1697420614" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
