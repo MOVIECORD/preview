@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 08:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 09:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<나의 뮤즈에게> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441923426?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441923426?act=clip</guid>
+            <pubDate>Mon, 23 Oct 2023 09:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfof5fspzty81xa7zm9yzor1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254958650%26signature%3D14YEmo47jY4ANrENDu4xCtHB8Vw%253D%26ts%3D1698049850" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<바람 따라 만나리 : 김호중의 계절> 2D 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/441922850?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441818218?act=clip</guid>
             <pubDate>Thu, 19 Oct 2023 04:21:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy7p6l1nh3w62m4gz657h1hg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254596911%26signature%3DxvuTRdbkkWLnCABww2AA5m42kOc%253D%26ts%3D1697688111" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy7p6l1nh3w62m4gz657h1hg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254596911%26signature%3DxvuTRdbkkWLnCABww2AA5m42kOc%253D%26ts%3D1697688111" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<무간도: 비밀작전> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvps1u4t1r2c6x2vhbvpy0r29%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254416016%26signature%3DfT7oKecRbHip0mZCY4c2biokTvk%253D%26ts%3D1697507216" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[< 마브카 : 숲의 노래> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441765602?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441765602?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvagkvhgf1x0bnsfpyysnixqj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254415446%26signature%3Dn75uVqAKeg%252BtvrVmdF9iQHkBYlo%253D%26ts%3D1697506646" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
