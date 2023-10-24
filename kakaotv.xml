@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 02:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 03:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 24 Oct 2023 02:24:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F764053171%2Fthumb%2F20231024110307" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<스노우 폭스 : 썰매개가 될 거야!> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/441940770?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/441940770?act=clip</guid>
+            <pubDate>Tue, 24 Oct 2023 03:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv86am7kar4hcrc6qkmjayfub%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255020589%26signature%3DhPqERXrnA4%252ByLwgwJ%252Bi0GtdwPjM%253D%26ts%3D1698111789" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<녹야> 1차 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/441824573?act=clip</guid>
             <pubDate>Thu, 19 Oct 2023 09:17:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb6btmk4pekxahfrckfnj28r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254612998%26signature%3DngzgaoMbNgSQivadluP1TVNEQUQ%253D%26ts%3D1697704198" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb6btmk4pekxahfrckfnj28r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254612998%26signature%3DngzgaoMbNgSQivadluP1TVNEQUQ%253D%26ts%3D1697704198" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<소년들> 사건일지 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzwjgr9ja1rppyrr6zhlmmbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254432274%26signature%3DdQS9TjqAprUTzFkeZHBDQ82Fgi8%253D%26ts%3D1697523474" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<만추> 리마스터링 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/441768437?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/441768437?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrxur4x5gcwvqc9i7akt81p2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33254423888%26signature%3DFgYga2ycYxQnAL9kYC9cOFbDicE%253D%26ts%3D1697515088" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
