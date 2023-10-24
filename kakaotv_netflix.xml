@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 03:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 04:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 치료하다 말고 양세종에게 키스하는 수지 | 이두나!]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441943282?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441943282?act=clip</guid>
+            <pubDate>Tue, 24 Oct 2023 04:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F531837992%2Fthumb%2F20231024124607" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441940043?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441531201?act=clip</guid>
             <pubDate>Mon, 09 Oct 2023 05:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1264469841%2Fthumb%2F20231007165411" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1264469841%2Fthumb%2F20231007165411" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053806623%2Fthumb%2F20230928202821" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 협동 게임 속 각자의 욕심 | 데블스 플랜]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441343040?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441343040?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2069147326%2Fthumb%2F20230928201034" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
