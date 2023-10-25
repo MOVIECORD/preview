@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 02:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 03:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['도티와 영원의 탑' 론창 에고편]]></title>
+            <link>https://tv.naver.com/v/41852185</link>
+            <guid>https://tv.naver.com/v/41852185</guid>
+            <pubDate>Wed, 25 Oct 2023 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_30/kChRl_1698203323496zEilb_JPEG/8de6315b-72e3-11ee-9178-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['익스펜더블 4' 넉살 MV Full Ver]]></title>
             <link>https://tv.naver.com/v/41849021</link>
             <guid>https://tv.naver.com/v/41849021</guid>
             <pubDate>Wed, 25 Oct 2023 02:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_284/dcVvW_1698199624060OiYgd_JPEG/8b64f3f7-72da-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/41847509</link>
             <guid>https://tv.naver.com/v/41847509</guid>
             <pubDate>Wed, 25 Oct 2023 02:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[44분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_84/qhuea_1698197941852N3cQe_JPEG/d3b02cae-72d6-11ee-8f45-80615f0c465c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/41810755</link>
             <guid>https://tv.naver.com/v/41810755</guid>
             <pubDate>Wed, 25 Oct 2023 02:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_154/ad7B2_1698133509648zyw3n_PNG/1698133380890.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/41807695</link>
             <guid>https://tv.naver.com/v/41807695</guid>
             <pubDate>Tue, 24 Oct 2023 07:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[19시간 전]]></content:encoded>
+            <content:encoded><![CDATA[20시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_107/h3blx_1698130766843NJs0f_JPEG/4a0ed70a-723a-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>https://tv.naver.com/v/41803669</link>
             <guid>https://tv.naver.com/v/41803669</guid>
             <pubDate>Tue, 24 Oct 2023 06:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_239/PBnYw_1698126849629401I1_JPEG/e856e7ae-7230-11ee-b893-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/41799589</link>
             <guid>https://tv.naver.com/v/41799589</guid>
             <pubDate>Tue, 24 Oct 2023 05:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[21시간 전]]></content:encoded>
+            <content:encoded><![CDATA[22시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_292/xolMK_1698123352655h1HX4_JPEG/4fcbdd24-7229-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 01:15:16 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_174/7lSx8_1697758188813HOfTH_JPEG/1101f97f-6ed7-11ee-8fa1-48df37ae3dc4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기억해, 우리가 사랑한 시간' 배우 채범희 인사영상]]></title>
-            <link>https://tv.naver.com/v/41630428</link>
-            <guid>https://tv.naver.com/v/41630428</guid>
-            <pubDate>Fri, 20 Oct 2023 01:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_287/oM1oP_1697757505063jhxUW_JPEG/6827c4d0-6ed5-11ee-8b25-a0369ffab040_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
