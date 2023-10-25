@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 05:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 06:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 친구 말고 좋아하는 사람이라고 해주면 안 돼? | 이두나!]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/441970087?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/441970087?act=clip</guid>
+            <pubDate>Wed, 25 Oct 2023 06:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F742294573%2Fthumb%2F20231025142907" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 《SPY×FAMILY 스파이 패밀리》 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/441966888?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441605660?act=clip</guid>
             <pubDate>Tue, 10 Oct 2023 11:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2015034731%2Fthumb%2F20231010195705" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2015034731%2Fthumb%2F20231010195705" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 크라운: 시즌 6 | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1042916596%2Fthumb%2F20231002111819" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 궤도 연합 VS 하석진 연합, 누가 웃을 것인가 | 데블스 플랜]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441361034?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441361034?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2001169856%2Fthumb%2F20230928211458" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
