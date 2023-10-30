@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 04:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 05:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마에스트로 번스타인 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442090484?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442090484?act=clip</guid>
+            <pubDate>Mon, 30 Oct 2023 05:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F693354974%2Fthumb%2F20231030135603" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 변화구 없음. 무조건 돌직구 날려버리는 수지😎 | 이두나!]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442087791?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441789678?act=clip</guid>
             <pubDate>Wed, 18 Oct 2023 01:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F528153284%2Fthumb%2F20231018101006" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F528153284%2Fthumb%2F20231018101006" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F524900551%2Fthumb%2F20231004122755" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지구 위의 생명 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441459028?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441459028?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F591384998%2Fthumb%2F20231004122505" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
