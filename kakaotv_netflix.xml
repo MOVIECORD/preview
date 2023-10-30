@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 11:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 12:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 30 Oct 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1166684442%2Fthumb%2F20231030121435" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 두나 앞에선 멍뭉이🐶 양세종의 대형견 모먼트 | 이두나!]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442087790?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442087790?act=clip</guid>
+            <pubDate>Mon, 30 Oct 2023 12:36:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F979647273%2Fthumb%2F20231030121933" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '수지 - Undercover' | 이두나!]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441789679?act=clip</guid>
             <pubDate>Wed, 18 Oct 2023 01:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1466185152%2Fthumb%2F20231018101051" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1466185152%2Fthumb%2F20231018101051" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엘리트들: 시즌 7 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F169549061%2Fthumb%2F20231004123157" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 우리가 한국 로맨스를 좋아하는 이유]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441459030?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441459030?act=clip</guid>
-            <pubDate>Thu, 19 Oct 2023 11:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F524900551%2Fthumb%2F20231004122755" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
