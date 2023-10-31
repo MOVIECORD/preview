@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 02:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 03:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['뉴 노멀' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/42114447</link>
+            <guid>https://tv.naver.com/v/42114447</guid>
+            <pubDate>Tue, 31 Oct 2023 03:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_174/a7yRw_1698720385602OBugD_JPEG/51b928a0-7797-11ee-ac75-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['힐마 아프 클린트 - 미래를 위한 그림' 1차 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/42112901</link>
             <guid>https://tv.naver.com/v/42112901</guid>
             <pubDate>Tue, 31 Oct 2023 02:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231031_178/bJ3mS_1698718618002yvf0b_JPEG/7e53e8a5-7793-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/41958748</link>
             <guid>https://tv.naver.com/v/41958748</guid>
             <pubDate>Fri, 27 Oct 2023 03:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_64/jkskx_1698374905398SU9Mg_JPEG/f60ced28-7472-11ee-a314-48df37e2c3ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -76,7 +84,7 @@
             <link>https://tv.naver.com/v/41957810</link>
             <guid>https://tv.naver.com/v/41957810</guid>
             <pubDate>Fri, 27 Oct 2023 03:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_113/uXyjB_1698373790930z48WQ_JPEG/9dc4984a-7470-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -212,7 +220,7 @@
             <link>https://tv.naver.com/v/41852185</link>
             <guid>https://tv.naver.com/v/41852185</guid>
             <pubDate>Wed, 25 Oct 2023 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
+            <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_30/kChRl_1698203323496zEilb_JPEG/8de6315b-72e3-11ee-9178-505dacfba98a_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 02:23:56 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_154/ad7B2_1698133509648zyw3n_PNG/1698133380890.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['독친' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/41807695</link>
-            <guid>https://tv.naver.com/v/41807695</guid>
-            <pubDate>Tue, 24 Oct 2023 07:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_107/h3blx_1698130766843NJs0f_JPEG/4a0ed70a-723a-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<세계를 뒤흔든 43일> 메인 예고편 (우리 영화 볼래?)]]></title>
