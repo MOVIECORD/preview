@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 04:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 05:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<너와 나> 박혜수X김시은-‘너와 나’ 뮤직비디오]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442144608?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442144608?act=clip</guid>
+            <pubDate>Wed, 01 Nov 2023 05:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviquxgxe44csei1yl0yrysma%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255724397%26signature%3DzPWcTe5iRtlLAO%252Fzs8DxOt6t2bQ%253D%26ts%3D1698815597" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아워 프렌드> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442143431?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442114276?act=clip</guid>
             <pubDate>Tue, 31 Oct 2023 02:25:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv87gwwk1pb4zhe74baiwhib3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255624366%26signature%3DVuF1%252FgymTIa5RCPMgZNdDvUGQTE%253D%26ts%3D1698715566" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv87gwwk1pb4zhe74baiwhib3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255624366%26signature%3DVuF1%252FgymTIa5RCPMgZNdDvUGQTE%253D%26ts%3D1698715566" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<톡 투 미> 자정 1인 시사회 후기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Oct 2023 08:22:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvarrky28hvlfl6xtnptxdz5x%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255301367%26signature%3DvQQJOhhNH1%252BkIqzh%252BiP3ttUGhOg%253D%26ts%3D1698392567" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<레슬리에게> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442019885?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442019885?act=clip</guid>
-            <pubDate>Fri, 27 Oct 2023 06:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1197957215%2Fthumb%2F20231027145234" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
