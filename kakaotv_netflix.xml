@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 02:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 03:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 11월 신작 소개]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442142225?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442142225?act=clip</guid>
+            <pubDate>Wed, 01 Nov 2023 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1965639668%2Fthumb%2F20231101120459" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442134504?act=clip</link>
@@ -22,6 +30,14 @@
             <pubDate>Tue, 31 Oct 2023 02:25:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1250788863%2Fthumb%2F20231030221518" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442097725?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442097725?act=clip</guid>
+            <pubDate>Wed, 01 Nov 2023 03:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1280445374%2Fthumb%2F20231030185434" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마에스트로 번스타인 | 공식 예고편]]></title>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441846704?act=clip</guid>
             <pubDate>Fri, 20 Oct 2023 07:16:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1961389439%2Fthumb%2F20231020152342" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1961389439%2Fthumb%2F20231020152342" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스페셜 MV '드림스윗 - 네 꿈에 숨어들어가' | 이두나!]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441844736?act=clip</guid>
             <pubDate>Fri, 20 Oct 2023 05:16:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F14615405%2Fthumb%2F20231020140056" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F14615405%2Fthumb%2F20231020140056" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 음양사 | 공식 예고편]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1370180179%2Fthumb%2F20231004123550" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 플루토 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441459053?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441459053?act=clip</guid>
-            <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F885635485%2Fthumb%2F20231004123510" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 10월 신작 소개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441459044?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441459044?act=clip</guid>
-            <pubDate>Wed, 04 Oct 2023 04:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1415540775%2Fthumb%2F20231004123416" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
