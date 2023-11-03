@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 06:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 30 Oct 2023 05:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F693354974%2Fthumb%2F20231030135603" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 간호사 박보영의 멀고도 험한 정신병동 적응기 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442088252?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088252?act=clip</guid>
+            <pubDate>Fri, 03 Nov 2023 06:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1966257211%2Fthumb%2F20231102135416" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 변화구 없음. 무조건 돌직구 날려버리는 수지😎 | 이두나!]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441940043?act=clip</guid>
             <pubDate>Tue, 24 Oct 2023 01:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F758802559%2Fthumb%2F20231024100954" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F758802559%2Fthumb%2F20231024100954" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 이두나! | 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 09 Oct 2023 05:17:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1264469841%2Fthumb%2F20231007165411" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 발레리나 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441530100?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441530100?act=clip</guid>
-            <pubDate>Sat, 07 Oct 2023 07:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F935437716%2Fthumb%2F20231007153327" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
