@@ -4,15 +4,55 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 16:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 17:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['극장판 파워 디지몬 더 비기닝' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42379626</link>
+            <guid>https://tv.naver.com/v/42379626</guid>
+            <pubDate>Sun, 05 Nov 2023 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_85/1iS2I_1699204241095FEVwe_JPEG/c2658797-7bfd-11ee-a5f8-80615f0bcc30_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사형에 이르는 병' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/42379487</link>
+            <guid>https://tv.naver.com/v/42379487</guid>
+            <pubDate>Sun, 05 Nov 2023 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_255/OrPy9_1699203618961UY7Yt_JPEG/90443c9d-7bfc-11ee-9c90-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['사형에 이르는 병' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42379403</link>
+            <guid>https://tv.naver.com/v/42379403</guid>
+            <pubDate>Sun, 05 Nov 2023 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[21분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_298/IGkf3_1699203207528sd8s4_JPEG/5a083949-7bfb-11ee-bae1-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['괴인' 2차 예고편]]></title>
+            <link>https://tv.naver.com/v/42379239</link>
+            <guid>https://tv.naver.com/v/42379239</guid>
+            <pubDate>Sun, 05 Nov 2023 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[32분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_241/KQDNE_1699202575174uynyb_JPEG/1ec4537a-7bf9-11ee-a2d6-80615f0bcc12_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['미션 스카이' 예고편]]></title>
+            <link>https://tv.naver.com/v/42378778</link>
+            <guid>https://tv.naver.com/v/42378778</guid>
+            <pubDate>Sun, 05 Nov 2023 17:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[53분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_164/HpJ3r_1699201295642vYf1z_JPEG/2837fb02-7bf7-11ee-ab5a-505dac8c35ff_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['어느 날 그녀가 우주에서' 30초 예고편]]></title>
             <link>https://tv.naver.com/v/42378507</link>
             <guid>https://tv.naver.com/v/42378507</guid>
             <pubDate>Sun, 05 Nov 2023 16:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[9분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231106_241/RSWDv_1699200709513s4179_JPEG/983fb53f-7bf5-11ee-ac75-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +60,7 @@
             <link>https://tv.naver.com/v/42378142</link>
             <guid>https://tv.naver.com/v/42378142</guid>
             <pubDate>Sun, 05 Nov 2023 16:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[23분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231106_264/XNtGJ_1699199853501zlzqu_JPEG/ac40c7d1-7bf3-11ee-b864-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -206,46 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 12:34:07 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_47/In9Vy_1698838649659CDU3p_JPEG/b51c53c2-78aa-11ee-b54f-a0369ffac20c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['백화' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/42195052</link>
-            <guid>https://tv.naver.com/v/42195052</guid>
-            <pubDate>Wed, 01 Nov 2023 12:34:07 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_29/BgbJ3_1698838038943Fo8S1_JPEG/237685b3-78a9-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['마이클 1부 나의 비즈니스 파트너, 마이클을 소개합니다.' 예고편]]></title>
-            <link>https://tv.naver.com/v/42193826</link>
-            <guid>https://tv.naver.com/v/42193826</guid>
-            <pubDate>Wed, 01 Nov 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_245/dIaaL_1698836437978yhLyp_JPEG/117c4df0-78a5-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['콘돌스 네스트' 예고편]]></title>
-            <link>https://tv.naver.com/v/42187718</link>
-            <guid>https://tv.naver.com/v/42187718</guid>
-            <pubDate>Wed, 01 Nov 2023 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_97/rb4gF_1698828967650xYz2s_JPEG/fe8860a1-7893-11ee-ac75-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사랑엔 정의가 없다' 예고편]]></title>
-            <link>https://tv.naver.com/v/42184630</link>
-            <guid>https://tv.naver.com/v/42184630</guid>
-            <pubDate>Wed, 01 Nov 2023 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_68/KcQyn_1698825973288OP3ra_JPEG/7018818a-788d-11ee-ac75-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['소년들' 뜨거운 호평 리뷰 예고편]]></title>
-            <link>https://tv.naver.com/v/42182516</link>
-            <guid>https://tv.naver.com/v/42182516</guid>
-            <pubDate>Wed, 01 Nov 2023 08:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_233/Zmdwh_169882412906595y30_JPEG/1955f451-7889-11ee-8ba9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
