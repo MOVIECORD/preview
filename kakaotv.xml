@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 08:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<혹성탈출: 새로운 시대> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442268673?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442268673?act=clip</guid>
+            <pubDate>Mon, 06 Nov 2023 09:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvklw60c4yuxa410rikbunra1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256169399%26signature%3DYkjI9OlUSApNg69FwsavFG9yKis%253D%26ts%3D1699260599" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<비투비 타임 : 비투게더 더 무비> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442265563?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442173509?act=clip</guid>
             <pubDate>Thu, 02 Nov 2023 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6lwabj1b351ojga40xpeyzi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255822878%26signature%3DJ6ymi%252FKiN9tUH0mJSyInvxzR4N4%253D%26ts%3D1698914078" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6lwabj1b351ojga40xpeyzi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255822878%26signature%3DJ6ymi%252FKiN9tUH0mJSyInvxzR4N4%253D%26ts%3D1698914078" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<매직 프린세스: 얼음 괴물과 사라진 열쇠의 비밀> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Nov 2023 04:21:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdve3r0qdkxbukbd8mbk19vi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255719885%26signature%3DHzI0DxNDCmF09aYAcJj%252FNMy%252BbT0%253D%26ts%3D1698811085" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<언더 유어 베드> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442141817?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442141817?act=clip</guid>
-            <pubDate>Wed, 01 Nov 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhg8bbjqshrxij9zeug0yz7e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255715468%26signature%3DBqK8YE8ZGIezbeBfY4r7mbcxWUM%253D%26ts%3D1698806668" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
