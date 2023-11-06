@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 01:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 02:29:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 30 Oct 2023 05:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F693354974%2Fthumb%2F20231030135603" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 망상 환자에게 도둑으로 몰리게 된 박보영 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442088358?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088358?act=clip</guid>
+            <pubDate>Mon, 06 Nov 2023 02:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2135949915%2Fthumb%2F20231103185520" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 간호사 박보영의 멀고도 험한 정신병동 적응기 | 정신병동에도 아침이 와요]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441966887?act=clip</guid>
             <pubDate>Wed, 25 Oct 2023 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F837914260%2Fthumb%2F20231025114527" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F837914260%2Fthumb%2F20231025114527" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 치료하다 말고 양세종에게 키스하는 수지 | 이두나!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Oct 2023 02:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1099834058%2Fthumb%2F20231010102449" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 피 튀긴 얼굴로 다 쓸어버리는 전종서 | 발레리나]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441531228?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441531228?act=clip</guid>
-            <pubDate>Mon, 09 Oct 2023 10:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1907683228%2Fthumb%2F20231009140115" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
