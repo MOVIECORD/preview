@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 02:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 03:18:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<적인걸 : 노반기술> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442260029?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442260029?act=clip</guid>
+            <pubDate>Mon, 06 Nov 2023 03:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvazem5k4bgqwtdphnryw73t5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256147000%26signature%3DbSSjP6rmBTOAD2MIt2LPFbZspGI%253D%26ts%3D1699238200" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<여귀교-저주를 부르는 게임> [청불] 런칭 예고편-마라맛]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442259502?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442168679?act=clip</guid>
             <pubDate>Fri, 03 Nov 2023 01:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3vyy4ou0etv0krcujm6m4bw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255882418%26signature%3D4TO4jk5PzAS2O5mbALkWUb8Dl5U%253D%26ts%3D1698973618" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3vyy4ou0etv0krcujm6m4bw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255882418%26signature%3D4TO4jk5PzAS2O5mbALkWUb8Dl5U%253D%26ts%3D1698973618" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사형에 이르는 병> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Nov 2023 03:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzacruts3x73wq17yo00s21s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255712226%26signature%3DobsOUuUAGsQOreJcBmFgb9cFMDY%253D%26ts%3D1698803426" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 마블스> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442140606?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442140606?act=clip</guid>
-            <pubDate>Wed, 01 Nov 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7wa9frn55ik8370318iyu4b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255714826%26signature%3DiDV3Ie6TtlUk87iq8MK3UxBXFow%253D%26ts%3D1698806026" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
