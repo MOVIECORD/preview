@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 04:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 05:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<붉은 장미의 추억> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442263234?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442263234?act=clip</guid>
+            <pubDate>Mon, 06 Nov 2023 05:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbofjwxxky46fwcf3u0bwirj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256155444%26signature%3Dl0%252FMgQidGIJt5DaV60Q2OS2ZEB0%253D%26ts%3D1699246644" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<3일의 휴가> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442262195?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442172639?act=clip</guid>
             <pubDate>Thu, 02 Nov 2023 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpjb3d646nq4np0w2c92kok1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255820813%26signature%3Dii16OGyQqAs%252FMhd0h3ITqtx%252FkeM%253D%26ts%3D1698912013" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpjb3d646nq4np0w2c92kok1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255820813%26signature%3Dii16OGyQqAs%252FMhd0h3ITqtx%252FkeM%253D%26ts%3D1698912013" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스노우 폭스 : 썰매개가 될 거야!> 우리말 더빙 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 01 Nov 2023 02:27:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo3yy136x1uqeqh69hl8gqpw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255714206%26signature%3DdCff1BDX2bEn5gqnmzovcuVYB90%253D%26ts%3D1698805406" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 마블스> '팀 마블스 제작기' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442140620?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442140620?act=clip</guid>
-            <pubDate>Wed, 01 Nov 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfjvmxncur8qoiprvnp48t7l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255712233%26signature%3D3lyYawurVg9oCRloezP44JbcGkc%253D%26ts%3D1698803433" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
