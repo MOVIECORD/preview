@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 08:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<위시> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442293715?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442293715?act=clip</guid>
+            <pubDate>Tue, 07 Nov 2023 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg63c1pwopivkc2322o9oi8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256254898%26signature%3Dx%252B4LOrOgorWFUAM%252BeWzGjgKEHic%253D%26ts%3D1699346098" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 우당탕탕 은하안전단: 진정한 용기!> 15초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442291357?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442259008?act=clip</guid>
             <pubDate>Mon, 06 Nov 2023 02:29:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2mp9jiuxstr851glxsoyx6g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256144324%26signature%3DzasEHJ0CQmZJfAk4aAXiS1pjACA%253D%26ts%3D1699235524" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2mp9jiuxstr851glxsoyx6g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256144324%26signature%3DzasEHJ0CQmZJfAk4aAXiS1pjACA%253D%26ts%3D1699235524" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뽀로로 극장판 슈퍼스타 대모험> 뮤직 비디오-소리쳐 봐]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Nov 2023 04:21:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxyaxeum2yt3rd6310nywna7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255805951%26signature%3DCBWtrbCiWxbD6%252FbLuMRT71fkNiM%253D%26ts%3D1698897151" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<프레디의 피자가게> 호러미식회 프레디의 피자가게 소개]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442166201?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442166201?act=clip</guid>
-            <pubDate>Thu, 02 Nov 2023 04:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvymtl45sbestrja85on7npdg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255801719%26signature%3DsjccKhYS6ylHZiykaFwJv4wP9QU%253D%26ts%3D1698892919" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
