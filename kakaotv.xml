@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 02:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 03:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<어느 날 그녀가 우주에서> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442309937?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442309937?act=clip</guid>
+            <pubDate>Wed, 08 Nov 2023 03:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8a767gc9mxowguh0fwyzk06%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256319345%26signature%3Dutb2PbkiiKOOU2i3c%252FUuKYh7LY0%253D%26ts%3D1699410545" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<이빨요정 비올레타: 요정나라로 돌아갈래!> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442309368?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442262195?act=clip</guid>
             <pubDate>Mon, 06 Nov 2023 04:22:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv18fqzacenu3cez7vgm3hver%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256152975%26signature%3DUVax7cFxNe8h8cD4IfXB13578S4%253D%26ts%3D1699244175" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv18fqzacenu3cez7vgm3hver%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33256152975%26signature%3DUVax7cFxNe8h8cD4IfXB13578S4%253D%26ts%3D1699244175" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<적인걸 : 노반기술> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Nov 2023 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpjb3d646nq4np0w2c92kok1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255820813%26signature%3Dii16OGyQqAs%252FMhd0h3ITqtx%252FkeM%253D%26ts%3D1698912013" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<스노우 폭스 : 썰매개가 될 거야!> 우리말 더빙 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442172381?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442172381?act=clip</guid>
-            <pubDate>Thu, 02 Nov 2023 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtjcb1vfxdwvqg1kmtlbq4p0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33255820720%26signature%3DK%252F5aI6nq3D6XTmpWdtApJM90fKk%253D%26ts%3D1698911920" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
