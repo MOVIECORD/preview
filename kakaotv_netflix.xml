@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Nov 2023 08:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Nov 2023 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 30 Oct 2023 05:18:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F693354974%2Fthumb%2F20231030135603" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 나는 마법사, 당신은 나의 유일한 파티원 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442088373?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088373?act=clip</guid>
+            <pubDate>Wed, 08 Nov 2023 09:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1455965950%2Fthumb%2F20231108161925" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 망상 환자에게 도둑으로 몰리게 된 박보영 | 정신병동에도 아침이 와요]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441990423?act=clip</guid>
             <pubDate>Thu, 26 Oct 2023 02:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1007506312%2Fthumb%2F20231026103529" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1007506312%2Fthumb%2F20231026103529" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 친구 말고 좋아하는 사람이라고 해주면 안 돼? | 이두나!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Oct 2023 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1655925513%2Fthumb%2F20231012120512" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 곽준빈을 오열하게 만든 탈락자는? | 데블스 플랜]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441620277?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441620277?act=clip</guid>
-            <pubDate>Wed, 11 Oct 2023 03:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1145789293%2Fthumb%2F20231011120610" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
