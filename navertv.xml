@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 14:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 15:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['길위에 김대중' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42609195</link>
+            <guid>https://tv.naver.com/v/42609195</guid>
+            <pubDate>Thu, 09 Nov 2023 15:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[8분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_137/hlzR8_1699542539064pXA7S_JPEG/8f7958ee-7f11-11ee-8f91-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['브루스 윌리스의 라스트 미션: 데이 투 다이' 예고편]]></title>
             <link>https://tv.naver.com/v/42572152</link>
             <guid>https://tv.naver.com/v/42572152</guid>
             <pubDate>Thu, 09 Nov 2023 06:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[8시간 전]]></content:encoded>
+            <content:encoded><![CDATA[9시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_56/BzyHv_169950758319057wFW_JPEG/bb1745f8-7ebc-11ee-9371-48df37e2c12c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,11 +52,11 @@
             <link>https://tv.naver.com/v/42515713</link>
             <guid>https://tv.naver.com/v/42515713</guid>
             <pubDate>Wed, 08 Nov 2023 23:17:44 GMT</pubDate>
-            <content:encoded><![CDATA[15시간 전]]></content:encoded>
+            <content:encoded><![CDATA[16시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_154/FgQiD_1699424759341JuNyw_PNG/1699424666261.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA['조이랜드' 예고편]]></title>
+            <title><![CDATA['조이랜드' 30초 런칭 예고편]]></title>
             <link>https://tv.naver.com/v/42512944</link>
             <guid>https://tv.naver.com/v/42512944</guid>
             <pubDate>Wed, 08 Nov 2023 06:23:16 GMT</pubDate>
@@ -188,7 +196,7 @@
             <link>https://tv.naver.com/v/42430066</link>
             <guid>https://tv.naver.com/v/42430066</guid>
             <pubDate>Mon, 06 Nov 2023 15:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231106_118/20Xmc_1699281905105RViEU_JPEG/7e997b6c-7cb0-11ee-81fd-80615f0bcdea_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Nov 2023 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231106_197/6rYRD_1699252468839BJrCM_JPEG/47ae83be-7c6e-11ee-8608-a0369ffb31a0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['극장판 파워 디지몬 더 비기닝' 전영호 그리팅 영상]]></title>
-            <link>https://tv.naver.com/v/42401165</link>
-            <guid>https://tv.naver.com/v/42401165</guid>
-            <pubDate>Mon, 06 Nov 2023 07:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_5/rbx12_1699252140706wcMYG_JPEG/0d6ada2f-7c6d-11ee-81fd-80615f0bcdea_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
