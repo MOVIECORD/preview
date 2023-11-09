@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1455965950%2Fthumb%2F20231108161925" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 정신질환을 앓게 된 정신병동 간호사 | 정신병동에도 아침이 와요]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442088365?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088365?act=clip</guid>
+            <pubDate>Thu, 09 Nov 2023 09:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F75744098%2Fthumb%2F20231108164342" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 망상 환자에게 도둑으로 몰리게 된 박보영 | 정신병동에도 아침이 와요]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442088358?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442088358?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/441992202?act=clip</guid>
             <pubDate>Thu, 26 Oct 2023 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F370020940%2Fthumb%2F20231026120147" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F370020940%2Fthumb%2F20231026120147" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 크레이지 크루즈 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Oct 2023 03:18:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1070681372%2Fthumb%2F20231012121227" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 최후의 3인 확정 | 데블스 플랜]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441644746?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441644746?act=clip</guid>
-            <pubDate>Thu, 12 Oct 2023 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1655925513%2Fthumb%2F20231012120512" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
