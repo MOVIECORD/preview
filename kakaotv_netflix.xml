@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 23:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 01:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442343118?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442343118?act=clip</guid>
+            <pubDate>Fri, 10 Nov 2023 01:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1601757884%2Fthumb%2F20231109184229" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442260416?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442013478?act=clip</guid>
             <pubDate>Fri, 27 Oct 2023 01:13:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1560366705%2Fthumb%2F20231027095911" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1560366705%2Fthumb%2F20231027095911" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 친구랑은 키스 안 한다며 | 이두나!]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 13 Oct 2023 02:28:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F404761796%2Fthumb%2F20231013101752" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 발레리나 | 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441644912?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441644912?act=clip</guid>
-            <pubDate>Thu, 12 Oct 2023 03:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1070681372%2Fthumb%2F20231012121227" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
