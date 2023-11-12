@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 15:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 16:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['미로' 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/42733569</link>
+            <guid>https://tv.naver.com/v/42733569</guid>
+            <pubDate>Sun, 12 Nov 2023 16:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[4분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_139/rBc8N_16998057862910z6Yi_JPEG/9b67d0d6-8176-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['홈그라운드' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/42648031</link>
@@ -60,7 +68,7 @@
             <link>https://tv.naver.com/v/42611114</link>
             <guid>https://tv.naver.com/v/42611114</guid>
             <pubDate>Thu, 09 Nov 2023 16:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_113/P2Yya_1699545656682Yb5Am_JPEG/9f10b912-7f18-11ee-9fdc-a0369ffda930_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -68,7 +76,7 @@
             <link>https://tv.naver.com/v/42610575</link>
             <guid>https://tv.naver.com/v/42610575</guid>
             <pubDate>Thu, 09 Nov 2023 16:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_81/jNtc7_1699544726669BtImc_JPEG/953c77f8-7f16-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 04:20:40 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_40/zJZI2_1699328359788737nA_JPEG/cac4a637-7d1e-11ee-8382-505dacfbaa5c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비투비 타임 : 비투게더 더 무비' 1분 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/42446953</link>
-            <guid>https://tv.naver.com/v/42446953</guid>
-            <pubDate>Tue, 07 Nov 2023 03:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_194/3Seit_1699327064188RqSbk_JPEG/d4be14e0-7d1b-11ee-bae1-505dac8c38f5_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<금의 나라 물의 나라> 뮤직 비디오 (우리 영화 볼래?)]]></title>
