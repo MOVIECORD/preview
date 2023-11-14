@@ -4,15 +4,39 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 02:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 03:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['어른 김장하' 내레이션 예고편]]></title>
+            <link>https://tv.naver.com/v/42804176</link>
+            <guid>https://tv.naver.com/v/42804176</guid>
+            <pubDate>Tue, 14 Nov 2023 03:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[14분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_65/cgAmk_1699931047353qtdIj_JPEG/1a9a53ed-829a-11ee-b635-48df37e319a2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['교토에서 온 편지' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42803141</link>
+            <guid>https://tv.naver.com/v/42803141</guid>
+            <pubDate>Tue, 14 Nov 2023 03:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[33분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_237/yctEu_16999298998016FaPu_JPEG/4aef8dc5-8297-11ee-9ba4-a0369ffb3258_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['컨트리 카바레' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/42802326</link>
+            <guid>https://tv.naver.com/v/42802326</guid>
+            <pubDate>Tue, 14 Nov 2023 03:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[46분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_294/Xn68X_1699929112681Ixgmp_JPEG/e83ff42e-8294-11ee-9371-48df37e2c12c_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['3일의 휴가' 힐링 메이트 영상]]></title>
             <link>https://tv.naver.com/v/42759699</link>
             <guid>https://tv.naver.com/v/42759699</guid>
             <pubDate>Tue, 14 Nov 2023 02:27:21 GMT</pubDate>
-            <content:encoded><![CDATA[27분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_168/WIfII_1699859701464nRsf0_PNG/1699859335878.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 08 Nov 2023 05:16:19 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231108_46/L1bOg_1699418108765WeFXs_JPEG/53182120-7def-11ee-9244-a0369ffde9a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['빅슬립' 뮤직비디오]]></title>
-            <link>https://tv.naver.com/v/42507352</link>
-            <guid>https://tv.naver.com/v/42507352</guid>
-            <pubDate>Wed, 08 Nov 2023 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_80/w4UR2_1699417084716UN2La_JPEG/8d5e9129-7ded-11ee-8fa1-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여귀교- 저주를 부르는 게임' 런칭 예고편-마라맛]]></title>
-            <link>https://tv.naver.com/v/42506104</link>
-            <guid>https://tv.naver.com/v/42506104</guid>
-            <pubDate>Wed, 08 Nov 2023 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231108_68/Lv7Ir_1699415340941zAUDm_JPEG/8c409a16-7de9-11ee-9416-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['아줌마' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/42469905</link>
-            <guid>https://tv.naver.com/v/42469905</guid>
-            <pubDate>Tue, 07 Nov 2023 10:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_93/yG7Cb_1699350130855VDQEB_JPEG/158403d8-7d46-11ee-b635-48df37e319a2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
