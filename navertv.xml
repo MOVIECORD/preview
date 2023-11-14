@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 01:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 02:27:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['3일의 휴가' 힐링 메이트 영상]]></title>
+            <link>https://tv.naver.com/v/42759699</link>
+            <guid>https://tv.naver.com/v/42759699</guid>
+            <pubDate>Tue, 14 Nov 2023 02:27:21 GMT</pubDate>
+            <content:encoded><![CDATA[27분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_168/WIfII_1699859701464nRsf0_PNG/1699859335878.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['노량: 죽음의 바다' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/42741073</link>
             <guid>https://tv.naver.com/v/42741073</guid>
             <pubDate>Mon, 13 Nov 2023 02:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[23시간 전]]></content:encoded>
+            <content:encoded><![CDATA[1일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_234/aL166_16998398414318p5wl_PNG/1699839615271.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -148,7 +156,7 @@
             <link>https://tv.naver.com/v/42585761</link>
             <guid>https://tv.naver.com/v/42585761</guid>
             <pubDate>Fri, 10 Nov 2023 02:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_71/mc2od_1699519613073zj6JN_PNG/1699519609631.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 10:19:15 GMT</pubDate>
             <content:encoded><![CDATA[6일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_93/yG7Cb_1699350130855VDQEB_JPEG/158403d8-7d46-11ee-b635-48df37e319a2_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['노 엑시트' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/42464233</link>
-            <guid>https://tv.naver.com/v/42464233</guid>
-            <pubDate>Tue, 07 Nov 2023 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[6일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_66/ywJ26_1699344340903gEYUj_JPEG/fc272a23-7d43-11ee-9125-d4f5ef590144_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
