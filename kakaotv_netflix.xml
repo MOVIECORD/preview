@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 01:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 포켓몬 컨시어지 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442471506?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442471506?act=clip</guid>
+            <pubDate>Wed, 15 Nov 2023 01:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1098039678%2Fthumb%2F20231115100520" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442435133?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442142225?act=clip</guid>
             <pubDate>Wed, 01 Nov 2023 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1965639668%2Fthumb%2F20231101120459" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1965639668%2Fthumb%2F20231101120459" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 Oct 2023 03:18:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F786993057%2Fthumb%2F20231025114614" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리브 더 월드 비하인드 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441966887?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441966887?act=clip</guid>
-            <pubDate>Wed, 25 Oct 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F837914260%2Fthumb%2F20231025114527" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
