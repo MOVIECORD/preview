@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 01:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 02:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442495617?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442495617?act=clip</guid>
+            <pubDate>Thu, 16 Nov 2023 02:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F122030532%2Fthumb%2F20231116102541" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥3 | 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442478614?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442171803?act=clip</guid>
             <pubDate>Thu, 02 Nov 2023 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1924414380%2Fthumb%2F20231102162136" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1924414380%2Fthumb%2F20231102162136" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 펜타닐이 세계적으로 확산된 이유? | 페인 허슬러]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 26 Oct 2023 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F370020940%2Fthumb%2F20231026120147" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 크레이지 크루즈 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/441990423?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/441990423?act=clip</guid>
-            <pubDate>Thu, 26 Oct 2023 02:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1007506312%2Fthumb%2F20231026103529" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
