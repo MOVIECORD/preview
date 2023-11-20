@@ -4,15 +4,31 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 12:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 13:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['클레오의 세계' 30초 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/43126991</link>
+            <guid>https://tv.naver.com/v/43126991</guid>
+            <pubDate>Mon, 20 Nov 2023 13:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[20분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_50/2xqh6_1700485342429h6I0X_JPEG/d3704292-87a4-11ee-97c6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['리빙: 어떤 인생' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/43126563</link>
+            <guid>https://tv.naver.com/v/43126563</guid>
+            <pubDate>Mon, 20 Nov 2023 13:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[26분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_208/iw05U_1700484963776BNbfa_JPEG/9c1b2e08-87a3-11ee-aeb5-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['욕망의 덫' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/43123801</link>
             <guid>https://tv.naver.com/v/43123801</guid>
             <pubDate>Mon, 20 Nov 2023 12:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[15분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_120/1jtzu_1700482804366n0pIY_JPEG/d806061d-879e-11ee-8fa1-48df37ae3dc4_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +36,7 @@
             <link>https://tv.naver.com/v/43123251</link>
             <guid>https://tv.naver.com/v/43123251</guid>
             <pubDate>Mon, 20 Nov 2023 12:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[24분 전]]></content:encoded>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_218/tejyi_1700482260895dpfJg_JPEG/be22c910-879d-11ee-8891-80615f0bce16_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 06:24:58 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_138/FlFku_17000268749861igJA_JPEG/4a07ca20-8379-11ee-9371-48df37e2c12c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트롤: 밴드 투게더' 메인 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/42872730</link>
-            <guid>https://tv.naver.com/v/42872730</guid>
-            <pubDate>Wed, 15 Nov 2023 06:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_169/3Jaj1_1700025813830TcIdE_JPEG/3ea9d59c-836f-11ee-ab5a-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['5시부터 7시까지의 주희' #마음챙김 영상 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/42868117</link>
-            <guid>https://tv.naver.com/v/42868117</guid>
-            <pubDate>Wed, 15 Nov 2023 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_274/0GMWP_1700020807188APgtu_JPEG/ee5d7bcd-836a-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<데블스 맨: 제1특전단> 메인 예고편 (우리 영화 볼래?)]]></title>
