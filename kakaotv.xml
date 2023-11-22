@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 03:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 04:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<싱글 인 서울> 가이드 북 제작기 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442640921?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442640921?act=clip</guid>
+            <pubDate>Wed, 22 Nov 2023 04:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv23s2s1ulfhe7qem3pcp7rla%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257535370%26signature%3Dh03B5I1X9CH%252FcafNkPG0pboX4cs%253D%26ts%3D1700626570" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<천지서> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442639176?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442590154?act=clip</guid>
             <pubDate>Mon, 20 Nov 2023 02:32:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd2ic9nchq322d7yrnp6yw5s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257353576%26signature%3DBrfXUSXQg9MiukqG76drItDzNf4%253D%26ts%3D1700444776" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd2ic9nchq322d7yrnp6yw5s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257353576%26signature%3DBrfXUSXQg9MiukqG76drItDzNf4%253D%26ts%3D1700444776" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 파워 디지몬 더 비기닝> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 16 Nov 2023 09:18:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfe7mzll9dpilfkhl5m2ituh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257033941%26signature%3Dg5b6Dr%252FM0%252FDswPahOAVLNAlAVu8%253D%26ts%3D1700125141" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<3일의 휴가> 캐릭터예고편-힐링메이트 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442502818?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442502818?act=clip</guid>
-            <pubDate>Thu, 16 Nov 2023 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv97jppa4ht6ig5srrgkdj923%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257028067%26signature%3DeUyBNZiecAAfdCXV4%252B5i8msgshI%253D%26ts%3D1700119267" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
