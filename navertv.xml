@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 05:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 06:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['천지서' 예고편]]></title>
+            <link>https://tv.naver.com/v/43280080</link>
+            <guid>https://tv.naver.com/v/43280080</guid>
+            <pubDate>Thu, 23 Nov 2023 06:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[2분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_35/OP2AM_1700720488189F3AGo_JPEG/1e45a8bb-89c8-11ee-81fd-80615f0bcdea_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['매트' 티저 예고편]]></title>
             <link>https://tv.naver.com/v/43256053</link>
             <guid>https://tv.naver.com/v/43256053</guid>
             <pubDate>Wed, 22 Nov 2023 16:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_5/xY4uq_1700669643954vNedE_JPEG/b17ed707-8951-11ee-ba0a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +28,7 @@
             <link>https://tv.naver.com/v/43255294</link>
             <guid>https://tv.naver.com/v/43255294</guid>
             <pubDate>Wed, 22 Nov 2023 16:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[13시간 전]]></content:encoded>
+            <content:encoded><![CDATA[14시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_164/0dBip_1700667897556FPmUs_JPEG/a2e3342b-894d-11ee-8382-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -28,7 +36,7 @@
             <link>https://tv.naver.com/v/43253788</link>
             <guid>https://tv.naver.com/v/43253788</guid>
             <pubDate>Wed, 22 Nov 2023 15:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[14시간 전]]></content:encoded>
+            <content:encoded><![CDATA[15시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_177/hR4j0_1700665701479xkI6O_JPEG/6b0ae20c-8948-11ee-b864-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -36,7 +44,7 @@
             <link>https://tv.naver.com/v/43232530</link>
             <guid>https://tv.naver.com/v/43232530</guid>
             <pubDate>Wed, 22 Nov 2023 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[20시간 전]]></content:encoded>
+            <content:encoded><![CDATA[21시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_158/J9QJo_1700644015853NAAVW_JPEG/b6695992-8915-11ee-9371-48df37e2c12c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 08:22:46 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_147/Ap2Ax_1700205665353frkUP_JPEG/6c9b2f82-8519-11ee-a2d6-80615f0bcc12_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['조이랜드' 티저 예고편]]></title>
-            <link>https://tv.naver.com/v/42994163</link>
-            <guid>https://tv.naver.com/v/42994163</guid>
-            <pubDate>Fri, 17 Nov 2023 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_176/2Pnkw_1700204755018os2iK_JPEG/6e9a6c6a-8517-11ee-a5f8-80615f0bcc30_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
