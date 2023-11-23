@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 23:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 01:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442618691?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442618691?act=clip</guid>
+            <pubDate>Thu, 23 Nov 2023 01:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059923430%2Fthumb%2F20231121141134" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 묵시록의 4기사 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442591356?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442355851?act=clip</guid>
             <pubDate>Fri, 10 Nov 2023 02:26:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1493558925%2Fthumb%2F20231110105611" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1493558925%2Fthumb%2F20231110105611" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 울트라맨: 라이징 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 30 Oct 2023 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1166684442%2Fthumb%2F20231030121435" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 두나 앞에선 멍뭉이🐶 양세종의 대형견 모먼트 | 이두나!]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442087790?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442087790?act=clip</guid>
-            <pubDate>Mon, 30 Oct 2023 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F979647273%2Fthumb%2F20231030121933" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
