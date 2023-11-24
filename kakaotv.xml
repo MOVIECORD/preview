@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 06:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 07:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 24 Nov 2023 05:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frviv6evhpnxl01mgabdatkfbn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257710474%26signature%3DDvw7B58eO%252FrQ8ooVvGDE43e9vIw%253D%26ts%3D1700801674" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<세이퍼 앳 홈> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442687329?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442687329?act=clip</guid>
+            <pubDate>Fri, 24 Nov 2023 07:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbhzfb3s1iqs5ilecfea7qjz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257708921%26signature%3DikjuCKII0%252FFtCYvVJrtYrcusLh4%253D%26ts%3D1700800121" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<걸 위드 건> [청불] 메인 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442660368?act=clip</guid>
             <pubDate>Thu, 23 Nov 2023 01:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1129084002%2Fthumb%2F20231123100407" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1129084002%2Fthumb%2F20231123100407" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신 울트라맨> 런칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Nov 2023 06:24:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl3rtiqcxtqm8k3hn8k09l4e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257368464%26signature%3DgrA3ooFvOqh6RHzlxLyGHYYFKTg%253D%26ts%3D1700459664" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인디펜던스 나이트> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442593195?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442593195?act=clip</guid>
-            <pubDate>Mon, 20 Nov 2023 05:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3c2fho80aj96c7k2aom4j86%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257362025%26signature%3DgD9zjThuRCDZiy%252Bss9g5KibkGFE%253D%26ts%3D1700453225" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
