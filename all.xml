@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 23:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 01:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -100,7 +100,7 @@
             <link>https://tv.naver.com/v/43322331</link>
             <guid>https://tv.naver.com/v/43322331</guid>
             <pubDate>Fri, 24 Nov 2023 01:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_128/RtD4M_1700788374623Pzh3f_JPEG/11505a7f-8a66-11ee-9178-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://tv.naver.com/v/43203460</link>
             <guid>https://tv.naver.com/v/43203460</guid>
             <pubDate>Wed, 22 Nov 2023 01:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
+            <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_86/LVJpY_1700613647633iHrlU_JPEG/48dcc5ef-88cf-11ee-b635-48df37e319a2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -568,6 +568,30 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxqbs5y6wl178klwxaqjn4wb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257438832%26signature%3DHYuaE7pNsRDCL9tr3SaOvgKS%252Bm4%253D%26ts%3D1700530032" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 출연자 소개 | 코미디 로얄 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442748817?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442748817?act=clip</guid>
+            <pubDate>Mon, 27 Nov 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F557482014%2Fthumb%2F20231127100935" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마보로시 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442748686?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442748686?act=clip</guid>
+            <pubDate>Mon, 27 Nov 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1150782631%2Fthumb%2F20231127100559" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 솔로지옥3 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442695164?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442695164?act=clip</guid>
+            <pubDate>Mon, 27 Nov 2023 01:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1798326669%2Fthumb%2F20231124191557" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 달고나 우산 고르기 싫어서 싸우는 외국인들 | 오징어 게임: 더 챌린지 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442685239?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442685239?act=clip</guid>
@@ -709,7 +733,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442427854?act=clip</guid>
             <pubDate>Mon, 13 Nov 2023 06:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2119716138%2Fthumb%2F20231113144905" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2119716138%2Fthumb%2F20231113144905" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] The Witcher: Sirens of The Deep | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -717,7 +741,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442427852?act=clip</guid>
             <pubDate>Mon, 13 Nov 2023 06:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1071736856%2Fthumb%2F20231113145003" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1071736856%2Fthumb%2F20231113145003" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] Rebel Moon — 파트 1: 불의 아이 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -725,7 +749,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442366473?act=clip</guid>
             <pubDate>Sun, 12 Nov 2023 23:17:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F751619271%2Fthumb%2F20231110184954" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F751619271%2Fthumb%2F20231110184954" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아바타: 아앙의 전설 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -862,30 +886,6 @@
             <pubDate>Mon, 06 Nov 2023 02:29:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:48]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2135949915%2Fthumb%2F20231103185520" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 마치 10초 뒤에 죽을 것 같았어요 | 정신병동에도 아침이 와요 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442088329?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088329?act=clip</guid>
-            <pubDate>Mon, 06 Nov 2023 05:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1243125005%2Fthumb%2F20231103185532" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 간호사 박보영의 멀고도 험한 정신병동 적응기 | 정신병동에도 아침이 와요 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442088252?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088252?act=clip</guid>
-            <pubDate>Fri, 03 Nov 2023 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1966257211%2Fthumb%2F20231102135416" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 정신병동에도 아침이 와요 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442088193?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442088193?act=clip</guid>
-            <pubDate>Fri, 03 Nov 2023 07:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F603001610%2Fthumb%2F20231103135433" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
