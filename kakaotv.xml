@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 06:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 07:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브루트 포스> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442756079?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442756079?act=clip</guid>
+            <pubDate>Mon, 27 Nov 2023 07:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxfdxaa6msxv66lbkrg4cewd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257975999%26signature%3DC0VKWPZHhfIhA3%252BHO0GHHDAqg1I%253D%26ts%3D1701067199" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<류이치 사카모토: 오퍼스> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442752715?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442684447?act=clip</guid>
             <pubDate>Fri, 24 Nov 2023 02:27:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F51899771%2Fthumb%2F20231124104947" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F51899771%2Fthumb%2F20231124104947" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 2부> '최동훈 감독에게 묻다' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Nov 2023 05:17:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8wn1d20hrme9xefw3ngmo57%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257535899%26signature%3D%252FpVf1edVCgIyvTDFJh6R6G9VWrY%253D%26ts%3D1700627099" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<싱글 인 서울> 가이드 북 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442640921?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442640921?act=clip</guid>
-            <pubDate>Wed, 22 Nov 2023 04:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv23s2s1ulfhe7qem3pcp7rla%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33257535370%26signature%3Dh03B5I1X9CH%252FcafNkPG0pboX4cs%253D%26ts%3D1700626570" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
