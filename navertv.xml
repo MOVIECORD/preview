@@ -4,9 +4,41 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 01:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 02:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['말하고 싶은 비밀' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/43444017</link>
+            <guid>https://tv.naver.com/v/43444017</guid>
+            <pubDate>Mon, 27 Nov 2023 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[7분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_21/7cKhw_1701051766424sLjW7_JPEG/70229c57-8ccb-11ee-ac75-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['동백정원' 예고편]]></title>
+            <link>https://tv.naver.com/v/43443544</link>
+            <guid>https://tv.naver.com/v/43443544</guid>
+            <pubDate>Mon, 27 Nov 2023 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[16분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_133/Fj0or_1701051196341cM41e_JPEG/060669d2-8cca-11ee-81fd-80615f0bcdea_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['괴물' 송강호 배우 추천 영상]]></title>
+            <link>https://tv.naver.com/v/43442185</link>
+            <guid>https://tv.naver.com/v/43442185</guid>
+            <pubDate>Mon, 27 Nov 2023 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[51분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_292/gp8Uv_1701049116042TJQYA_JPEG/4d67ad40-8cc5-11ee-bd18-a0369ffab468_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['물비늘' 30초 예고편]]></title>
+            <link>https://tv.naver.com/v/43441505</link>
+            <guid>https://tv.naver.com/v/43441505</guid>
+            <pubDate>Mon, 27 Nov 2023 02:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[1시간 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_78/JB2I5_1701047983252LX3Kc_JPEG/f61d82d6-8cc1-11ee-b5ae-a0369ff85ee0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 와일드: 야수들의 전쟁' 메인 예고편]]></title>
             <link>https://tv.naver.com/v/43352050</link>
@@ -84,7 +116,7 @@
             <link>https://tv.naver.com/v/43323253</link>
             <guid>https://tv.naver.com/v/43323253</guid>
             <pubDate>Fri, 24 Nov 2023 02:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_247/4DUBF_1700789760258sHo6E_JPEG/61209bbd-8a69-11ee-9b44-a0369ffdab64_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -92,7 +124,7 @@
             <link>https://tv.naver.com/v/43322934</link>
             <guid>https://tv.naver.com/v/43322934</guid>
             <pubDate>Fri, 24 Nov 2023 02:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_182/eSgJX_1700789303842oU5MD_JPEG/2688906e-8a68-11ee-a314-48df37e2c3ac_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -214,38 +246,6 @@
             <pubDate>Wed, 22 Nov 2023 16:24:52 GMT</pubDate>
             <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_164/0dBip_1700667897556FPmUs_JPEG/a2e3342b-894d-11ee-8382-505dacfbaa5c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['엔시티 네이션 : 투 더 월드 인 시네마' 30초 메인예고편]]></title>
-            <link>https://tv.naver.com/v/43253788</link>
-            <guid>https://tv.naver.com/v/43253788</guid>
-            <pubDate>Wed, 22 Nov 2023 15:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_177/hR4j0_1700665701479xkI6O_JPEG/6b0ae20c-8948-11ee-b864-505dac8c37f3_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['싱글 인 서울' 가이드 북 제작기 영상]]></title>
-            <link>https://tv.naver.com/v/43232530</link>
-            <guid>https://tv.naver.com/v/43232530</guid>
-            <pubDate>Wed, 22 Nov 2023 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_158/J9QJo_1700644015853NAAVW_JPEG/b6695992-8915-11ee-9371-48df37e2c12c_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['뉴 노멀' 에필로그 혼밥 영상]]></title>
-            <link>https://tv.naver.com/v/43207908</link>
-            <guid>https://tv.naver.com/v/43207908</guid>
-            <pubDate>Wed, 22 Nov 2023 02:32:53 GMT</pubDate>
-            <content:encoded><![CDATA[4일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_161/6vkVw_1700619676890F72iy_JPEG/6c957c53-88dd-11ee-b3ec-80615f0bcf30_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세틀러스' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/43203460</link>
-            <guid>https://tv.naver.com/v/43203460</guid>
-            <pubDate>Wed, 22 Nov 2023 01:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_86/LVJpY_1700613647633iHrlU_JPEG/48dcc5ef-88cf-11ee-b635-48df37e319a2_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
