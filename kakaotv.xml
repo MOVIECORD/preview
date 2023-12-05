@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 02:31:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 03:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<화이트 스톰 3> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442938817?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442938817?act=clip</guid>
+            <pubDate>Tue, 05 Dec 2023 03:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1980795112%2Fthumb%2F20231205113506" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<노 엑시트> 스페셜 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442937652?act=clip</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 05 Dec 2023 02:31:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrffifnr2ilgsfctshdqnitx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258648937%26signature%3DB8XefM%252BKSO8ZCYrIhWaYzN0LsOM%253D%26ts%3D1701740137" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<필리피나 셀리나> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442937365?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442937365?act=clip</guid>
+            <pubDate>Tue, 05 Dec 2023 03:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvofktzi6gpekjrylszg6yl48%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258648118%26signature%3Du84UJPiJyl7s8rmNBEH6PCHG8ns%253D%26ts%3D1701739318" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<말하고 싶은 비밀> 엇갈린 짝사랑 영상]]></title>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442828445?act=clip</guid>
             <pubDate>Thu, 30 Nov 2023 07:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F628860750%2Fthumb%2F20231130155338" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F628860750%2Fthumb%2F20231130155338" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신 울트라맨> 5인 캐릭터 영상]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442828384?act=clip</guid>
             <pubDate>Thu, 30 Nov 2023 07:16:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1311239252%2Fthumb%2F20231130155026" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1311239252%2Fthumb%2F20231130155026" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<트롤: 밴드 투게더> 월트스타 더빙 현장 영상]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Tue, 28 Nov 2023 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq5y175pwm4o0vh6a16uozhq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258067605%26signature%3DfsBjXhqSwRXLaCl7FtpWIudcAHo%253D%26ts%3D1701158805" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<크레센도> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442782854?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442782854?act=clip</guid>
-            <pubDate>Tue, 28 Nov 2023 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvup031wopb0pq4ainhs8bi80%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258067382%26signature%3Dr4%252BNZ4okMnJutlAk11FpwRhcsxQ%253D%26ts%3D1701158582" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<바다 탐험대 옥토넛 어보브 앤 비욘드 : 버드, 옥토경보를 울려라!> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442777834?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442777834?act=clip</guid>
-            <pubDate>Tue, 28 Nov 2023 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrg5jy6blpa2r1kak2gvj5x8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258052906%26signature%3DUha9N6X2xLpQtf6Vfkd5eTzrQ5I%253D%26ts%3D1701144106" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
