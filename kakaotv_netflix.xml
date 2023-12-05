@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 07:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 08:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[송강과 이진욱의 피 튀기는 대결 |  넷플릭스 스위트홈 시즌2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442944200?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442944200?act=clip</guid>
+            <pubDate>Tue, 05 Dec 2023 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F23093339%2Fthumb%2F20231205161915" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 12월 신작 소개]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/442912553?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442500388?act=clip</guid>
             <pubDate>Thu, 16 Nov 2023 10:19:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1663283771%2Fthumb%2F20231116142943" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1663283771%2Fthumb%2F20231116142943" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 치킨 런: 너겟의 탄생 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 12 Nov 2023 01:21:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1929176003%2Fthumb%2F20231109160553" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442260416?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442260416?act=clip</guid>
-            <pubDate>Mon, 06 Nov 2023 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F838886220%2Fthumb%2F20231106115422" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
