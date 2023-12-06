@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<매드 하이디> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442968950?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442968950?act=clip</guid>
+            <pubDate>Wed, 06 Dec 2023 08:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp3gkdtj7n2zla9pa3g6s5df%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258756977%26signature%3DRYzw0iFAAWx9HYb7%252Bl%252Bmq6y43t0%253D%26ts%3D1701848177" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<세상의 끝에서> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442966919?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442919123?act=clip</guid>
             <pubDate>Mon, 04 Dec 2023 07:17:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmz9va9di0ed07j7kdn33ggr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258582105%26signature%3D974%252FBQSm8sWC7YrNRUO1NGhECP8%253D%26ts%3D1701673305" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmz9va9di0ed07j7kdn33ggr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258582105%26signature%3D974%252FBQSm8sWC7YrNRUO1NGhECP8%253D%26ts%3D1701673305" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<신세계로부터> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 04:21:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvm0fpa5ywzj3wvejr8uamjlp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258225417%26signature%3DGHp33bRnnMkcxjzjEJpHblfKNd4%253D%26ts%3D1701316617" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<노 엑시트> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442824172?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442824172?act=clip</guid>
-            <pubDate>Thu, 30 Nov 2023 03:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjjl1ou83374rpq9gb5fapjp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258221581%26signature%3D1NdeIvyF1xMaOujbrqEmIZFULZA%253D%26ts%3D1701312781" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
