@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 04:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 05:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아쿠아맨과 로스트 킹덤> 파이널 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442965137?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442965137?act=clip</guid>
+            <pubDate>Wed, 06 Dec 2023 05:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu3ju31x4wg9zsrvs1l3k1kd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258747154%26signature%3DwKok4hzlVWiq9aWi11kGMYZajTo%253D%26ts%3D1701838354" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<나폴레옹> 연기 마스터 호아킨 피닉스의 나폴레옹]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442964193?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442913458?act=clip</guid>
             <pubDate>Mon, 04 Dec 2023 03:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1nm31xbp0fyuhh2l3r5ng99%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258565869%26signature%3DiW3%252F6tDnP4RrWBtKpF8148Ace9w%253D%26ts%3D1701657069" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1nm31xbp0fyuhh2l3r5ng99%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258565869%26signature%3DiW3%252F6tDnP4RrWBtKpF8148Ace9w%253D%26ts%3D1701657069" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<물비늘> 시네마틱 사운드 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 30 Nov 2023 01:18:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8fx2w7xs5hfzdu14jbpx8z0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258214822%26signature%3DasMexfKMPx8GOaNUEImgCOVulgw%253D%26ts%3D1701306022" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<듄: 파트2> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442821566?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442821566?act=clip</guid>
-            <pubDate>Thu, 30 Nov 2023 01:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9siot0ptu9s5adyyp9f1gkl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258214527%26signature%3DxXHipBQN99waiGnsgKhiaeCEe9U%253D%26ts%3D1701305727" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
