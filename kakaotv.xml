@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 01:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 02:31:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<라스트 서바이버> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442985966?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442985966?act=clip</guid>
+            <pubDate>Thu, 07 Dec 2023 02:30:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3n0g7lh4zfte219p6p4d7c9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258821013%26signature%3DpD6p%252FO9%252BSF%252FlAVLBaCgCOqd5cTw%253D%26ts%3D1701912213" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<신차원! 짱구는 못말려 더 무비 초능력 대결전 ~날아라 수제김밥~> 초능력 짱구 탄생 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442985776?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442938817?act=clip</guid>
             <pubDate>Tue, 05 Dec 2023 03:19:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1980795112%2Fthumb%2F20231205113506" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1980795112%2Fthumb%2F20231205113506" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<노 엑시트> 스페셜 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Dec 2023 02:35:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv29u7bx7o87zox0asy285ov2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258300567%26signature%3DZv8lGpz5joIrn3ASXBasM%252BPegW0%253D%26ts%3D1701391767" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<신 울트라맨> 액션 모음집 스페셜 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442828445?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442828445?act=clip</guid>
-            <pubDate>Thu, 30 Nov 2023 07:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F628860750%2Fthumb%2F20231130155338" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
