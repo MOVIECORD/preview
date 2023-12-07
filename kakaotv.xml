@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 02:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 03:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<언더 유어 베드> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/442987605?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/442987605?act=clip</guid>
+            <pubDate>Thu, 07 Dec 2023 03:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4xzy2n7n3vqbdmcny99rrgb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258825557%26signature%3DyjPxiFN2A1%252FKEW29N9gh2fC1G58%253D%26ts%3D1701916757" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<라스트 서바이버> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/442985966?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/442943701?act=clip</guid>
             <pubDate>Tue, 05 Dec 2023 07:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveuchslb33dg84os6qphae51%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258668334%26signature%3D6qUf9gf2P2BjN%252FzeXL4MjdNxrH8%253D%26ts%3D1701759534" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveuchslb33dg84os6qphae51%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258668334%26signature%3D6qUf9gf2P2BjN%252FzeXL4MjdNxrH8%253D%26ts%3D1701759534" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<화이트 스톰 3> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 01 Dec 2023 01:26:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1581816008%2Fthumb%2F20231201100230" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<제시는 그때 스무살이었다> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442844677?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442844677?act=clip</guid>
-            <pubDate>Fri, 01 Dec 2023 02:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv29u7bx7o87zox0asy285ov2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258300567%26signature%3DZv8lGpz5joIrn3ASXBasM%252BPegW0%253D%26ts%3D1701391767" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
