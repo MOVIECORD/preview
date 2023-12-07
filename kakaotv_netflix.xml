@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 01:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Tue, 05 Dec 2023 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F23093339%2Fthumb%2F20231205161915" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/442937823?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/442937823?act=clip</guid>
+            <pubDate>Thu, 07 Dec 2023 01:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F72023177%2Fthumb%2F20231205104509" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 12월 신작 소개]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442618691?act=clip</guid>
             <pubDate>Thu, 23 Nov 2023 01:18:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059923430%2Fthumb%2F20231121141134" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059923430%2Fthumb%2F20231121141134" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 묵시록의 4기사 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 Nov 2023 02:26:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F965990757%2Fthumb%2F20231110105453" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 더 챌린지 | 《오징어 게임》 황동혁 감독과 함께하는 비하인드]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442355851?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442355851?act=clip</guid>
-            <pubDate>Fri, 10 Nov 2023 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1493558925%2Fthumb%2F20231110105611" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
