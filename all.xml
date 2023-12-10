@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 22:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['외계+인 2부' 캐릭터 로드맵 영상 (네이버 영화 예고편 저장소)]]></title>
+            <link>https://tv.naver.com/v/44032430</link>
+            <guid>https://tv.naver.com/v/44032430</guid>
+            <pubDate>Sun, 10 Dec 2023 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_33/KlSHQ_170201820414722cIx_PNG/1702018062274.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA['서울의 봄' 캐릭터 탄생기 (네이버 영화 예고편 저장소)]]></title>
             <link>https://tv.naver.com/v/44026799</link>
@@ -164,7 +172,7 @@
             <link>https://tv.naver.com/v/43932933</link>
             <guid>https://tv.naver.com/v/43932933</guid>
             <pubDate>Wed, 06 Dec 2023 23:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[3일 전]]></content:encoded>
+            <content:encoded><![CDATA[4일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_238/CWEvP_1701856103194nY28k_PNG/1701856074189.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Dec 2023 06:24:13 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_189/PIDL4_1701755224631LzpkA_JPEG/550f2308-9331-11ee-a3c9-a0369ffddfdc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['더 킹덤: 군주의 전쟁' 예고편 (네이버 영화 예고편 저장소)]]></title>
-            <link>https://tv.naver.com/v/43860217</link>
-            <guid>https://tv.naver.com/v/43860217</guid>
-            <pubDate>Tue, 05 Dec 2023 06:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_223/WvD6b_1701754400523C4E8Q_JPEG/840b40eb-932f-11ee-931b-a0369ffdb4b4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[<거미집> 팝업 방문 영상 (우리 영화 볼래?)]]></title>
