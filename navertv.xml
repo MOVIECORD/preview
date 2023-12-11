@@ -4,15 +4,23 @@
         <title>네이버 영화 예고편 저장소</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 03:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 04:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['캠걸 : 그녀의 비밀' 메인 예고편]]></title>
+            <link>https://tv.naver.com/v/44139612</link>
+            <guid>https://tv.naver.com/v/44139612</guid>
+            <pubDate>Mon, 11 Dec 2023 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[3분 전]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_161/NiREx_17022683183211x17h_JPEG/265de172-97dc-11ee-b363-80615f0bcf62_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['외계+인 2부' 캐릭터 로드맵 영상]]></title>
             <link>https://tv.naver.com/v/44032430</link>
             <guid>https://tv.naver.com/v/44032430</guid>
             <pubDate>Sun, 10 Dec 2023 23:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[4시간 전]]></content:encoded>
+            <content:encoded><![CDATA[5시간 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_24/JJTxH_1702258697827Oy7Iy_JPEG/1702258686737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -52,7 +60,7 @@
             <link>https://tv.naver.com/v/44020763</link>
             <guid>https://tv.naver.com/v/44020763</guid>
             <pubDate>Fri, 08 Dec 2023 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[2일 전]]></content:encoded>
+            <content:encoded><![CDATA[3일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_79/mibHX_17020063521627SM2O_JPEG/2c606f13-957a-11ee-aa26-a0369ffb31f0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Dec 2023 06:24:13 GMT</pubDate>
             <content:encoded><![CDATA[5일 전]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_255/5WMsc_1701755668356t1EVY_JPEG/a56a517f-9332-11ee-93f0-48df3772587c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['여자감옥: 무법지대' 메인 예고편]]></title>
-            <link>https://tv.naver.com/v/43861027</link>
-            <guid>https://tv.naver.com/v/43861027</guid>
-            <pubDate>Tue, 05 Dec 2023 06:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[5일 전]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_189/PIDL4_1701755224631LzpkA_JPEG/550f2308-9331-11ee-a3c9-a0369ffddfdc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
