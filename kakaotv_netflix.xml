@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 01:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 비버리 힐스 캅: 액셀 F | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443181823?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443181823?act=clip</guid>
+            <pubDate>Fri, 15 Dec 2023 01:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1048987443%2Fthumb%2F20231215101053" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 대낮에 벌어진 요괴와 영계탐정의 싸움 | 유유백서]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443167750?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442807223?act=clip</guid>
             <pubDate>Fri, 01 Dec 2023 03:19:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F326051063%2Fthumb%2F20231129173857" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F326051063%2Fthumb%2F20231129173857" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 베를린 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Nov 2023 06:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1236740864%2Fthumb%2F20231113145155" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유유백서 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442427865?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442427865?act=clip</guid>
-            <pubDate>Mon, 13 Nov 2023 06:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1699789627%2Fthumb%2F20231113145046" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
