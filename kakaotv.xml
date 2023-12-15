@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Dec 2023 01:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Dec 2023 02:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인투 더 월드> '오린 누구?! 더빙 캐스트 소개' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443182916?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443182916?act=clip</guid>
+            <pubDate>Fri, 15 Dec 2023 02:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtjgxmkv5v17qns8644slbww%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259514527%26signature%3DbA8YoRYPLjf2CV9mSZxkdghy%252Fk8%253D%26ts%3D1702605727" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<도그맨> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443180883?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443108915?act=clip</guid>
             <pubDate>Tue, 12 Dec 2023 02:31:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfzkrh6cv99drsr3ijmgmnao%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259256204%26signature%3Du9rUZOVc2LfIj9Z86uCQIV7MPVc%253D%26ts%3D1702347404" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfzkrh6cv99drsr3ijmgmnao%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259256204%26signature%3Du9rUZOVc2LfIj9Z86uCQIV7MPVc%253D%26ts%3D1702347404" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<터보 콜라> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Dec 2023 09:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1984120480%2Fthumb%2F20231207173819" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<적인걸: 신룡의 비밀> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/442994789?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/442994789?act=clip</guid>
-            <pubDate>Thu, 07 Dec 2023 09:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt8uunp8nzhkoeapqwwlqal2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258846625%26signature%3DSjVyLyyMa40vTdelF75ovhnZdiY%253D%26ts%3D1701937825" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
