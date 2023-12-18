@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 01:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 02:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인투 더 월드> '그웬은 장거리 비행이 처음이라...' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443257213?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443257213?act=clip</guid>
+            <pubDate>Mon, 18 Dec 2023 02:31:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrzplde97so726eq7f2snv1s%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259773582%26signature%3DDaZ6RFswKEe%252FPTwpIiKJbXn7BEM%253D%26ts%3D1702864782" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<쏘우 X> X-DAY 극찬 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443191846?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443110749?act=clip</guid>
             <pubDate>Tue, 12 Dec 2023 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqknh3b6thptjj0zm4exp7ht%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259272806%26signature%3DeMNi2EvAxr6kXHtplY2TA0SIwFI%253D%26ts%3D1702364006" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqknh3b6thptjj0zm4exp7ht%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259272806%26signature%3DeMNi2EvAxr6kXHtplY2TA0SIwFI%253D%26ts%3D1702364006" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<외계+인 2부>  캐릭터 로드맵 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Dec 2023 06:23:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F23416098%2Fthumb%2F20231208141858" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<트롤: 밴드 투게더> K-트롤 더빙 비하인드 캠]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443013750?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443013750?act=clip</guid>
-            <pubDate>Fri, 08 Dec 2023 05:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlid3bava0wwt4gtyajvxkw2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33258920399%26signature%3DMzvikPKjP88SiGNOTcZ4os3A4Bw%253D%26ts%3D1702011599" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
