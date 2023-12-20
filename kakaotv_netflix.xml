@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 02:16:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 03:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[패널들을 경악하게 만든 이관희의 대답은?👀 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443310416?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443310416?act=clip</guid>
+            <pubDate>Wed, 20 Dec 2023 03:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:58]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1024042738%2Fthumb%2F20231220100055" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터 전쟁이다🔥 모두 모인 두 지옥도의 사람들 ∣ 넷플릭스 솔로지옥3]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443292998?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442937823?act=clip</guid>
             <pubDate>Thu, 07 Dec 2023 01:20:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F72023177%2Fthumb%2F20231205104509" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F72023177%2Fthumb%2F20231205104509" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 12월 신작 소개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 Nov 2023 07:17:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1353957438%2Fthumb%2F20231116143122" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 진짜 이선생이 있는 곳으로 간다 | 독전 2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442500388?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442500388?act=clip</guid>
-            <pubDate>Thu, 16 Nov 2023 10:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1663283771%2Fthumb%2F20231116142943" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
