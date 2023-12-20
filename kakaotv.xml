@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 05:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 06:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<립세의 사계> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443316096?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443316096?act=clip</guid>
+            <pubDate>Wed, 20 Dec 2023 06:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1022466384%2Fthumb%2F20231220142855" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<덤머니> 상위 1% VS 개미 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443315044?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443154889?act=clip</guid>
             <pubDate>Thu, 14 Dec 2023 01:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv13tzjjobbpwsem8e7nbu8vu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259422241%26signature%3D80h1eG0h%252F7pA9DlVXSdJusyk8gM%253D%26ts%3D1702513441" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv13tzjjobbpwsem8e7nbu8vu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259422241%26signature%3D80h1eG0h%252F7pA9DlVXSdJusyk8gM%253D%26ts%3D1702513441" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<위시> 'THIS WISH' 비하인드 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Dec 2023 05:18:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv57mlt9zq24n99sh8gwvv44q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259177508%26signature%3DkINXSFf84VKHfSeRtvqaKU2Zz%252Bc%253D%26ts%3D1702268708" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<위시> 'THIS IS THE THANKS I GET?!' 비하인드 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443084544?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443084544?act=clip</guid>
-            <pubDate>Mon, 11 Dec 2023 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6tt52r2yd7a9va6hayrx4h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259177143%26signature%3DZFu16THRVuL2IcDDw58l%252FsBr6co%253D%26ts%3D1702268343" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
