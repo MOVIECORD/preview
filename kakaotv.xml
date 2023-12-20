@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Dec 2023 04:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Dec 2023 05:14:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<덤머니> 상위 1% VS 개미 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443315044?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443315044?act=clip</guid>
+            <pubDate>Wed, 20 Dec 2023 05:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg46oz94rkiviocyuhp9ixpr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259956292%26signature%3Dp1XPAQ7kSQeA%252B0eQ0GvKjZeUyLA%253D%26ts%3D1703047492" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<류이치 사카모토: 오퍼스> 문화계 강력 추천 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443312603?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443154818?act=clip</guid>
             <pubDate>Thu, 14 Dec 2023 01:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvijt62swg9g4thapteynfepc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259421914%26signature%3Db3U%252FrGpmURUswuZMKeReedUMcvc%253D%26ts%3D1702513114" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvijt62swg9g4thapteynfepc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259421914%26signature%3Db3U%252FrGpmURUswuZMKeReedUMcvc%253D%26ts%3D1702513114" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리브 더 월드 비하인드> 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 11 Dec 2023 04:22:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6tt52r2yd7a9va6hayrx4h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259177143%26signature%3DZFu16THRVuL2IcDDw58l%252FsBr6co%253D%26ts%3D1702268343" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<위시> 'THIS IS THE THANKS I GET?!' 뮤직 스팟]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443084449?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443084449?act=clip</guid>
-            <pubDate>Mon, 11 Dec 2023 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmggprjoz8pp1llxl3oh36vu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259176891%26signature%3DVKZXj5lEASx1%252BcWKqskEjOyQkSc%253D%26ts%3D1702268091" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
