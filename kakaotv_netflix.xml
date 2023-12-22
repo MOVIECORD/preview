@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Dec 2023 01:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 내 애인에게 사랑하는 사람이 생겼다 | 마에스트로 번스타인]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443362649?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443362649?act=clip</guid>
+            <pubDate>Fri, 22 Dec 2023 01:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1788453124%2Fthumb%2F20231222101253" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[하루에 한 명 이상은 쫓아왔다는 마성의 메기🐟 ∣ 넷플릭스 솔로지옥3]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443337712?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/442961009?act=clip</guid>
             <pubDate>Wed, 06 Dec 2023 01:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1074444765%2Fthumb%2F20231206101411" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1074444765%2Fthumb%2F20231206101411" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[차원이 다른 괴물 전담 부대의 괴물 소탕 작전💥∣ 넷플릭스 스위트홈 시즌2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 24 Nov 2023 02:27:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1374039981%2Fthumb%2F20231124112651" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442618691?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442618691?act=clip</guid>
-            <pubDate>Thu, 23 Nov 2023 01:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059923430%2Fthumb%2F20231121141134" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
