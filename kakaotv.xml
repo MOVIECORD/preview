@@ -4,11 +4,19 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[인투 더 월드_일루미네이션 패밀리 어셈블 영상]]></title>
+            <title><![CDATA[<이어지는 땅> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443470457?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443470457?act=clip</guid>
+            <pubDate>Tue, 26 Dec 2023 03:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl5lvujryf5zgdqfgf5kpoug%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260468122%26signature%3DByB73rOo2EqbgBSF9zj0U0QxypY%253D%26ts%3D1703559322" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<인투 더 월드> 일루미네이션 패밀리 어셈블 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</guid>
             <pubDate>Tue, 26 Dec 2023 02:26:55 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443311207?act=clip</guid>
             <pubDate>Wed, 20 Dec 2023 03:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv758ekcv34s8tsgl7j9w5ago%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259945003%26signature%3DFeZF0AhHE3Y88YCTT8OvCdGw5GE%253D%26ts%3D1703036203" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv758ekcv34s8tsgl7j9w5ago%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259945003%26signature%3DFeZF0AhHE3Y88YCTT8OvCdGw5GE%253D%26ts%3D1703036203" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<그리고, 살아간다> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 05:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvossw7ubbwjae8029o0jgrxg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259352310%26signature%3DQ3%252F6WCo%252F62s3xiV00o2zR3SLQ8A%253D%26ts%3D1702443510" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<립세의 사계> 런칭 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443135618?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443135618?act=clip</guid>
-            <pubDate>Wed, 13 Dec 2023 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1269655882%2Fthumb%2F20231213132510" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 02:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 03:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F950408096%2Fthumb%2F20231222123055" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 잠든 괴물이 내뿜는 탄저균에 괴로워하는 사람들 | 경성크리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443285866?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285866?act=clip</guid>
+            <pubDate>Tue, 26 Dec 2023 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942572217%2Fthumb%2F20231226112709" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[선공개]박서준이 고문을 당하게 된 이유는?! 경성 제 1의 정보통 '장태상'의 위기 | 넷플릭스 경성크리처]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443181620?act=clip</guid>
             <pubDate>Fri, 15 Dec 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1221914723%2Fthumb%2F20231215095841" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1221914723%2Fthumb%2F20231215095841" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 대낮에 벌어진 요괴와 영계탐정의 싸움 | 유유백서]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Dec 2023 02:31:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1664257403%2Fthumb%2F20231204105629" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 직접 신인류를 찾으러 간다 | 스위트홈 2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442807223?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442807223?act=clip</guid>
-            <pubDate>Fri, 01 Dec 2023 03:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F326051063%2Fthumb%2F20231129173857" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
