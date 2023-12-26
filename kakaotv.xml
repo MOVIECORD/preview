@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Dec 2023 01:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Dec 2023 02:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인투 더 월드_일루미네이션 패밀리 어셈블 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</guid>
+            <pubDate>Tue, 26 Dec 2023 02:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq87ylj0zrrnum5tauiz8xrl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260466349%26signature%3DELIwGZbInWEnZKhTv2w4xchbil8%253D%26ts%3D1703557549" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<덤 머니> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443374070?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443310872?act=clip</guid>
             <pubDate>Wed, 20 Dec 2023 02:16:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5v3wuwivalbtldwdp7ivl85%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259944116%26signature%3Dnv8cmAU9OFlHClF8WXpzLoT7inE%253D%26ts%3D1703035316" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5v3wuwivalbtldwdp7ivl85%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259944116%26signature%3Dnv8cmAU9OFlHClF8WXpzLoT7inE%253D%26ts%3D1703035316" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<우리 돈 벌레> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 05:18:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1269655882%2Fthumb%2F20231213132510" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<울람: 오펜하이머 그 후> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443135449?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443135449?act=clip</guid>
-            <pubDate>Wed, 13 Dec 2023 04:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvduo75qnnxh326b4nvtaxd1d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259349877%26signature%3DCTtpZGlKLW%252BF2ttms1sukzU9Nmg%253D%26ts%3D1702441077" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
