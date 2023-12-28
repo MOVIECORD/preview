@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 02:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 03:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942572217%2Fthumb%2F20231226112709" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[옹성병원의 실체, 드디어 괴물을 마주하게 된 박서준 & 한소희 | 넷플릭스 경성크리처]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443285847?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285847?act=clip</guid>
+            <pubDate>Thu, 28 Dec 2023 03:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:58]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1227684379%2Fthumb%2F20231227185632" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[선공개]박서준이 고문을 당하게 된 이유는?! 경성 제 1의 정보통 '장태상'의 위기 | 넷플릭스 경성크리처]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443257056?act=clip</guid>
             <pubDate>Mon, 18 Dec 2023 03:19:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1067289280%2Fthumb%2F20231218105410" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1067289280%2Fthumb%2F20231218105410" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[미공개 클립] 천국도 가야 하는 이유가 이렇게 또 생기네 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Dec 2023 02:31:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F287696729%2Fthumb%2F20231204105355" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그리셀다 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442912552?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442912552?act=clip</guid>
-            <pubDate>Mon, 04 Dec 2023 02:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1713472015%2Fthumb%2F20231204105447" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
