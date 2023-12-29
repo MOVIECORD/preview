@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 02:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 03:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F950408096%2Fthumb%2F20231222123055" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[일본군이 한소희 어머니의 이름을 묻는 이유 | 넷플릭스 경성크리처]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443285905?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285905?act=clip</guid>
+            <pubDate>Fri, 29 Dec 2023 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F827359455%2Fthumb%2F20231228101409" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[잠든 괴물이 내뿜는 탄저균에 괴로워하는 사람들 | 넷플릭스 경성크리처]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443285866?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443285866?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</guid>
             <pubDate>Thu, 21 Dec 2023 07:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F744149067%2Fthumb%2F20231221142938" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F744149067%2Fthumb%2F20231221142938" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[박서준과 한소희, 혐관의 시작?!👀 | 넷플릭스 경성크리처]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Dec 2023 08:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F23093339%2Fthumb%2F20231205161915" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경성크리처 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442937823?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442937823?act=clip</guid>
-            <pubDate>Thu, 07 Dec 2023 01:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F72023177%2Fthumb%2F20231205104509" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
