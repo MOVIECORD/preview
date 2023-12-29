@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 01:07:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 02:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqr15wpf1y8nawuwtbq8kv0c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260573139%26signature%3DMWKOqeM405u%252BvlooZHbbgtp8NbY%253D%26ts%3D1703664339" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<대결! 애니메이션> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443496941?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443496941?act=clip</guid>
-            <pubDate>Wed, 27 Dec 2023 06:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpmuug9iz458b978t3rih15m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260563155%26signature%3DQiHoS8Y3zF9f7y4c3ekcmlXiVkY%253D%26ts%3D1703654355" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[<더 퍼스트 슬램덩크> 확대 상영 기념 스페셜 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443496647?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/443496647?act=clip</guid>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443473213?act=clip</guid>
             <pubDate>Tue, 26 Dec 2023 05:17:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frver1acc4mxrszzjthzbnoloo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260475722%26signature%3DTSa2ivWXsq5Ar%252FxcHGRfP955gnM%253D%26ts%3D1703566922" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frver1acc4mxrszzjthzbnoloo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260475722%26signature%3DTSa2ivWXsq5Ar%252FxcHGRfP955gnM%253D%26ts%3D1703566922" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<제국의 난>  예고편]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 20 Dec 2023 06:19:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1022466384%2Fthumb%2F20231220142855" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<덤머니> 상위 1% VS 개미 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443315044?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443315044?act=clip</guid>
+            <pubDate>Fri, 29 Dec 2023 02:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvg46oz94rkiviocyuhp9ixpr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259956292%26signature%3Dp1XPAQ7kSQeA%252B0eQ0GvKjZeUyLA%253D%26ts%3D1703047492" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
