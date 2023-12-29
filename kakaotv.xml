@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 03:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 04:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<대탈옥2> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443541352?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443541352?act=clip</guid>
+            <pubDate>Fri, 29 Dec 2023 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnrkcgh43pxrul41qzorz4vk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260728854%26signature%3D21GQRXDQ3V%252FBmKqAoL0Brk819ic%253D%26ts%3D1703820054" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인투 더 월드> 극장에서 봐야하는 이유 푼다 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443541190?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443473648?act=clip</guid>
             <pubDate>Tue, 26 Dec 2023 06:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh6yapex7p2oru6zsqxmnpsw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260477012%26signature%3DKsU2t%252FxLidQevbC6Fsl67iaA5ao%253D%26ts%3D1703568212" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh6yapex7p2oru6zsqxmnpsw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260477012%26signature%3DKsU2t%252FxLidQevbC6Fsl67iaA5ao%253D%26ts%3D1703568212" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<시민덕희> 캐릭터 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 20 Dec 2023 07:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh6menvxpcz5r6et1hu34doz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33259963354%26signature%3D6dcmWoIFu78zqm4cjTu4Ovc60ow%253D%26ts%3D1703054554" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<립세의 사계> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443316096?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443316096?act=clip</guid>
-            <pubDate>Wed, 20 Dec 2023 06:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1022466384%2Fthumb%2F20231220142855" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
