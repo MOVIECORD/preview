@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 08:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 09:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미공개 클립] 하정의 진솔한 이야기, 진석의 상남자식 조언😆 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443568598?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443568598?act=clip</guid>
+            <pubDate>Sat, 30 Dec 2023 09:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1985388790%2Fthumb%2F20231230180214" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[XX살이라고?!🙈 직진하는 규리와 거짓말은 못 하는 민우 ∣ 넷플릭스 솔로지옥3]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443520981?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443285847?act=clip</guid>
             <pubDate>Thu, 28 Dec 2023 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1227684379%2Fthumb%2F20231227185632" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1227684379%2Fthumb%2F20231227185632" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[선공개]박서준이 고문을 당하게 된 이유는?! 경성 제 1의 정보통 '장태상'의 위기 | 넷플릭스 경성크리처]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Dec 2023 02:32:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1371989124%2Fthumb%2F20231205162159" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[송강과 이진욱의 피 튀기는 대결 |  넷플릭스 스위트홈 시즌2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/442944200?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/442944200?act=clip</guid>
-            <pubDate>Tue, 05 Dec 2023 08:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F23093339%2Fthumb%2F20231205161915" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
