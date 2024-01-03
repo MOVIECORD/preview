@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jan 2024 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jan 2024 08:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<이어지는 땅> 30초 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443661525?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443661525?act=clip</guid>
+            <pubDate>Wed, 03 Jan 2024 08:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvock8t0ito3va47rtudwwg2a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261175637%26signature%3D1wgdwAZV3VPxOA15m6fA1OjWQjM%253D%26ts%3D1704266837" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<클럽 제로> 1차 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443658572?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443519663?act=clip</guid>
             <pubDate>Thu, 28 Dec 2023 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb97hg4afielwtvp8wuxou8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260649021%26signature%3DYxXEW5PLyU2Vxg3oFgW277yZHio%253D%26ts%3D1703740221" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb97hg4afielwtvp8wuxou8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260649021%26signature%3DYxXEW5PLyU2Vxg3oFgW277yZHio%253D%26ts%3D1703740221" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<시네마틱 노블 2> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Dec 2023 03:18:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl5lvujryf5zgdqfgf5kpoug%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260468122%26signature%3DByB73rOo2EqbgBSF9zj0U0QxypY%253D%26ts%3D1703559322" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<인투 더 월드> 일루미네이션 패밀리 어셈블 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443469941?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 02:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq87ylj0zrrnum5tauiz8xrl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260466349%26signature%3DELIwGZbInWEnZKhTv2w4xchbil8%253D%26ts%3D1703557549" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[박서준&한소희, 혐관으로 시작해 같은 편이 되기까지 | 넷플릭스 경성크리처 (카카오TV ─ 넷플릭스)]]></title>
