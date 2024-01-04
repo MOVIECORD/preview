@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 06:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<인투 더 월드> 달탈출 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443683027?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443683027?act=clip</guid>
+            <pubDate>Thu, 04 Jan 2024 07:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8uheiav46gt3qewyatvvmbp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261259691%26signature%3DQRYbDB5sRydshUre67aQaEZ60GM%253D%26ts%3D1704350891" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<걸즈 앤 판처 최종장 제4화> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443679529?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443633337?act=clip</guid>
             <pubDate>Tue, 02 Jan 2024 04:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgrqfa409jtl2hvl9hd77xrn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261074244%26signature%3D2eO%252Bfb6I90SdUqsB8DxhI5ljWtU%253D%26ts%3D1704165444" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgrqfa409jtl2hvl9hd77xrn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261074244%26signature%3D2eO%252Bfb6I90SdUqsB8DxhI5ljWtU%253D%26ts%3D1704165444" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<천룡팔부 : 천신전> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Dec 2023 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0vf8aealc6g7p8anb21mg4l%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260489615%26signature%3DVQHg09IU8xkzdS4sbtdELeS%252B6t0%253D%26ts%3D1703580815" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<덤 머니> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443473987?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443473987?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 06:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2a8a98xw9x3i10k6qxdel31%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260477907%26signature%3DlZTsODe1qWMBzG5rYbRLKh%252FMz0Y%253D%26ts%3D1703569107" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
