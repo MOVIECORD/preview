@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 06:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sat, 30 Dec 2023 09:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1985388790%2Fthumb%2F20231230180214" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[공식 티저 예고편 ∣ 넷플릭스 황야]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443542613?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443542613?act=clip</guid>
-            <pubDate>Tue, 02 Jan 2024 01:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1296276311%2Fthumb%2F20231229134714" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[XX살이라고?!🙈 직진하는 규리와 거짓말은 못 하는 민우 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443341927?act=clip</guid>
             <pubDate>Fri, 22 Dec 2023 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6323729%2Fthumb%2F20231222132108" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6323729%2Fthumb%2F20231222132108" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[하루에 한 명 이상은 쫓아왔다는 마성의 메기🐟 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Wed, 13 Dec 2023 08:22:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64979378%2Fthumb%2F20231213113047" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 브리저튼 시즌 3 | 공개일 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443132163?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443132163?act=clip</guid>
+            <pubDate>Thu, 04 Jan 2024 06:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1099261138%2Fthumb%2F20231213102003" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
