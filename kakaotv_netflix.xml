@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 02:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 03:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Tue, 02 Jan 2024 02:30:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F462357129%2Fthumb%2F20240102112306" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 마에다의 비밀, 그리고 나진을 삼킨 자 | 넷플릭스 경성크리처]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443631620?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443631620?act=clip</guid>
+            <pubDate>Thu, 04 Jan 2024 03:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F654563320%2Fthumb%2F20240102110142" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 관희 씨 자존감 올라가는 소리 여기까지 들려요😎 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443341927?act=clip</guid>
             <pubDate>Fri, 22 Dec 2023 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6323729%2Fthumb%2F20231222132108" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6323729%2Fthumb%2F20231222132108" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[하루에 한 명 이상은 쫓아왔다는 마성의 메기🐟 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Dec 2023 08:22:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64979378%2Fthumb%2F20231213113047" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 브리저튼 시즌 3 | 공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443132163?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443132163?act=clip</guid>
-            <pubDate>Wed, 13 Dec 2023 02:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1099261138%2Fthumb%2F20231213102003" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
