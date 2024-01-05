@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 03:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 04:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크로스> 런칭 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443702405?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443702405?act=clip</guid>
+            <pubDate>Fri, 05 Jan 2024 04:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv21lo4ascswdgv1z4n5eo33h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261336520%26signature%3Dsr5Vg67gOBVDHqPc%252B4fa2INLTx0%253D%26ts%3D1704427720" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<천하영웅> 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443700263?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443655583?act=clip</guid>
             <pubDate>Wed, 03 Jan 2024 02:28:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh2z5aauwwom232ppt0fsty4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261156444%26signature%3Dhh3aVNBAm30ogRpzciVPVkuV%252BN8%253D%26ts%3D1704247644" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh2z5aauwwom232ppt0fsty4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261156444%26signature%3Dhh3aVNBAm30ogRpzciVPVkuV%252BN8%253D%26ts%3D1704247644" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<무티 : 주술 살인> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Dec 2023 08:21:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqr15wpf1y8nawuwtbq8kv0c%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260573139%26signature%3DMWKOqeM405u%252BvlooZHbbgtp8NbY%253D%26ts%3D1703664339" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 퍼스트 슬램덩크> 확대 상영 기념 스페셜 영상 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443496647?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443496647?act=clip</guid>
-            <pubDate>Wed, 27 Dec 2023 05:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvirr00r79an4r7l8fjzckshn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260562352%26signature%3Dp8X1JULxO9t%252FfNaoz%252FdjbYaednk%253D%26ts%3D1703653552" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[박서준&한소희, 혐관으로 시작해 같은 편이 되기까지 | 넷플릭스 경성크리처 (카카오TV ─ 넷플릭스)]]></title>
