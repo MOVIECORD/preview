@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 05:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 06:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<와일드 투어> 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443768985?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443768985?act=clip</guid>
+            <pubDate>Mon, 08 Jan 2024 06:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr0nkeqnfjaf0zabx4n798uu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261601304%26signature%3Dr%252B%252FdWEhimmGpPHTy%252FG2MZrlIlUc%253D%26ts%3D1704692504" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<걸즈 앤 판처 최종장 제4화> 4DX 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443767866?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443677803?act=clip</guid>
             <pubDate>Thu, 04 Jan 2024 02:29:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrzo738wo1yynhgkp2bvrso1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261243028%26signature%3D2atUiQSBSJLyoh%252FC0yQiNDCdgVs%253D%26ts%3D1704334228" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrzo738wo1yynhgkp2bvrso1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261243028%26signature%3D2atUiQSBSJLyoh%252FC0yQiNDCdgVs%253D%26ts%3D1704334228" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<길위에 김대중> 30초 예고편 (우리 영화 볼래?)]]></title>
@@ -320,20 +328,20 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv27f1eyrhwwkl1i2oqm5ob8i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33260660698%26signature%3D0joDaYtwMV%252FrFpvuUdwSbC3ZBEY%253D%26ts%3D1703751898" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<세기말의 사랑> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443523906?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443523906?act=clip</guid>
-            <pubDate>Thu, 28 Dec 2023 08:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1587604545%2Fthumb%2F20231228171352" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 아케인: 시즌 2 | 퍼스트룩 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</guid>
             <pubDate>Mon, 08 Jan 2024 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1523927925%2Fthumb%2F20240108115936" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 결국 마이크까지 빼버린 흑화한 규리 ∣ 넷플릭스 솔로지옥3 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443762522?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443762522?act=clip</guid>
+            <pubDate>Mon, 08 Jan 2024 06:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1017799939%2Fthumb%2F20240108114856" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 시즌2 발표 (카카오TV ─ 넷플릭스)]]></title>
@@ -485,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443371212?act=clip</guid>
             <pubDate>Fri, 22 Dec 2023 08:22:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F511352423%2Fthumb%2F20231222162852" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F511352423%2Fthumb%2F20231222162852" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 제작기 영상 (카카오TV ─ 넷플릭스)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Fri, 15 Dec 2023 03:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1221914723%2Fthumb%2F20231215095841" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 대낮에 벌어진 요괴와 영계탐정의 싸움 | 유유백서 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443167750?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443167750?act=clip</guid>
-            <pubDate>Thu, 14 Dec 2023 10:20:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1754672802%2Fthumb%2F20231214182201" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
