@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 02:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 03:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 아케인: 시즌 2 | 퍼스트룩]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</guid>
+            <pubDate>Mon, 08 Jan 2024 03:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1523927925%2Fthumb%2F20240108115936" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 시즌2 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443700726?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443366996?act=clip</guid>
             <pubDate>Tue, 26 Dec 2023 02:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1052991920%2Fthumb%2F20231222135104" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1052991920%2Fthumb%2F20231222135104" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 던전밥 | 공식 예고편 2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Dec 2023 10:20:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1754672802%2Fthumb%2F20231214182201" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 코미디 로얄 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443163651?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443163651?act=clip</guid>
-            <pubDate>Thu, 14 Dec 2023 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1007520901%2Fthumb%2F20231214154814" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
