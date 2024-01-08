@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Tue, 02 Jan 2024 02:30:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F462357129%2Fthumb%2F20240102112306" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[박서준&한소희의 서로를 향한 애틋한 진심🌸 | 넷플릭스 경성크리처]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443631648?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443631648?act=clip</guid>
+            <pubDate>Mon, 08 Jan 2024 09:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F324711512%2Fthumb%2F20240102110126" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 마에다의 비밀, 그리고 나진을 삼킨 자 | 넷플릭스 경성크리처]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443467547?act=clip</guid>
             <pubDate>Tue, 26 Dec 2023 01:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1052712011%2Fthumb%2F20231226094835" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1052712011%2Fthumb%2F20231226094835" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[미공개 클립] 스윗 박력 진석과 익룡 리액션 규리 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Dec 2023 01:19:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1048987443%2Fthumb%2F20231215101053" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[썸 타는 거야? 기싸움 하는 거야? ∣ 넷플릭스 솔로지옥3]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443181620?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443181620?act=clip</guid>
-            <pubDate>Fri, 15 Dec 2023 03:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1221914723%2Fthumb%2F20231215095841" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

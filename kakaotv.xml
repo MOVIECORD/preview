@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jan 2024 08:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jan 2024 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<정글번치 : 월드투어> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443772881?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443772881?act=clip</guid>
+            <pubDate>Mon, 08 Jan 2024 09:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu8ix70700j4mbonayqc9vd2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261612059%26signature%3DdVz%252F67n3wPF9SplFqXYGzSVihAI%253D%26ts%3D1704703259" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<킹덤3: 운명의 불꽃> 뮤직비디오 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443772438?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443679529?act=clip</guid>
             <pubDate>Thu, 04 Jan 2024 04:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvka6073xfrgo4uv8fxqz7brl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261249316%26signature%3DYrsiTtabdEXwAKIwi3yXEif8BW4%253D%26ts%3D1704340516" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvka6073xfrgo4uv8fxqz7brl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261249316%26signature%3DYrsiTtabdEXwAKIwi3yXEif8BW4%253D%26ts%3D1704340516" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<서치3 : 데스게임> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 02 Jan 2024 04:21:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgrqfa409jtl2hvl9hd77xrn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261074244%26signature%3D2eO%252Bfb6I90SdUqsB8DxhI5ljWtU%253D%26ts%3D1704165444" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<천룡팔부 : 천신전> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443633109?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443633109?act=clip</guid>
-            <pubDate>Tue, 02 Jan 2024 03:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwugxtp8oddrtwen2ocinuzt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261073595%26signature%3DSr982T%252BZ27m6yVPdfjLPiw6%252BRnQ%253D%26ts%3D1704164795" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
