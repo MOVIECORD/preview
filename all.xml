@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 07:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 08:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<서울의 봄> 케미 맛집 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443794901?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443794901?act=clip</guid>
+            <pubDate>Tue, 09 Jan 2024 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F417981816%2Fthumb%2F20240109162405" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<지오디 마스터피스 더 무비> 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443792941?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443702405?act=clip</guid>
             <pubDate>Fri, 05 Jan 2024 04:22:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv21lo4ascswdgv1z4n5eo33h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261336520%26signature%3Dsr5Vg67gOBVDHqPc%252B4fa2INLTx0%253D%26ts%3D1704427720" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv21lo4ascswdgv1z4n5eo33h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261336520%26signature%3Dsr5Vg67gOBVDHqPc%252B4fa2INLTx0%253D%26ts%3D1704427720" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<천하영웅> 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Jan 2024 02:28:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveveh3cxbpwleq2oo8zdjwkw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261156813%26signature%3DwOcwsQxjxoMfdIdYkxoj6eqWqyw%253D%26ts%3D1704248013" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<웡카> 1차 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443655583?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443655583?act=clip</guid>
-            <pubDate>Wed, 03 Jan 2024 02:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh2z5aauwwom232ppt0fsty4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261156444%26signature%3Dhh3aVNBAm30ogRpzciVPVkuV%252BN8%253D%26ts%3D1704247644" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
