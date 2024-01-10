@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 05:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 06:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[난 더 이상 노력할 생각이 없어, 싸늘해진 혜선의 태도🙊 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443810851?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443810851?act=clip</guid>
+            <pubDate>Wed, 10 Jan 2024 06:24:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1496618207%2Fthumb%2F20240110103353" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[관희의 최종 선택, 일어나지 않는 혜선?👀 ∣ 넷플릭스 솔로지옥3]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443796403?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443520981?act=clip</guid>
             <pubDate>Thu, 28 Dec 2023 09:18:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1204519664%2Fthumb%2F20231228160124" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1204519664%2Fthumb%2F20231228160124" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[너랑 천국도 가서 진득하게 얘기하고 싶어 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 28 Dec 2023 03:18:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1227684379%2Fthumb%2F20231227185632" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개]박서준이 고문을 당하게 된 이유는?! 경성 제 1의 정보통 '장태상'의 위기 | 넷플릭스 경성크리처]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285786?act=clip</guid>
-            <pubDate>Thu, 21 Dec 2023 07:17:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F744149067%2Fthumb%2F20231221142938" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
