@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Jan 2024 02:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jan 2024 03:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F462357129%2Fthumb%2F20240102112306" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[가토 앞에 결연한 한소희, 폭탄들고 옹성병원으로 향하는 박서준 | 넷플릭스 경성크리처]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443631652?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443631652?act=clip</guid>
+            <pubDate>Wed, 10 Jan 2024 03:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1697425588%2Fthumb%2F20240102110156" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[박서준&한소희의 서로를 향한 애틋한 진심🌸 | 넷플릭스 경성크리처]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443631648?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443631648?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443491988?act=clip</guid>
             <pubDate>Wed, 27 Dec 2023 03:19:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610823543%2Fthumb%2F20231227100808" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F610823543%2Fthumb%2F20231227100808" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[세 여자가 천국도에 함께 가고 싶은 남자는 누구? 👀 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Dec 2023 07:17:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F744149067%2Fthumb%2F20231221142938" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[박서준과 한소희, 혐관의 시작?!👀 | 넷플릭스 경성크리처]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443285766?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285766?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F320135371%2Fthumb%2F20231222123021" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
