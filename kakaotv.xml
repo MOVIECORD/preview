@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 07:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 08:24:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<덤 머니> 15초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443841782?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443841782?act=clip</guid>
+            <pubDate>Thu, 11 Jan 2024 08:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl2os3w1xbu56l9deogz8ye5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261868463%26signature%3DUDxe8sxgCIHw%252Fz%252B3kR1esceA5rg%253D%26ts%3D1704959663" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<마들렌> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443819074?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443767612?act=clip</guid>
             <pubDate>Mon, 08 Jan 2024 05:18:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv87uaszi79jk2zbhdvc4szge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261597463%26signature%3Debi2UnHjGL6CQxp2sA6BrIc%252FXxo%253D%26ts%3D1704688663" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv87uaszi79jk2zbhdvc4szge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261597463%26signature%3Debi2UnHjGL6CQxp2sA6BrIc%252FXxo%253D%26ts%3D1704688663" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<나의 올드 오크> 켄 로치 감독 새해 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Jan 2024 02:29:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwqvmd1xtldm5zhdph8ryg9h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261242720%26signature%3Djs6YTb2AOLlHzzB%252BRwkETpdZb1E%253D%26ts%3D1704333920" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<이어지는 땅> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443661525?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443661525?act=clip</guid>
-            <pubDate>Wed, 03 Jan 2024 08:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvock8t0ito3va47rtudwwg2a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261175637%26signature%3D1wgdwAZV3VPxOA15m6fA1OjWQjM%253D%26ts%3D1704266837" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
