@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 09:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 10:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 12 Jan 2024 01:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F818708509%2Fthumb%2F20240111144511" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[혜선의 눈물에 감정 동기화된 관희💦 ∣ 넷플릭스 솔로지옥3]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443835003?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443835003?act=clip</guid>
+            <pubDate>Fri, 12 Jan 2024 10:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1507502450%2Fthumb%2F20240111103004" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 살인자ㅇ난감 | 티저 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443631620?act=clip</guid>
             <pubDate>Thu, 04 Jan 2024 03:19:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F654563320%2Fthumb%2F20240102110142" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F654563320%2Fthumb%2F20240102110142" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[인간의 뇌를 먹는 괴물과 마주하게 된 박서준&한소희 | 넷플릭스 경성크리처]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 19 Dec 2023 10:19:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F683521732%2Fthumb%2F20231219163752" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[한소희에게 반해버린 박서준🌸 그리고 비밀이 숨겨져있는 옹성병원 | 넷플릭스 경성크리처]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443285923?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285923?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 02:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F950408096%2Fthumb%2F20231222123055" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
