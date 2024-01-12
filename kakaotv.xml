@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 05:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 06:25:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아녜스 V에 의한 제인 B> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443863316?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443863316?act=clip</guid>
+            <pubDate>Fri, 12 Jan 2024 06:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1917675708%2Fthumb%2F20240112151735" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443861385?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443772438?act=clip</guid>
             <pubDate>Mon, 08 Jan 2024 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj02qt99rlkh2ltitdva1lxc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261610768%26signature%3DIe3Wzy0MXfJf6dzLxoTYm6bJbxY%253D%26ts%3D1704701968" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj02qt99rlkh2ltitdva1lxc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261610768%26signature%3DIe3Wzy0MXfJf6dzLxoTYm6bJbxY%253D%26ts%3D1704701968" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<위층의 여인> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Jan 2024 04:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvka6073xfrgo4uv8fxqz7brl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261249316%26signature%3DYrsiTtabdEXwAKIwi3yXEif8BW4%253D%26ts%3D1704340516" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<시네마틱 노블 2> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443678820?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443678820?act=clip</guid>
-            <pubDate>Thu, 04 Jan 2024 03:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvebgqb4xzt8uk434o9ngr9e3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261246568%26signature%3DY%252BZWglpmiWc%252BON1%252B7fup9Jz%252BPPQ%253D%26ts%3D1704337768" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
