@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Jan 2024 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jan 2024 09:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443866409?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443866409?act=clip</guid>
+            <pubDate>Fri, 12 Jan 2024 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F673483136%2Fthumb%2F20240112172856" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 황야 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443839396?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443631599?act=clip</guid>
             <pubDate>Mon, 08 Jan 2024 01:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1808738966%2Fthumb%2F20240102110039" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1808738966%2Fthumb%2F20240102110039" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 관희 씨 자존감 올라가는 소리 여기까지 들려요😎 ∣ 넷플릭스 솔로지옥3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Dec 2023 02:27:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F950408096%2Fthumb%2F20231222123055" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[일본군이 한소희 어머니의 이름을 묻는 이유 | 넷플릭스 경성크리처]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443285905?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443285905?act=clip</guid>
-            <pubDate>Fri, 29 Dec 2023 03:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F827359455%2Fthumb%2F20231228101409" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
