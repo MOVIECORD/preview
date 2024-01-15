@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Jan 2024 23:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 01:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<소풍> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443924387?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443924387?act=clip</guid>
+            <pubDate>Mon, 15 Jan 2024 01:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6sgh3lfa26tk65516xv2yfu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262187680%26signature%3DysrrGWA%252BXsfLV9m2X2R1PWqg2EM%253D%26ts%3D1705278880" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스노우 퍼핀즈> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443866806?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443790843?act=clip</guid>
             <pubDate>Tue, 09 Jan 2024 04:22:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv76h0uktw94ce1f5kph6jxjg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261682450%26signature%3DJXpxPcHsDWJFdM3tesWSNn2NY%252Fc%253D%26ts%3D1704773650" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv76h0uktw94ce1f5kph6jxjg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261682450%26signature%3DJXpxPcHsDWJFdM3tesWSNn2NY%252Fc%253D%26ts%3D1704773650" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<비욘드 유토피아> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Jan 2024 09:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtheispwoaah7hnp5wz47kd4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261266726%26signature%3DEjiZfR9KGi1TriNrQhM8%252FwlM9bo%253D%26ts%3D1704357926" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<플랜 75> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443684205?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443684205?act=clip</guid>
-            <pubDate>Thu, 04 Jan 2024 08:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8r4ej3joxdg6klsrbsehk7t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261263340%26signature%3D8Gpfi0NbiJukAkjnqAurwyxKw1c%253D%26ts%3D1704354540" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
