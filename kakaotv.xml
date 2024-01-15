@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jan 2024 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 08:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<길위에 김대중> 리뷰 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443934087?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443934087?act=clip</guid>
+            <pubDate>Mon, 15 Jan 2024 08:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmugzepgj7dftcslcsjib10f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262215722%26signature%3Da8Bzl9Zi7KuX6oicDHQWrIMBaDo%253D%26ts%3D1705306922" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<인플루언서> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443931372?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443841782?act=clip</guid>
             <pubDate>Thu, 11 Jan 2024 08:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl2os3w1xbu56l9deogz8ye5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261868463%26signature%3DUDxe8sxgCIHw%252Fz%252B3kR1esceA5rg%253D%26ts%3D1704959663" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl2os3w1xbu56l9deogz8ye5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261868463%26signature%3DUDxe8sxgCIHw%252Fz%252B3kR1esceA5rg%253D%26ts%3D1704959663" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<마들렌> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 05:18:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbm7okssuzm6vskjad4xtism%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261598033%26signature%3DArXVl53K4uqB7GR6BNTs0hF4FyM%253D%26ts%3D1704689233" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<덤 머니> 최고민수가 다 알려줌 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443767612?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443767612?act=clip</guid>
-            <pubDate>Mon, 08 Jan 2024 05:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv87uaszi79jk2zbhdvc4szge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261597463%26signature%3Debi2UnHjGL6CQxp2sA6BrIc%252FXxo%253D%26ts%3D1704688663" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
