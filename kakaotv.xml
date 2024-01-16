@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 03:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 04:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<도그데이즈> 개반전 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/443952135?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/443952135?act=clip</guid>
+            <pubDate>Tue, 16 Jan 2024 04:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6n16z00w1hd04evkj0l4wkg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262287020%26signature%3DdJcHYXNV9tflwfrZH9Kox%252FCjMfA%253D%26ts%3D1705378220" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 엔하이픈 깜짝 인사 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443950558?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443863316?act=clip</guid>
             <pubDate>Fri, 12 Jan 2024 06:25:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1917675708%2Fthumb%2F20240112151735" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1917675708%2Fthumb%2F20240112151735" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 08 Jan 2024 09:19:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu8ix70700j4mbonayqc9vd2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261612059%26signature%3DdVz%252F67n3wPF9SplFqXYGzSVihAI%253D%26ts%3D1704703259" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹덤3: 운명의 불꽃> 뮤직비디오 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443772438?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443772438?act=clip</guid>
-            <pubDate>Mon, 08 Jan 2024 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj02qt99rlkh2ltitdva1lxc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261610768%26signature%3DIe3Wzy0MXfJf6dzLxoTYm6bJbxY%253D%26ts%3D1704701968" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
