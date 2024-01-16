@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 01:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 02:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 젠틀맨: 더 시리즈 | 가이 리치 감독의 신작 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443948989?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443948989?act=clip</guid>
+            <pubDate>Tue, 16 Jan 2024 02:31:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1005459094%2Fthumb%2F20240116102459" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 몬스터즈: 일백삼정 비룡시극 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443925294?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443631652?act=clip</guid>
             <pubDate>Wed, 10 Jan 2024 03:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1697425588%2Fthumb%2F20240102110156" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1697425588%2Fthumb%2F20240102110156" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[박서준&한소희의 서로를 향한 애틋한 진심🌸 | 넷플릭스 경성크리처]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Dec 2023 01:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2024418989%2Fthumb%2F20231220195016" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[패널들을 경악하게 만든 이관희의 대답은?👀 ∣ 넷플릭스 솔로지옥3]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443310416?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443310416?act=clip</guid>
-            <pubDate>Wed, 20 Dec 2023 03:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1024042738%2Fthumb%2F20231220100055" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
