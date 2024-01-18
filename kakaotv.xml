@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jan 2024 04:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jan 2024 05:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<DMZ 동물 특공대> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/444001416?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/444001416?act=clip</guid>
+            <pubDate>Thu, 18 Jan 2024 05:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrxv5vfrrr1kdd9ea2dkml7f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262463521%26signature%3DE6WHgTmhPKTU%252FvQ9SrqIcUrdtzU%253D%26ts%3D1705554721" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 문> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/443978129?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443931249?act=clip</guid>
             <pubDate>Mon, 15 Jan 2024 06:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0f3afa43kj0yykqgarbki1v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262208057%26signature%3DKoW489F%252FKyM50Jn0l3AQL4UNVm8%253D%26ts%3D1705299257" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0f3afa43kj0yykqgarbki1v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262208057%26signature%3DKoW489F%252FKyM50Jn0l3AQL4UNVm8%253D%26ts%3D1705299257" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<시민덕희> 2차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 10 Jan 2024 08:23:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvme3co82od586qlvt4hn693k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261782612%26signature%3DcS3MBplyA2aAYeQ0AlxxVnidT7k%253D%26ts%3D1704873812" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<데드맨> 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443818568?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443818568?act=clip</guid>
-            <pubDate>Wed, 10 Jan 2024 08:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvai1lw60oqy0qk735c6l3zrw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261781205%26signature%3DnKZP4sHasX%252B7nPmuzn%252FWrooaUyw%253D%26ts%3D1704872405" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
