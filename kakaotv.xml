@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 05:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 06:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사운드 오브 프리덤> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/444027070?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/444027070?act=clip</guid>
+            <pubDate>Fri, 19 Jan 2024 06:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8s0wozt5o2bdcoox041k9s2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262551926%26signature%3DXvruT0ei5O1qs%252FlfWKfAVd7Cn7o%253D%26ts%3D1705643126" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<검은 소년> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/444021959?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/443952135?act=clip</guid>
             <pubDate>Tue, 16 Jan 2024 04:22:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6n16z00w1hd04evkj0l4wkg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262287020%26signature%3DdJcHYXNV9tflwfrZH9Kox%252FCjMfA%253D%26ts%3D1705378220" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6n16z00w1hd04evkj0l4wkg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262287020%26signature%3DdJcHYXNV9tflwfrZH9Kox%252FCjMfA%253D%26ts%3D1705378220" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> 엔하이픈 깜짝 인사 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 12 Jan 2024 09:18:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoyl7a6lbzev0knfh5hir1t6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33261957532%26signature%3DOKgYnCE6qCXCPJOuvz3KIQnwUvw%253D%26ts%3D1705048732" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아녜스 V에 의한 제인 B> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/443863316?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/443863316?act=clip</guid>
-            <pubDate>Fri, 12 Jan 2024 06:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1917675708%2Fthumb%2F20240112151735" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
