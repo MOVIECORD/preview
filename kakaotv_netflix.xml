@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Jan 2024 23:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 01:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 황야 | 황야 속으로]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444031878?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444031878?act=clip</guid>
+            <pubDate>Mon, 22 Jan 2024 01:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1357138294%2Fthumb%2F20240119180018" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 유유백서 | 메이킹 영상 | 스캔라인 VFX]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443971984?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443654824?act=clip</guid>
             <pubDate>Wed, 03 Jan 2024 03:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F738472039%2Fthumb%2F20240103110159" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F738472039%2Fthumb%2F20240103110159" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 1월 신작 소개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 22 Dec 2023 01:18:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1788453124%2Fthumb%2F20231222101253" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 경성크리처 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443341927?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443341927?act=clip</guid>
-            <pubDate>Fri, 22 Dec 2023 08:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6323729%2Fthumb%2F20231222132108" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
