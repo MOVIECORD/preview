@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jan 2024 08:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 09:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<K스쿨> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/444173744?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/444173744?act=clip</guid>
+            <pubDate>Thu, 25 Jan 2024 09:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdsawcjhnyarl215ixmhgrbx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33263080214%26signature%3DGYfRypwj%252FjH8VkW8FCprxLTZ%252BXI%253D%26ts%3D1706171414" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<귀멸의 칼날: 인연의 기적, 그리고 합동 강화 훈련으로> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/444169614?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/444123754?act=clip</guid>
             <pubDate>Tue, 23 Jan 2024 07:18:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbbd3k9htsgllx4tvru781v1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262900953%26signature%3DyvqlcQbD1H%252FTR0e8Pvi8Qa6SlYg%253D%26ts%3D1705992153" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbbd3k9htsgllx4tvru781v1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262900953%26signature%3DyvqlcQbD1H%252FTR0e8Pvi8Qa6SlYg%253D%26ts%3D1705992153" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<리멘시타> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 19 Jan 2024 02:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvslbabfpvlun2dis3gdd3rxb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33262536550%26signature%3DIXqXibUvgmwf4ONAMJDg2spnd24%253D%26ts%3D1705627750" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아기상어 극장판: 사이렌 스톤의 비밀> ‘계속 헤엄쳐(Keep Swimmin’ Through)’ 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/444021498?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/444021498?act=clip</guid>
-            <pubDate>Fri, 19 Jan 2024 02:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F607396728%2Fthumb%2F20240119102314" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
