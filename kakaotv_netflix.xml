@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Jan 2024 02:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Jan 2024 03:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찾았다, 내 먹잇감. 마동석의 거침없는 사냥 시작 I 황야 I  넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444193653?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444193653?act=clip</guid>
+            <pubDate>Sat, 27 Jan 2024 03:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2147183337%2Fthumb%2F20240126145134" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아바타: 아앙의 전설 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/444140256?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443762522?act=clip</guid>
             <pubDate>Mon, 08 Jan 2024 06:25:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1017799939%2Fthumb%2F20240108114856" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1017799939%2Fthumb%2F20240108114856" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 시즌2 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Dec 2023 01:15:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F289223461%2Fthumb%2F20231226100402" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[미공개 클립] 혜선과 사진 찍는 원익을 견제하는 관희?🙈 ∣ 넷플릭스 솔로지옥3]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443467547?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443467547?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 01:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1052712011%2Fthumb%2F20231226094835" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
