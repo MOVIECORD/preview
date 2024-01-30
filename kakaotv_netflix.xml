@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 03:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 04:20:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사랑꾼...아니 사냥꾼 마동석의 등장! I 황야 I  넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444196732?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444196732?act=clip</guid>
+            <pubDate>Tue, 30 Jan 2024 04:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F758526112%2Fthumb%2F20240126163053" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[멸망한 세상, 마동석과 이준영의 금쪽같은 우애! I 황야 I  넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/444193724?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443790089?act=clip</guid>
             <pubDate>Tue, 09 Jan 2024 04:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1623862016%2Fthumb%2F20240109123020" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1623862016%2Fthumb%2F20240109123020" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Dec 2023 10:19:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1352782101%2Fthumb%2F20231226170214" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2023년 넷플릭스를 사랑해주신 모든 여러분들에게❤️]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443477049?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443477049?act=clip</guid>
-            <pubDate>Tue, 26 Dec 2023 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1696570909%2Fthumb%2F20231226170055" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
