@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 08:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 09:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 츠루네: 시작의 한 발> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/444314672?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/444314672?act=clip</guid>
+            <pubDate>Wed, 31 Jan 2024 09:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6t08u4t0qw6ac4cejh7hbzv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33263598209%26signature%3DO2XXZHTAFqWIlt3LNB6sCt6S%252Bw8%253D%26ts%3D1706689409" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<파묘> 2차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/444312884?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/444262323?act=clip</guid>
             <pubDate>Mon, 29 Jan 2024 06:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1051567433%2Fthumb%2F20240129145814" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1051567433%2Fthumb%2F20240129145814" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<황야> 찾았다, 내 먹잇감. 마동석의 거침없는 사냥 시작]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 25 Jan 2024 02:35:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxz3bzjspm5l3x4b6t2sew6m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33263054811%26signature%3DS8vqlkdd7OxmC4ASoqRn2F8rs0w%253D%26ts%3D1706146011" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<영화 스미코구라시 - 튀어나오는 그림책과 비밀의 아이> 캐릭터 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/444163807?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/444163807?act=clip</guid>
-            <pubDate>Thu, 25 Jan 2024 01:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv6jiovhkr9vi7at8lbmbyyh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33263052620%26signature%3DLNtfSb17Sjm82u8PIdyLAkBTujE%253D%26ts%3D1706143820" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
