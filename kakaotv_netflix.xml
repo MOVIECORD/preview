@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 01:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 02:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F879520422%2Fthumb%2F20240117101114" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 메시 & 음바페 2022 월드컵 결승전 입장 순간 | 캡틴스 오브 더 월드]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/443957023?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/443957023?act=clip</guid>
+            <pubDate>Wed, 07 Feb 2024 02:22:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1753786438%2Fthumb%2F20240116170506" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 젠틀맨: 더 시리즈 | 가이 리치 감독의 신작 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/443948989?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/443948989?act=clip</guid>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Jan 2024 01:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F320549704%2Fthumb%2F20240103100924" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 리프트: 비행기를 털어라 | 새해맞이 파이널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443632127?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443632127?act=clip</guid>
-            <pubDate>Tue, 02 Jan 2024 02:30:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F462357129%2Fthumb%2F20240102112306" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
