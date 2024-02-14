@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 01:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 02:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 댐즐 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444610563?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444610563?act=clip</guid>
+            <pubDate>Wed, 14 Feb 2024 02:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:59]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1386529350%2Fthumb%2F20240214103324" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] F1, 본능의 질주 - 시즌 6 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/444587267?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444193653?act=clip</guid>
             <pubDate>Sat, 27 Jan 2024 03:17:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2147183337%2Fthumb%2F20240126145134" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2147183337%2Fthumb%2F20240126145134" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 살인자ㅇ난감 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 Jan 2024 04:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1395068374%2Fthumb%2F20240109122945" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아케인: 시즌 2 | 퍼스트룩]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443765535?act=clip</guid>
-            <pubDate>Mon, 08 Jan 2024 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1523927925%2Fthumb%2F20240108115936" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
