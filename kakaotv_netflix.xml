@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Feb 2024 04:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 05:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 09 Feb 2024 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1408750434%2Fthumb%2F20240208195949" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 새로운 위기! 송촌과 마주해버린 이탕 | 살인자ㅇ난감]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444506431?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444506431?act=clip</guid>
+            <pubDate>Wed, 14 Feb 2024 05:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1666482423%2Fthumb%2F20240208195857" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 흑화 임박! 각성을 시작한 최우식 | 살인자ㅇ난감]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444193724?act=clip</guid>
             <pubDate>Mon, 29 Jan 2024 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1272326889%2Fthumb%2F20240126145152" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1272326889%2Fthumb%2F20240126145152" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[찾았다, 내 먹잇감. 마동석의 거침없는 사냥 시작 I 황야 I  넷플릭스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 Jan 2024 04:22:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1623862016%2Fthumb%2F20240109123020" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌2 | 공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443790088?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443790088?act=clip</guid>
-            <pubDate>Tue, 09 Jan 2024 04:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1395068374%2Fthumb%2F20240109122945" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
