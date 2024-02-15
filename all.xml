@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Feb 2024 08:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 09:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz3ktqn2g7jw07k7xafmqujm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33264184766%26signature%3DY8CN31sjMCI9IVlqou7y8eh93oI%253D%26ts%3D1707275966" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 닌자의 집 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444643233?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444643233?act=clip</guid>
+            <pubDate>Thu, 15 Feb 2024 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F35001250%2Fthumb%2F20240215181342" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 닌자의 집 | 공식 클립 영상 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/444633935?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444633935?act=clip</guid>
@@ -485,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444313565?act=clip</guid>
             <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1327199503%2Fthumb%2F20240131163252" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1327199503%2Fthumb%2F20240131163252" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 장송의 프리렌 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1496618207%2Fthumb%2F20240110103353" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[관희의 최종 선택, 일어나지 않는 혜선?👀 ∣ 넷플릭스 솔로지옥3 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/443796403?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/443796403?act=clip</guid>
-            <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1805793395%2Fthumb%2F20240109171911" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
