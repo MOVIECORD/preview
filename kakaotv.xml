@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 06:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/444918056?act=clip</guid>
             <pubDate>Tue, 27 Feb 2024 05:17:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv20lbr8oha37ojzpda1gblmr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33265916561%26signature%3DSYJgXIeqjuS8AgRcpVIqKhnEs8k%253D%26ts%3D1709007761" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv20lbr8oha37ojzpda1gblmr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33265920023%26signature%3DvJUPX%252BvZgEn4spmvK%252BVCuaRWaNE%253D%26ts%3D1709011223" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<공백> 30초 예고편]]></title>
