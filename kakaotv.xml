@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 05:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 07:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<태양은 없다> [재개봉] 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445053139?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445053139?act=clip</guid>
+            <pubDate>Mon, 04 Mar 2024 07:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjfjf8ynghqs7x8g4sjums0g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266442833%26signature%3DP6ovDQ2tvcJFmn8Vs%252Fb1McZeF9k%253D%26ts%3D1709534033" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<천하제일검> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445046684?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/444945613?act=clip</guid>
             <pubDate>Wed, 28 Feb 2024 07:16:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1392349819%2Fthumb%2F20240228152618" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1392349819%2Fthumb%2F20240228152618" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<용감한 돌고래 벨루와 바닷속 친구들> 스페셜 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Feb 2024 05:17:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F51789426%2Fthumb%2F20240226134800" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<돌핀> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/444893945?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/444893945?act=clip</guid>
-            <pubDate>Mon, 26 Feb 2024 05:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1182894951%2Fthumb%2F20240226133758" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
