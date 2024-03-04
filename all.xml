@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Mar 2024 07:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Mar 2024 10:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,12 +328,36 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F51789426%2Fthumb%2F20240226134800" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 3월 신작 소개 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445056694?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445056694?act=clip</guid>
+            <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F775228934%2Fthumb%2F20240304181829" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[선공개] 차디찬 화장실에서 노숙하는 송중기 | 넷플릭스 로기완 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/444989432?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444989432?act=clip</guid>
             <pubDate>Fri, 01 Mar 2024 06:23:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:42]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F186375879%2Fthumb%2F20240301144408" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[애틋한 사람에게 차려주는 소박하지만 따뜻한 밥상🍚 | 넷플릭스 로기완 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444989401?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444989401?act=clip</guid>
+            <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F63122949%2Fthumb%2F20240301144241" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[네가 훔친 그 돈, 어머니 죽은 몸뚱이 팔아 받은 돈이다 | 넷플릭스 로기완 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/444989393?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/444989393?act=clip</guid>
+            <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F694667969%2Fthumb%2F20240301144131" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 로기완 | 제작기 영상 (카카오TV ─ 넷플릭스)]]></title>
@@ -469,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444587257?act=clip</guid>
             <pubDate>Tue, 13 Feb 2024 02:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1084242118%2Fthumb%2F20240213101902" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1084242118%2Fthumb%2F20240213101902" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 성+인물: 네덜란드, 독일편 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -477,7 +501,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444586018?act=clip</guid>
             <pubDate>Tue, 13 Feb 2024 01:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F760263444%2Fthumb%2F20240213090833" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F760263444%2Fthumb%2F20240213090833" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 살인자ㅇ난감 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
@@ -485,7 +509,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444506459?act=clip</guid>
             <pubDate>Fri, 09 Feb 2024 08:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1408750434%2Fthumb%2F20240208195949" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1408750434%2Fthumb%2F20240208195949" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 새로운 위기! 송촌과 마주해버린 이탕 | 살인자ㅇ난감 (카카오TV ─ 넷플릭스)]]></title>
@@ -622,30 +646,6 @@
             <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2147183337%2Fthumb%2F20240126145134" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 살인자ㅇ난감 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444190923?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444190923?act=clip</guid>
-            <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F641716623%2Fthumb%2F20240126115435" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아바타: 아앙의 전설 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444140256?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444140256?act=clip</guid>
-            <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1860008839%2Fthumb%2F20240124101414" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 현관문에 피로 그려진 부적, 그리고 과거의 기억 | 선산 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444092117?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444092117?act=clip</guid>
-            <pubDate>Thu, 08 Feb 2024 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F974068945%2Fthumb%2F20240122112740" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
