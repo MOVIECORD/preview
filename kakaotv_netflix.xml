@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 12:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 13:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 젠틀맨: 더 시리즈 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445131809?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445131809?act=clip</guid>
+            <pubDate>Thu, 07 Mar 2024 13:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1112310358%2Fthumb%2F20240307221245" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 레이싱카 두 대가 충돌했다 | F1, 본능의 질주]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445095031?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444633935?act=clip</guid>
             <pubDate>Thu, 15 Feb 2024 02:23:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1196135441%2Fthumb%2F20240215104522" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1196135441%2Fthumb%2F20240215104522" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 닭강정 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 01 Feb 2024 01:17:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1327199503%2Fthumb%2F20240131163252" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 장송의 프리렌 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444288249?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444288249?act=clip</guid>
-            <pubDate>Tue, 30 Jan 2024 07:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2138573531%2Fthumb%2F20240130160347" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
