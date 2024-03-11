@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<에픽하이 20 더 무비> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445209410?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445209410?act=clip</guid>
+            <pubDate>Mon, 11 Mar 2024 06:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvskasqewl8dz43i7io9sacki%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267045518%26signature%3DUmqKOpOsbD8KF6ODheU1NBuBr3Y%253D%26ts%3D1710136718" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<브레드이발소: 셀럽 인 베이커리타운> 갓 구운! 메이킹 필름 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445207827?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445139906?act=clip</guid>
             <pubDate>Fri, 08 Mar 2024 04:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt1pipy2x2732a8722ppmsbe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266769892%26signature%3DS5pAXNXOTwdfMHrNm3gKf35JoMQ%253D%26ts%3D1709861092" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt1pipy2x2732a8722ppmsbe%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266769892%26signature%3DS5pAXNXOTwdfMHrNm3gKf35JoMQ%253D%26ts%3D1709861092" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<뷰티풀 썸머: 특별한 관계> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Mar 2024 05:19:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjszzrtwmss0tmn339qy4ztk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266608966%26signature%3D7VDafGQx%252Bx1JD4zlgOkT3KICdF8%253D%26ts%3D1709700166" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<1980> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445097407?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445097407?act=clip</guid>
-            <pubDate>Wed, 06 Mar 2024 05:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrlx5opounhjzojhvl4xhnmn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266608790%26signature%3DwXLSbTy3gdwTzu5rjKHgaqnZ0RM%253D%26ts%3D1709699990" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
