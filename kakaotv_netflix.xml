@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 04:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 05:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개] 나올 만한 사람, 또 나온 사람, 주인공이 될 사람 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445227952?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445227952?act=clip</guid>
+            <pubDate>Tue, 12 Mar 2024 05:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1709407399%2Fthumb%2F20240312102314" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 댐즐 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445203666?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444734878?act=clip</guid>
             <pubDate>Mon, 19 Feb 2024 10:19:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F314530757%2Fthumb%2F20240219184842" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F314530757%2Fthumb%2F20240219184842" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 닌자의 집 | 절찬 스트리밍 중]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 02 Feb 2024 02:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2126938374%2Fthumb%2F20240202103152" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 2월 신작 소개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444328957?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444328957?act=clip</guid>
-            <pubDate>Thu, 01 Feb 2024 02:26:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F655055174%2Fthumb%2F20240201102525" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
