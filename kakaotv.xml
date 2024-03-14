@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 07:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 08:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<돌핀> 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445278486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445278486?act=clip</guid>
+            <pubDate>Thu, 14 Mar 2024 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F585173569%2Fthumb%2F20240314165651" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 스페셜 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445276753?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445232948?act=clip</guid>
             <pubDate>Tue, 12 Mar 2024 06:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfcipi9oktujz9g0auhe7494%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267130046%26signature%3D1PtmzYalxqp76Db7pG8BXg4hTU0%253D%26ts%3D1710221246" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfcipi9oktujz9g0auhe7494%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267130046%26signature%3D1PtmzYalxqp76Db7pG8BXg4hTU0%253D%26ts%3D1710221246" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<패스트 라이브즈> 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Mar 2024 04:20:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv96n1kyfk1w2nnzshoygdytq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266778541%26signature%3DJDYZdliE%252Bm6mhpUxUA0c3jg8MC4%253D%26ts%3D1709869741" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<연련> 예고편(동련의 시련)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445142950?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445142950?act=clip</guid>
-            <pubDate>Fri, 08 Mar 2024 04:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfsr79taqr8kmid41fvk6z8e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266778490%26signature%3DMFhrWKGwmZ2PubWSkgJOppz2kDg%253D%26ts%3D1709869690" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
