@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 06:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<키메라> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445300037?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445300037?act=clip</guid>
+            <pubDate>Fri, 15 Mar 2024 06:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8w7wvb0yhn95c0cgonmy82e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267390927%26signature%3DiHwDAM26sa5zAOULz96em%252Fc%252FtYE%253D%26ts%3D1710482127" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<슈가│어거스트 디 투어 ‘디-데이’ 더 무비> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445298908?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445233586?act=clip</guid>
             <pubDate>Tue, 12 Mar 2024 06:22:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8qykehyfinamav5aye6xexh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267132076%26signature%3D%252BhPP%252B%252Frc852sPdGyd7Gt1ttZnro%253D%26ts%3D1710223276" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8qykehyfinamav5aye6xexh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267132076%26signature%3D%252BhPP%252B%252Frc852sPdGyd7Gt1ttZnro%253D%26ts%3D1710223276" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<대결! 애니메이션> 스크린 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Mar 2024 05:18:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F945188679%2Fthumb%2F20240308140454" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<친위대2> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445144431?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445144431?act=clip</guid>
-            <pubDate>Fri, 08 Mar 2024 05:18:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp57l2s83b8lkjuf7mukl9vu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33266782961%26signature%3DNteHc3CueTntfvZ2B%252BesKcEkkTs%253D%26ts%3D1709874161" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
