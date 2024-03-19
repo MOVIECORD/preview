@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 07:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 08:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<범죄도시4> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445394318?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445394318?act=clip</guid>
+            <pubDate>Tue, 19 Mar 2024 08:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhrq0adrzogbmg7kbt6c1kly%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267744189%26signature%3Da4qFl%252FUamff3jCyyM9bdf4MF7Hs%253D%26ts%3D1710835389" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<래빗스쿨 2: 부활절 대소동> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445392888?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445367799?act=clip</guid>
             <pubDate>Mon, 18 Mar 2024 07:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxd74ji37fxo1d3mr0vlx5am%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267653016%26signature%3D8qeOg375DD8l8pbgyLXaOOvj3Ys%253D%26ts%3D1710744216" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxd74ji37fxo1d3mr0vlx5am%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267653016%26signature%3D8qeOg375DD8l8pbgyLXaOOvj3Ys%253D%26ts%3D1710744216" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 인간팬더 잭 블랙 컴백]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 14 Mar 2024 06:22:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtad1fa3tuzxji3ni0z3rn8r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267303353%26signature%3Df%252FkoJVPO733eYjzCrm3HM8aKFrU%253D%26ts%3D1710394553" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<리볼버 릴리> 아야세 하루카 인사 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445275035?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445275035?act=clip</guid>
-            <pubDate>Thu, 14 Mar 2024 06:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1970283897%2Fthumb%2F20240314143056" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
