@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 06:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 07:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피지컬: 100 시즌2 | 절찬 스트리밍 중 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445392760?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445392760?act=clip</guid>
+            <pubDate>Tue, 19 Mar 2024 07:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F981346134%2Fthumb%2F20240319160522" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] Rebel Moon — 파트 2: 스카기버 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445380712?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/444989401?act=clip</guid>
             <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F63122949%2Fthumb%2F20240301144241" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F63122949%2Fthumb%2F20240301144241" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[네가 훔친 그 돈, 어머니 죽은 몸뚱이 팔아 받은 돈이다 | 넷플릭스 로기완]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 13 Feb 2024 01:14:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F760263444%2Fthumb%2F20240213090833" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 살인자ㅇ난감 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444506459?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444506459?act=clip</guid>
-            <pubDate>Fri, 09 Feb 2024 08:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1408750434%2Fthumb%2F20240208195949" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
