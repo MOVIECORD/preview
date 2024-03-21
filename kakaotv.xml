@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 08:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 09:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<헬터 스켈터> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445441983?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445441983?act=clip</guid>
+            <pubDate>Thu, 21 Mar 2024 09:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsn7pvbjasnt21xwp5nutf7o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267918044%26signature%3D%252F2nDW6VJxrO27R5RZ1R8HqFqm3A%253D%26ts%3D1711009244" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<골드핑거> 2차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445440971?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445414232?act=clip</guid>
             <pubDate>Wed, 20 Mar 2024 05:19:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvps3va8w7h2alobgkle0o1jl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267820150%26signature%3DCDuJUxz2t5YTIqFfxKfzQ4B4gSo%253D%26ts%3D1710911350" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvps3va8w7h2alobgkle0o1jl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267820150%26signature%3DCDuJUxz2t5YTIqFfxKfzQ4B4gSo%253D%26ts%3D1710911350" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<목스박> 2차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Mar 2024 07:18:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjmw84qcadaitz649o3ohfaq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267654486%26signature%3DA7d6OilOJ3uwL26L6ebJnNtFrkM%253D%26ts%3D1710745686" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<브레이브 온 파이어> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445368297?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445368297?act=clip</guid>
-            <pubDate>Mon, 18 Mar 2024 07:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1xme5tbor3xa8g439zidfqi%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267654180%26signature%3DnVRz%252BpZfvppdYoPhJTfgXFNliuQ%253D%26ts%3D1710745380" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
