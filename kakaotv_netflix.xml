@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 03:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 04:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 드디어 시작된 팀전, 미로 속에서 점령지를 차지하라 | 피지컬: 100 시즌2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445455472?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445455472?act=clip</guid>
+            <pubDate>Fri, 22 Mar 2024 04:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F808179575%2Fthumb%2F20240322091444" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[체급 따위는 중요치 않아, 심유리의 이유 있는 자신감 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445436118?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445297765?act=clip</guid>
             <pubDate>Fri, 15 Mar 2024 05:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1675927189%2Fthumb%2F20240315133325" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1675927189%2Fthumb%2F20240315133325" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 사전 퀘스트부터 극악 난이도🔥 지옥의 무동력 트레드밀🏃 | 피지컬: 100 시즌2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 21 Feb 2024 10:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F12107075%2Fthumb%2F20240221191054" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아바타: 아앙의 전설 | 파이널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444773296?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444773296?act=clip</guid>
-            <pubDate>Wed, 21 Feb 2024 02:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1656919155%2Fthumb%2F20240221110916" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
