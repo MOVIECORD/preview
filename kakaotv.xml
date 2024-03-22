@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Mar 2024 07:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2024 08:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<데드풀과 울버린> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445463606?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445463606?act=clip</guid>
+            <pubDate>Fri, 22 Mar 2024 08:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7xq0x15lktvkblxm2dk59lb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268001365%26signature%3DOkgSSL2T01AMvrx6PIL%252FIk9W%252Fqo%253D%26ts%3D1711092565" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<바람의 세월> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445461004?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445437992?act=clip</guid>
             <pubDate>Thu, 21 Mar 2024 05:17:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3hbk2nw1t456mczkj3rs6f8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267905980%26signature%3DZIkBQzyUHwefKP9EKSl%252BEcN44sk%253D%26ts%3D1710997180" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3hbk2nw1t456mczkj3rs6f8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267905980%26signature%3DZIkBQzyUHwefKP9EKSl%252BEcN44sk%253D%26ts%3D1710997180" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<극장판 스파이 패밀리 코드 : 화이트> 스페셜 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 19 Mar 2024 06:22:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F156055967%2Fthumb%2F20240319151022" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<오멘: 저주의 시작> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445389869?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445389869?act=clip</guid>
-            <pubDate>Tue, 19 Mar 2024 06:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv53sy042iwuy67woge8bknm2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33267731941%26signature%3Di%252F0bs%252B3x2YFGcVBPPtw2HoNYAYw%253D%26ts%3D1710823141" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
