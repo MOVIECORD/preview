@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 06:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[각기 다른 전략, 가장 먼저 짐을 옮기는 팀은? | 피지컬: 100 시즌2 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445601360?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445601360?act=clip</guid>
+            <pubDate>Thu, 28 Mar 2024 06:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F286401023%2Fthumb%2F20240328151657" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[정지현&아모띠 미친 턱걸이 폼, 살아 돌아온 자들은 다르다 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445572549?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445397428?act=clip</guid>
             <pubDate>Tue, 19 Mar 2024 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F193550242%2Fthumb%2F20240319192612" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F193550242%2Fthumb%2F20240319192612" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[피지컬: 100 시즌2 | 절찬 스트리밍 중 | 넷플릭스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F775228934%2Fthumb%2F20240304181829" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 차디찬 화장실에서 노숙하는 송중기 | 넷플릭스 로기완]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/444989432?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/444989432?act=clip</guid>
-            <pubDate>Fri, 01 Mar 2024 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F186375879%2Fthumb%2F20240301144408" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
