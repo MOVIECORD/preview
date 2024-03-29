@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 10:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 11:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈앞의 말도 안 되는 상황에 롤러코스터 타는 팀원들👀 | 피지컬: 100 시즌2 | 넷플릭]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445632513?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445632513?act=clip</guid>
+            <pubDate>Fri, 29 Mar 2024 11:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F83884307%2Fthumb%2F20240329193157" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[각기 다른 전략, 가장 먼저 짐을 옮기는 팀은? | 피지컬: 100 시즌2 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445601360?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445397445?act=clip</guid>
             <pubDate>Tue, 19 Mar 2024 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1810802211%2Fthumb%2F20240319192700" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1810802211%2Fthumb%2F20240319192700" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 특종의 탄생 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 05 Mar 2024 01:13:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1797928009%2Fthumb%2F20240304182119" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 3월 신작 소개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445056694?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445056694?act=clip</guid>
-            <pubDate>Mon, 04 Mar 2024 10:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F775228934%2Fthumb%2F20240304181829" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
