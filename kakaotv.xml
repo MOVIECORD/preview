@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 05:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 06:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<여행자의 필요> 국내 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445693585?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445693585?act=clip</guid>
+            <pubDate>Mon, 01 Apr 2024 06:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3ks5jbkgew1uimkkw9vmgol%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268857642%26signature%3DlOkUpGMCj9u0tSDfOQVIGQHRMZg%253D%26ts%3D1711948842" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 잭형, 베이비 원 모어 타임 MV]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445690797?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445604181?act=clip</guid>
             <pubDate>Thu, 28 Mar 2024 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0rgv28fhcj5wxnjdlyzxi7a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268522364%26signature%3DpUxGroSjuybMsW8%252BEklp9%252BxJIMo%253D%26ts%3D1711613564" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0rgv28fhcj5wxnjdlyzxi7a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268522364%26signature%3DpUxGroSjuybMsW8%252BEklp9%252BxJIMo%253D%26ts%3D1711613564" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<에스파: 월드 투어 인 시네마> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Mar 2024 06:24:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmf8tf5oifx7x3dqh7o3b7wy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268340590%26signature%3DpAgKMjIhhf%252Bk%252BX9pjXzMAdffdRw%253D%26ts%3D1711431790" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<덴저러스 워터> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445552058?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445552058?act=clip</guid>
-            <pubDate>Tue, 26 Mar 2024 06:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxzkkhxnk4bpu7hdsiddmyvo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268339892%26signature%3DAlkmUTV%252B6TDqZoQKUpi4kATLT%252Fc%253D%26ts%3D1711431092" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
