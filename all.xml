@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 01:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 02:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -189,7 +189,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445600157?act=clip</guid>
             <pubDate>Thu, 28 Mar 2024 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfzding1pricjn0khgn9pnsq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268512334%26signature%3D%252B5GnY5EtDd59SQ30oE5%252FOb5N2M8%253D%26ts%3D1711603534" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140/?fname=https%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image//thumb/C240x140/"/>
         </item>
         <item>
             <title><![CDATA[<정순> 메인 예고편 (우리 영화 볼래?)]]></title>
