@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Apr 2024 07:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Apr 2024 08:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<고스트버스터즈: 오싹한 뉴욕> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445772912?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445772912?act=clip</guid>
+            <pubDate>Thu, 04 Apr 2024 08:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4mv2a20bt2s8xvnz7er7v6z%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33269125010%26signature%3DE4HH5NCwmvlk0LSMLi%252FZfzrIgtQ%253D%26ts%3D1712216210" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<골드핑거> 파이널 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445768929?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445720239?act=clip</guid>
             <pubDate>Tue, 02 Apr 2024 06:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc7dyv3h08s3d39815ns8koq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268944975%26signature%3Dkmfgpl0vIHlO6F202tbBYiVJN3k%253D%26ts%3D1712036175" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc7dyv3h08s3d39815ns8koq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268944975%26signature%3Dkmfgpl0vIHlO6F202tbBYiVJN3k%253D%26ts%3D1712036175" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쿵푸팬더4> 끝이 없는 팬더의 Next Steps]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 29 Mar 2024 02:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7nn1o1uvrokfxy38g8302hd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268585661%26signature%3D52V6SpHKcyBx4wqr9X%252BRFUnFjq4%253D%26ts%3D1711676861" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<코요테> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445620474?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445620474?act=clip</guid>
-            <pubDate>Fri, 29 Mar 2024 02:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxww5qtb0p0rb1valyxstvuw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268585513%26signature%3Dqf8dl%252FZZrVJKD4XbzsdLUwK%252FTJE%253D%26ts%3D1711676713" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
