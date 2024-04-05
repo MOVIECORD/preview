@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 04:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 05:17:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<바람의 세월> 뮤직비디오 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445795603?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445795603?act=clip</guid>
+            <pubDate>Fri, 05 Apr 2024 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv52gt6c2y44obudv8cv2fgrh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33269202688%26signature%3D6vmUGD3S5ZBYguesgbZbZ45vT5w%253D%26ts%3D1712293888" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<바람의 세월> 감독 인사 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/445795521?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/445795521?act=clip</guid>
+            <pubDate>Fri, 05 Apr 2024 05:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnvw03dr4cwaa13qe7ctdm6r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33269202547%26signature%3DNRjO6jkKCay0eHBloUlkV91q0GQ%253D%26ts%3D1712293747" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<챌린저스> 30초 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/445790267?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445739212?act=clip</guid>
             <pubDate>Wed, 03 Apr 2024 02:24:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6031813%2Fthumb%2F20240403102137" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F6031813%2Fthumb%2F20240403102137" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<악은 존재하지 않는다> 배우 인사 영상 (우리 영화 볼래?)]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/445738948?act=clip</guid>
             <pubDate>Wed, 03 Apr 2024 01:16:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc7nx4jlk6lbun94qq1fmbq7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33269015259%26signature%3Dm8NZkolrD7RY9XV%252FJBmdcNYLeTs%253D%26ts%3D1712106459" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc7nx4jlk6lbun94qq1fmbq7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33269015259%26signature%3Dm8NZkolrD7RY9XV%252FJBmdcNYLeTs%253D%26ts%3D1712106459" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<녹차의 맛> 30초 예고편 (우리 영화 볼래?)]]></title>
@@ -310,22 +326,6 @@
             <pubDate>Fri, 29 Mar 2024 02:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8jx78ha4ar3w8aszz5cvtwa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268586128%26signature%3D2vHGN%252FZS7Inv7XGpi%252FLqS%252BdVBPg%253D%26ts%3D1711677328" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<낸 골딘, 모든 아름다움과 유혈사태> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445620615?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445620615?act=clip</guid>
-            <pubDate>Fri, 29 Mar 2024 02:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5pt9tu0c06key8yhgkln28t%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268585875%26signature%3DuEJFOpkM55ZqJHyzC%252FEPOfQ1A50%253D%26ts%3D1711677075" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<데스 위켄드> 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/445620534?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/445620534?act=clip</guid>
-            <pubDate>Fri, 29 Mar 2024 02:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7nn1o1uvrokfxy38g8302hd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33268585661%26signature%3D52V6SpHKcyBx4wqr9X%252BRFUnFjq4%253D%26ts%3D1711676861" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[홍범석 VS 아모띠의 결승전 기둥 밀기, 시즌2의 우승자는? | 피지컬: 100 시즌2 | 넷플릭스 (카카오TV ─ 넷플릭스)]]></title>
