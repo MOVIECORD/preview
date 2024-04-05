@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 11:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 12:31:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 손대지 마. 그거 내 거야.🔫 기생생물을 처단하는 이정현 | 기생수: 더 그레이 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445806254?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445806254?act=clip</guid>
+            <pubDate>Fri, 05 Apr 2024 12:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1522365052%2Fthumb%2F20240405211514" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 기생수: 더 그레이 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445797755?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445436118?act=clip</guid>
             <pubDate>Thu, 21 Mar 2024 03:20:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1515246505%2Fthumb%2F20240321120619" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1515246505%2Fthumb%2F20240321120619" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 겐간 아슈라 시즌 2 파트 2 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Mar 2024 05:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1675927189%2Fthumb%2F20240315133325" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 사전 퀘스트부터 극악 난이도🔥 지옥의 무동력 트레드밀🏃 | 피지컬: 100 시즌2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445274176?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445274176?act=clip</guid>
-            <pubDate>Mon, 18 Mar 2024 08:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F201355045%2Fthumb%2F20240318141615" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
