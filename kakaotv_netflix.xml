@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Apr 2024 23:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 01:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 기생수: 더 그레이 | 동족의 탄생]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445858608?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445858608?act=clip</guid>
+            <pubDate>Mon, 08 Apr 2024 01:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F43267373%2Fthumb%2F20240408093845" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 손대지 마. 그거 내 거야.🔫 기생생물을 처단하는 이정현 | 기생수: 더 그레이 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445806254?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445455472?act=clip</guid>
             <pubDate>Fri, 22 Mar 2024 04:20:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F808179575%2Fthumb%2F20240322091444" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F808179575%2Fthumb%2F20240322091444" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[체급 따위는 중요치 않아, 심유리의 이유 있는 자신감 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 15 Mar 2024 05:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1921025107%2Fthumb%2F20240315133403" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아틀라스 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445297765?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445297765?act=clip</guid>
-            <pubDate>Fri, 15 Mar 2024 05:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1675927189%2Fthumb%2F20240315133325" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
