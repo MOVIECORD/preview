@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 02:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 03:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리가 잘려 나가도 살아나는 기생생물, 다음 숙주는? | 기생수: 더 그레이 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/445885584?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/445885584?act=clip</guid>
+            <pubDate>Tue, 09 Apr 2024 03:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059722480%2Fthumb%2F20240409120014" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 시티헌터 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/445883854?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445520725?act=clip</guid>
             <pubDate>Mon, 25 Mar 2024 01:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F93922993%2Fthumb%2F20240325100921" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F93922993%2Fthumb%2F20240325100921" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그림 동화 변주곡 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Mar 2024 06:25:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794282817%2Fthumb%2F20240318152014" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[삼촌, 조카, 외계인까지 모두가 미쳐버린 혼파망 상황 |  | 넷플릭스 닭강정]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445363906?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445363906?act=clip</guid>
-            <pubDate>Mon, 18 Mar 2024 07:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1577987058%2Fthumb%2F20240318123600" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
