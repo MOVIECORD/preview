@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Apr 2024 22:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Apr 2024 23:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,7 +229,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445433683?act=clip</guid>
             <pubDate>Thu, 21 Mar 2024 01:15:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1199322353%2Fthumb%2F20240321100531" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140/?fname=https%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image//thumb/C240x140/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하트스토퍼 | 시즌 3 공개 발표]]></title>
