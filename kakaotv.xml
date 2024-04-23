@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 07:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 08:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스턴트맨> '시켜줘 명예 스턴트맨' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446214823?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446214823?act=clip</guid>
+            <pubDate>Tue, 23 Apr 2024 08:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw9dvajuokb2l0gx25hkozxz%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270768791%26signature%3DNGbypQAGFC9%252FaizeaYY%252FWcir0So%253D%26ts%3D1713859991" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446208662?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/446120263?act=clip</guid>
             <pubDate>Fri, 19 Apr 2024 10:21:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvex3qxnw6a3n8adbvxkcgydj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270422029%26signature%3DNJ4JhbOg0YeyvOKsnvOaXAhhCbk%253D%26ts%3D1713513229" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvex3qxnw6a3n8adbvxkcgydj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270422029%26signature%3DNJ4JhbOg0YeyvOKsnvOaXAhhCbk%253D%26ts%3D1713513229" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<춘추전국시대> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 17 Apr 2024 05:17:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf477kdxx3ooe22jtw4z3ji5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270238365%26signature%3D13vlhvLx%252FfORkWqKngi7SEA9%252BOM%253D%26ts%3D1713329565" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<창가의 토토> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446045275?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446045275?act=clip</guid>
-            <pubDate>Tue, 16 Apr 2024 04:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F663256415%2Fthumb%2F20240416122818" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
