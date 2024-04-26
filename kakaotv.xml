@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 04:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<늦더위> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446282268?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446282268?act=clip</guid>
+            <pubDate>Fri, 26 Apr 2024 05:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve1ifut19v26c7zw73r9k5vx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33271016372%26signature%3DbD0cfkxkU6RcRF9mfwTXrtPQTzM%253D%26ts%3D1714107572" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<디피컬트> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446278303?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/446208282?act=clip</guid>
             <pubDate>Tue, 23 Apr 2024 04:21:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvswiag1p9gqqvidde8a4jx82%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270754131%26signature%3DwvFU4%252BkrhZr33XVsPO5O54TvNcA%253D%26ts%3D1713845331" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvswiag1p9gqqvidde8a4jx82%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270754131%26signature%3DwvFU4%252BkrhZr33XVsPO5O54TvNcA%253D%26ts%3D1713845331" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<설계자> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 24 Apr 2024 11:16:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtwze89g4b5s2hw2iy8blswc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33270421579%26signature%3DSC6DsUd06EoFeBh0IZ8KsO6zFPQ%253D%26ts%3D1713512779" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<포켓몬스터: 성도지방 이야기, 최종장> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446119891?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446119891?act=clip</guid>
-            <pubDate>Wed, 24 Apr 2024 11:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F464734377%2Fthumb%2F20240419163942" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
