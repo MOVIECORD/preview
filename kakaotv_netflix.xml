@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 May 2024 23:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 01:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] The 8 Show (더 에이트 쇼) | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/446381740?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/446381740?act=clip</guid>
+            <pubDate>Thu, 02 May 2024 01:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F921975755%2Fthumb%2F20240501110254" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 사에바 료의 불끈이 춤 | 시티헌터]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/446291379?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445868093?act=clip</guid>
             <pubDate>Tue, 09 Apr 2024 02:25:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1565171856%2Fthumb%2F20240408172223" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1565171856%2Fthumb%2F20240408172223" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[한 곳에서 만난 기생생물과 조력자, 그리고 추격자 | 기생수: 더 그레이 | 넷플릭스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Mar 2024 01:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1938876253%2Fthumb%2F20240325100820" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너희에게 경고한다. 회신하면 우리가 갈 것이다. | 삼체]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445466237?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445466237?act=clip</guid>
-            <pubDate>Mon, 25 Mar 2024 01:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1740570923%2Fthumb%2F20240322181116" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
