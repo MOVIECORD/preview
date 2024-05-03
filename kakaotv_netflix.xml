@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 02:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 03:23:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 참가자 모집 | 데블스 플랜 2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/446442574?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/446442574?act=clip</guid>
+            <pubDate>Fri, 03 May 2024 03:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1544747835%2Fthumb%2F20240503120353" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 5월 신작 소개]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/446429688?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/445893810?act=clip</guid>
             <pubDate>Fri, 12 Apr 2024 01:15:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2009755225%2Fthumb%2F20240409183940" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2009755225%2Fthumb%2F20240409183940" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] The 8 Show (더 에이트 쇼) | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 25 Mar 2024 01:16:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1254817464%2Fthumb%2F20240325101414" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[미공개 클립] 수영선수 정유인 VS 크로스핏선수 앰버 양 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445520810?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445520810?act=clip</guid>
-            <pubDate>Mon, 25 Mar 2024 01:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1620629284%2Fthumb%2F20240325101325" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
