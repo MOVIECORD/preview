@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 May 2024 23:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 01:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 친구의 죽음을 목격한 후 시간여행을 할 수 있게 된 소년 | 타임 패트롤 본]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/446676130?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/446676130?act=clip</guid>
+            <pubDate>Mon, 13 May 2024 01:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F893564361%2Fthumb%2F20240513093437" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 어느 아름다운 마을의 어둡고 끔찍한 비밀 | 보드킨, 그들이 사라진 마을]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/446607905?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446264474?act=clip</guid>
             <pubDate>Thu, 25 Apr 2024 09:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2136398144%2Fthumb%2F20240425174656" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2136398144%2Fthumb%2F20240425174656" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 좋아해도 싫어하는 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 05 Apr 2024 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F382107358%2Fthumb%2F20240405120016" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[탈락자가 나올 때까지 무게가 추가되는 무한 스쿼트 | 피지컬: 100 시즌2 | 넷플릭스]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445792917?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445792917?act=clip</guid>
-            <pubDate>Fri, 05 Apr 2024 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1454102226%2Fthumb%2F20240405115339" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
