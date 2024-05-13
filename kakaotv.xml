@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 08:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 09:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<1초 앞, 1초 뒤> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446687243?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446687243?act=clip</guid>
+            <pubDate>Mon, 13 May 2024 09:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwj0pdp256kh2h0uywsk8wyo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272497761%26signature%3DoCxe1pBWsHexlsqjGD%252FgwhgbD5s%253D%26ts%3D1715588961" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<빼꼼: 미션 투 마스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446686242?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/446608357?act=clip</guid>
             <pubDate>Fri, 10 May 2024 02:33:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt4jb9l3m9zr7ep2wnur6m7o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272213544%26signature%3DV65Z%252BS00CbZjEyFrFLdFaYM%252B6sA%253D%26ts%3D1715304744" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt4jb9l3m9zr7ep2wnur6m7o%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272213544%26signature%3DV65Z%252BS00CbZjEyFrFLdFaYM%252B6sA%253D%26ts%3D1715304744" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<바커스: 슈퍼스타가 될 거야> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 03 May 2024 06:24:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfis1m588qbwzo8zpt9nkqjl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33271625350%26signature%3DRy%252BrBbMVkAup5%252FHB6TyUYEGJZvQ%253D%26ts%3D1714716550" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<히어로즈 오브 워> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446442191?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446442191?act=clip</guid>
-            <pubDate>Fri, 03 May 2024 03:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvv3sb45s84ga5q1j9rcl6k88%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33271612859%26signature%3DrMtzokS7I28DTwMSqi15mL83BVk%253D%26ts%3D1714704059" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
