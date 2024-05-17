@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 May 2024 03:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 04:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5vrz06u2chq5bvmsgpqlyc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272214580%26signature%3DHPEcMHAGTA5%252FaVJ43eF%252FL3GKnbs%253D%26ts%3D1715305780" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 삼체 | 계속되는 이야기 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/446773532?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/446773532?act=clip</guid>
+            <pubDate>Fri, 17 May 2024 04:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2142775576%2Fthumb%2F20240517115556" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌3 파트1 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/446759408?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446759408?act=clip</guid>
@@ -485,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446429629?act=clip</guid>
             <pubDate>Thu, 02 May 2024 12:34:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F163645946%2Fthumb%2F20240502204029" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F163645946%2Fthumb%2F20240502204029" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] The 8 Show (더 에이트 쇼) | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Tue, 09 Apr 2024 03:21:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1059722480%2Fthumb%2F20240409120014" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시티헌터 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/445883854?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/445883854?act=clip</guid>
-            <pubDate>Tue, 09 Apr 2024 02:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F557423392%2Fthumb%2F20240409102034" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
