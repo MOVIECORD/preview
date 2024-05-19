@@ -1,8 +1,331 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.kakao.com/channel/462787/video</id>
-    <title>우리 영화 볼래?</title>
-    <updated>2024-05-19T14:17:32.888Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://img1.kakaocdn.net/kakaotv/services/2020/icon/icon-16.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>우리 영화 볼래?</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 19 May 2024 15:19:17 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<생츄어리> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446780364?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446780364?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8ewtr3g6474iomdm9gellzf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272842384%26signature%3DLFMSvq5ysIpLaFUKzrh1KT%252FgpGA%253D%26ts%3D1715933584" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<분노의 강> 관객 리뷰 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446777830?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446777830?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvfev3ukfa4j6alt7b6jq52g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272836610%26signature%3D7UUl6k2GICfKJ4%252FwAFOve6cJnUg%253D%26ts%3D1715927810" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<금지된 장난> 청불 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446775674?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446775674?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2130397387%2Fthumb%2F20240517135311&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R320x180" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나쁜 녀석들: 라이드 오어 다이> 145초 무삭제 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446775632?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446775632?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv889e7d2tg4jvosnasy0com7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272830201%26signature%3DEBW5p1i6XoU1rKdNpCutRdQAEjI%253D%26ts%3D1715921401" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<나쁜 녀석들: 라이드 오어 다이> 나쁜 맛 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446775610?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446775610?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn9iut32y50b5unqbdz5r5sd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272830123%26signature%3D4jLr%252BdA8Fv4YTW2Lt%252B5kL4g8y98%253D%26ts%3D1715921323" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<판문점> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446771036?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446771036?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva25xq2fsgn9osnxgpwldqo8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272815163%26signature%3D4P5eYVLC6HBPQPxaIXjW6FndMck%253D%26ts%3D1715906363" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<위키드> Passion 피처렛]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446771013?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446771013?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwx9gdt56167p0156mhqttc1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272815064%26signature%3DyI5bkZdiinmhGqNxuwYmyXyPJjE%253D%26ts%3D1715906264" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<이프: 상상의 친구> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446752829?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446752829?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmasq496xyd4h8eup6p9e2zk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272748444%26signature%3D2rR34vAxw8UY9GJyaY2U%252BIlyzaA%253D%26ts%3D1715839644" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<악마와의 토크쇼> 다스트말치안 한국 단독 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446752780?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446752780?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhyciqxi15hyjlo0a32jqz19%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272748316%26signature%3DP%252B7x%252F23IKbSU5NjiISM3F9M74Fs%253D%26ts%3D1715839516" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<악마와의 토크쇼> 시사회 현장 반응 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446752752?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446752752?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvddxphkfwri28hwtz75ejuz0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272748246%26signature%3Du2eWn8cQ%252FMBexVUQ5ioquRQArQU%253D%26ts%3D1715839446" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<그녀가 죽었다> 리뷰 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751776?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751776?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtf7b5zxnfapqvhvesoaqyqc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272745201%26signature%3D2enxHC2loFhbUmiu4wLvU3wvMnc%253D%26ts%3D1715836401" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 초즌: 선택받은 자> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751732?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751732?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6porkzpx36srkee10hri3bb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272745067%26signature%3DN8asv5LKeaFHDcfpawVNvEfrWzI%253D%26ts%3D1715836267" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 초즌: 선택받은 자> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751655?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751655?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyiasr86wkjll6xvzv19hlf4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272744902%26signature%3DyTT531ukVT2sBAqJDFfWmjp2dnU%253D%26ts%3D1715836102" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<로스트 케어> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751611?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751611?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsnlsgwwle6phc7epf88pbyq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272744767%26signature%3DqF31kmnR5fs1vNMZD1rjyxnyEQ4%253D%26ts%3D1715835967" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<극장판 하이큐!! 쓰레기장의 결전>  스페셜 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751569?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751569?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1085518397%2Fthumb%2F20240516140428" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<그레이트 칸> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751485?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751485?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ibfcmmqt4s1fyailvsv91v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272744385%26signature%3DFkgbXWP61qfMibNJO64LnEW3p2c%253D%26ts%3D1715835585" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<바커스: 슈퍼스타가 될 거야> 댄스 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751426?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751426?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv713znkbgj09zp39m0ftx5br%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272744171%26signature%3DZkC2BO6DWiDCrPQ4j2r0Ov3%252BzUk%253D%26ts%3D1715835371" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<원더랜드> 캐릭터 설계도 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751375?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751375?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkhoshwkl3mq5eof9m8jo20j%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272743973%26signature%3Dy4INW6fikOGU9vfeB1bxjEhI9rQ%253D%26ts%3D1715835173" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<늦더위> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751281?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751281?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbz4u7toyw0n4k2c97o4tn82%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272743748%26signature%3DcRhbG%252BBQ9mSk6Up0gzPO9yKuZLU%253D%26ts%3D1715834948" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<쾌락의 덫> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446712425?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446712425?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjorn3hno7i9vgfkfifsm3ho%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272584278%26signature%3DjT5lJfG8gcZ549z4vC3ZeStZ1eM%253D%26ts%3D1715675478" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<본능의 제국> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446712042?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446712042?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv222vwnv9h538l3q5v1182ge%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272583466%26signature%3D74ciSl3u0VJvExAslAYDres7cFM%253D%26ts%3D1715674666" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<존 오브 인터레스트> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446711239?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446711239?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7ean6soyz9ckdeoepgunno8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272581321%26signature%3DD%252FpFAqgQsfMXtK71zyUDnr3s8V0%253D%26ts%3D1715672521" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<콰이어트 플레이스: 첫째 날> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446711172?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446711172?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvila5rho4yk6b8sgmylig98d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272581124%26signature%3DGaRgAnhdVq4ed5E1lYQ0l7AogvM%253D%26ts%3D1715672324" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<오늘부터 댄싱퀸> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446708113?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446708113?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv92kovqq08sjuu6v61u5ho8d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272571150%26signature%3DH%252BBy%252FVqcAz3IoPvIMw%252F4jpdHIEw%253D%26ts%3D1715662350" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<캣퍼슨> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446707558?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446707558?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk7q9qqrebkptw41btiywfgp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272569484%26signature%3DWFLzy1Ht5%252Bw7EL30XIBPK8aSHsQ%253D%26ts%3D1715660684" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<정욕> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446707473?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446707473?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5pl7cp1y3m4kqbmskxq42ar%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272569341%26signature%3DHvkoKB5WUBhboYfJWdN6WR%252BTmA0%253D%26ts%3D1715660541" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<핸섬가이즈> '잘생겼잖아' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446707416?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446707416?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh4kitb1irdpbd42ysobxv8v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272569118%26signature%3DR%252B3wpGRnmxhQkIKbM83LuU%252FuyY8%253D%26ts%3D1715660318" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<프렌치 수프> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446707367?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446707367?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf9dmi9x9gy6njlvidn48w4w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272568968%26signature%3Dg72rINkKOtqpyPVTKQt79k18%252B2w%253D%26ts%3D1715660168" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<1초 앞, 1초 뒤> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446687243?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446687243?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwj0pdp256kh2h0uywsk8wyo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272497761%26signature%3DoCxe1pBWsHexlsqjGD%252FgwhgbD5s%253D%26ts%3D1715588961" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<빼꼼: 미션 투 마스> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446686242?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446686242?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq5g6k0rx6kyyebx9hp2uazk%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272495458%26signature%3DYsVPYJKBfCkHUbUuZ4acmtmQs74%253D%26ts%3D1715586658" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<빼꼼: 미션 투 마스> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446686196?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446686196?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp7spo6ko4irpdy92ckki4cr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272495392%26signature%3DWuYgf8iYVshOEJFrAyTbTYofOTs%253D%26ts%3D1715586592" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<난 엄청 창의적인 휴머니스트 뱀파이어가 될 거야> 무삭제 뮤직 클립]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446683544?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446683544?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1273661219%2Fthumb%2F20240513145642" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<리벤지 인 마운틴> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446682927?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446682927?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F243901412%2Fthumb%2F20240513142841" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<1초 앞, 1초 뒤> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446682672?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446682672?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvalcpbdto0b7vysgdykqxxkw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272486127%26signature%3DPG%252Fx9ucEBGz6PZ5YimizFgVfFZ4%253D%26ts%3D1715577327" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<도뷔시> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446682557?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446682557?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw5sq3qw6lg9o7meyph7hn3q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272485815%26signature%3D4QlA5GVqx4hsk%252Bshdq8avDFGkbw%253D%26ts%3D1715577015" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<도뷔시> 한국 개봉 인사]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446682532?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446682532?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ncdjic59xb9qaho4upc6zl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272485774%26signature%3DTG1IR%252BTNhlR7PSCG0fh%252FqnLbw%252Fg%253D%26ts%3D1715576974" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<청춘 18X2 너에게로 이어지는 길> 첫 번째 편지 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446676884?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446676884?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhy5blp2idw52x2uq2z7ow0e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272471014%26signature%3DZSvXwODfPLv1q4vNV3Mpx6QKP8w%253D%26ts%3D1715562214" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<설계자> '사건의 재구성' 캐릭터 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446676779?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446676779?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsv7hggr5zhs8do82jw54cbw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272470830%26signature%3DtrxuyA27%252B25N%252Fe3S65s8zQNlWhA%253D%26ts%3D1715562030" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<명탐정 코난 VS 괴도 키드> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446676584?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446676584?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvunbt32u485ls4zyw82ks51p%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272470467%26signature%3Dbx7OZtF8qCDwhMwOjx4y7V4ePic%253D%26ts%3D1715561667" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<찬란한 내일로> 2차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446676507?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446676507?act=clip</guid>
+            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzeaardrkntxuliw28i5shw9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272470180%26signature%3DlDBxSO9ReP9zZSUJEpDzrn1vSVg%253D%26ts%3D1715561380" length="0" type="image/q75/"/>
+        </item>
+    </channel>
+</rss>
