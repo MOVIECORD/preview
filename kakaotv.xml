@@ -4,7 +4,7 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 23:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 01:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvfev3ukfa4j6alt7b6jq52g%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272836610%26signature%3D7UUl6k2GICfKJ4%252FwAFOve6cJnUg%253D%26ts%3D1715927810" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[<금지된 장난> 청불 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446775674?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446775674?act=clip</guid>
-            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2130397387%2Fthumb%2F20240517135311&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[<나쁜 녀석들: 라이드 오어 다이> 145초 무삭제 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446775632?act=clip</link>
             <guid>https://tv.kakao.com/channel/462787/cliplink/446775632?act=clip</guid>
@@ -326,6 +318,14 @@
             <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtf7b5zxnfapqvhvesoaqyqc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272745201%26signature%3D2enxHC2loFhbUmiu4wLvU3wvMnc%253D%26ts%3D1715836401" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<더 초즌: 선택받은 자> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446751732?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446751732?act=clip</guid>
+            <pubDate>Wed, 22 May 2024 01:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6porkzpx36srkee10hri3bb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272745067%26signature%3DN8asv5LKeaFHDcfpawVNvEfrWzI%253D%26ts%3D1715836267" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
