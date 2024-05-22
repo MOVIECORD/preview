@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 May 2024 07:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 May 2024 08:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<양치기> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446894731?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446894731?act=clip</guid>
+            <pubDate>Wed, 22 May 2024 08:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvumlqxxr07sfa54q28mpdvql%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273271401%26signature%3Di%252FD9mJykwrW8tmgZs%252FfJBfiA94Q%253D%26ts%3D1716362601" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<별처럼 빛나는 너에게 더무비-일섬일섬량성성> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446894382?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/446868730?act=clip</guid>
             <pubDate>Tue, 21 May 2024 06:26:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuycvhx4lh9gujyuplj61ykd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273178199%26signature%3Dsn0ir0CNaAltqC3zsNtDEcjXpQ8%253D%26ts%3D1716269399" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuycvhx4lh9gujyuplj61ykd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273178199%26signature%3Dsn0ir0CNaAltqC3zsNtDEcjXpQ8%253D%26ts%3D1716269399" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<김준수 콘서트 무비 챕터 원 : 레크리에이션> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 May 2024 02:33:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F510427724%2Fthumb%2F20240520103659" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<생츄어리> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446780364?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446780364?act=clip</guid>
-            <pubDate>Sun, 19 May 2024 15:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8ewtr3g6474iomdm9gellzf%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33272842384%26signature%3DLFMSvq5ysIpLaFUKzrh1KT%252FgpGA%253D%26ts%3D1715933584" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
