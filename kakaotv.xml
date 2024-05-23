@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 07:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 08:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<니자리> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/446919486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/446919486?act=clip</guid>
+            <pubDate>Thu, 23 May 2024 08:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv078nisyb7tez6cqey9jn642%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273358580%26signature%3Dr92P0fT%252BkmjdwzrD6ngyeJtIMbU%253D%26ts%3D1716449780" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<오늘부터 댄싱퀸> 2차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/446918791?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/446871858?act=clip</guid>
             <pubDate>Tue, 21 May 2024 08:23:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtdoubip1m39l41cwez4aedj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273187374%26signature%3DGWNeLMoljXZeoIlCRMCU%252BwD7H84%253D%26ts%3D1716278574" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtdoubip1m39l41cwez4aedj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273187374%26signature%3DGWNeLMoljXZeoIlCRMCU%252BwD7H84%253D%26ts%3D1716278574" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<라파엘로. 예술의 군주> 31초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 20 May 2024 06:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuql43xd6lwpmt77f4lr8h3e%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273091738%26signature%3DQqmyR40merv0RF01aGAJFB4UPyI%253D%26ts%3D1716182938" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<조문탁의 타투왕> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446845089?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446845089?act=clip</guid>
-            <pubDate>Mon, 20 May 2024 06:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh2yweh2tc86yu7tllndkwui%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273091579%26signature%3DhM3Sna7xu3eo9LCvsKWzubFznKA%253D%26ts%3D1716182779" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
