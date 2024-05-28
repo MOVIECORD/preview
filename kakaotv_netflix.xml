@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 06:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 라리가 24시 | 공개일 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447037210?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447037210?act=clip</guid>
+            <pubDate>Tue, 28 May 2024 06:27:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F986304577%2Fthumb%2F20240528145045" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 당신이 가장 좋아하는 왕가위 작품은 무엇인가요? | 주말넷플뭐봄]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447011242?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446713201?act=clip</guid>
             <pubDate>Tue, 14 May 2024 09:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1313250716%2Fthumb%2F20240514180508" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1313250716%2Fthumb%2F20240514180508" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 귀멸의 칼날: 합동 강화 훈련편 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 26 Apr 2024 12:33:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1049018624%2Fthumb%2F20240426202635" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 피할 수 없는 종말을 마주한 사람들의 마지막 이야기 | 종말의 바보]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446287787?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446287787?act=clip</guid>
-            <pubDate>Fri, 26 Apr 2024 09:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F401284330%2Fthumb%2F20240426175214" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
