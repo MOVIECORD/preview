@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 01:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 02:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<판문점> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447105718?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447105718?act=clip</guid>
+            <pubDate>Fri, 31 May 2024 02:33:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz8uh2smvrexie20se170905%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274031428%26signature%3DWpZxRjr9NUdI%252F8i9Ll91byimOek%253D%26ts%3D1717122628" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<북극백화점의 안내원> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447088089?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447037346?act=clip</guid>
             <pubDate>Tue, 28 May 2024 06:26:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3wcksx8poc3iigtps90u66w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273784653%26signature%3DlExDV%252BkjoqJFsuG64Ez%252FiXtz2wE%253D%26ts%3D1716875853" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3wcksx8poc3iigtps90u66w%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273784653%26signature%3DlExDV%252BkjoqJFsuG64Ez%252FiXtz2wE%253D%26ts%3D1716875853" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<청춘 18X2 너에게로 이어지는 길> 너에게로 떠나는 여행 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 May 2024 02:33:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhgz63g77yqv0b6lbpb185d6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273681937%26signature%3DlHBvo8O4WXkiHsg3%252Fl%252FiXAQJZ9A%253D%26ts%3D1716773137" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<탈주> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/446943985?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/446943985?act=clip</guid>
-            <pubDate>Fri, 24 May 2024 08:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2a1x91rnljuhe9qjc7y7mun%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33273445295%26signature%3DjgDl%252BoI32BLyFmynkjT76yjkpGg%253D%26ts%3D1716536495" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
