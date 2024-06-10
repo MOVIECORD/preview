@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 01:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 02:37:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 초면인 여자한테 입고 있던 셔츠 벗어주는 남자 | 하이라키]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447280907?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447280907?act=clip</guid>
+            <pubDate>Mon, 10 Jun 2024 02:37:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F120601335%2Fthumb%2F20240608000056" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 김재원을 도발하기 위해 이채민이 선택한 방법은... 노정의? | 하이라키]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447273567?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446940515?act=clip</guid>
             <pubDate>Fri, 24 May 2024 05:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1310635790%2Fthumb%2F20240524135315" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1310635790%2Fthumb%2F20240524135315" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 에릭 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 May 2024 01:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1714173828%2Fthumb%2F20240510100815" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[K패치 완료된 '5천만 팔로워 크리에이터', 아랍 뷰티계의 여왕 누르 나임 | 슈퍼리치 이방인]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446539097?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446539097?act=clip</guid>
-            <pubDate>Wed, 08 May 2024 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F835031851%2Fthumb%2F20240508141246" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
