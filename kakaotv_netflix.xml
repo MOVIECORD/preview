@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 23:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 01:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 미스터리 수사단 | 캐릭터 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447342065?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447342065?act=clip</guid>
+            <pubDate>Tue, 11 Jun 2024 01:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F471796955%2Fthumb%2F20240610160307" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 초면인 여자한테 입고 있던 셔츠 벗어주는 남자 | 하이라키]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447280907?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/446941197?act=clip</guid>
             <pubDate>Mon, 27 May 2024 01:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1152856188%2Fthumb%2F20240524142705" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1152856188%2Fthumb%2F20240524142705" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이: 시즌 6 | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 10 May 2024 01:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1479488011%2Fthumb%2F20240510101008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 웬즈데이: 시즌 2 | 출연진 공개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446607841?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446607841?act=clip</guid>
-            <pubDate>Fri, 10 May 2024 01:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1714173828%2Fthumb%2F20240510100815" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
