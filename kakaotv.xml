@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 05:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 06:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탈주> 캐릭터 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447387885?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447387885?act=clip</guid>
+            <pubDate>Wed, 12 Jun 2024 06:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ibxmvxpxbp9mbubkj0anuh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275080946%26signature%3D47RDHN6SF4hoixZ3Wevq0edn6ds%253D%26ts%3D1718172146" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<하이재킹> 공중정보통 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447386815?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447335298?act=clip</guid>
             <pubDate>Mon, 10 Jun 2024 02:37:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3puxg8m8bvzau46w8zizzqq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274892608%26signature%3DLVBTyYJDGJg%252BJ%252FMFv8IA3Fex4Ks%253D%26ts%3D1717983808" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3puxg8m8bvzau46w8zizzqq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274892608%26signature%3DLVBTyYJDGJg%252BJ%252FMFv8IA3Fex4Ks%253D%26ts%3D1717983808" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<콰이어트 플레이스: 첫째 날> 침묵의 도시 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 05 Jun 2024 06:26:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F559641288%2Fthumb%2F20240605151557&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<기괴도> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447232089?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447232089?act=clip</guid>
-            <pubDate>Wed, 05 Jun 2024 06:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyveiknv2hjh3vu35smwo616%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274476775%26signature%3DlrE8sKqf1aKHjR7MP9bYRdu2n3w%253D%26ts%3D1717567975" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
