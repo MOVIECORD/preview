@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 05:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 06:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<퍼펙트 데이즈> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447501781?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447501781?act=clip</guid>
+            <pubDate>Mon, 17 Jun 2024 06:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfemwbdpc2fogixm39qpxo7a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275513064%26signature%3DQdZfOWDYluysvd%252Fxt%252BSFmKtbAVw%253D%26ts%3D1718604264" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<언더더씨: 마법 산호초를 찾아서> 캐릭터 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447500426?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447406024?act=clip</guid>
             <pubDate>Thu, 13 Jun 2024 02:34:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2lbxfeek8fxo30rkr2qthtj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275151784%26signature%3DPkgTVaE%252Bg0g3ThPR8ABLuAVtiek%253D%26ts%3D1718242984" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2lbxfeek8fxo30rkr2qthtj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275151784%26signature%3DPkgTVaE%252Bg0g3ThPR8ABLuAVtiek%253D%26ts%3D1718242984" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<보통의 우주는 찬란함을 꿈꾸는가?> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 10 Jun 2024 05:19:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrve0di6cn6k8begol5znes2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274903804%26signature%3DYaSzXGXEUS2qN06Pz99BObySJCY%253D%26ts%3D1717995004" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아찔한 유혹> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447339406?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447339406?act=clip</guid>
-            <pubDate>Mon, 10 Jun 2024 05:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgywc2hw527a62bfiajgdddw%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33274903673%26signature%3DO1M1PMEAchhZ2wdtms4SLSAC9Ro%253D%26ts%3D1717994873" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
