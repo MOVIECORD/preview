@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jun 2024 04:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 05:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탱커 용진의 솔선수범🕵️‍♂️구더기 범벅 진흙 속 손 넣는 이용진 | 미스터리 수사단]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447547011?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447547011?act=clip</guid>
+            <pubDate>Wed, 19 Jun 2024 05:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1441405618%2Fthumb%2F20240619111350" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[실제상황, 잠수함이 90도로 기울어졌다! 해결 못 하면 이대로 끝? | 미스터리 수사단]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447527644?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447178506?act=clip</guid>
             <pubDate>Tue, 04 Jun 2024 01:22:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2086880198%2Fthumb%2F20240603114723" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2086880198%2Fthumb%2F20240603114723" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 싸움의 고수에게 걸리면 피💩 싸는 거예요 | 싸움의 기술]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 May 2024 10:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1349682485%2Fthumb%2F20240522191248" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미스터리 수사단 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446861691?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446861691?act=clip</guid>
-            <pubDate>Tue, 21 May 2024 01:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1615156116%2Fthumb%2F20240521083151" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
