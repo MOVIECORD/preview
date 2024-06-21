@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 23:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 01:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 20 Jun 2024 10:20:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1418765514%2Fthumb%2F20240620191155" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌3 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447574521?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447574521?act=clip</guid>
+            <pubDate>Fri, 21 Jun 2024 01:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1810167854%2Fthumb%2F20240620145016" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[탱커 용진의 솔선수범🕵️‍♂️구더기 범벅 진흙 속 손 넣는 이용진 | 미스터리 수사단]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447212226?act=clip</guid>
             <pubDate>Tue, 04 Jun 2024 09:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1566077707%2Fthumb%2F20240604175008" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1566077707%2Fthumb%2F20240604175008" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 와따~ 치킨 블라인드 테스트에서 만점 받은 사람이 있어유? | 치킨 랩소디]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 May 2024 02:31:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F961066329%2Fthumb%2F20240523105634" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 맨시티가 유럽 최정상에 올라서게 된 이유 | 투게더: 트레블 위너]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446898581?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446898581?act=clip</guid>
-            <pubDate>Wed, 22 May 2024 10:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1057445412%2Fthumb%2F20240522191346" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
