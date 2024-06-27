@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jun 2024 07:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jun 2024 08:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사랑의 하츄핑> 운명의 시작 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447741526?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447741526?act=clip</guid>
+            <pubDate>Thu, 27 Jun 2024 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvi3lt4b3qyd55gu1l7updb3q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276383921%26signature%3DqtKD1cEZxl1XYGHWw17Co8E8unU%253D%26ts%3D1719475121" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<볼빨간사춘기: 메리 고 라운드 더 무비> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447740315?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447691287?act=clip</guid>
             <pubDate>Tue, 25 Jun 2024 05:19:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyjx81i1v88labn7y0d3564b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276201129%26signature%3DiIZ%252FjimnRjU3iunhiflyjYYTLoY%253D%26ts%3D1719292329" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyjx81i1v88labn7y0d3564b%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276201129%26signature%3DiIZ%252FjimnRjU3iunhiflyjYYTLoY%253D%26ts%3D1719292329" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 하츄핑> 처음 본 순간 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 21 Jun 2024 05:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzyaz3asbqqdn2eb4v15kuv4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275853689%26signature%3DW%252FCQSVVGTjL2xEiK%252BO1R%252FhVaCZ4%253D%26ts%3D1718944889" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<이매큘레이트> 시드니 스위니 그리팅 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447596730?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447596730?act=clip</guid>
-            <pubDate>Fri, 21 Jun 2024 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd5lw36du63kus1m93cuaz6v%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275853494%26signature%3DgyTqVbI%252F0p%252Bzp0kjaxx3Gvx1p7U%253D%26ts%3D1718944694" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
