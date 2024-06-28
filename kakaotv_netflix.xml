@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 02:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 03:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 대통령 돌연 사망, 누가 대통령을 시해했나 | 돌풍]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447758857?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447758857?act=clip</guid>
+            <pubDate>Fri, 28 Jun 2024 03:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1982171593%2Fthumb%2F20240628112008" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 일기장을 통해 끔찍했던 과거의 순간으로 돌아간 남자 | 나비 효과]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447662215?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447273567?act=clip</guid>
             <pubDate>Fri, 07 Jun 2024 07:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1748465403%2Fthumb%2F20240607160106" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1748465403%2Fthumb%2F20240607160106" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 자주색 넥타이를 맨 학생들에게 절대 거슬리지 말 것🏫 | 하이라키]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 24 May 2024 05:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1310635790%2Fthumb%2F20240524135315" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 에릭 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446940500?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446940500?act=clip</guid>
-            <pubDate>Fri, 24 May 2024 05:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1582128627%2Fthumb%2F20240524135150" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
