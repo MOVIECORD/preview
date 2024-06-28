@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 01:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 02:37:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<모아나 2> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447759022?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447759022?act=clip</guid>
+            <pubDate>Fri, 28 Jun 2024 02:37:00 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwfnfw3rqymmp07gsdkttsbl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276450323%26signature%3DcAswrCPLa85GYxM7bpOyvuEVdHc%253D%26ts%3D1719541523" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<리볼버> 공식 1차 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447742465?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447691429?act=clip</guid>
             <pubDate>Tue, 25 Jun 2024 06:27:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2hzip8hcm7pkmkpd3ahbxbq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276201744%26signature%3DfO1G7Huawgu9l42CA88pldM1qsM%253D%26ts%3D1719292944" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2hzip8hcm7pkmkpd3ahbxbq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276201744%26signature%3DfO1G7Huawgu9l42CA88pldM1qsM%253D%26ts%3D1719292944" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<루프 트랙> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 21 Jun 2024 05:20:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwsywimbhd10am5ws14zbrfp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275853995%26signature%3DFXsFxPfggUjEnGO22Vc6buFSBYM%253D%26ts%3D1718945195" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<복수는 사야라처럼> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447596869?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447596869?act=clip</guid>
-            <pubDate>Fri, 21 Jun 2024 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvsyhv3niwfmwqf1jol4ec1pq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33275853863%26signature%3Dj7hjjaeVcl07l%252BFHoU5L1jckjM8%253D%26ts%3D1718945063" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
