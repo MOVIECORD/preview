@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 07:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 28 Jun 2024 03:23:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1982171593%2Fthumb%2F20240628112008" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 돌풍 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447738064?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447738064?act=clip</guid>
+            <pubDate>Fri, 28 Jun 2024 07:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1821303251%2Fthumb%2F20240627143420" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 일기장을 통해 끔찍했던 과거의 순간으로 돌아간 남자 | 나비 효과]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447280907?act=clip</guid>
             <pubDate>Mon, 10 Jun 2024 02:37:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F120601335%2Fthumb%2F20240608000056" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F120601335%2Fthumb%2F20240608000056" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 김재원을 도발하기 위해 이채민이 선택한 방법은... 노정의? | 하이라키]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 May 2024 01:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1152856188%2Fthumb%2F20240524142705" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 코브라 카이: 시즌 6 | 공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/446940515?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/446940515?act=clip</guid>
-            <pubDate>Fri, 24 May 2024 05:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1310635790%2Fthumb%2F20240524135315" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
