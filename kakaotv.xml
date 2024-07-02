@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jul 2024 03:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 04:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<행복의 나라> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447851540?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447851540?act=clip</guid>
+            <pubDate>Tue, 02 Jul 2024 04:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1606755898%2Fthumb%2F20240702131930" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<가장 따뜻한 색, 블루> 4K 재개봉 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447829518?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447736846?act=clip</guid>
             <pubDate>Thu, 27 Jun 2024 04:25:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6ddszi91ccwuolyjiw4vtd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276369492%26signature%3Dx7ErhwQXTtsLSkbVCuCab%252BZCeVM%253D%26ts%3D1719460692" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvd6ddszi91ccwuolyjiw4vtd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276369492%26signature%3Dx7ErhwQXTtsLSkbVCuCab%252BZCeVM%253D%26ts%3D1719460692" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<적인걸: 흑목성의 비밀> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Jun 2024 02:36:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv354oq1a7ba07j5fggk1fv3f%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276105277%26signature%3DEaEy4XmVXbOO%252Fn9fqNyE2xaFPiE%253D%26ts%3D1719196477" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼배드 4> 한국 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447662868?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447662868?act=clip</guid>
-            <pubDate>Mon, 24 Jun 2024 02:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdqd85icpjeff09szz5ikydr%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276105171%26signature%3DDf20bTXzvC%252B2eeGYiG69Ok%252F6F78%253D%26ts%3D1719196371" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
