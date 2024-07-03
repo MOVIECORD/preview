@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 08:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 09:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 01 Jul 2024 10:24:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F240498306%2Fthumb%2F20240701162916" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 취임 당일부터 약점이 잡힌 새로운 대통령 | 돌풍]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447738070?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447738070?act=clip</guid>
+            <pubDate>Wed, 03 Jul 2024 09:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2069630374%2Fthumb%2F20240703142850" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 영부인을 만난 설경구, 그리고 김희애의 충격적인 선택 | 돌풍]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447501598?act=clip</guid>
             <pubDate>Mon, 17 Jun 2024 06:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1672827066%2Fthumb%2F20240617145743" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1672827066%2Fthumb%2F20240617145743" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 가족이라서 문제입니다 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F44432295%2Fthumb%2F20240603103902" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 로맨스, 요즘 넷플 뭐봄?]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447177232?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447177232?act=clip</guid>
-            <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1751490780%2Fthumb%2F20240603103823" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
