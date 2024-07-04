@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jul 2024 01:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jul 2024 02:36:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 이 남자는 꽤나 유명합니다. ‘상습 정자 기증자’로요.| 그 남자에겐 1,000명의 자식이 있다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447896867?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447896867?act=clip</guid>
+            <pubDate>Thu, 04 Jul 2024 02:36:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1576233533%2Fthumb%2F20240704112807" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 스위트홈 시즌3 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447858731?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447527644?act=clip</guid>
             <pubDate>Tue, 18 Jun 2024 08:25:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64167739%2Fthumb%2F20240618162320" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64167739%2Fthumb%2F20240618162320" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 레전드 시리즈의 시작, 본 아이덴티티 | 본 아이덴티티]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2098032672%2Fthumb%2F20240603104004" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 6월 신작 소개]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447177267?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447177267?act=clip</guid>
-            <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F44432295%2Fthumb%2F20240603103902" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
