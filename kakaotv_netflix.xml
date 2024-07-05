@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 08:24:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 09:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 상상 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447927824?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447927824?act=clip</guid>
+            <pubDate>Fri, 05 Jul 2024 09:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1889475942%2Fthumb%2F20240705172844" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 비버리 힐스 캅: 액셀 F | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447906732?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447574521?act=clip</guid>
             <pubDate>Fri, 21 Jun 2024 01:22:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1810167854%2Fthumb%2F20240620145016" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1810167854%2Fthumb%2F20240620145016" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 구더기 범벅 진흙 속 손 넣는 이용진 | 미스터리 수사단]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F257881563%2Fthumb%2F20240603104544" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 미니멀리스트가 되고 싶은 맥시멀리스트 모여라! | 주말넷플뭐봄]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447177414?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447177414?act=clip</guid>
-            <pubDate>Mon, 03 Jun 2024 02:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1235997872%2Fthumb%2F20240603104438" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
