@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 07:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 08:24:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탈주> '탈주 일지' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447927166?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447927166?act=clip</guid>
+            <pubDate>Fri, 05 Jul 2024 08:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc56mf1zkm8neuolqfdt52nd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277075414%26signature%3Dgsa9MEc9EkU0HGpdGaWYbXCveLE%253D%26ts%3D1720166614" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 도라에몽: 진구의 지구 교향곡> 대니 구 추천 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447925562?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447872495?act=clip</guid>
             <pubDate>Wed, 03 Jul 2024 02:35:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh1y8driwjw77ifwo8n7fsz3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276879860%26signature%3DEaUiWR50Q8ZKQv%252BWj71uXUDxQlI%253D%26ts%3D1719971060" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvh1y8driwjw77ifwo8n7fsz3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276879860%26signature%3DEaUiWR50Q8ZKQv%252BWj71uXUDxQlI%253D%26ts%3D1719971060" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<박정희: 경제대국을 꿈꾼 남자> 15초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 27 Jun 2024 09:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvi1tptjtw5likjdp684ybgws%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276386240%26signature%3DSbOvZEu4gVw%252BXL8Bg7YruxBFG24%253D%26ts%3D1719477440" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<사랑의 하츄핑> 운명의 시작 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447741526?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447741526?act=clip</guid>
-            <pubDate>Thu, 27 Jun 2024 08:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvi3lt4b3qyd55gu1l7updb3q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276383921%26signature%3DqtKD1cEZxl1XYGHWw17Co8E8unU%253D%26ts%3D1719475121" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
