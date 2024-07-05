@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 04:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 05:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장총집편 봇치 더 록! 전편> 런칭 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447922346?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447922346?act=clip</guid>
+            <pubDate>Fri, 05 Jul 2024 05:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1569544624%2Fthumb%2F20240705133012" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<진주의 진주> 메인 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447918211?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447855432?act=clip</guid>
             <pubDate>Tue, 02 Jul 2024 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr3v11vk1nvlghmsv74z7cnm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276814155%26signature%3Dc2LhQAXM4rbQxYuyOagIfDRuSKc%253D%26ts%3D1719905355" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvr3v11vk1nvlghmsv74z7cnm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276814155%26signature%3Dc2LhQAXM4rbQxYuyOagIfDRuSKc%253D%26ts%3D1719905355" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<트위스터스> 2차 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 27 Jun 2024 07:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1588603922%2Fthumb%2F20240627155620&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<굿바이 크루얼 월드> 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447739938?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447739938?act=clip</guid>
-            <pubDate>Thu, 27 Jun 2024 07:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt017r9frtsktsw29ydw7qvl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276379735%26signature%3Dr80Vct10NB8s2lFZnt%252FOZIK4jAA%253D%26ts%3D1719470935&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 비버리 힐스 캅: 액셀 F | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
