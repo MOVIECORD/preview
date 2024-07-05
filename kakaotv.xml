@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jul 2024 05:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jul 2024 06:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<탈출: 프로젝트 사일런스> 탈출 스팟]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447923849?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447923849?act=clip</guid>
+            <pubDate>Fri, 05 Jul 2024 06:28:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuggt412he39y4teo7a9bsl7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277066909%26signature%3DVe3P2PNmt%252BfNthw0qwtyPYF%252BH%252Bw%253D%26ts%3D1720158109" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장총집편 봇치 더 록! 전편> 런칭 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447922346?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447856182?act=clip</guid>
             <pubDate>Tue, 02 Jul 2024 08:25:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw6z09l3zn4q73m89oh3vkz0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276815876%26signature%3DpmWki4IdHDs%252BeNgQ6sSdkoPCAZU%253D%26ts%3D1719907076" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw6z09l3zn4q73m89oh3vkz0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276815876%26signature%3DpmWki4IdHDs%252BeNgQ6sSdkoPCAZU%253D%26ts%3D1719907076" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<하이큐!! 콘셉트의 싸움> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 27 Jun 2024 07:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F908249131%2Fthumb%2F20240627155734" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<러브 라이즈 블리딩> 런칭 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447740165?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447740165?act=clip</guid>
-            <pubDate>Thu, 27 Jun 2024 07:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1588603922%2Fthumb%2F20240627155620&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
