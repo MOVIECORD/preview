@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 08:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 09:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<사랑의 하츄핑> 윈터 프로모션 소감 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/447993542?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/447993542?act=clip</guid>
+            <pubDate>Mon, 08 Jul 2024 09:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv794arczbq9u4c2s8afwlx1k%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277336387%26signature%3DMz0UasBP0QsMI1PAaqxhwif7KYQ%253D%26ts%3D1720427587" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<컨티고> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/447984059?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/447917757?act=clip</guid>
             <pubDate>Fri, 05 Jul 2024 01:24:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1149858697%2Fthumb%2F20240705093012" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1149858697%2Fthumb%2F20240705093012" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<유혹의 본능> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 01 Jul 2024 05:19:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx4w6nzo30nqdvjwfgzf4iwv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276716813%26signature%3Dr1jMBC0DD4g5PpIW7XBTev1wm9U%253D%26ts%3D1719808013" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<명탐정 코난: 100만 달러의 펜타그램> 액션 예고편(더빙)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/447825833?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/447825833?act=clip</guid>
-            <pubDate>Mon, 01 Jul 2024 03:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjkaxqdt09f2dha0u1codmup%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33276710853%26signature%3DiACnZfxTbY5HdJ7SQfZnDmEPDiA%253D%26ts%3D1719802053" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
