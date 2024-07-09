@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 23:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 01:27:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 더 인플루언서 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/447995309?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/447995309?act=clip</guid>
+            <pubDate>Tue, 09 Jul 2024 01:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1729154183%2Fthumb%2F20240708184850" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 뉴욕의 암흑기, 그리고 뉴욕의 왕이 된 남자 | 아메리칸 갱스터]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/447983511?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447629034?act=clip</guid>
             <pubDate>Sat, 22 Jun 2024 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1623076494%2Fthumb%2F20240622210221" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1623076494%2Fthumb%2F20240622210221" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 육아트라맨이 되어버린.. 울트라맨?! | 울트라맨: 라이징]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 04 Jun 2024 09:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1566077707%2Fthumb%2F20240604175008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 와따~ 치킨 블라인드 테스트에서 만점 받은 사람이 있어유? | 치킨 랩소디]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447212192?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447212192?act=clip</guid>
-            <pubDate>Tue, 04 Jun 2024 09:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F338844500%2Fthumb%2F20240604174905" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
