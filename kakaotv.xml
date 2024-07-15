@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Jul 2024 07:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jul 2024 08:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<필사의 추격> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448153051?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448153051?act=clip</guid>
+            <pubDate>Mon, 15 Jul 2024 08:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3krps9n24sk4qg5z83vsfdh%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277938815%26signature%3DhHs2hS1y%252BPOTSoAxfCpVOTd5bp8%253D%26ts%3D1721030015" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스캔들: 위험한 승부> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448151107?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448084334?act=clip</guid>
             <pubDate>Fri, 12 Jul 2024 04:22:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F176887800%2Fthumb%2F20240712131805" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F176887800%2Fthumb%2F20240712131805" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<사랑의 하츄핑> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 10 Jul 2024 05:19:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5vkzo50942xcukxtdxdwpl3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277495916%26signature%3D91zNFKMxIozeFRHAonuk04ToQjQ%253D%26ts%3D1720587116" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<슈퍼배드 4> 메가 미니언즈, 슈퍼-능력 대공개!]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448037484?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448037484?act=clip</guid>
-            <pubDate>Wed, 10 Jul 2024 05:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvboztej6h3y8l2sysqitybty%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277495724%26signature%3DJ07pxstt71LNSC4Zt%252FdMCUJ0zYA%253D%26ts%3D1720586924" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
