@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 23:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jul 2024 01:26:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 크로스 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448193257?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448193257?act=clip</guid>
+            <pubDate>Wed, 17 Jul 2024 01:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1282200742%2Fthumb%2F20240717101541" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 우리는 어른이 되어서도 성장통을 겪는다 | 보이후드]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448174155?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447832033?act=clip</guid>
             <pubDate>Mon, 01 Jul 2024 09:25:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2083853352%2Fthumb%2F20240701173726" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2083853352%2Fthumb%2F20240701173726" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 7월 신작 소개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Jun 2024 06:28:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F65031663%2Fthumb%2F20240617145552" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 위대한 쇼에 참여할 동업자를 구합니다 | 위대한 쇼맨]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447501587?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447501587?act=clip</guid>
-            <pubDate>Mon, 17 Jun 2024 06:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F908831097%2Fthumb%2F20240617145637" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
