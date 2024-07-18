@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 01:24:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 02:37:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448197596?act=clip</guid>
             <pubDate>Wed, 17 Jul 2024 05:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrr9t7kzhmjqc2cbgvopiy8a%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278101196%26signature%3DE6jo%252Blu6K4pwjr0N4EhNhu%252BdgjQ%253D%26ts%3D1721192396" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F932751491%2Fthumb%2F20240718111433" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<교수님의 유혹> 예고편 (우리 영화 볼래?)]]></title>
