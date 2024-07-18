@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 07:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 08:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448226761?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448226761?act=clip</guid>
+            <pubDate>Thu, 18 Jul 2024 08:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgvainkyy30rjgpme7nc3yu3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278197624%26signature%3DigTabMP5Cm94Y1h484oQY7%252FBoeM%253D%26ts%3D1721288824" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<랑아관 대전투> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448224750?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448174476?act=clip</guid>
             <pubDate>Tue, 16 Jul 2024 06:28:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1491690388%2Fthumb%2F20240716144937" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1491690388%2Fthumb%2F20240716144937" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<필사의 추격> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Jul 2024 01:27:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnelwcn87qxfj7c988zo2s9h%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277913426%26signature%3DvQq8RvZxdfa3Dm6ZRyjMHW0DRtM%253D%26ts%3D1721004626" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<이오 카피타노> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448144155?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448144155?act=clip</guid>
-            <pubDate>Mon, 15 Jul 2024 01:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpuk0wo831rp3oh67x1tqei0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33277913105%26signature%3D08s8rxjukNId%252FYVsCmRzSv8xn8Y%253D%26ts%3D1721004305" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
