@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jul 2024 06:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jul 2024 07:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 스위트홈 시즌3 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448250390?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448250390?act=clip</guid>
+            <pubDate>Fri, 19 Jul 2024 07:20:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1015641469%2Fthumb%2F20240719161801" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 다시 만난 송강 & 이도현 | 스위트홈 시즌3]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448227260?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/447858731?act=clip</guid>
             <pubDate>Wed, 03 Jul 2024 01:23:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F921077162%2Fthumb%2F20240702185748" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F921077162%2Fthumb%2F20240702185748" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이 시즌 6: 파트 1 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Jun 2024 08:25:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F64167739%2Fthumb%2F20240618162320" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 레전드 시리즈의 시작, 본 아이덴티티 | 본 아이덴티티]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447501598?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447501598?act=clip</guid>
-            <pubDate>Mon, 17 Jun 2024 06:28:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1672827066%2Fthumb%2F20240617145743" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
