@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jul 2024 06:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 에밀리, 파리에 가다: 시즌 4 파트 1 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448344520?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448344520?act=clip</guid>
+            <pubDate>Tue, 23 Jul 2024 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1131195606%2Fthumb%2F20240723155856" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 인플루언서 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448313020?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448013189?act=clip</guid>
             <pubDate>Tue, 09 Jul 2024 05:20:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F991580748%2Fthumb%2F20240709134359" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F991580748%2Fthumb%2F20240709134359" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 인플루언서 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Jun 2024 02:36:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1630883242%2Fthumb%2F20240624110134" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 드디어 잠수함을 깨운 요원들, 과연 그 명령어는?👀 | 미스터리 수사단]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447630576?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447630576?act=clip</guid>
-            <pubDate>Tue, 25 Jun 2024 08:25:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1735753962%2Fthumb%2F20240622220517" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
