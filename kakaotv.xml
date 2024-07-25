@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 04:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 05:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<컨티고> 예고편2]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448391034?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448391034?act=clip</guid>
+            <pubDate>Thu, 25 Jul 2024 05:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5a7417mu5lz29babkanoew2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278793224%26signature%3D1Xp86xNdkEapOkDrUiciyjOBGQE%253D%26ts%3D1721884424" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<빅토리> 밀레니엄 셀프캠]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448371706?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448249349?act=clip</guid>
             <pubDate>Fri, 19 Jul 2024 07:20:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva2m1h4nbr9u02qbh2dhzrr9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278279477%26signature%3DnS02w%252BeP7yTFbrOZZ6qSsmdrZ5U%253D%26ts%3D1721370677" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva2m1h4nbr9u02qbh2dhzrr9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278279477%26signature%3DnS02w%252BeP7yTFbrOZZ6qSsmdrZ5U%253D%26ts%3D1721370677" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<이오 카피타노> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 17 Jul 2024 06:28:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgp8jxn20jyckttlby2bazoa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278104036%26signature%3DrVcnV6xdGvGMaGUNzhIAmQa8bcs%253D%26ts%3D1721195236" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<바다 탐험대 옥토넛 어보브 앤 비욘드: 바다가 위험해> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448197659?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448197659?act=clip</guid>
-            <pubDate>Wed, 17 Jul 2024 05:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp7c7giw129wqrt19ov1z4s3%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33278101389%26signature%3DHzd9E0u%252BXx5qnLwnHYMxsoM%252BuJg%253D%26ts%3D1721192589" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
