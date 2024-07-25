@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 23:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 01:26:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 켄간 아슈라 시즌 2 파트 2 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448386389?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448386389?act=clip</guid>
+            <pubDate>Thu, 25 Jul 2024 01:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1573010319%2Fthumb%2F20240725101233" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 4 | 공식 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448363896?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448042568?act=clip</guid>
             <pubDate>Wed, 10 Jul 2024 10:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144251404%2Fthumb%2F20240710182720" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144251404%2Fthumb%2F20240710182720" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엄브렐러 아카데미 | 마지막 시즌 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 03 Jul 2024 09:22:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2069630374%2Fthumb%2F20240703142850" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 영부인을 만난 설경구, 그리고 김희애의 충격적인 선택 | 돌풍]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447738067?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447738067?act=clip</guid>
-            <pubDate>Mon, 01 Jul 2024 08:26:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1942449034%2Fthumb%2F20240628135907" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
