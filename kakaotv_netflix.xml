@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Aug 2024 23:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 01:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] Geeked Week 2024: 초대합니다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448558486?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448558486?act=clip</guid>
+            <pubDate>Fri, 02 Aug 2024 01:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1618229637%2Fthumb%2F20240802101510" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 8월 신작 소개]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448545527?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448227260?act=clip</guid>
             <pubDate>Thu, 18 Jul 2024 11:18:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F830511243%2Fthumb%2F20240718170942" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F830511243%2Fthumb%2F20240718170942" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 크로스 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Jul 2024 02:36:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1576233533%2Fthumb%2F20240704112807" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 스위트홈 시즌3 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447858731?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447858731?act=clip</guid>
-            <pubDate>Wed, 03 Jul 2024 01:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F921077162%2Fthumb%2F20240702185748" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
