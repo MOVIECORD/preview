@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 03:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 04:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스트레인저스: 챕터1> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448562234?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448562234?act=clip</guid>
+            <pubDate>Fri, 02 Aug 2024 04:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuf035q89mil2lwod72xfbdb%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279480400%26signature%3DUXF6J8getrrFZCe2eLcHFR82pbQ%253D%26ts%3D1722571600" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<행복의 나라> 그날의 대립 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448559313?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448523507?act=clip</guid>
             <pubDate>Wed, 31 Jul 2024 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvijkirodundaf42a0zxh30qc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279318666%26signature%3D6%252Fb0%252F5VttVqZOvVctxxTHDth%252FmI%253D%26ts%3D1722409866" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvijkirodundaf42a0zxh30qc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279318666%26signature%3D6%252Fb0%252F5VttVqZOvVctxxTHDth%252FmI%253D%26ts%3D1722409866" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<물은 바다를 향해 흐른다> 'TOKIMEKI part1' 뮤직비디오]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 29 Jul 2024 07:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv5iq5lysucnqg0ks4is8sjwl%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279145848%26signature%3D7lIVzKTyMom3k93jmkOKbAKrcQg%253D%26ts%3D1722237048" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<쥬라기캅스 극장판: 전설의 고대생물을 찾아라> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448477801?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448477801?act=clip</guid>
-            <pubDate>Mon, 29 Jul 2024 05:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlm6s3wp0chgk6rtexjumd2q%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279136984%26signature%3DCPoCmj5Sk3Ixyqqx91%252BsAVQLUeo%253D%26ts%3D1722228184" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
