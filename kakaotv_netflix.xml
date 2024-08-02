@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Aug 2024 09:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Aug 2024 10:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 02 Aug 2024 01:26:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1618229637%2Fthumb%2F20240802101510" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 터미네이터 제로 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448545644?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448545644?act=clip</guid>
+            <pubDate>Fri, 02 Aug 2024 10:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F332759382%2Fthumb%2F20240801170705" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 8월 신작 소개]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448250390?act=clip</guid>
             <pubDate>Fri, 19 Jul 2024 07:20:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1015641469%2Fthumb%2F20240719161801" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1015641469%2Fthumb%2F20240719161801" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 다시 만난 송강 & 이도현 | 스위트홈 시즌3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 04 Jul 2024 10:20:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F494010151%2Fthumb%2F20240704190457" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 이 남자는 꽤나 유명합니다. ‘상습 정자 기증자’로요.| 그 남자에겐 1,000명의 자식이 있다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447896867?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447896867?act=clip</guid>
-            <pubDate>Thu, 04 Jul 2024 02:36:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1576233533%2Fthumb%2F20240704112807" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
