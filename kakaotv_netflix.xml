@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 06:29:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 07:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 눈 벌려 크로스 들어간다 | 크로스 제작기 영상 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448624505?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448624505?act=clip</guid>
+            <pubDate>Mon, 05 Aug 2024 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1448984398%2Fthumb%2F20240805155531" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 역대급 판타지 영화, 반지의 제왕 시리즈 | 주말넷플뭐봄]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448568339?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448312929?act=clip</guid>
             <pubDate>Mon, 22 Jul 2024 02:40:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F417251046%2Fthumb%2F20240722110619" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F417251046%2Fthumb%2F20240722110619" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 시간을 돌려 친구를 구한 대신 다른 사람이 살해당했다 | 타임 패트롤 본 시즌2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 09 Jul 2024 01:26:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1729154183%2Fthumb%2F20240708184850" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 뉴욕의 암흑기, 그리고 뉴욕의 왕이 된 남자 | 아메리칸 갱스터]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/447983511?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/447983511?act=clip</guid>
-            <pubDate>Mon, 08 Jul 2024 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F511071838%2Fthumb%2F20240708104342" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
