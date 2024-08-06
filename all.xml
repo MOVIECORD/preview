@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Aug 2024 07:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 08:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448644328?act=clip</guid>
             <pubDate>Tue, 06 Aug 2024 05:19:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx2ngs7i265roe7zkwh5o2k7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279829276%26signature%3DWNYKOB3MxNVb2InxsOE%252BOgJANtE%253D%26ts%3D1722920476" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx2ngs7i265roe7zkwh5o2k7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279839085%26signature%3Dz7Tg8RWqE2M%252FfTFgd4Z%252F%252F6IloPA%253D%26ts%3D1722930285" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<죽고 싶지만 사랑은 하고 싶어> 티저 예고편 (우리 영화 볼래?)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwnnjftm9ehls45tbedc5941%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279319838%26signature%3DPA%252BNKRswwqu2%252BJDK%252FAcQ0x8Bqb0%253D%26ts%3D1722411038" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 더 인플루언서 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448645328?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448645328?act=clip</guid>
+            <pubDate>Tue, 06 Aug 2024 08:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1468522989%2Fthumb%2F20240806145307" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[더 인플루언서 _ 절찬 스트리밍 중 _ 넷플릭스 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448645327?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448645327?act=clip</guid>
@@ -485,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448386389?act=clip</guid>
             <pubDate>Thu, 25 Jul 2024 01:26:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1573010319%2Fthumb%2F20240725101233" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1573010319%2Fthumb%2F20240725101233" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 4 | 공식 발표 (카카오TV ─ 넷플릭스)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Wed, 10 Jul 2024 10:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1341733694%2Fthumb%2F20240710182608" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 너에게 닿기를 시즌 3 | 공식 예고편 #2 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448042568?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448042568?act=clip</guid>
-            <pubDate>Wed, 10 Jul 2024 10:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F144251404%2Fthumb%2F20240710182720" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
