@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 05:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 06:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 관심을 끌기 위한 진용진의 파격적인 선택 | 더 인플루언서]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448667917?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448667917?act=clip</guid>
+            <pubDate>Wed, 07 Aug 2024 06:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2007343171%2Fthumb%2F20240807150958" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 라이징 임팩트 시즌 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448662034?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448410679?act=clip</guid>
             <pubDate>Fri, 26 Jul 2024 01:25:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1379166504%2Fthumb%2F20240726102200" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1379166504%2Fthumb%2F20240726102200" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아무도 없는 숲속에서 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 15 Jul 2024 01:27:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1079125953%2Fthumb%2F20240715100911" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그래서 그 여자가 고소를 했어? 아뇨, 죽었어요. | 댓글부대]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448063822?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448063822?act=clip</guid>
-            <pubDate>Thu, 11 Jul 2024 08:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F765687433%2Fthumb%2F20240711160951" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
