@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 01:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 02:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<슈퍼배드 4> 현직 요원, Dynamite급 실력으로 미용사 위장! 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448662979?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448662979?act=clip</guid>
+            <pubDate>Wed, 07 Aug 2024 02:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3xmfm5qoqvx0umlc164l9uj%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279904036%26signature%3DJEioWkvpWPGKCeFX9ioPLTiUqS8%253D%26ts%3D1722995236" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<베르민느: 독거미> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448645409?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448564478?act=clip</guid>
             <pubDate>Fri, 02 Aug 2024 06:29:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnzkxzau0sycql5q3bosnw6i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279488209%26signature%3Dk4RBhcakNJMqSG%252B7%252FzT6md02ATs%253D%26ts%3D1722579409" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnzkxzau0sycql5q3bosnw6i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279488209%26signature%3Dk4RBhcakNJMqSG%252B7%252FzT6md02ATs%253D%26ts%3D1722579409" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<스트레인저스: 챕터1> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 31 Jul 2024 08:23:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvqan61aogcw9clxwhdff51kg%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279322949%26signature%3DKp7Bxa5%252FUB2eabqAoOH6qoT3Mc0%253D%26ts%3D1722414149" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그녀의 유혹> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448524070?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448524070?act=clip</guid>
-            <pubDate>Wed, 31 Jul 2024 08:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwnnjftm9ehls45tbedc5941%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33279319838%26signature%3DPA%252BNKRswwqu2%252BJDK%252FAcQ0x8Bqb0%253D%26ts%3D1722411038" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
