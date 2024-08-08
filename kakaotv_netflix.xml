@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Aug 2024 02:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 03:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 08 Aug 2024 01:27:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794585338%2Fthumb%2F20240808101855" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 장근석 커플 사진 유출?! 장근석이 SNS 피드에서 눈길을 끄는 법 | 더 인플루언서]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448667918?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448667918?act=clip</guid>
+            <pubDate>Thu, 08 Aug 2024 03:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F393364346%2Fthumb%2F20240807150928" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 관심을 끌기 위한 진용진의 파격적인 선택 | 더 인플루언서]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448415739?act=clip</guid>
             <pubDate>Fri, 26 Jul 2024 06:28:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F867601686%2Fthumb%2F20240726145012" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F867601686%2Fthumb%2F20240726145012" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 2024/2025 넷플릭스 예능 라인업 공개]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 22 Jul 2024 02:40:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1574017236%2Fthumb%2F20240715161210" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 겁나 험한 것이 넷플릭스에도 나왔습니다 | 파묘]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448151943?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448151943?act=clip</guid>
-            <pubDate>Mon, 15 Jul 2024 07:18:59 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1787483639%2Fthumb%2F20240715160528" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
