@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 04:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 05:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<브레드이발소: 빵스타의 탄생> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448926294?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448926294?act=clip</guid>
+            <pubDate>Mon, 19 Aug 2024 05:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbh0hmsv461gvuseo2clsxwu%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280951979%26signature%3DLuGY7XL3%252B2lzWN3%252FDUt9XgKTv50%253D%26ts%3D1724043179" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<터커 & 데일 Vs 이블> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448922573?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448819142?act=clip</guid>
             <pubDate>Wed, 14 Aug 2024 05:20:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuqxuqgh7ac5ky860t6kwxo9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280519044%26signature%3DHeUgHaCGsqulFW4oduLd6%252Flz37A%253D%26ts%3D1723610244" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuqxuqgh7ac5ky860t6kwxo9%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280519044%26signature%3DHeUgHaCGsqulFW4oduLd6%252Flz37A%253D%26ts%3D1723610244" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<행복의 나라> 파이널 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 12 Aug 2024 06:29:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvsyobde8wnaz86gupjusrs7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280349577%26signature%3DCXz6kVxQk9fO9YzkqTIbnNJUARo%253D%26ts%3D1723440777" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<비틀쥬스 비틀쥬스> 3차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448772999?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448772999?act=clip</guid>
-            <pubDate>Mon, 12 Aug 2024 05:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxtyfzcjjrdw1aso6f0ye9f5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280347829%26signature%3D7scNZIhdonxEsf2xDPVxn1wbwvg%253D%26ts%3D1723439029" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
