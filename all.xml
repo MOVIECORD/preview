@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 05:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 06:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오빠, 남진> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/448975798?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/448975798?act=clip</guid>
+            <pubDate>Wed, 21 Aug 2024 06:28:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz00ewmpmvox2x6gz22naa0m%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281127232%26signature%3DQTBvpFK1gN6OmbD94%252FpakwItFsE%253D%26ts%3D1724218432" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<장손> 메인 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/448975180?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448970867?act=clip</guid>
             <pubDate>Wed, 21 Aug 2024 02:39:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjhed3n9c6nb6krzenhs1yuy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281113341%26signature%3DpRmhNpZRo5JadZEKWMZsGXEf8WE%253D%26ts%3D1724204541" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjhed3n9c6nb6krzenhs1yuy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281113341%26signature%3DpRmhNpZRo5JadZEKWMZsGXEf8WE%253D%26ts%3D1724204541" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<새벽의 모든> 오프닝 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 19 Aug 2024 01:35:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2005764942%2Fthumb%2F20240819102940" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<문경> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448921746?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448921746?act=clip</guid>
-            <pubDate>Mon, 19 Aug 2024 01:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvliy4ik5wnh69j8yuassm823%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33280939615%26signature%3D9DcZwX9m%252FNCpKQWEc5ge6YMOENc%253D%26ts%3D1724030815" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 카오스 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
