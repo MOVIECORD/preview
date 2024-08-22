@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 02:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 03:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 뭔가 이상했던 여자가, 펜션에 다시 찾아왔다 | 아무도 없는 숲속에서]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/448996058?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/448996058?act=clip</guid>
+            <pubDate>Thu, 22 Aug 2024 03:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1549363998%2Fthumb%2F20240822120505" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 괴물: 메넨데즈 형제 이야기 | 공개일 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448977850?act=clip</link>
@@ -21,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448977789?act=clip</guid>
             <pubDate>Wed, 21 Aug 2024 07:18:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvj48bbvwek8gxabwtptq7wq4%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281132763%26signature%3DspPNmWx8iNKQV9%252FN3nkpbYydZ%252Fg%253D%26ts%3D1724223963" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F89282201%2Fthumb%2F20240821160937" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 터미네이터 제로 | 타임머신 | 미리보기]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448685807?act=clip</guid>
             <pubDate>Thu, 08 Aug 2024 01:27:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794585338%2Fthumb%2F20240808101855" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F794585338%2Fthumb%2F20240808101855" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 넷플릭스 욕(?)하자마자 급격히 올라가는 시청자 수? | 더 인플루언서]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 31 Jul 2024 23:20:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F915787241%2Fthumb%2F20240731152705" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 엘리안과 빛나는 마법 모험 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448521805?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448521805?act=clip</guid>
-            <pubDate>Wed, 31 Jul 2024 06:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1403225390%2Fthumb%2F20240731145206" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
