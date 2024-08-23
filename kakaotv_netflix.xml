@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 23:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 01:34:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 터미네이터 제로 | 초반 6분 공개 | 미리보기]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449018781?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449018781?act=clip</guid>
+            <pubDate>Fri, 23 Aug 2024 01:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F490993033%2Fthumb%2F20240823102706" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 뭔가 이상했던 여자가, 펜션에 다시 찾아왔다 | 아무도 없는 숲속에서]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/448996058?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448693392?act=clip</guid>
             <pubDate>Thu, 08 Aug 2024 10:21:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F547303192%2Fthumb%2F20240808162441" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F547303192%2Fthumb%2F20240808162441" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 13년 만에, 드디어 닿았구나. 나랑 같이 숙제하러 갈래? | 너에게 닿기를 시즌3]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 01 Aug 2024 08:25:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1253846660%2Fthumb%2F20240801165626" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임 시즌2 | 공개일 발표]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448522519?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448522519?act=clip</guid>
-            <pubDate>Wed, 31 Jul 2024 23:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F915787241%2Fthumb%2F20240731152705" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
