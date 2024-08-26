@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 03:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 04:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<극장판 블루 록 -에피소드 나기-> 킥오프 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449086355?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449086355?act=clip</guid>
+            <pubDate>Mon, 26 Aug 2024 04:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1036558899%2Fthumb%2F20240826132221" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<트랜스포머 ONE> 위대한 목소리 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449026830?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/448975180?act=clip</guid>
             <pubDate>Wed, 21 Aug 2024 05:20:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9014nte11scjtgury6kimew%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281125238%26signature%3DnyMAD6B%252B9joUoZNjDTOoqKlI1DQ%253D%26ts%3D1724216438" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9014nte11scjtgury6kimew%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281125238%26signature%3DnyMAD6B%252B9joUoZNjDTOoqKlI1DQ%253D%26ts%3D1724216438" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<기기묘묘 2> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 21 Aug 2024 02:39:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjhed3n9c6nb6krzenhs1yuy%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281113341%26signature%3DpRmhNpZRo5JadZEKWMZsGXEf8WE%253D%26ts%3D1724204541" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<새벽의 모든> 오프닝 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/448970784?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/448970784?act=clip</guid>
-            <pubDate>Wed, 21 Aug 2024 02:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhxzwqj54sjsyb644s7d4i22%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281113105%26signature%3Dn7cxv6IkQSWHnkbCliijEmE1rBw%253D%26ts%3D1724204305" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
