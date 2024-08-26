@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 07:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 08:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 감옥에 있는 살인자를 찾아간 윤계상, 그에게 돌아온 대답 | 아무도 없는 숲속]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449091561?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449091561?act=clip</guid>
+            <pubDate>Mon, 26 Aug 2024 08:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1752980530%2Fthumb%2F20240826171705" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 삶의 터전이 무너진 윤계상의 절규 | 아무도 없는 숲속에서]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449082750?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/448802816?act=clip</guid>
             <pubDate>Tue, 13 Aug 2024 10:23:35 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2001664034%2Fthumb%2F20240813185756" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2001664034%2Fthumb%2F20240813185756" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 무도실무관 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 05 Aug 2024 07:19:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1448984398%2Fthumb%2F20240805155531" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 역대급 판타지 영화, 반지의 제왕 시리즈 | 주말넷플뭐봄]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448568339?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448568339?act=clip</guid>
-            <pubDate>Mon, 05 Aug 2024 01:35:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F468262257%2Fthumb%2F20240802183702" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
