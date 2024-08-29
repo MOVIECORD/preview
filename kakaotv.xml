@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Aug 2024 07:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Aug 2024 08:27:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<스트레인저스: 챕터1> 리뷰 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449160574?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449160574?act=clip</guid>
+            <pubDate>Thu, 29 Aug 2024 08:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7b51hq6by1217ibss2scpu0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281826844%26signature%3DGm70eGKHAaALktIbt0cDNXmM550%253D%26ts%3D1724918044" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스픽 노 이블> 맥어보이 연기 차력쇼]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449156027?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449107694?act=clip</guid>
             <pubDate>Tue, 27 Aug 2024 02:40:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq4viww4r2ysb23drpgit2f6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281633340%26signature%3Dvn45JzEZ9MQr5%252Bg4gUyb1DyvaJM%253D%26ts%3D1724724540" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq4viww4r2ysb23drpgit2f6%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281633340%26signature%3Dvn45JzEZ9MQr5%252Bg4gUyb1DyvaJM%253D%26ts%3D1724724540" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<안녕, 할부지> 제작기 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 23 Aug 2024 06:28:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frve84qbxfjklygjypurpweuu5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281300424%26signature%3DxUKNEDT2OZ700Hfh2Fc%252B3bLSLSU%253D%26ts%3D1724391624" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<딸에 대하여> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449021922?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449021922?act=clip</guid>
-            <pubDate>Fri, 23 Aug 2024 04:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpcxx77zleo4d8sxvr8ucen2%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281295674%26signature%3DQPPpGibTJfdCTWs%252BGf1GXuupKBo%253D%26ts%3D1724386874" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
