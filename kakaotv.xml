@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Aug 2024 08:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Aug 2024 09:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<수퍼 소닉3> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449185389?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449185389?act=clip</guid>
+            <pubDate>Fri, 30 Aug 2024 09:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvldi9gfvfzdenxjp9t0ob7ph%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281915798%26signature%3DLbyOr3g218Gc095usLBsiZKnNGE%253D%26ts%3D1725006998" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<위국일기> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449185071?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449135354?act=clip</guid>
             <pubDate>Wed, 28 Aug 2024 06:29:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1968315237%2Fthumb%2F20240828143438" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1968315237%2Fthumb%2F20240828143438" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<정국: 아이 엠 스틸> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Aug 2024 05:20:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1013574908%2Fthumb%2F20240826134041" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<비포 미드나잇> [재개봉] 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449086709?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449086709?act=clip</guid>
-            <pubDate>Mon, 26 Aug 2024 05:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvkym6gruill4v50q4ade3bfc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281555911%26signature%3DC%252B%252BmDYZCUDyFm50dmkowGCTKOHw%253D%26ts%3D1724647111" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
