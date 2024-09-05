@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Sep 2024 23:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 01:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 무도실무관 | 《무도실무관》 소개서]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449309222?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449309222?act=clip</guid>
+            <pubDate>Thu, 05 Sep 2024 01:39:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F7992618%2Fthumb%2F20240905102151" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 터미네이터 제로 | 메이킹 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449288260?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449106472?act=clip</guid>
             <pubDate>Tue, 27 Aug 2024 01:36:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F48260205%2Fthumb%2F20240827101324" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F48260205%2Fthumb%2F20240827101324" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 토크 서바이벌: 토크가 재밌어야 살아남는 드라마, 시즌 3 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 16 Aug 2024 01:28:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F206569607%2Fthumb%2F20240814185840" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 유튜브 경력직의 위엄, 이사배의 인사이트 | 더 인플루언서]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/448826324?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/448826324?act=clip</guid>
-            <pubDate>Fri, 16 Aug 2024 04:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F209188432%2Fthumb%2F20240814185758" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
