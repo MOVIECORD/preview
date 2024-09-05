@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Sep 2024 04:26:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Sep 2024 05:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<롱레그스> 1차 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449312707?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449312707?act=clip</guid>
+            <pubDate>Thu, 05 Sep 2024 05:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvf4aachsry87m0ckffb1yfp8%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282419302%26signature%3D4CwviKbJvnvynyf47Uop0a18FkY%253D%26ts%3D1725510502" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<무도실무관> 소개서]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449309768?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449245291?act=clip</guid>
             <pubDate>Mon, 02 Sep 2024 05:21:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6eea8ro3nobr6kgghj920rd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282162466%26signature%3D8e8P%252FHRB%252BhgEedBjA8VkS7tvPes%253D%26ts%3D1725253666" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6eea8ro3nobr6kgghj920rd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282162466%26signature%3D8e8P%252FHRB%252BhgEedBjA8VkS7tvPes%253D%26ts%3D1725253666" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<세상 참 예쁜 오드리> 티저 예고편(박지훈 ver.)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 29 Aug 2024 02:43:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvttf6qmphs5sxz0vl69u2x5d%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33281807319%26signature%3D3kyyG%252BHoPok%252BSFAdcx5AHe2n1DQ%253D%26ts%3D1724898519" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<한국이 싫어서> 현장이 좋아서 메이킹 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449153850?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449153850?act=clip</guid>
-            <pubDate>Thu, 29 Aug 2024 02:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F428380913%2Fthumb%2F20240829112646" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
