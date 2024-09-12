@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 22:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 23:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 시즌 1&2 세계관 소개 영상]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449479653?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449479653?act=clip</guid>
+            <pubDate>Thu, 12 Sep 2024 23:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F450051593%2Fthumb%2F20240912204702" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 전기 충격기 써도 돼요?👀 김우빈의 첫 출동 | 무도실무관 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449472919?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449241247?act=clip</guid>
             <pubDate>Mon, 02 Sep 2024 02:48:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F802579696%2Fthumb%2F20240902111351" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F802579696%2Fthumb%2F20240902111351" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 조정석 '샴페인' M/V | 신인가수 조정석]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 26 Aug 2024 02:40:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F651717933%2Fthumb%2F20240826104541" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 터미네이터 제로 | 후방주의 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449082740?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449082740?act=clip</guid>
-            <pubDate>Mon, 26 Aug 2024 02:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F655522054%2Fthumb%2F20240826104429" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
