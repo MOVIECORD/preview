@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Sep 2024 01:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Sep 2024 02:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<더러운 돈에 손대지 마라> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449466742?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449466742?act=clip</guid>
+            <pubDate>Thu, 12 Sep 2024 02:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv985cw0c1xk4n3l6f8g3yjao%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283014606%26signature%3DCpwmaRJTZ2Ks5D4hRFy4MnjoxYY%253D%26ts%3D1726105806" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 이스케이프> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449451062?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449406258?act=clip</guid>
             <pubDate>Mon, 09 Sep 2024 09:24:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva0izi4lzeygflsdls5um637%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282780742%26signature%3DfFi2xAB2bcDfzeaEnf80V7z%252B0yE%253D%26ts%3D1725871942" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frva0izi4lzeygflsdls5um637%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282780742%26signature%3DfFi2xAB2bcDfzeaEnf80V7z%252B0yE%253D%26ts%3D1725871942" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<6시간 후 너는 죽는다> 정재현 런칭 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 05 Sep 2024 02:45:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvofnwxdm52nlkxurp4anmuba%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282409443%26signature%3DXjjPtnopQflmz9lpSiAPdzKWgwI%253D%26ts%3D1725500643" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<더 컴백> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449309656?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449309656?act=clip</guid>
-            <pubDate>Thu, 05 Sep 2024 02:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvim35p6fq210j6guyhseo3dm%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33282409176%26signature%3DBQPOdODpb%252FjxcCkynDYlwiGqoBo%253D%26ts%3D1725500376" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
