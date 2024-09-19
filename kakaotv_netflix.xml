@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 06:32:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2024 07:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F665959772%2Fthumb%2F20240911174950" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 재료는 들기름으로 하겠습니다. 최강록과 승우아빠를 곁들인 | 흑백요리사: 요리 계급 전쟁]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449451437?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449451437?act=clip</guid>
+            <pubDate>Thu, 19 Sep 2024 07:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1528803782%2Fthumb%2F20240915012608" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 대한민국에서 요리 제일 잘 하는 100인의 요리사들 등장✨ | 흑백요리사: 요리 계급 전쟁]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449451433?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449451433?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449313611?act=clip</guid>
             <pubDate>Thu, 05 Sep 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1135683202%2Fthumb%2F20240905141413" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1135683202%2Fthumb%2F20240905141413" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 괴물: 메넨데즈 형제 이야기 | 공식 예고편 #1]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 28 Aug 2024 02:41:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1813495328%2Fthumb%2F20240828110556" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 괴물: 메넨데즈 형제 이야기 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449131516?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449131516?act=clip</guid>
-            <pubDate>Wed, 28 Aug 2024 02:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2059984372%2Fthumb%2F20240828110520" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
