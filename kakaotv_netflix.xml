@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Sep 2024 23:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Sep 2024 01:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 지옥 시즌2 | 공개일 발표]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449609698?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449609698?act=clip</guid>
+            <pubDate>Fri, 20 Sep 2024 01:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F393895855%2Fthumb%2F20240919204641" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 기동전사 건담: 복수의 레퀴엠 | 단독 공개 클립 영상]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449609360?act=clip</link>
@@ -40,7 +48,7 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1272976052%2Fthumb%2F20240919163356" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 무도실무관 | 액션 비하인드]]></title>
+            <title><![CDATA[무도실무관 | 액션 비하인드 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449600707?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449600707?act=clip</guid>
             <pubDate>Thu, 19 Sep 2024 03:25:01 GMT</pubDate>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449404669?act=clip</guid>
             <pubDate>Tue, 10 Sep 2024 01:40:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1787157710%2Fthumb%2F20240909165857" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1787157710%2Fthumb%2F20240909165857" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 살벌함 대신 사랑이 가득했던 숲속🌳💕 | 현장 비하인드 | 아무도 없는 숲속에서]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 30 Aug 2024 02:45:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:19]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1658580701%2Fthumb%2F20240830105150" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 본능적으로 범인을 쫓는 형사 이정은 | 아무도 없는 숲속에서]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449175973?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449175973?act=clip</guid>
-            <pubDate>Fri, 30 Aug 2024 02:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1687055536%2Fthumb%2F20240830105051" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
