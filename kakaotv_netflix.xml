@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 09:21:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 10:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 | 지난 이야기]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449632528?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449632528?act=clip</guid>
+            <pubDate>Sat, 21 Sep 2024 10:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1639273856%2Fthumb%2F20240920185924" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임 시즌2 | 스페셜 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449622608?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449492919?act=clip</guid>
             <pubDate>Fri, 13 Sep 2024 09:22:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1701552457%2Fthumb%2F20240913132311" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1701552457%2Fthumb%2F20240913132311" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 시즌 1&2 세계관 소개 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 04 Sep 2024 02:44:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2087540578%2Fthumb%2F20240904105619" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] Geeked Week 2024 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449288253?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449288253?act=clip</guid>
-            <pubDate>Wed, 04 Sep 2024 02:44:36 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1151232247%2Fthumb%2F20240904105648" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
