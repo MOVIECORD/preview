@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 05:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 06:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<빚가리> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449716658?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449716658?act=clip</guid>
+            <pubDate>Tue, 24 Sep 2024 06:31:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvznaey2lf31lwjs61begi0rn%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284066070%26signature%3Dxc3bi5UOesTjh%252FaoLQ3KRqVvXDw%253D%26ts%3D1727157270" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 커버넌트> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449715374?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449689807?act=clip</guid>
             <pubDate>Mon, 23 Sep 2024 03:27:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4r0crvg5j3w43ne27bsltjo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283969309%26signature%3DksnxIYTTNdl7UxXLXm7tvB9K1Jg%253D%26ts%3D1727060509" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4r0crvg5j3w43ne27bsltjo%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283969309%26signature%3DksnxIYTTNdl7UxXLXm7tvB9K1Jg%253D%26ts%3D1727060509" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<최소한의 선의> 티저 예고편(유미)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Sep 2024 06:45:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbghukf6g99ipljdh9audmwx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283723423%26signature%3DCKp7uvhgHbbzjyx%252BmztaTyTp670%253D%26ts%3D1726814623" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<임영웅│아임 히어로 더 스타디움> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449627805?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449627805?act=clip</guid>
-            <pubDate>Fri, 20 Sep 2024 06:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvk73vztjat4txeqnzo5qnnmx%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283723117%26signature%3D8cSCHERrhX7N%252Flv8%252B%252FO322olyew%253D%26ts%3D1726814317" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
