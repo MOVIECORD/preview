@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Sep 2024 23:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 01:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 코미디 리벤지 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449700153?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449700153?act=clip</guid>
+            <pubDate>Tue, 24 Sep 2024 01:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1307546216%2Fthumb%2F20240923201348" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] “원스타 셰프를 한 번만 제껴 보자” | 흑백요리사: 요리 계급 전쟁]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449689926?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449570961?act=clip</guid>
             <pubDate>Tue, 17 Sep 2024 11:18:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F426343875%2Fthumb%2F20240917201639" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F426343875%2Fthumb%2F20240917201639" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[도망칠 구멍은 없다🥋 김우빈&김성균의 전자발찌 범죄자 추격전 | 무도실무관 | 넷플릭]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 05 Sep 2024 05:20:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1135683202%2Fthumb%2F20240905141413" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 괴물: 메넨데즈 형제 이야기 | 공식 예고편 #1]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449313610?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449313610?act=clip</guid>
-            <pubDate>Thu, 05 Sep 2024 05:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1523771780%2Fthumb%2F20240905141453" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
