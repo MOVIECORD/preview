@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Sep 2024 03:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Sep 2024 04:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<공작새> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449714889?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449714889?act=clip</guid>
+            <pubDate>Tue, 24 Sep 2024 04:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1614227737%2Fthumb%2F20240924132417" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<줄리엣, 네이키드> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449696116?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449689120?act=clip</guid>
             <pubDate>Mon, 23 Sep 2024 02:52:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1272715064%2Fthumb%2F20240923112735" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1272715064%2Fthumb%2F20240923112735" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<쑤저우강> [재개봉] 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 20 Sep 2024 01:41:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvfrhxrj5j8vjalo0j7j2c6r%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283704026%26signature%3DeRtME20UF9jPMx22vdGoVemWi%252Fg%253D%26ts%3D1726795226" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<태용: 티와이 트랙 인 시네마> SX 트레일러]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449621562?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449621562?act=clip</guid>
-            <pubDate>Fri, 20 Sep 2024 01:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpgtd2g451shfi8ts88vilh0%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283703413%26signature%3DJaQ1hGQf9%252BoF3anFSRWe7HlrggQ%253D%26ts%3D1726794613" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
