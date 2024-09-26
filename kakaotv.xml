@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Sep 2024 23:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 01:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<오후 네시> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449757308?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449757308?act=clip</guid>
+            <pubDate>Thu, 26 Sep 2024 01:43:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz0c5w3416chbb52bpkfpubt%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284221774%26signature%3DJqzCRXPfldxMA1b5zkw5S9wTGO8%253D%26ts%3D1727312974" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<더 킬러스> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449743351?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449714973?act=clip</guid>
             <pubDate>Tue, 24 Sep 2024 05:22:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoows87lky3m0tn4lp1tp9ik%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284060861%26signature%3DMmMN7XOwR1Ifasf3AQFFsecUhf4%253D%26ts%3D1727152061" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoows87lky3m0tn4lp1tp9ik%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284060861%26signature%3DMmMN7XOwR1Ifasf3AQFFsecUhf4%253D%26ts%3D1727152061" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<공작새> 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Sep 2024 02:52:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvap9yfnezctrnb48py09c270%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283968231%26signature%3DhkkrR82uBQRWd4l1wGKACE7a4pc%253D%26ts%3D1727059431" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<티치아노. 색채의 제국> 33초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449689451?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449689451?act=clip</guid>
-            <pubDate>Mon, 23 Sep 2024 02:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtspbgd8djj7f1zi3qlpkiv7%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283968169%26signature%3DOpWJtFatAZkKl8uTptCYbw%252Fz3K8%253D%26ts%3D1727059369" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
