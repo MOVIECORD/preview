@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 09:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 10:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스][선공개]79년 만의 만남🌸태상을 닮은 호재 박서준과 은제비 한소희의 첫 만남|경성크리처 시즌2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449768097?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449768097?act=clip</guid>
+            <pubDate>Thu, 26 Sep 2024 10:24:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1534873288%2Fthumb%2F20240926182858" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 시작과 동시에 재료를 선점한 백수저 팀의 전략 | 흑백요리사: 요리 계급 전쟁]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449757526?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449610197?act=clip</guid>
             <pubDate>Tue, 24 Sep 2024 07:20:49 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1477848415%2Fthumb%2F20240924145705" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1477848415%2Fthumb%2F20240924145705" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 지옥 시즌2 | 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 11 Sep 2024 08:28:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1692310702%2Fthumb%2F20240911165531" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] Queen을 몰라도 모를 수 없는 이 노래👣👣👏 | 보헤미안 랩소디]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449426158?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449426158?act=clip</guid>
-            <pubDate>Tue, 10 Sep 2024 06:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1553027974%2Fthumb%2F20240910150112" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
