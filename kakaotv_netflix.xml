@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Sep 2024 06:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Sep 2024 07:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 경성크리처 시즌2 | 절찬 스트리밍 중]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449788048?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449788048?act=clip</guid>
+            <pubDate>Fri, 27 Sep 2024 07:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1580555448%2Fthumb%2F20240927152227" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 극장판 모노노케: 우중망령 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449783355?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449621962?act=clip</guid>
             <pubDate>Fri, 20 Sep 2024 02:50:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1738255901%2Fthumb%2F20240920105901" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1738255901%2Fthumb%2F20240920105901" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 넷플릭스 x CDPR x 사이버펑크 | 특별 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Sep 2024 07:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1528803782%2Fthumb%2F20240915012608" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 대한민국에서 요리 제일 잘 하는 100인의 요리사들 등장✨ | 흑백요리사: 요리 계급 전쟁]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449451433?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449451433?act=clip</guid>
-            <pubDate>Tue, 17 Sep 2024 07:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1875250876%2Fthumb%2F20240915012532" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
