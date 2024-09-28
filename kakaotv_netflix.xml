@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 02:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 03:27:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 79년이 지나도 끝나지 않는 지옥, 한소희를 기다리는 의문의 여인의 정체는?| 경성크리처 시즌2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449808167?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449808167?act=clip</guid>
+            <pubDate>Sat, 28 Sep 2024 03:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1409963728%2Fthumb%2F20240928115754" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 시즌2 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449788048?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449621963?act=clip</guid>
             <pubDate>Fri, 20 Sep 2024 02:50:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1170280417%2Fthumb%2F20240920105943" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1170280417%2Fthumb%2F20240920105943" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 돈 무브 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 12 Sep 2024 01:39:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F665959772%2Fthumb%2F20240911174950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 재료는 들기름으로 하겠습니다. 최강록과 승우아빠를 곁들인 | 흑백요리사: 요리 계급 전쟁]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449451437?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449451437?act=clip</guid>
-            <pubDate>Thu, 19 Sep 2024 07:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1528803782%2Fthumb%2F20240915012608" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
