@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Sep 2024 02:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 03:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<럭키, 아파트> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449854562?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449854562?act=clip</guid>
+            <pubDate>Mon, 30 Sep 2024 03:34:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F217801199%2Fthumb%2F20240930120222" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<와일드 로봇> 동심폭발! 동화작가 원픽 추천 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449854505?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449738061?act=clip</guid>
             <pubDate>Wed, 25 Sep 2024 05:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu9woc1i1xn1x0aj9usvw2aq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284147601%26signature%3D3mm2qWGwWF2XAv6Bny9no2pJNRE%253D%26ts%3D1727238801" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu9woc1i1xn1x0aj9usvw2aq%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284147601%26signature%3D3mm2qWGwWF2XAv6Bny9no2pJNRE%253D%26ts%3D1727238801" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<룸 넥스트 도어> 1차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Sep 2024 06:32:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwvt5cljzuswoi9ch2m2e0jp%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283981158%26signature%3DLoTkvQBR5a48e3dJ0R5Fe6jXke0%253D%26ts%3D1727072358" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<6시간 후 너는 죽는다> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449693773?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449693773?act=clip</guid>
-            <pubDate>Mon, 23 Sep 2024 06:32:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0c3hht40b8iu9ebnd1329s1%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33283981012%26signature%3D6MhvJ69ZvfKB4DOffUQFfQ9xypM%253D%26ts%3D1727072212" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
