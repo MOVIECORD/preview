@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 07:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 08:30:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1525499806%2Fthumb%2F20240927114620" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 추가 생존자는 단 3명입니다📢  | 흑백요리사: 요리 계급 전쟁]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449782749?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449782749?act=clip</guid>
+            <pubDate>Tue, 01 Oct 2024 08:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F848896840%2Fthumb%2F20241001162520" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스][선공개]79년 만의 만남🌸태상을 닮은 호재 박서준과 은제비 한소희의 첫 만남|경성크리처 시즌2]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449768097?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449768097?act=clip</guid>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449689906?act=clip</guid>
             <pubDate>Mon, 23 Sep 2024 03:27:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1022128229%2Fthumb%2F20240923120857" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1022128229%2Fthumb%2F20240923120857" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 경성크리처 | 지난 이야기]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Sep 2024 03:25:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F619762697%2Fthumb%2F20240919105935" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[김우빈은 나쁜 놈들에게 자비 없음 | 무도실무관 | 넷플릭스]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449570961?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449570961?act=clip</guid>
-            <pubDate>Tue, 17 Sep 2024 11:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F426343875%2Fthumb%2F20240917201639" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
