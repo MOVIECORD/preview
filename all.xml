@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 10:24:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 11:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,22 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv1hugvry1kohffvy1nfs8m70%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284147640%26signature%3DcJJE2TJ%252BaonAS7zdKHK36Icim%252Fg%253D%26ts%3D1727238840" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 10월 신작 소개 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449910965?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449910965?act=clip</guid>
+            <pubDate>Wed, 02 Oct 2024 11:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1961567159%2Fthumb%2F20241002194017" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이별, 그 뒤에도 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449910964?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449910964?act=clip</guid>
+            <pubDate>Wed, 02 Oct 2024 11:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1728695703%2Fthumb%2F20241002194059" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 백종원 & 안성재 함박웃음 짓게 만든 밤 티라미수 | 흑백요리사: 요리 계급 전쟁 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449883584?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449883584?act=clip</guid>
@@ -477,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449722671?act=clip</guid>
             <pubDate>Wed, 25 Sep 2024 01:45:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1324932032%2Fthumb%2F20240924193621" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1324932032%2Fthumb%2F20240924193621" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코미디 리벤지 | 공식 티저 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -485,7 +501,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449700153?act=clip</guid>
             <pubDate>Tue, 24 Sep 2024 01:44:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1307546216%2Fthumb%2F20240923201348" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1307546216%2Fthumb%2F20240923201348" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 전,란 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -630,22 +646,6 @@
             <pubDate>Thu, 19 Sep 2024 10:23:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1758742335%2Fthumb%2F20240919190328" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하트스토퍼: 시즌 3 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449609357?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449609357?act=clip</guid>
-            <pubDate>Thu, 19 Sep 2024 10:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F970731222%2Fthumb%2F20240919190517" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 신들의 황혼 | 공식 클립 영상 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449609355?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449609355?act=clip</guid>
-            <pubDate>Thu, 19 Sep 2024 10:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:41]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2098922356%2Fthumb%2F20240919190545" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
