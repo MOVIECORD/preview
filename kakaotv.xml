@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Oct 2024 06:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Oct 2024 07:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<공작새> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/449950587?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/449950587?act=clip</guid>
+            <pubDate>Fri, 04 Oct 2024 07:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F186069173%2Fthumb%2F20241004161814" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<결혼, 하겠나?> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/449944642?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/449861267?act=clip</guid>
             <pubDate>Mon, 30 Sep 2024 08:31:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3c64gelri1gpqzad9dmmq8i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284592770%26signature%3Dh9yKICpjkZHKeu6NIacvn3WlMmk%253D%26ts%3D1727683970" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3c64gelri1gpqzad9dmmq8i%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284592770%26signature%3Dh9yKICpjkZHKeu6NIacvn3WlMmk%253D%26ts%3D1727683970" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<글래디에이터Ⅱ> 2차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 26 Sep 2024 08:29:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvy8r4jrj0aab8h7tqqgjs0y5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33284246277%26signature%3DWR58u%252BdDCi40%252FLt7m1AVlI607pk%253D%26ts%3D1727337477" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장총집편 봇치 더 록! 후편> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/449761727?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/449761727?act=clip</guid>
-            <pubDate>Thu, 26 Sep 2024 05:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1472056405%2Fthumb%2F20240926135629" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
