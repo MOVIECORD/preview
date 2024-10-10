@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Oct 2024 09:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Oct 2024 10:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 몸종 강동원, 양반 박정민을 향한 분노 섞인 절규 | 전,란]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450090227?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450090227?act=clip</guid>
+            <pubDate>Thu, 10 Oct 2024 10:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1080544457%2Fthumb%2F20241010182352" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 시즌 1 캐릭터 다시 보기 | 오징어 게임]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/450082154?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449875672?act=clip</guid>
             <pubDate>Tue, 01 Oct 2024 01:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F646628895%2Fthumb%2F20241001091158" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F646628895%2Fthumb%2F20241001091158" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 딱 한 번만이라도 보고 싶었던 한 사람, 박서준의 기억이 돌아왔다 | 경성크리처 시즌2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 02 Oct 2024 01:44:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2090740574%2Fthumb%2F20240927193005" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] “원스타 셰프를 한 번만 제껴 보자” | 흑백요리사: 요리 계급 전쟁]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449689926?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449689926?act=clip</guid>
-            <pubDate>Mon, 23 Sep 2024 03:27:14 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1383485683%2Fthumb%2F20240923120944" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
