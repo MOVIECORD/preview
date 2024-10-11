@@ -4,16 +4,24 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 07:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 08:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[넷플릭스] 전,란 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450111362?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450111362?act=clip</guid>
+            <pubDate>Fri, 11 Oct 2024 08:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1583801594%2Fthumb%2F20241011164030" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 박정민의 스승, 친구, 몸종, 강동원. 무과 급제를 향한 하드 트레이닝 | 전,란]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/450110869?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/450110869?act=clip</guid>
-            <pubDate>Fri, 11 Oct 2024 07:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1243123535%2Fthumb%2F20241011161637" length="0" type="image/q75/"/>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450111356?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450111356?act=clip</guid>
+            <pubDate>Fri, 11 Oct 2024 08:28:30 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1461259727%2Fthumb%2F20241011163936" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 몸종 강동원, 양반 박정민을 향한 분노 섞인 절규 | 전,란]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449910964?act=clip</guid>
             <pubDate>Wed, 02 Oct 2024 11:18:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1728695703%2Fthumb%2F20241002194059" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1728695703%2Fthumb%2F20241002194059" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개] 유쾌한 분위기의 오세득 VS 히든 천재  | 흑백요리사: 요리 계급 전쟁]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 25 Sep 2024 10:25:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:28]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F859433877%2Fthumb%2F20240925185008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 지옥 시즌 2 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449722671?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449722671?act=clip</guid>
-            <pubDate>Wed, 25 Sep 2024 01:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1324932032%2Fthumb%2F20240924193621" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
