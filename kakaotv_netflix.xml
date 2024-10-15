@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Oct 2024 06:31:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Oct 2024 07:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 김해준으로 끝말잇기 해보겠습니다 feat. 이선민, 이재율, 곽범 | 코미디 리벤지]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450206579?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450206579?act=clip</guid>
+            <pubDate>Tue, 15 Oct 2024 07:22:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1095049257%2Fthumb%2F20241015160701" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 우정을 나눈 벗에서 칼을 겨누는 적으로, 강동원 & 박정민 1:1 검술 액션 | 전,란]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/450184194?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449946825?act=clip</guid>
             <pubDate>Fri, 11 Oct 2024 05:21:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2048792174%2Fthumb%2F20241004133911" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2048792174%2Fthumb%2F20241004133911" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 7인의 스페셜 메시지 💌 | 흑백요리사: 요리 계급 전쟁]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Sep 2024 02:53:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F732915220%2Fthumb%2F20240927114536" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 괴물: 메넨데즈 형제 이야기 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449783354?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449783354?act=clip</guid>
-            <pubDate>Fri, 27 Sep 2024 02:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1525499806%2Fthumb%2F20240927114620" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
