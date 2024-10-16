@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 06:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 07:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<레드 원> Wish 영상 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/450230476?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/450230476?act=clip</guid>
+            <pubDate>Wed, 16 Oct 2024 07:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu46596897jvwlh1urry6kej%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285972013%26signature%3DoVGcEXepJG4vfLaPXYvFgjy7V8Y%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<싱글 에이트> 코나카 카즈야 감독 인사 영상 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/450228122?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/450181320?act=clip</guid>
             <pubDate>Mon, 14 Oct 2024 08:29:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv97pjna2o4sslhmhaz9v1sgv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285799862%26signature%3DuesWtCt9J7Nv1i7lbCVI7PjZ7Zg%253D%26ts%3D1728891062" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv97pjna2o4sslhmhaz9v1sgv%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285799862%26signature%3DuesWtCt9J7Nv1i7lbCVI7PjZ7Zg%253D%26ts%3D1728891062" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<마이펫의 컴백홈 어드벤처> 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 11 Oct 2024 08:28:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv14v0dv7frkael3a2wer1zbd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285777584%26signature%3DlZeqafDgmEoVzuTjzNFEOxJA6cI%253D%26ts%3D1728868784" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<럭키, 아파트> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450106602?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450106602?act=clip</guid>
-            <pubDate>Fri, 11 Oct 2024 04:26:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7gvhm343mzmtmpb4dwyxtbc%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285527000%26signature%3D5dSzCfZ0JhhlkcrxEI8ouGFuhTI%253D%26ts%3D1728618200" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 김해준으로 끝말잇기 해보겠습니다 feat. 이선민, 이재율, 곽범 | 코미디 리벤지 (카카오TV ─ 넷플릭스)]]></title>
