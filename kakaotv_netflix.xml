@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Oct 2024 05:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Oct 2024 06:31:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 14 Oct 2024 11:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F21069489%2Fthumb%2F20241014192928" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 의병 강동원 VS 왜군 정성일, 다시 만난 두 사람 | 전,란]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450180971?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450180971?act=clip</guid>
+            <pubDate>Wed, 16 Oct 2024 06:31:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F291178203%2Fthumb%2F20241016151101" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 시각장애인을 위한 화면 해설로 모두가 함께 즐기는 흑백요리사: 요리 계급 전]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449953167?act=clip</guid>
             <pubDate>Fri, 04 Oct 2024 09:24:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1060860512%2Fthumb%2F20241004180305" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1060860512%2Fthumb%2F20241004180305" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 전,란 | 전,란의 검]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Sep 2024 07:21:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1580555448%2Fthumb%2F20240927152227" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 극장판 모노노케: 우중망령 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449783355?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449783355?act=clip</guid>
-            <pubDate>Fri, 27 Sep 2024 02:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F732915220%2Fthumb%2F20240927114536" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
