@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 05:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 06:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<거친 녀석들 : 히틀러 암살단> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/450252055?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/450252055?act=clip</guid>
+            <pubDate>Thu, 17 Oct 2024 06:31:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvccuv5ht0o8qbn32pupkwiif%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33286054312%26signature%3D71jNkoroJpYQgvZbtgCv14wHYAI%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<호두까기 인형과 마술피리> 뮤직 캐릭터 예고편 2탄]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/450250358?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/450203230?act=clip</guid>
             <pubDate>Tue, 15 Oct 2024 04:26:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp6drjz43f72j5gafi5e72qa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285875020%26signature%3DemWvtNorgJmaPoai3dLtGsmcC7w%253D%26ts%3D1728966220" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp6drjz43f72j5gafi5e72qa%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285875020%26signature%3DemWvtNorgJmaPoai3dLtGsmcC7w%253D%26ts%3D1728966220" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<히든페이스> 1차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 14 Oct 2024 01:47:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv497big365tt6abq3r99g4x5%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285778363%26signature%3DVyfUckIddG4nRetqsdholUEpSGA%253D%26ts%3D1728869563" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<호두까기 인형과 마술피리> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450172675?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450172675?act=clip</guid>
-            <pubDate>Mon, 14 Oct 2024 01:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgj031jaq9ywy6vtox38btmd%2Fthumbs%2Fthumb.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33285777805%26signature%3Dtoy82jzdQ3jenhFLQBjdEBN6E2A%253D%26ts%3D1728869005" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
