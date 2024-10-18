@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 07:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 08:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Mon, 14 Oct 2024 11:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F21069489%2Fthumb%2F20241014192928" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 강동원을 도망치게 할 수밖에 없었던 박정민, 그럼에도 자를 수 없는 인연 | 전,란]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450180982?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450180982?act=clip</guid>
+            <pubDate>Fri, 18 Oct 2024 08:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F103800386%2Fthumb%2F20241018143246" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 의병 강동원 VS 왜군 정성일, 다시 만난 두 사람 | 전,란]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/450052819?act=clip</guid>
             <pubDate>Tue, 08 Oct 2024 14:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F796944469%2Fthumb%2F20241008232248" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F796944469%2Fthumb%2F20241008232248" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 러브 빌리지 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 30 Sep 2024 10:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1276345958%2Fthumb%2F20240930190421" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] “오랜만이군요. 윤채옥 씨” 다시 나타난 마에다, 수현의 등장 | 경성크리처 시즌2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449857312?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449857312?act=clip</guid>
-            <pubDate>Mon, 30 Sep 2024 07:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F529225715%2Fthumb%2F20240930141249" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
