@@ -4,16 +4,16 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Oct 2024 23:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 01:47:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[넷플릭스] 전,란 | 제작기 영상]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/450272356?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/450272356?act=clip</guid>
-            <pubDate>Fri, 18 Oct 2024 02:54:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F552548765%2Fthumb%2F20241018111442" length="0" type="image/q75/"/>
+            <title><![CDATA[[넷플릭스] NFL Christmas Gameday | 넷플릭스 라이브 스트리밍]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450340700?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450340700?act=clip</guid>
+            <pubDate>Mon, 21 Oct 2024 01:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F83177118%2Fthumb%2F20241021102348" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 일렉트릭 스테이트 | 공식 티저 예고편]]></title>
@@ -232,14 +232,6 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1060860512%2Fthumb%2F20241004180305" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[[넷플릭스] 전,란 | 전,란의 검]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449946825?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449946825?act=clip</guid>
-            <pubDate>Fri, 11 Oct 2024 05:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2048792174%2Fthumb%2F20241004133911" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 7인의 스페셜 메시지 💌 | 흑백요리사: 요리 계급 전쟁]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/449945304?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/449945304?act=clip</guid>
@@ -326,6 +318,14 @@
             <pubDate>Mon, 30 Sep 2024 10:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1276345958%2Fthumb%2F20240930190421" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] “오랜만이군요. 윤채옥 씨” 다시 나타난 마에다, 수현의 등장 | 경성크리처 시즌2]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/449857312?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/449857312?act=clip</guid>
+            <pubDate>Mon, 21 Oct 2024 01:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F529225715%2Fthumb%2F20240930141249" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
