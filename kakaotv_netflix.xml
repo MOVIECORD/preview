@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Oct 2024 23:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Oct 2024 01:44:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] Mr. 플랑크톤 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450392989?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450392989?act=clip</guid>
+            <pubDate>Thu, 24 Oct 2024 01:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:42]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1952815732%2Fthumb%2F20241023105131" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 좀비버스: 뉴 블러드 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/450345740?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/450082154?act=clip</guid>
             <pubDate>Thu, 10 Oct 2024 02:52:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1674874480%2Fthumb%2F20241010114846" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1674874480%2Fthumb%2F20241010114846" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 외교관: 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 01 Oct 2024 01:53:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F646628895%2Fthumb%2F20241001091158" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 딱 한 번만이라도 보고 싶었던 한 사람, 박서준의 기억이 돌아왔다 | 경성크리처 시즌2]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449863913?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449863913?act=clip</guid>
-            <pubDate>Mon, 30 Sep 2024 10:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1276345958%2Fthumb%2F20240930190421" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
