@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 23:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 01:48:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 월레스와 그로밋: 복수의 날개 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/450538939?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/450538939?act=clip</guid>
+            <pubDate>Tue, 29 Oct 2024 01:48:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F535233523%2Fthumb%2F20241029103035" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이 시즌 6: 파트 2 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/450416704?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/450105708?act=clip</guid>
             <pubDate>Fri, 11 Oct 2024 03:27:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F716297936%2Fthumb%2F20241011115243" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F716297936%2Fthumb%2F20241011115243" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 강동원, 무너진 면천의 희망. 왕은 달아나고 조선은 불길에 휩싸였다. | 전,란]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 04 Oct 2024 01:44:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:53]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1484729308%2Fthumb%2F20241004100319" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 백종원 & 안성재 함박웃음 짓게 만든 밤 티라미수 | 흑백요리사: 요리 계급 전쟁]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/449883584?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/449883584?act=clip</guid>
-            <pubDate>Wed, 02 Oct 2024 01:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F919966445%2Fthumb%2F20241001163201" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
