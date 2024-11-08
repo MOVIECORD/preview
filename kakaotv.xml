@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Nov 2024 23:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Nov 2024 01:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<캐롤> [재개봉] 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/450787366?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/450787366?act=clip</guid>
+            <pubDate>Fri, 08 Nov 2024 01:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpck2d0se0q51ambn35tz46s%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287938777%26signature%3DtMmuvGMzGEToMtjaXpgK3G2qaUw%253D%26ts%3D1731029977%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<위키드> Singing Live 피처렛]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/450771805?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/450723417?act=clip</guid>
             <pubDate>Tue, 05 Nov 2024 08:28:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtz7hhiknaymbt11hl40xms0%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287703023%26signature%3DQgG7eg%252FZlV2ZmWziKh9wnjXr6Ig%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtz7hhiknaymbt11hl40xms0%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287703023%26signature%3DQgG7eg%252FZlV2ZmWziKh9wnjXr6Ig%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<오후 네시> 리뷰 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 30 Oct 2024 05:23:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvcf0wxytrtesh1113aqffe0w%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287172609%26signature%3DpQB6%252FfcK31iL%252BabLnpQzXuvi5cc%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아침바다 갈매기는> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450563885?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450563885?act=clip</guid>
-            <pubDate>Wed, 30 Oct 2024 01:47:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7bczhzzcvno9v53oy2ha0ev%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287161417%26signature%3DxQL1uVekbcLz8W0ymOmkJZpzx%252Bw%253D%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
