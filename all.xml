@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 06:32:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 07:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하우치> 큰소리쳐라 뮤직비디오 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/450862092?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/450862092?act=clip</guid>
+            <pubDate>Mon, 11 Nov 2024 07:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1031343044%2Fthumb%2F20241111154705" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<미키 17> [청불] 1차 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/450861631?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/450793147?act=clip</guid>
             <pubDate>Fri, 08 Nov 2024 06:31:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmbroo72v7tk21enr52dqmxo%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287955413%26signature%3D6xYuBxmLJyu0FLsqJs1UkIMFna4%253D%26ts%3D1731046613%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmbroo72v7tk21enr52dqmxo%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287955413%26signature%3D6xYuBxmLJyu0FLsqJs1UkIMFna4%253D%26ts%3D1731046613%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<원정빌라> 런칭 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 06 Nov 2024 03:26:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvghgcy3mi4qudgu65sikhvri%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287770683%26signature%3DtkeYNsE7vH5pTolgMFDde6aFMuY%253D%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<자기만의 방> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450740774?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450740774?act=clip</guid>
-            <pubDate>Wed, 06 Nov 2024 02:50:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrqh9sm51jm3tj3phuu1z59e%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33287769295%26signature%3DD%252BrZJucl%252Fu1g3UbJWK5x6ecxbxE%253D%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 우도환 출생의 비밀, 태어나고 8년 만에 알게된 냉동 정자의 진실 | Mr. 플랑크톤 (카카오TV ─ 넷플릭스)]]></title>
