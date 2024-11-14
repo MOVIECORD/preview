@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Nov 2024 05:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 06:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<비욘드 갤럭시> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/450934343?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/450934343?act=clip</guid>
+            <pubDate>Thu, 14 Nov 2024 06:31:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:48]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpr8kaob3pwilx38rv0nuznx%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288471105%26signature%3DHV1xfaAO3Y5vpKcQxmjx%252BuPSPlo%253D%26ts%3D1731562305%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<연소일기> 형제 D-DAY 인사 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/450913256?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/450887310?act=clip</guid>
             <pubDate>Tue, 12 Nov 2024 06:30:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoroiv5ck03wri8su44sz15a%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288300718%26signature%3DPa3kduCwGR%252B464Nz7ysN0Ck1h0M%253D%26ts%3D1731391918%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvoroiv5ck03wri8su44sz15a%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288300718%26signature%3DPa3kduCwGR%252B464Nz7ysN0Ck1h0M%253D%26ts%3D1731391918%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<연소일기> 황재락&하백염 배우의 한국 관객에게 보내는 영상 편지]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Nov 2024 08:27:30 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F768438208%2Fthumb%2F20241108163524" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아들들> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450795021?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450795021?act=clip</guid>
-            <pubDate>Fri, 08 Nov 2024 08:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1392316179%2Fthumb%2F20241108163328" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
