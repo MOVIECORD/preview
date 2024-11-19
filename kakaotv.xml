@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Nov 2024 07:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 08:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<1944: 작전명 피닉스> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/451055268?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/451055268?act=clip</guid>
+            <pubDate>Tue, 19 Nov 2024 08:30:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvn77ugqewc5g6q50hhycn242%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288910570%26signature%3DF24Qhi%252BARArYHBoDRjncpcKEH60%253D%26ts%3D1732001770%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<루프> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/451053680?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/451023044?act=clip</guid>
             <pubDate>Mon, 18 Nov 2024 03:03:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:35]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv638e5dxw9oh3xn2njfuj37m%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288804443%26signature%3D7j2FuKW9TAwsxSsr%252Bp3Y%252FOuNyoc%253D%26ts%3D1731895643%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv638e5dxw9oh3xn2njfuj37m%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288804443%26signature%3D7j2FuKW9TAwsxSsr%252Bp3Y%252FOuNyoc%253D%26ts%3D1731895643%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<금의위: 천년요녀의 비밀> 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Nov 2024 07:20:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvl811s2o7ag1n4ntqyl7e757%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288390446%26signature%3D0%252Bor3ZsqURKhrMqZxS1eBvhwXMg%253D%26ts%3D1731481646%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<킹덤4: 대장군의 귀환> 파이널 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/450909768?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/450909768?act=clip</guid>
-            <pubDate>Wed, 13 Nov 2024 05:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfg86pkk3h1r6k0sejldrqxr%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33288382619%26signature%3DEp%252BAdnyDfdY8f0q7Pedn8h334h0%253D%26ts%3D1731473819%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
