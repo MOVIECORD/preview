@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 23:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Nov 2024 01:52:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 트렁크 | 캐릭터 매뉴얼: 결혼의 모양]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/451244586?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/451244586?act=clip</guid>
+            <pubDate>Thu, 28 Nov 2024 01:52:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1071032895%2Fthumb%2F20241127183332" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 오징어 게임 시즌2 | 공식 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/451230026?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/450963282?act=clip</guid>
             <pubDate>Fri, 15 Nov 2024 09:24:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1435420926%2Fthumb%2F20241115175843" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1435420926%2Fthumb%2F20241115175843" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 백 인 액션 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 04 Nov 2024 06:33:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F29997307%2Fthumb%2F20241104145307" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 자기 삶과 커리어를 둘러싼 온라인상의 루머에 답하는 마이크 타이슨]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/450694931?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/450694931?act=clip</guid>
-            <pubDate>Mon, 04 Nov 2024 06:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1126217407%2Fthumb%2F20241104145429" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
