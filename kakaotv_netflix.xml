@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 01:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 03:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 03 Dec 2024 01:53:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2057624693%2Fthumb%2F20241203103847" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 서현진을 위협하는 스토커 앞에 선 공유의 진짜 분노 | 트렁크]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/451379415?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/451379415?act=clip</guid>
+            <pubDate>Tue, 03 Dec 2024 03:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F433156390%2Fthumb%2F20241203103115" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 버진리버: 시즌 6 | 공식 예고편]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451107305?act=clip</guid>
             <pubDate>Thu, 21 Nov 2024 10:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F890765355%2Fthumb%2F20241121191127" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F890765355%2Fthumb%2F20241121191127" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 무너진 대피소에서 다시 시작된 생존 게임 | 좀비버스: 뉴 블러드]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Nov 2024 06:31:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F285147536%2Fthumb%2F20241113142925" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 트렁크 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/450865485?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/450865485?act=clip</guid>
-            <pubDate>Tue, 12 Nov 2024 01:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F598387928%2Fthumb%2F20241111175927" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
