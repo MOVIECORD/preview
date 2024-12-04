@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Dec 2024 08:32:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2024 09:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<정동원 성탄총동원 더 무비> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/451410751?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/451410751?act=clip</guid>
+            <pubDate>Wed, 04 Dec 2024 09:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtwh5ta38vkvpdf5o9q6rufy%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33290209890%26signature%3D1mAS3PRtWKKyLJfXccC8yRq3LoU%253D%26ts%3D1733301090%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/451410467?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/451294068?act=clip</guid>
             <pubDate>Fri, 29 Nov 2024 09:25:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F431163056%2Fthumb%2F20241129173059" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F431163056%2Fthumb%2F20241129173059" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<아키라> [재개봉] 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Nov 2024 05:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrl2vn8u5chkse7709y6dbkm%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33289592547%26signature%3DBoLPZGoXTLW7i18hHvnCNSQaDv8%253D%26ts%3D1732683747%26kamp_tidx%3D1" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<나의 히어로 아카데미아 더 무비: 유어 넥스트> 5분 다이제스트]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/451237238?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/451237238?act=clip</guid>
-            <pubDate>Wed, 27 Nov 2024 05:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1661173095%2Fthumb%2F20241127134617" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
