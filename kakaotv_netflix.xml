@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Dec 2024 05:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Dec 2024 06:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 묵시록의 4기사 - 시즌 2 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/451541691?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/451541691?act=clip</guid>
+            <pubDate>Tue, 10 Dec 2024 06:34:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F353267565%2Fthumb%2F20241210151251" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아케인 | 프랜차이즈 예고편 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/451446933?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451132457?act=clip</guid>
             <pubDate>Fri, 22 Nov 2024 11:19:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1966672685%2Fthumb%2F20241122200545" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1966672685%2Fthumb%2F20241122200545" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 블랙 도브 | 공식 예고편 #2]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 13 Nov 2024 06:31:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1256869089%2Fthumb%2F20241113141955" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나를 제일 잘 아는 사람이 나를 지켜줄 때. 우도환 & 이유미 | Mr. 플랑크톤]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/450910215?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/450910215?act=clip</guid>
-            <pubDate>Wed, 13 Nov 2024 06:31:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F396509128%2Fthumb%2F20241113142823" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
