@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Dec 2024 23:23:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 01:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 솔로지옥 시즌4 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/451702363?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/451702363?act=clip</guid>
+            <pubDate>Tue, 17 Dec 2024 01:53:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1994764292%2Fthumb%2F20241217101323" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 카산드라 | 공식 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/451687308?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451265969?act=clip</guid>
             <pubDate>Thu, 28 Nov 2024 08:31:23 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F517113094%2Fthumb%2F20241128144820" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F517113094%2Fthumb%2F20241128144820" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 트렁크 | 캐릭터 매뉴얼: 결혼의 모양]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 18 Nov 2024 07:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F731344246%2Fthumb%2F20241118155015" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] #제이크, #마이크? 어느 쪽을 응원하나요? 폴 vs 타이슨 복싱 대결]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451028751?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451028751?act=clip</guid>
-            <pubDate>Mon, 18 Nov 2024 07:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F759987294%2Fthumb%2F20241118154552" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
