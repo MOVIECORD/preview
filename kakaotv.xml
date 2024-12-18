@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 04:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 05:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<파라다이스 이즈 버닝> 개봉 기념 인사 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/451731980?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/451731980?act=clip</guid>
+            <pubDate>Wed, 18 Dec 2024 05:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuppz87thhcg2cv2uzy77wpw%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291405587%26signature%3DL6fbKXTVKIghsA8zwuP6RXNdxCU%253D%26ts%3D1734496787%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<하얼빈> ‘하나의 목표, 3개국 로케이션' 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/451728691?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/451676302?act=clip</guid>
             <pubDate>Mon, 16 Dec 2024 01:57:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnkjhky9wzm7iefygabdf3en%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291222232%26signature%3DxgrnzcyL%252FbWqDyuAtCUZ32ZgDuE%253D%26ts%3D1734313432%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvnkjhky9wzm7iefygabdf3en%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291222232%26signature%3DxgrnzcyL%252FbWqDyuAtCUZ32ZgDuE%253D%26ts%3D1734313432%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<밀레니엄 맘보> [재개봉] 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 11 Dec 2024 03:05:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyb24vf82d0r1x1wym1jsaez%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33290791221%26signature%3D9u%252BTnYOr9Xc%252BfJyFnrWE0t22uxo%253D%26ts%3D1733882421%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<괜찮아 괜찮아 괜찮아!> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/451559848?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/451559848?act=clip</guid>
-            <pubDate>Wed, 11 Dec 2024 03:05:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvt5c99cqihstfvj2z6t6m78j%2Fthumbs%2F5.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33290791075%26signature%3DwqdWjweBb%252FiHJAST8XghwO%252FCWiA%253D%26ts%3D1733882275%26kamp_tidx%3D3" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
