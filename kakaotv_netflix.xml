@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Dec 2024 03:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Dec 2024 04:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 원피스 | 이냐키 고도이와 오다 에이이치로, 《원피스》를 이야기하다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/451777244?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/451777244?act=clip</guid>
+            <pubDate>Fri, 20 Dec 2024 04:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1009140107%2Fthumb%2F20241220132631" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] Rafa | 공식 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/451761126?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451379572?act=clip</guid>
             <pubDate>Tue, 03 Dec 2024 01:53:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2057624693%2Fthumb%2F20241203103847" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2057624693%2Fthumb%2F20241203103847" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 서현진을 위협하는 스토커 앞에 선 공유의 진짜 분노 | 트렁크]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 21 Nov 2024 10:26:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F995659435%2Fthumb%2F20241121191310" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 칠(7)성재로 강화된 육성재와 데프콘의 리드, 결과는? | 좀비버스: 뉴 블러드]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451107305?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451107305?act=clip</guid>
-            <pubDate>Thu, 21 Nov 2024 10:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F890765355%2Fthumb%2F20241121191127" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
