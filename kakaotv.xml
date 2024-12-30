@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Dec 2024 08:29:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Dec 2024 09:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<히트맨2>  메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452023461?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452023461?act=clip</guid>
+            <pubDate>Mon, 30 Dec 2024 09:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq3ffpwavyok0vo2y093aoee%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33292456258%26signature%3DhrUcbaK073O4qHITDqH12xMfUIY%253D%26ts%3D1735547458%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<월레스와 그로밋: 복수의 날개> 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452017513?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/451876578?act=clip</guid>
             <pubDate>Tue, 24 Dec 2024 06:31:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvia9remyk2f670j5sgl3scf8%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291927540%26signature%3DnxXD9GKQy%252BNwp%252FZIzSYwfwXCuMk%253D%26ts%3D1735018740%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvia9remyk2f670j5sgl3scf8%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291927540%26signature%3DnxXD9GKQy%252BNwp%252FZIzSYwfwXCuMk%253D%26ts%3D1735018740%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<수퍼 소닉3> 아주 특별한 소닉 크리스마스]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 23 Dec 2024 05:22:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbjfa9b6o339v89npxbrp7hs%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291836912%26signature%3DmF6ucz8P9Yc07xZ%252BW8aMAmgEbdE%253D%26ts%3D1734928112%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<페라리> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/451847706?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/451847706?act=clip</guid>
-            <pubDate>Mon, 23 Dec 2024 05:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvus3g5t13zcte4k284upacdl%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33291836674%26signature%3DkMBxmPytO33%252F7nVbyu6sDNpYQbA%253D%26ts%3D1734927874%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
