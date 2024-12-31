@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 09:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 10:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당신이라면, 어떤 게임을 선택하시겠습니까? 5인 6각, 근대 5종 게임 | 오징어 게임 시즌2 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452045492?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452045492?act=clip</guid>
+            <pubDate>Tue, 31 Dec 2024 10:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1870621691%2Fthumb%2F20241231182924" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 해피 길모어 2 | 해피 뉴 이어]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/451925837?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451584973?act=clip</guid>
             <pubDate>Thu, 12 Dec 2024 04:30:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1113493066%2Fthumb%2F20241212130448" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1113493066%2Fthumb%2F20241212130448" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 일곱 개의 대죄: 묵시록의 4기사 - 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 24 Nov 2024 01:56:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F754294527%2Fthumb%2F20241124100046" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 극장판 스파이 패밀리 코드: 화이트 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451132477?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451132477?act=clip</guid>
-            <pubDate>Fri, 22 Nov 2024 11:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1438535221%2Fthumb%2F20241122200700" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
