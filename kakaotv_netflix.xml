@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 01:43:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 02:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘둥글게 둥글게’ 짝짓기 게임을 소개합니다 | 오징어 게임 시즌2 | 넷플릭스]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452080855?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452080855?act=clip</guid>
+            <pubDate>Thu, 02 Jan 2025 02:51:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1131574199%2Fthumb%2F20250102104956" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[당신이라면, 어떤 게임을 선택하시겠습니까? 5인 6각, 근대 5종 게임 | 오징어 게임 시즌2 | 넷플릭스]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452045492?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451585005?act=clip</guid>
             <pubDate>Thu, 12 Dec 2024 04:30:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1393369345%2Fthumb%2F20241212130617" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1393369345%2Fthumb%2F20241212130617" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 끝까지 밀어붙이는 진짜 스포츠 | 최강럭비: 죽거나 승리하거나]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 26 Nov 2024 01:50:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1850414550%2Fthumb%2F20241126101118" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스][선공개] 서현진 & 공유의 이상한 결혼, 아슬하고 미묘한 관계의 시작 | 트렁크]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451161269?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451161269?act=clip</guid>
-            <pubDate>Sun, 24 Nov 2024 01:56:25 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F754294527%2Fthumb%2F20241124100046" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
