@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jan 2025 01:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jan 2025 02:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<어둠에서 손을 잡아> 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452204642?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452204642?act=clip</guid>
+            <pubDate>Wed, 08 Jan 2025 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveu4ar2gblkh7oje0ytvrezy%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293212078%26signature%3DD%252BhUIN1phyxCiL90lIBipuRhJnc%253D%26ts%3D1736303278%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<리얼 페인> 제시 아이젠버그 피쳐렛 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452185173?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452104089?act=clip</guid>
             <pubDate>Fri, 03 Jan 2025 05:21:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8eulq01be2hvq74fkvt42da%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33292789994%26signature%3DZFXgr6YT3o4675w9PzEUZ5%252FVb88%253D%26ts%3D1735881194%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8eulq01be2hvq74fkvt42da%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33292789994%26signature%3DZFXgr6YT3o4675w9PzEUZ5%252FVb88%253D%26ts%3D1735881194%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<검은 수녀들> 런칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 27 Dec 2024 02:52:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvp4wcaknq7s3oa4gpxox7wez%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33292173079%26signature%3DaLmfJj6UOGiPHJxISUq%252Bp9mhPuw%253D%26ts%3D1735264279%26kamp_tidx%3D1" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<컴플리트 언노운> 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/451950728?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/451950728?act=clip</guid>
-            <pubDate>Fri, 27 Dec 2024 02:52:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvo0e5qy7kddgb2ptwgksvpfb%2Fthumbs%2F5.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33292172899%26signature%3DrxxgGWwGkJFpxqxNYIQ9xoXZmWw%253D%26ts%3D1735264099%26kamp_tidx%3D3" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
