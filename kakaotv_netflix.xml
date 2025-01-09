@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jan 2025 06:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jan 2025 07:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이멜로디 & 쿠로미 | 퍼스트룩]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452233474?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452233474?act=clip</guid>
+            <pubDate>Thu, 09 Jan 2025 07:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1851967529%2Fthumb%2F20250109161630" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아수라처럼 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452211960?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451730026?act=clip</guid>
             <pubDate>Wed, 18 Dec 2024 03:00:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F575160876%2Fthumb%2F20241218114337" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F575160876%2Fthumb%2F20241218114337" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티: 시즌 2 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 02 Dec 2024 05:24:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:33]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1748997555%2Fthumb%2F20241202135008" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 계약으로 맺어진 부부, 서현진 & 공유의 서로를 향한 의심과 호기심 | 트렁크]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451310560?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451310560?act=clip</guid>
-            <pubDate>Sat, 30 Nov 2024 08:27:37 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1039127345%2Fthumb%2F20241130113652" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
