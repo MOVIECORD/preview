@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 09:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 10:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 시작하자마자 커플 매칭이요? 꽤나 맵네요 | 1화 클립 | 솔로지옥 시즌4]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452341969?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452341969?act=clip</guid>
+            <pubDate>Tue, 14 Jan 2025 10:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1204865341%2Fthumb%2F20250114185254" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 사카모토 데이즈 | 전설의 킬러 강림 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452309702?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451761126?act=clip</guid>
             <pubDate>Thu, 19 Dec 2024 09:25:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F631895013%2Fthumb%2F20241219180429" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F631895013%2Fthumb%2F20241219180429" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아비치: 내 이름은 팀 | 공식 클립 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 03 Dec 2024 01:53:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:13]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2057624693%2Fthumb%2F20241203103847" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 서현진을 위협하는 스토커 앞에 선 공유의 진짜 분노 | 트렁크]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451379415?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451379415?act=clip</guid>
-            <pubDate>Tue, 03 Dec 2024 03:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F433156390%2Fthumb%2F20241203103115" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
