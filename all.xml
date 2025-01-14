@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jan 2025 05:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2025 06:30:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<서바이브> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452336354?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452336354?act=clip</guid>
+            <pubDate>Tue, 14 Jan 2025 06:29:45 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv8x882foecxcbtwfaeodqa3d%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293741386%26signature%3DQh9EMRbpS6TeB3X4t95P%252BdcmOcc%253D%26ts%3D1736832586%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<미이라: 정절여왕의 저주> 예고편 (우리 영화 볼래?)]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452333262?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452249808?act=clip</guid>
             <pubDate>Fri, 10 Jan 2025 02:56:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7a80l5fk1tqx4krhlmq1wmy%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293384516%26signature%3DdgAVDdnQenvpW9m4NUcRztP5AMg%253D%26ts%3D1736475716%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7a80l5fk1tqx4krhlmq1wmy%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293384516%26signature%3DdgAVDdnQenvpW9m4NUcRztP5AMg%253D%26ts%3D1736475716%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<도어즈> [재개봉] 메인 예고편 (우리 영화 볼래?)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 06 Jan 2025 02:56:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:18]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvolm94ms36y5vo4f05s7mfvd%2Fthumbs%2F6.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293039957%26signature%3DWVQasuliLkqIqCanmfVYt%252BHA9Vs%253D%26ts%3D1736131157%26kamp_tidx%3D4" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 포켓몬스터 AG: 뮤와 파동의 용사 루카리오> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452160124?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452160124?act=clip</guid>
-            <pubDate>Mon, 06 Jan 2025 02:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2ovtr4jvzma3pw9gd0tmg21%2Fthumbs%2F5.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293039678%26signature%3DNdg94wmZDgNkd%252FZqiTVEqcGXVjU%253D%26ts%3D1736130878%26kamp_tidx%3D3" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 사카모토 데이즈 | 전설의 킬러 강림 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
