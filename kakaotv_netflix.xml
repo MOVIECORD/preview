@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 03:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 04:26:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 애플 사이다 비니거 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452355819?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452355819?act=clip</guid>
+            <pubDate>Wed, 15 Jan 2025 04:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1925180599%2Fthumb%2F20250115123804" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 세이렌의 바다 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452355714?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/451925815?act=clip</guid>
             <pubDate>Thu, 26 Dec 2024 02:51:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1097762191%2Fthumb%2F20241226110238" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1097762191%2Fthumb%2F20241226110238" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 코브라 카이: 시즌 6 | 파트 3 공개일 발표]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 10 Dec 2024 06:34:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:37]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F353267565%2Fthumb%2F20241210151251" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 아케인 | 프랜차이즈 예고편 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451446933?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451446933?act=clip</guid>
-            <pubDate>Fri, 06 Dec 2024 01:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1332745903%2Fthumb%2F20241206102319" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
