@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 09:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 푸른 상자: 시즌 1 파트 2 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452407002?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452407002?act=clip</guid>
+            <pubDate>Fri, 17 Jan 2025 09:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F694398646%2Fthumb%2F20250117180842" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 모든 것: 시즌 5 | 공개일 발표]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452397003?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452159100?act=clip</guid>
             <pubDate>Tue, 07 Jan 2025 01:45:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1894926105%2Fthumb%2F20250106105724" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1894926105%2Fthumb%2F20250106105724" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 솔로지옥 시즌 4 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 16 Dec 2024 09:27:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F626561795%2Fthumb%2F20241216180548" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 모바일 서바이벌 | 사전 등록 시작]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451675992?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451675992?act=clip</guid>
-            <pubDate>Mon, 16 Dec 2024 01:57:28 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F714959238%2Fthumb%2F20241216103145" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

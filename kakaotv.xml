@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 09:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하이큐!! 승자와 패자> [재개봉] 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452406608?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452406608?act=clip</guid>
+            <pubDate>Fri, 17 Jan 2025 09:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvty109yd1godqu6zfyeynug3%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294012564%26signature%3Dp6WV4ZCX42gAmNsPVuM9QEOjBIM%253D%26ts%3D1737103764%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<하이큐!! 끝과 시작> [재개봉] 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452405157?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452357170?act=clip</guid>
             <pubDate>Wed, 15 Jan 2025 05:21:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq5ykmrpptsnilbt81uyeebe%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293825201%26signature%3D3l612Vod5RI4e47nlvoePUwH2BY%253D%26ts%3D1736916401%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvq5ykmrpptsnilbt81uyeebe%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293825201%26signature%3D3l612Vod5RI4e47nlvoePUwH2BY%253D%26ts%3D1736916401%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<하얼빈> '우덕순과 김상현, 우정의 시작' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 13 Jan 2025 09:25:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrbtfajqnxys1us5jxyje8rv%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293644034%26signature%3DLAS5jaHhucpa2XJVkFuzCLX6wqc%253D%26ts%3D1736735234%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<극장판 쿠로코의 농구 라스트 게임> [재개봉] 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452254457?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452254457?act=clip</guid>
-            <pubDate>Fri, 10 Jan 2025 07:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvngn3neuklwep1ebgsvzfecm%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293400732%26signature%3DmoZJs1ijVDblxipZqLMf4cREnZ4%253D%26ts%3D1736491932%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
