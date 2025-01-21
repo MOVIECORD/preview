@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 05:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 06:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 엑스오, 키티 | 지난 줄거리]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452490438?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452490438?act=clip</guid>
+            <pubDate>Tue, 21 Jan 2025 06:32:22 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F89166002%2Fthumb%2F20250121144109" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 투닥투닥 😆 민설 & 준서의 천국도 엿보기 | 솔로지옥 시즌4]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452473673?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452233474?act=clip</guid>
             <pubDate>Thu, 09 Jan 2025 07:22:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1851967529%2Fthumb%2F20250109161630" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1851967529%2Fthumb%2F20250109161630" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아수라처럼 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Dec 2024 09:25:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2002246312%2Fthumb%2F20241219174339" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 오징어 게임: 모바일 서바이벌 | 공식 공개 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451730026?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451730026?act=clip</guid>
-            <pubDate>Wed, 18 Dec 2024 03:00:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F575160876%2Fthumb%2F20241218114337" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
