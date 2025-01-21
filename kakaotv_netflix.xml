@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jan 2025 08:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jan 2025 09:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 새로운 여자 참가자 '해린'의 등장 | 5화 클립 | 솔로지옥 시즌4]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452494571?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452494571?act=clip</guid>
+            <pubDate>Tue, 21 Jan 2025 09:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F739747704%2Fthumb%2F20250121175109" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티 | 지난 줄거리]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452490438?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452248984?act=clip</guid>
             <pubDate>Mon, 13 Jan 2025 01:50:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F954491571%2Fthumb%2F20250110104503" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F954491571%2Fthumb%2F20250110104503" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마이멜로디 & 쿠로미 | 퍼스트룩]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 19 Dec 2024 01:50:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1392294568%2Fthumb%2F20241219103107" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] “내일이 없는 것처럼 처박고 뛰고 끝내!” 현대 VS 포스코 | 최강럭비: 죽거나 승리하거나]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451732997?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451732997?act=clip</guid>
-            <pubDate>Thu, 19 Dec 2024 09:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2002246312%2Fthumb%2F20241219174339" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
