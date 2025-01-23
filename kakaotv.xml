@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 07:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 08:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<첫 번째 키스> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452538831?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452538831?act=clip</guid>
+            <pubDate>Thu, 23 Jan 2025 08:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvyk4t0eygl3qxmp1fr5qlbhq%2Fthumbs%2F4.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294526665%26signature%3DI0W%252B2lqxpJKUza5i0ZFOBEeu%252B9o%253D%26ts%3D1737617865%26kamp_tidx%3D2" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<하얼빈> '우리가 싸우는 이유' 영상]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452532069?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452506830?act=clip</guid>
             <pubDate>Wed, 22 Jan 2025 01:44:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:12]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz00b5u32clqeu7wr1827k0l%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294415993%26signature%3DgbFfwW9SlUjvPW%252BSjV%252FMLog85Ws%253D%26ts%3D1737507193%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvz00b5u32clqeu7wr1827k0l%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294415993%26signature%3DgbFfwW9SlUjvPW%252BSjV%252FMLog85Ws%253D%26ts%3D1737507193%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<벌집의 정령> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Jan 2025 01:42:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv2m6w5z400latps6h7umtou7%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293986640%26signature%3Dq%252FYH9z9QW44BG5seGc%252BTGVevp%252F4%253D%26ts%3D1737077840%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<엘리: 몬스터 패밀리> 뮤직 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452397008?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452397008?act=clip</guid>
-            <pubDate>Fri, 17 Jan 2025 01:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7pcv0yustl6hf51p5lh3pch%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293985592%26signature%3D7ABNnAYxLqb7d9pXTohPxUFiGdc%253D%26ts%3D1737076792%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
