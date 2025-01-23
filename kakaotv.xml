@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 01:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 02:49:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하얼빈> '우리가 싸우는 이유' 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452532069?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452532069?act=clip</guid>
+            <pubDate>Thu, 23 Jan 2025 02:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3p01cg765g495uidik5qdnn%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294507584%26signature%3DKHvGqp4DlOCk5bZZCL9HLmBJnYU%253D%26ts%3D1737598784%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<말할 수 없는 비밀> 매일 그대와 MV]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452530546?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452493072?act=clip</guid>
             <pubDate>Tue, 21 Jan 2025 08:27:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv92mciwz0px22zfhm0swhbyp%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294353805%26signature%3Dm%252B9hfWsqsU%252Bzyt3RD9vCWSjVhTc%253D%26ts%3D1737445005%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv92mciwz0px22zfhm0swhbyp%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294353805%26signature%3Dm%252B9hfWsqsU%252Bzyt3RD9vCWSjVhTc%253D%26ts%3D1737445005%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<호조> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 17 Jan 2025 01:42:43 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7pcv0yustl6hf51p5lh3pch%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293985592%26signature%3D7ABNnAYxLqb7d9pXTohPxUFiGdc%253D%26ts%3D1737076792%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<(여자)아이들 월드투어 [아이돌] 인 시네마> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452396943?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452396943?act=clip</guid>
-            <pubDate>Fri, 17 Jan 2025 01:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv6e61lzkaxp7efi35abroymj%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33293985391%26signature%3DVobG9zvm1dhkmRpFcOfEiJxDvZ8%253D%26ts%3D1737076591%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
