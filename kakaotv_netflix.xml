@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 07:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 08:28:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Thu, 23 Jan 2025 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1175553985%2Fthumb%2F20250122181156" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] “여기 네 구역 아니고 내 구역이라고.” 주지훈 & 추영우의 강렬한 첫만남 | 중증외상센터]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452492467?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452492467?act=clip</guid>
+            <pubDate>Fri, 24 Jan 2025 08:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:13]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1308624343%2Fthumb%2F20250123144955" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 엑스오, 키티 | 지난 줄거리]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452355819?act=clip</guid>
             <pubDate>Wed, 15 Jan 2025 04:26:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1925180599%2Fthumb%2F20250115123804" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1925180599%2Fthumb%2F20250115123804" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 위쳐: 세이렌의 바다 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 26 Dec 2024 02:51:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F548869795%2Fthumb%2F20241226110344" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이트 에이전트: 시즌 2 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/451925815?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/451925815?act=clip</guid>
-            <pubDate>Thu, 26 Dec 2024 02:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1097762191%2Fthumb%2F20241226110238" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
