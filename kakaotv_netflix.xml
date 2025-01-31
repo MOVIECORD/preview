@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,20 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F739747704%2Fthumb%2F20250121175109" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 중증외상팀 셔터 내리러 왔습니다. 주지훈의 팩폭 | 중증외상센터]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452492494?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452492494?act=clip</guid>
+            <pubDate>Fri, 31 Jan 2025 09:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F38356788%2Fthumb%2F20250129060345" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스]  저 사람 의...의사 맞는 거지? 추영우 업고 헬기에서 뛰어내리는 주지훈 | 중증외상센터]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452492484?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452492484?act=clip</guid>
             <pubDate>Thu, 23 Jan 2025 03:23:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1175553985%2Fthumb%2F20250122181156" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1175553985%2Fthumb%2F20250122181156" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 추영우 잡도리(?)하는 두 남자 | 중증외상센터]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 15 Jan 2025 02:48:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1319619591%2Fthumb%2F20250115105741" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 시작하자마자 커플 매칭이요? 꽤나 맵네요 | 1화 클립 | 솔로지옥 시즌4]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452341969?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452341969?act=clip</guid>
-            <pubDate>Tue, 14 Jan 2025 10:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1204865341%2Fthumb%2F20250114185254" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

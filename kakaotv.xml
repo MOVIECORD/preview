@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Jan 2025 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jan 2025 09:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<캡틴 아메리카: 브레이브 뉴 월드> 마블, 새로운 캡틴을 만나다]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452701318?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452701318?act=clip</guid>
+            <pubDate>Fri, 31 Jan 2025 09:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvpugocrm4i4qlqlq4e4r374l%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295221790%26signature%3D%252BX9nNxnEJOJ9NEFVPygiOm9HRBU%253D%26ts%3D1738312990%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<써니데이> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452700584?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452553837?act=clip</guid>
             <pubDate>Fri, 24 Jan 2025 01:42:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv51d4mvm0u3cv1srt3rp8bps%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294590341%26signature%3DK09JMDAtblCL%252BL2QOVzWUJ8vrsw%253D%26ts%3D1737681541%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv51d4mvm0u3cv1srt3rp8bps%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294590341%26signature%3DK09JMDAtblCL%252BL2QOVzWUJ8vrsw%253D%26ts%3D1737681541%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<미드나잇 인 파리> [재개봉] 하이라이트 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 22 Jan 2025 01:44:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:24]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvbixqrwfauvx5bhs4p7w1cm5%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294416469%26signature%3DiHdN%252F%252BT0NjkGA4W%252BS6%252FG%252BY8%252FAYc%253D%26ts%3D1737507669%26kamp_tidx%3D1" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<퇴마록> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452506842?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452506842?act=clip</guid>
-            <pubDate>Wed, 22 Jan 2025 01:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu28a7ymadg7vx23z8srdiy9%2Fthumbs%2F4.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294416037%26signature%3DNJGO%252BK7lHLo2G9eL2lWpR0bPQKQ%253D%26ts%3D1737507237%26kamp_tidx%3D2" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
