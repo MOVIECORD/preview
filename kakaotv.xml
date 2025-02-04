@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Feb 2025 01:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Feb 2025 02:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<퇴마록> 'BEASTMODE' MV]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452782093?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452782093?act=clip</guid>
+            <pubDate>Tue, 04 Feb 2025 02:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:32]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrlyc6qyixsa9mi5uknrtewb%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295542132%26signature%3Dtpyr6qDWL60t2LpUubluCAiq4sc%253D%26ts%3D1738633332%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<하이큐!! 재능과 센스> [재개봉] 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452781365?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452693216?act=clip</guid>
             <pubDate>Fri, 31 Jan 2025 02:48:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx4rzoca1iwpuhjbsy395trj%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295196622%26signature%3DwwSDBdPtTicQykEaZ96QiJFqX6c%253D%26ts%3D1738287822%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvx4rzoca1iwpuhjbsy395trj%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295196622%26signature%3DwwSDBdPtTicQykEaZ96QiJFqX6c%253D%26ts%3D1738287822%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<마당을 나온 암탉> [재개봉] 흥행X추천 '꿈의 기록' 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 23 Jan 2025 01:42:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:17]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfsnosfn8t19sgzyrm560eqq%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294503450%26signature%3DnSN8Qr0FZcyvc1%252FMX9oMi8ze5qc%253D%26ts%3D1737594650%26kamp_tidx%3D0&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<미키 17> [청불] 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452530388?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452530388?act=clip</guid>
-            <pubDate>Thu, 23 Jan 2025 01:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvtr8dubupmuipq84m1t02j11%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294503403%26signature%3DLBK4TNzDYPN5f0PFq8GwN6nmfBs%253D%26ts%3D1737594603%26kamp_tidx%3D1&mode=watermark&wm_id=kakaotv_14&wm_img_type1=R240x140" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
