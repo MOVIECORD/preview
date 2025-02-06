@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 05:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 06:32:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<화이트 버드> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/452832514?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/452832514?act=clip</guid>
+            <pubDate>Thu, 06 Feb 2025 06:32:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv66oesqu0qp375iirar1rtyl%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295730237%26signature%3DFTVtm8uKLbNIPZUqILn4ldCqlMY%253D%26ts%3D1738821437%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<캔터빌의 유령> 티저 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/452826914?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/452758272?act=clip</guid>
             <pubDate>Mon, 03 Feb 2025 01:43:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzt4pjr5jbee8zamjjjebbnl%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295455474%26signature%3DGUyTbhjza%252BBYGq0%252BJA2%252B0GQYcq8%253D%26ts%3D1738546674%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvzt4pjr5jbee8zamjjjebbnl%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33295455474%26signature%3DGUyTbhjza%252BBYGq0%252BJA2%252B0GQYcq8%253D%26ts%3D1738546674%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<브로큰> 리뷰 스팟]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 24 Jan 2025 05:22:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvxg0au6b4nid41x80al4lo3k%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294603895%26signature%3DyWU%252Fu4eyRXqq5ezCJv%252BWGM4sml8%253D%26ts%3D1737695095%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<명탐정 코난: 14번째 표적> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/452554907?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/452554907?act=clip</guid>
-            <pubDate>Fri, 24 Jan 2025 02:50:02 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvlblly4uhep8h6mn8iijjt1w%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33294592617%26signature%3D3xttEkJf7tMPKLtrc%252FKQt60P7I0%253D%26ts%3D1737683817%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
