@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 08:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 09:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스][선공개] 박보영을 계속 신경 쓰이게 만드는 이상한 남자, 최우식 | 멜로무비]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452990033?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452990033?act=clip</guid>
+            <pubDate>Thu, 13 Feb 2025 09:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:06]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F979531485%2Fthumb%2F20250213140755" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] 지옥도에서 재미있게 노는 법.mov | 솔로지옥 시즌4]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/452986016?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452767715?act=clip</guid>
             <pubDate>Tue, 04 Feb 2025 03:25:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1182258199%2Fthumb%2F20250203182011" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1182258199%2Fthumb%2F20250203182011" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 미친맛집: 미식가 친구의 맛집 | 공식 티저 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 27 Jan 2025 14:21:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F775371632%2Fthumb%2F20250124143441" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 나이트 에이전트 시즌2 l 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452540944?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452540944?act=clip</guid>
-            <pubDate>Thu, 23 Jan 2025 09:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F572089567%2Fthumb%2F20250123175815" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
