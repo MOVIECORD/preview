@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Feb 2025 23:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 01:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 그렇게 사건 현장이 되어 버렸다 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453145331?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453145331?act=clip</guid>
+            <pubDate>Thu, 20 Feb 2025 01:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1874103121%2Fthumb%2F20250220102935" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 금빛 코트의 대결 | 스테픈 커리, 케빈 듀렌트, 빅토르 웸바냐마 | 절찬 스트리밍 중]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453131527?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452898555?act=clip</guid>
             <pubDate>Sun, 09 Feb 2025 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1287166274%2Fthumb%2F20250209165814" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1287166274%2Fthumb%2F20250209165814" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 태오 & 시안, 솔직한 마음을 주고 받는 두 사람 | 10화 클립 | 솔로지옥 시즌4]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 31 Jan 2025 01:42:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1919232181%2Fthumb%2F20250131101656" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 그렇게 사건 현장이 되어 버렸다 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452692494?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452692494?act=clip</guid>
-            <pubDate>Fri, 31 Jan 2025 01:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F105481985%2Fthumb%2F20250131101536" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
