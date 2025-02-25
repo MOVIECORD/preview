@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Feb 2025 05:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Feb 2025 06:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv46t7enpsuwuo1vckw7de54k%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33296768763%26signature%3D954gcVsPHr1rI%252Ff0UfDcUpcVhME%253D%26ts%3D1739859963%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[넷플릭스] 소년의 시간 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453266616?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453266616?act=clip</guid>
+            <pubDate>Tue, 25 Feb 2025 06:32:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F197464635%2Fthumb%2F20250225144707" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[[넷플릭스] 제로 데이 | 절찬 스트리밍 중 (카카오TV ─ 넷플릭스)]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453178610?act=clip</link>
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453178610?act=clip</guid>
@@ -485,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452937877?act=clip</guid>
             <pubDate>Tue, 11 Feb 2025 01:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F500712204%2Fthumb%2F20250211102116" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F500712204%2Fthumb%2F20250211102116" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 추라이 추라이 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Mon, 03 Feb 2025 01:43:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:51]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1558744521%2Fthumb%2F20250203103420" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 꿀이 뚝뚝 떨어지는 천국도💕 | 솔로지옥 시즌4 (카카오TV ─ 넷플릭스)]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452758175?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452758175?act=clip</guid>
-            <pubDate>Mon, 03 Feb 2025 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F845387317%2Fthumb%2F20250203103307" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[신입사원 | 과거가 신경쓰이는 승현, 그런 승현을 이해하기 어려운 종찬 | 5화 예고편 | 왓챠 익스클루시브 (카카오TV ─ 왓챠)]]></title>
