@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Mar 2025 23:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 01:49:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 악연 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453343794?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453343794?act=clip</guid>
+            <pubDate>Tue, 04 Mar 2025 01:49:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F826097655%2Fthumb%2F20250228185054" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [3화 선공개] 매일 오후 5시 일일 예능, 미리보기👀]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453337836?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/452962630?act=clip</guid>
             <pubDate>Wed, 12 Feb 2025 10:24:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1534691336%2Fthumb%2F20250212120305" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1534691336%2Fthumb%2F20250212120305" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 마지막 밤에도 진실 게임은 계속됩니다 | 12화 클립 | 솔로지옥 시즌4]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 03 Feb 2025 02:49:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1077991792%2Fthumb%2F20250203104341" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 추라이 추라이 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452758355?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452758355?act=clip</guid>
-            <pubDate>Mon, 03 Feb 2025 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:24]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1628525079%2Fthumb%2F20250203104245" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
