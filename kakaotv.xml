@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 02:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 03:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<당골> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453469214?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453469214?act=clip</guid>
+            <pubDate>Thu, 06 Mar 2025 03:33:15 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw34i0jgcidkzos8m3c11z05%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298136732%26signature%3D6L4Dvzv06RG3HObvOXc1vR1BU%252F0%253D%26ts%3D1741227932%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<여성국극 끊어질듯 이어지고 사라질듯 영원하다> 30초 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453467609?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453315690?act=clip</guid>
             <pubDate>Thu, 27 Feb 2025 06:32:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv150turc5j5c0kgsiho35j4v%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297544659%26signature%3DBCb1jr8SAUOr%252BxOLEJQn9jnnurI%253D%26ts%3D1740635859%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv150turc5j5c0kgsiho35j4v%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297544659%26signature%3DBCb1jr8SAUOr%252BxOLEJQn9jnnurI%253D%26ts%3D1740635859%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<컴패니언> [청불] 1차 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 25 Feb 2025 01:47:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F53291523%2Fthumb%2F20250225101006" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<던전: 오룡관의 비밀> 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453260957?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453260957?act=clip</guid>
-            <pubDate>Tue, 25 Feb 2025 01:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv9cughzryio4vokwqg1rnl0c%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297354328%26signature%3D3uhgwSUaqgBIbiV8z4hDOREfNrQ%253D%26ts%3D1740445528%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
