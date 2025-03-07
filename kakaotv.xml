@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 03:35:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 04:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<하보우만의 약속> 티티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453494910?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453494910?act=clip</guid>
+            <pubDate>Fri, 07 Mar 2025 04:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvmz80enx6v7rblem71207c6o%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298230133%26signature%3DxIPNUvwRo8l8E6z9C6TNaOVUMlc%253D%26ts%3D1741321333%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<마이 스위트 크레이지 시스터> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453491944?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453421430?act=clip</guid>
             <pubDate>Tue, 04 Mar 2025 02:59:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5xdy6rmdkam1e1mwoi9seo%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297963665%26signature%3D8Ph2yKsWl59C%252BuLHaCR3uj0tDzQ%253D%26ts%3D1741054865%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvb5xdy6rmdkam1e1mwoi9seo%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297963665%26signature%3D8Ph2yKsWl59C%252BuLHaCR3uj0tDzQ%253D%26ts%3D1741054865%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<존 윅> [재개봉] 10th ANNIVERSARY 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 26 Feb 2025 01:46:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:56]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvgpwi16qg61p3ptca73uotb5%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297442695%26signature%3D3fce%252F3RaM0ofLfxn%252B1WZjJQUbRI%253D%26ts%3D1740533895%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<고독한 미식가 더 무비> 메인 1차 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453285424?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453285424?act=clip</guid>
-            <pubDate>Wed, 26 Feb 2025 01:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvhmbdwmom3qvgddttxseko1a%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297442575%26signature%3DHZOmlgP1Jw4NlreRrR7o54RlAbQ%253D%26ts%3D1740533775%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
