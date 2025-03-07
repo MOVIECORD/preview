@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 07:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 08:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 아이유 & 박보검, 유채꽃밭 속에서 펼쳐진 첫 입맞춤💛 | 폭싹 속았수다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453499422?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453499422?act=clip</guid>
+            <pubDate>Fri, 07 Mar 2025 08:29:31 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1142012903%2Fthumb%2F20250307171008" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 심장이 뛰는 | 공식 예고편]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453493495?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453108410?act=clip</guid>
             <pubDate>Tue, 18 Feb 2025 10:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518830244%2Fthumb%2F20250218184628" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518830244%2Fthumb%2F20250218184628" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 최우식이라 가능한 대환장 플러팅 모음 ※실전적용 비추천 | 멜로무비]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 09 Feb 2025 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1372671124%2Fthumb%2F20250209165712" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 각종 논란들 해명합니다💬 솔로지옥 출연자들의 댓글 읽기 | 솔로지옥 시즌4]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452837388?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452837388?act=clip</guid>
-            <pubDate>Thu, 06 Feb 2025 09:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1396339636%2Fthumb%2F20250206181907" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
