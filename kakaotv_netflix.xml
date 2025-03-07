@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 10:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 11:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 06 Mar 2025 12:46:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F748688084%2Fthumb%2F20250306205525" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[re4_YT_No, thank  you days, not back down]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453480719?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453480719?act=clip</guid>
-            <pubDate>Thu, 06 Mar 2025 12:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frveiw1jo6sqzdyrt31bia98jr%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298168957%26signature%3DysrYErFeUzA9AoypL%252FDTvoygSYM%253D%26ts%3D1741260157%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 계시록 | 공식 예고편]]></title>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453108410?act=clip</guid>
             <pubDate>Tue, 18 Feb 2025 10:24:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518830244%2Fthumb%2F20250218184628" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F518830244%2Fthumb%2F20250218184628" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 최우식이라 가능한 대환장 플러팅 모음 ※실전적용 비추천 | 멜로무비]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Sun, 09 Feb 2025 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1372671124%2Fthumb%2F20250209165712" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 각종 논란들 해명합니다💬 솔로지옥 출연자들의 댓글 읽기 | 솔로지옥 시즌4]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/452837388?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/452837388?act=clip</guid>
+            <pubDate>Fri, 07 Mar 2025 11:19:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1396339636%2Fthumb%2F20250206181907" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
