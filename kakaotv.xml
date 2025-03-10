@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 05:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 06:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<크래쉬> [재개봉] 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453562422?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453562422?act=clip</guid>
+            <pubDate>Mon, 10 Mar 2025 06:27:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3oggbtgd3ti2gl7pmaruhzw%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298494810%26signature%3DX2eYJG7P9Q5Qhlwik6EMQU83ASM%253D%26ts%3D1741586010%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<예언자> [재개봉] 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453560450?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453469214?act=clip</guid>
             <pubDate>Thu, 06 Mar 2025 03:33:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw34i0jgcidkzos8m3c11z05%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298136732%26signature%3D6L4Dvzv06RG3HObvOXc1vR1BU%252F0%253D%26ts%3D1741227932%26kamp_tidx%3D1" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw34i0jgcidkzos8m3c11z05%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298136732%26signature%3D6L4Dvzv06RG3HObvOXc1vR1BU%252F0%253D%26ts%3D1741227932%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<여성국극 끊어질듯 이어지고 사라질듯 영원하다> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 28 Feb 2025 01:49:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv7jl2teqmk4tm0487pcz025r%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297614121%26signature%3D1rL4oo7sm32P8r2Av4tC7W4PEAw%253D%26ts%3D1740705321%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<그 시절, 우리가 좋아했던 소녀> OST 뮤직비디오]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453315690?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453315690?act=clip</guid>
-            <pubDate>Thu, 27 Feb 2025 06:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv150turc5j5c0kgsiho35j4v%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297544659%26signature%3DBCb1jr8SAUOr%252BxOLEJQn9jnnurI%253D%26ts%3D1740635859%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
