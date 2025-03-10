@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Mar 2025 23:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 01:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 08 Mar 2025 15:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F589300994%2Fthumb%2F20250309001821" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 폭싹 속았수다 | 2막 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453500261?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453500261?act=clip</guid>
+            <pubDate>Mon, 10 Mar 2025 01:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1484503723%2Fthumb%2F20250307174137" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 아이유 & 박보검, 유채꽃밭 속에서 펼쳐진 첫 입맞춤💛 | 폭싹 속았수다]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453145331?act=clip</guid>
             <pubDate>Thu, 20 Feb 2025 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1874103121%2Fthumb%2F20250220102935" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1874103121%2Fthumb%2F20250220102935" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 금빛 코트의 대결 | 스테픈 커리, 케빈 듀렌트, 빅토르 웸바냐마 | 절찬 스트리밍 중]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sun, 09 Feb 2025 08:25:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2080604074%2Fthumb%2F20250209165950" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [미공개 클립] 알고 보면 귀여운 남자, 육준서?! | 솔로지옥 시즌4]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452898555?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452898555?act=clip</guid>
-            <pubDate>Sun, 09 Feb 2025 08:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1287166274%2Fthumb%2F20250209165814" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
