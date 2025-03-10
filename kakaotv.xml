@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Mar 2025 02:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Mar 2025 03:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<노보케인> 너드남의 첫사랑 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453558311?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453558311?act=clip</guid>
+            <pubDate>Mon, 10 Mar 2025 03:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv4u89x1f0od3qxebm6xvsb40%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298483324%26signature%3DtJZbN9mOCXOJgJM%252Fh%252B1E63i8izM%253D%26ts%3D1741574524%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<미키 17> Gift]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453556136?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453467511?act=clip</guid>
             <pubDate>Thu, 06 Mar 2025 01:49:28 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ivsw18f3hhl0cwythzgkm1%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298132638%26signature%3DDIsWlG2BQUzFNKLTbID5RIhlCjg%253D%26ts%3D1741223838%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv0ivsw18f3hhl0cwythzgkm1%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298132638%26signature%3DDIsWlG2BQUzFNKLTbID5RIhlCjg%253D%26ts%3D1741223838%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<블랙 백> '아내의 모든 것' 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 27 Feb 2025 02:56:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvdgiw77rcv6junyzljjt8td1%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297533265%26signature%3DC7FhVkADalbRTkK%252FFD8QY8K4s9Y%253D%26ts%3D1740624465%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<화이트 버드> 30초 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453312284?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453312284?act=clip</guid>
-            <pubDate>Thu, 27 Feb 2025 02:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv29te83v6xty1mrgblb91qgs%2Fthumbs%2F3.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33297533140%26signature%3DT0CVM0QY%252B1Gtd0qat8Fjsk5cJOU%253D%26ts%3D1740624340%26kamp_tidx%3D1" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
