@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 23:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Mar 2025 01:49:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 대환장 기안장 | 공식 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453603837?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453603837?act=clip</guid>
+            <pubDate>Wed, 12 Mar 2025 01:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1797357918%2Fthumb%2F20250312083958" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 아이유 & 박보검 눈물의 이별, 유채꽃밭에 묻어버린 열여덟의 사랑 | 폭싹 속았수다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453591731?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453178523?act=clip</guid>
             <pubDate>Fri, 21 Feb 2025 08:31:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F713305196%2Fthumb%2F20250221165633" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F713305196%2Fthumb%2F20250221165633" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 계시록 | 공식 런칭 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 11 Feb 2025 01:44:01 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:59]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1374699634%2Fthumb%2F20250211102012" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 동미새: 동호회에 미친 새내기 | 공식 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452937834?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452937834?act=clip</guid>
-            <pubDate>Tue, 11 Feb 2025 01:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:05]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1314099151%2Fthumb%2F20250211101908" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
