@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 03:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 04:27:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<화이트 버드> 다정한 추천 영상]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453658063?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453658063?act=clip</guid>
+            <pubDate>Fri, 14 Mar 2025 04:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv30nssawo54j06452ysqdr2h%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298834275%26signature%3DibkZ%252FuRXeVfcLKPf8PATzzY0MOs%253D%26ts%3D1741925475%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<스나이퍼 : 원 맨 아미> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453655054?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453608195?act=clip</guid>
             <pubDate>Wed, 12 Mar 2025 02:58:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuq5ohhptbxojj3dlw67boms%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298656080%26signature%3Dw4eFN23PsgIJfyowtnUh22fzq%252Fw%253D%26ts%3D1741747280%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvuq5ohhptbxojj3dlw67boms%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298656080%26signature%3Dw4eFN23PsgIJfyowtnUh22fzq%252Fw%253D%26ts%3D1741747280%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<화성특급> 30초 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 10 Mar 2025 09:21:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvc013elbzaiw0va0n0nqpl60%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298501818%26signature%3Dk1ieBTQfE7kc5GEUFaR45al9Gr4%253D%26ts%3D1741593018%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<플로우> 메인 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453565355?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453565355?act=clip</guid>
-            <pubDate>Mon, 10 Mar 2025 09:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwqkfulqm5ca5u9ehvxksvye%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33298501815%26signature%3D%252B5eAHYvU2nkShGZjLcs%252BPfmEe8g%253D%26ts%3D1741593015%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
