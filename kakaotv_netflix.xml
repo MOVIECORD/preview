@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Mar 2025 23:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Mar 2025 01:53:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 폭싹 속았수다 | 3막 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453722863?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453722863?act=clip</guid>
+            <pubDate>Mon, 17 Mar 2025 01:53:44 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1154286849%2Fthumb%2F20250317104532" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 축⭐️양금명 서울대 입학⭐️, 마냥 좋은 애순과 속이 쓰린 관식🤣 | 폭싹 속았수다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453681005?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453432527?act=clip</guid>
             <pubDate>Tue, 04 Mar 2025 11:19:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:53]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F902209174%2Fthumb%2F20250304200114" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F902209174%2Fthumb%2F20250304200114" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] F1, 본능의 질주 - 시즌 7 | 공식 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 14 Feb 2025 08:28:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2053665738%2Fthumb%2F20250214162648" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스][선공개] 박보영을 계속 신경 쓰이게 만드는 이상한 남자, 최우식 | 멜로무비]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/452990033?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/452990033?act=clip</guid>
-            <pubDate>Thu, 13 Feb 2025 09:24:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F979531485%2Fthumb%2F20250213140755" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
