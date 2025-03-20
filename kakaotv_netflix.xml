@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 06:33:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 07:22:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 알폰소 쿠아론이 말하는 《계시록》]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453804964?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453804964?act=clip</guid>
+            <pubDate>Thu, 20 Mar 2025 07:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1926400020%2Fthumb%2F20250320155701" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [2막 비하인드] 카메라 밖에서도 가족같은 금명이네🧡 비하인드도 달아요🍊 | 폭싹 속았수다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453787121?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453527640?act=clip</guid>
             <pubDate>Sat, 08 Mar 2025 15:18:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F589300994%2Fthumb%2F20250309001821" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F589300994%2Fthumb%2F20250309001821" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 폭싹 속았수다 | 2막 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Feb 2025 01:45:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:27]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1874103121%2Fthumb%2F20250220102935" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 금빛 코트의 대결 | 스테픈 커리, 케빈 듀렌트, 빅토르 웸바냐마 | 절찬 스트리밍 중]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453131527?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453131527?act=clip</guid>
-            <pubDate>Wed, 19 Feb 2025 10:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F753111966%2Fthumb%2F20250219183920" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
