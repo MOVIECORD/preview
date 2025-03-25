@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Mar 2025 01:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 03:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Mon, 24 Mar 2025 03:06:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:21]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1613416967%2Fthumb%2F20250324113136" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<거룩한 밤: 데몬 헌터스> 메인 예고편 (우리 영화 볼래?)]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453895204?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453895204?act=clip</guid>
-            <pubDate>Mon, 24 Mar 2025 03:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvanr5dvpzbhvhpiaxbojwn07%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299691674%26signature%3DKQIawvEn4GlMJ6Oe0cVmJNZuD1A%253D%26ts%3D1742782874%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<김동하 : 커넥트> 예고편 (우리 영화 볼래?)]]></title>
@@ -173,7 +165,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453824104?act=clip</guid>
             <pubDate>Fri, 21 Mar 2025 03:01:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjz12dv1iink8lm6epkht95o%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299430441%26signature%3DWd5EyqFEOVYntiglPtVtJymR9vk%253D%26ts%3D1742521641%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjz12dv1iink8lm6epkht95o%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299430441%26signature%3DWd5EyqFEOVYntiglPtVtJymR9vk%253D%26ts%3D1742521641%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<초혼, 다시 부르는 노래> 특별 상영회 영상 (우리 영화 볼래?)]]></title>
@@ -326,6 +318,14 @@
             <pubDate>Tue, 18 Mar 2025 04:27:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrpff6ixngpkryvc4989v0me%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299180465%26signature%3DCr9xSCCr2uFfdRZy%252BnIguwhZZ20%253D%26ts%3D1742271665%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[<방콕 전쟁> 메인 예고편 (우리 영화 볼래?)]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453749347?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453749347?act=clip</guid>
+            <pubDate>Tue, 25 Mar 2025 03:02:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvrbv6jsox39oko42f7m3fqhb%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299172954%26signature%3DhKSkxu%252Fv8GfK9HobUsgB79tmdz4%253D%26ts%3D1742264154%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 대환장 기안장 | 공식 예고편 (카카오TV ─ 넷플릭스)]]></title>
