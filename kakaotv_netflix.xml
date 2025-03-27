@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 05:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 06:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [3막 비하인드] 오늘도 촬영장 분위기 달아요, 사랑이 빵빵 터졌쪄🍊 | 폭싹 속았수다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453971684?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453971684?act=clip</guid>
+            <pubDate>Thu, 27 Mar 2025 06:33:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F279528861%2Fthumb%2F20250327145522" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 금명이 무너지지지 않도록, 다시 밥을 짓고 온기를 지펴주는 애순과 관식 | 폭싹 속았수다]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453922897?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453762619?act=clip</guid>
             <pubDate>Wed, 19 Mar 2025 01:51:21 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:34]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1992737721%2Fthumb%2F20250318203017" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1992737721%2Fthumb%2F20250318203017" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 그저 금명이가 보고 싶었던 관식, 20년간 아빠의 짝사랑은 진행 중 | 폭싹 속았수다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 07 Mar 2025 03:35:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F123550629%2Fthumb%2F20250307120527" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] ‘노 땡큐’한 시절, ‘노 빠꾸’ 아이유 & 박보검의 야반도주 | 폭싹 속았수다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453481412?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453481412?act=clip</guid>
-            <pubDate>Thu, 06 Mar 2025 12:46:56 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F748688084%2Fthumb%2F20250306205525" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>

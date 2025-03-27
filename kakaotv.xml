@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Mar 2025 05:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Mar 2025 06:33:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<류이치 사카모토: 플레잉 디 오케스트라 2014> 메인 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/453971654?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/453971654?act=clip</guid>
+            <pubDate>Thu, 27 Mar 2025 06:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvozgvo4xrdl85bqbyw2ba2fs%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299963634%26signature%3D6MKH1jUZNrs2iMBkBeA1TGAXg4Y%253D%26ts%3D1743054834%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<열혈검사> 메인 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/453965909?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453899445?act=clip</guid>
             <pubDate>Mon, 24 Mar 2025 06:34:13 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztyx1hoq1k9fnobr23h654c%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299705006%26signature%3DQanN%252BFYS2p0K7uVLcMPY3k2gOrE%253D%26ts%3D1742796206%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztyx1hoq1k9fnobr23h654c%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299705006%26signature%3DQanN%252BFYS2p0K7uVLcMPY3k2gOrE%253D%26ts%3D1742796206%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<자전거 탄 소년> [재개봉] 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 20 Mar 2025 06:33:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvu93sev2chp572opwz6v21ae%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299360458%26signature%3DFvfMWuVHhOkdwIFBXt3L8vkG408%253D%26ts%3D1742451658%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아마추어> '복수의 설계' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453800270?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453800270?act=clip</guid>
-            <pubDate>Thu, 20 Mar 2025 03:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvfmyku1m7v68xdpw1hdx2bq6%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299349721%26signature%3DTCIQGbyxHtvosNlltulybCaER64%253D%26ts%3D1742440921%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
