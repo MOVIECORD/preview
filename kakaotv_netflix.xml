@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 07:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 08:31:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 둘째라는 이유로 늘 나중이었던 아이, 은명이의 고백 | 폭싹 속았수다]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/453999391?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/453999391?act=clip</guid>
+            <pubDate>Fri, 28 Mar 2025 08:31:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F96802825%2Fthumb%2F20250328162705" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [7화 선공개] 매일 오후 5시 일일 예능, 미리보기👀]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/453997483?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453804963?act=clip</guid>
             <pubDate>Fri, 21 Mar 2025 03:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2004321389%2Fthumb%2F20250320155725" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2004321389%2Fthumb%2F20250320155725" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] [2막 비하인드] 카메라 밖에서도 가족같은 금명이네🧡 비하인드도 달아요🍊 | 폭싹 속았수다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 08 Mar 2025 16:22:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:14]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1781768029%2Fthumb%2F20250309002617" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 세상에서 가장 단순한 이유, “엄마니까, 딸이니까.” | 폭싹 속았수다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453527640?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453527640?act=clip</guid>
-            <pubDate>Sat, 08 Mar 2025 15:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F589300994%2Fthumb%2F20250309001821" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
