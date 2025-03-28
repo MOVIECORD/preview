@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Mar 2025 08:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 09:27:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<시크릿쥬쥬 마법의 하모니> 티저 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/454001466?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/454001466?act=clip</guid>
+            <pubDate>Fri, 28 Mar 2025 09:27:02 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvvz0r93ea7e75skrqbf9o3wd%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33300059772%26signature%3DNUPACrY8W0pwPSMfL2PElhVBEjA%253D%26ts%3D1743150972%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<카파도키아> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/454000949?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/453975333?act=clip</guid>
             <pubDate>Thu, 27 Mar 2025 08:30:47 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwbczbu6wgs8h70x22bps0ed%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299972394%26signature%3DwVXdb6%252BkifQvlyizLtZVdp6Lmcc%253D%26ts%3D1743063594%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvwbczbu6wgs8h70x22bps0ed%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299972394%26signature%3DwVXdb6%252BkifQvlyizLtZVdp6Lmcc%253D%26ts%3D1743063594%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<류이치 사카모토: 플레잉 디 오케스트라 2014> 메인 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 24 Mar 2025 08:31:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frv3ch70vtuvnc1d2kld5zkdbv%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299713561%26signature%3DYsbt6oV2XSQ361rMjutp7qf0a4g%253D%26ts%3D1742804761%26kamp_tidx%3D0" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<아마추어> '아마추어의 탄생' 영상]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453899445?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453899445?act=clip</guid>
-            <pubDate>Mon, 24 Mar 2025 06:34:13 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvztyx1hoq1k9fnobr23h654c%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33299705006%26signature%3DQanN%252BFYS2p0K7uVLcMPY3k2gOrE%253D%26ts%3D1742796206%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
