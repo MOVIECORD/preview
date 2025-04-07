@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 01:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 03:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] [선공개] 기안장의 직원들을 소개합니다 | 대환장 기안장]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/454225222?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/454225222?act=clip</guid>
+            <pubDate>Mon, 07 Apr 2025 03:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1449453861%2Fthumb%2F20250407120343" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [미공개 클립] “인스타는 자주 안 해?”, 가벼운 질문 속 간절한 마음 | 약한영웅 Class]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/454139994?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453870938?act=clip</guid>
             <pubDate>Sun, 23 Mar 2025 04:27:00 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:13]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F570402785%2Fthumb%2F20250323124005" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F570402785%2Fthumb%2F20250323124005" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 히카루가 죽은 여름 | 공식 예고편 1]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 15 Mar 2025 04:26:48 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1134739143%2Fthumb%2F20250315130832" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종말의 발키리 시즌 3 | 공식 티저 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453669884?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453669884?act=clip</guid>
-            <pubDate>Fri, 14 Mar 2025 12:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F404689888%2Fthumb%2F20250314213412" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
