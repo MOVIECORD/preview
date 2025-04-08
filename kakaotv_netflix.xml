@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 10:27:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 11:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스] 해벅 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/454261236?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/454261236?act=clip</guid>
+            <pubDate>Tue, 08 Apr 2025 11:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:00]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2036913322%2Fthumb%2F20250408195714" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스]“2시간 뒤에 손님 온대요” 기안84&진&지예은의 바쁘다 바빠 손님맞이 준비 | 대환장 기안장]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/454253762?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453892243?act=clip</guid>
             <pubDate>Mon, 24 Mar 2025 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:43]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F292814442%2Fthumb%2F20250324085447" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F292814442%2Fthumb%2F20250324085447" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 금명의 상견례 자리, 매 순간 부서지는 애순의 마음 | 폭싹 속았수다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Tue, 18 Mar 2025 03:02:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:34]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1295490101%2Fthumb%2F20250318113806" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 폭싹 속았수다 | 3막 예고편]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453722863?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453722863?act=clip</guid>
-            <pubDate>Mon, 17 Mar 2025 01:53:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1154286849%2Fthumb%2F20250317104532" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
