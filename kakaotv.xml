@@ -4,9 +4,17 @@
         <title>우리 영화 볼래?</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 04:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 05:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<아도 스페셜 라이브 “신조우” 인 시네마> 30초 예고편]]></title>
+            <link>https://tv.kakao.com/channel/462787/cliplink/454252816?act=clip</link>
+            <guid>https://tv.kakao.com/channel/462787/cliplink/454252816?act=clip</guid>
+            <pubDate>Tue, 08 Apr 2025 05:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:30]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvw0ct52p79buu3ta0z92srmp%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33300996425%26signature%3DEJW7tsCW%252B8gd%252F84VIfAlSdYVN0U%253D%26ts%3D1744087625%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[<오 마이 갓> 예고편]]></title>
             <link>https://tv.kakao.com/channel/462787/cliplink/454249679?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/462787/cliplink/454112514?act=clip</guid>
             <pubDate>Wed, 02 Apr 2025 04:28:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:25]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjzb93idnlb1g1iufpxq8jim%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33300476684%26signature%3Dl3EcvTabBWeh6lKyNiL11xwBXCs%253D%26ts%3D1743567884%26kamp_tidx%3D0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fthumb.kakaocdn.net%2Fdna%2Fkamp%2Fsource%2Frvjzb93idnlb1g1iufpxq8jim%2Fthumbs%2F2.jpg%3Fcredential%3DTuMuFGKUIcirOSjFzOpncbomGFEIdZWK%26expires%3D33300476684%26signature%3Dl3EcvTabBWeh6lKyNiL11xwBXCs%253D%26ts%3D1743567884%26kamp_tidx%3D0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<승부> 조훈현 국수 인터뷰 영상]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 28 Mar 2025 07:23:22 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1930926922%2Fthumb%2F20250328154818" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[<라스트 마일> 세계관 예고편]]></title>
-            <link>https://tv.kakao.com/channel/462787/cliplink/453998477?act=clip</link>
-            <guid>https://tv.kakao.com/channel/462787/cliplink/453998477?act=clip</guid>
-            <pubDate>Fri, 28 Mar 2025 07:23:22 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F100739618%2Fthumb%2F20250328154624" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
