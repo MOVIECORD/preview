@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Apr 2025 06:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 07:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스]“2시간 뒤에 손님 온대요” 기안84&진&지예은의 바쁘다 바빠 손님맞이 준비 | 대환장 기안장]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/454253762?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/454253762?act=clip</guid>
+            <pubDate>Tue, 08 Apr 2025 07:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:15]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F907733055%2Fthumb%2F20250408142915" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] [선공개] 기안장의 직원들을 소개합니다 | 대환장 기안장]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/454225222?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453892210?act=clip</guid>
             <pubDate>Mon, 24 Mar 2025 01:55:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F980963071%2Fthumb%2F20250324085125" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F980963071%2Fthumb%2F20250324085125" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 하숙집 옷장에서 튀어나온 낯선 남자와의 황당한 첫 만남 | 폭싹 속았수다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Mon, 17 Mar 2025 01:53:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1154286849%2Fthumb%2F20250317104532" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 축⭐️양금명 서울대 입학⭐️, 마냥 좋은 애순과 속이 쓰린 관식🤣 | 폭싹 속았수다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453681005?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453681005?act=clip</guid>
-            <pubDate>Sat, 15 Mar 2025 04:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1134739143%2Fthumb%2F20250315130832" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
