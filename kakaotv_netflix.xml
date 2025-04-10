@@ -4,9 +4,17 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 03:04:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Apr 2025 04:29:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[넷플릭스][2주차 예고] 바다로 직행하는 수영장 설치 완료🌊 제대로 물오른 기안장의 낭만| 대환장 기안장]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/454300155?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/454300155?act=clip</guid>
+            <pubDate>Thu, 10 Apr 2025 04:29:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:17]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1777104656%2Fthumb%2F20250410115741" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 갈수록 집에 들어가기가 싫어지는 집이 있다? 고민에 빠진 기안장 패밀리 | 대환장 기안장]]></title>
             <link>https://tv.kakao.com/channel/3220576/cliplink/454280456?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/453997483?act=clip</guid>
             <pubDate>Fri, 28 Mar 2025 06:33:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F58063522%2Fthumb%2F20250328150219" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F58063522%2Fthumb%2F20250328150219" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 너의 모든 것 | 시리즈 예고편]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 21 Mar 2025 03:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:48]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F2004321389%2Fthumb%2F20250320155725" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [2막 비하인드] 카메라 밖에서도 가족같은 금명이네🧡 비하인드도 달아요🍊 | 폭싹 속았수다]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453787121?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453787121?act=clip</guid>
-            <pubDate>Wed, 19 Mar 2025 11:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1399295807%2Fthumb%2F20250319201806" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
