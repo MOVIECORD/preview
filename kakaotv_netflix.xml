@@ -4,7 +4,7 @@
         <title>카카오TV ─ 넷플릭스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Apr 2025 23:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 01:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 10 Apr 2025 06:34:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1965634629%2Fthumb%2F20250410145648" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 약한영웅 Class 2 | 공식 예고편]]></title>
+            <link>https://tv.kakao.com/channel/3220576/cliplink/454302380?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3220576/cliplink/454302380?act=clip</guid>
+            <pubDate>Fri, 11 Apr 2025 01:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:36]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F84680786%2Fthumb%2F20250410140713" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스][2주차 예고] 바다로 직행하는 수영장 설치 완료🌊 제대로 물오른 기안장의 낭만| 대환장 기안장]]></title>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3220576/cliplink/454031063?act=clip</guid>
             <pubDate>Sat, 29 Mar 2025 15:23:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F308228685%2Fthumb%2F20250329234327" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F308228685%2Fthumb%2F20250329234327" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 둘째라는 이유로 늘 나중이었던 아이, 은명이의 고백 | 폭싹 속았수다]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 21 Mar 2025 07:22:44 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:22]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F564275395%2Fthumb%2F20250321115124" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 알폰소 쿠아론이 말하는 《계시록》]]></title>
-            <link>https://tv.kakao.com/channel/3220576/cliplink/453804964?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3220576/cliplink/453804964?act=clip</guid>
-            <pubDate>Thu, 20 Mar 2025 07:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2FKAKAOACCOUNT%2F1926400020%2Fthumb%2F20250320155701" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
